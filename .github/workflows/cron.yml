@@ -16,12 +16,13 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.11"
       
       - name: Install Deps
-        run: Run script
+        run: pip install -r backend/requirements.txt
+      
+      - name: Run Script
         working-directory: backend
-
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
