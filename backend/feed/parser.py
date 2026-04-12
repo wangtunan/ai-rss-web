@@ -23,7 +23,7 @@ def _parse_one_feed(feed_item: dict, max_entries: int = 10):
     
     return result
 
-def parse_feeds(feed_sources: list[dict]):
+def parse_feeds(feed_sources: list[dict], max_entries: int = 10):
     """
     批量解析多个 feed 源
     """
@@ -31,7 +31,7 @@ def parse_feeds(feed_sources: list[dict]):
     workers = max(len(feed_sources), 10)
 
     with ThreadPoolExecutor(max_workers=workers) as executor:
-        futures = [executor.submit(_parse_one_feed, item, 10) for item in feed_sources]
+        futures = [executor.submit(_parse_one_feed, item, max_entries) for item in feed_sources]
 
         for f in as_completed(futures):
             try:

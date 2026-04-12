@@ -7,10 +7,18 @@ sources:
     url: https://hnrss.org/best
     category: hacker_news
   
+  - name: Google AI
+    url: https://blog.google/technology/ai/rss/
+    category: google_ai
+  
   - name: Hugging Face
-    url: https://rsshub.rssforever.com/huggingface/blog
+    url: https://huggingface.co/blog/feed.xml
     category: hugging_face
 
   - name: V2EX
     url: https://rsshub.rssforever.com/v2ex/topics/hot
     category: v2ex
+  
+  - name: Github
+    url: https://github.blog/feed/
+    category: github

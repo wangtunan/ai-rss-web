@@ -3,3 +3,4 @@ python-dotenv
 feedparser
 openai
 pyyaml
+tzdata

@@ -46,7 +46,7 @@ def main():
     print("Generating JSON data...")
     sources = get_feed_sources()
     print("Parsing feeds...")
-    entries = parse_feeds(sources)
+    entries = parse_feeds(sources, max_entries=20)
     print("Summarizing entries...")
     summarized_entries = summary_entries(entries)
     print("Generating JSON data...")
