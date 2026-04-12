@@ -1,10 +1,18 @@
 import json
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from tools.tools import get_feed_sources
 from feed.parser import parse_feeds
 from llm.summary import summary_entries
+
+
+def _now_cn() -> datetime:
+    """
+    统一使用北京时间，避免在 GitHub Actions(UTC) 下时间错位
+    """
+    return datetime.now(ZoneInfo("Asia/Shanghai"))
 
 
 def generate_json(entries: list[dict]):
@@ -12,7 +20,7 @@ def generate_json(entries: list[dict]):
      生成 JSON 数据
     """
     data = {
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": _now_cn().strftime("%Y-%m-%d %H:%M:%S"),
         "items": entries
     }
     with open("../frontend/public/data.json", "w", encoding="utf-8") as f:
@@ -22,7 +30,7 @@ def save_raw_entries(entries: list[dict]):
     """
     保存原始数据
     """
-    now = datetime.now()
+    now = _now_cn()
     date_dir = Path("data") / now.strftime("%Y-%m-%d")
     date_dir.mkdir(parents=True, exist_ok=True)
     file_path = date_dir / f"raw_{now.strftime('%H%M%S')}.json"
