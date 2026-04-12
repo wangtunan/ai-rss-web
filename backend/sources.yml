@@ -1,0 +1,16 @@
+sources:
+  - name: OpenAI
+    url: https://www.openai.com/blog/rss.xml
+    category: openai
+
+  - name: Hacker News
+    url: https://hnrss.org/best
+    category: hacker_news
+  
+  - name: Hugging Face
+    url: https://rsshub.rssforever.com/huggingface/blog
+    category: hugging_face
+
+  - name: V2EX
+    url: https://rsshub.rssforever.com/v2ex/topics/hot
+    category: v2ex
