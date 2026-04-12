@@ -2,13 +2,13 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天北京时间早上 8 点运行
+    - cron: '0 0 * * *' # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
 
 jobs:
   run-python:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -17,11 +17,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      
-      - name: Install Deps
+
+      - name: Install deps
         run: pip install -r backend/requirements.txt
-      
-      - name: Run Script
+
+      - name: Run script
         working-directory: backend
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
