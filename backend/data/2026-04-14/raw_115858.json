@@ -1,0 +1,546 @@
+{
+  "generated_at": "2026-04-14 11:58:58",
+  "count": 90,
+  "items": [
+    {
+      "category": "github",
+      "title": "GitHub for Beginners: Getting started with GitHub Pages",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+      "raw_content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+      "raw_content": "<p>GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/\">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "GitHub availability report: March 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+      "raw_content": "<p>In March, we experienced four incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-march-2026/\">GitHub availability report: March 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "GitHub Universe is back: We want you to take the stage",
+      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
+      "raw_content": "<p>Get inspired by five of the most memorable, magical, and quirky Universe sessions to date.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/\">GitHub Universe is back: We want you to take the stage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "GitHub Copilot CLI combines model families for a second opinion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+      "raw_content": "<p>Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/\">GitHub Copilot CLI combines model families for a second opinion</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "The uphill climb of making diff lines performant",
+      "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+      "raw_content": "<p>The path to better performance is often found in simplicity.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/\">The uphill climb of making diff lines performant</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "Securing the open source supply chain across GitHub",
+      "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "raw_content": "<p>Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/\">Securing the open source supply chain across GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "raw_content": "<p>/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/\">Run multiple agents at once with /fleet in Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "Agent-driven development in Copilot Applied Science",
+      "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "raw_content": "<p>I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/\">Agent-driven development in Copilot Applied Science</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "github",
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "raw_content": "<p>Learn how to secure your projects and keep them safe with GitHub Advanced Security.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/\">GitHub for Beginners: Getting started with GitHub security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+    },
+    {
+      "category": "hugging_face",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "link": "https://huggingface.co/blog/waypoint-1-5",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "link": "https://huggingface.co/blog/gemma4",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "link": "https://huggingface.co/blog/Hcompany/holo3",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Falcon Perception",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "link": "https://huggingface.co/blog/introducing-gradio-server",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Training mRNA Language Models Across 25 Species for $165",
+      "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "link": "https://huggingface.co/blog/trl-v1",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Liberate your OpenClaw",
+      "link": "https://huggingface.co/blog/liberate-your-openclaw",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "link": "https://huggingface.co/blog/storage-buckets",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "link": "https://huggingface.co/blog/ulysses-sp",
+      "raw_content": ""
+    },
+    {
+      "category": "hugging_face",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "link": "https://huggingface.co/blog/lerobot-release-v050",
+      "raw_content": ""
+    },
+    {
+      "category": "google_ai",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "raw_content": "Gemini API Dials"
+    },
+    {
+      "category": "google_ai",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "raw_content": "Google Vids logo surrounded by various video editing UI"
+    },
+    {
+      "category": "google_ai",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests."
+    },
+    {
+      "category": "google_ai",
+      "title": "The latest AI news we announced in March 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "raw_content": "March 2026 AI Recap showing new updates"
+    },
+    {
+      "category": "google_ai",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "raw_content": "Build with Veo 3.1 Lite"
+    },
+    {
+      "category": "google_ai",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika."
+    },
+    {
+      "category": "google_ai",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…"
+    },
+    {
+      "category": "google_ai",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "raw_content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon"
+    },
+    {
+      "category": "google_ai",
+      "title": "Search Live is expanding globally",
+      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "raw_content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest."
+    },
+    {
+      "category": "google_ai",
+      "title": "Build with Lyria 3, our newest music generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "raw_content": "Google Lyria teaser"
+    },
+    {
+      "category": "google_ai",
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "raw_content": "Sizzle video showing new capabilities from Lyria 3 Pro"
+    },
+    {
+      "category": "google_ai",
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "raw_content": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it"
+    },
+    {
+      "category": "google_ai",
+      "title": "Our latest investment in open source security for the AI era",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "raw_content": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera"
+    },
+    {
+      "category": "google_ai",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "raw_content": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
+    },
+    {
+      "category": "google_ai",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …"
+    },
+    {
+      "category": "google_ai",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "raw_content": "Photos of animals being identified by the SpeciesNet AI model"
+    },
+    {
+      "category": "google_ai",
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "raw_content": "Mobile phone with a search bar that says \"Ask anything\""
+    },
+    {
+      "category": "google_ai",
+      "title": "The latest AI news we announced in February",
+      "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "raw_content": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\""
+    },
+    {
+      "category": "google_ai",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools."
+    },
+    {
+      "category": "google_ai",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "raw_content": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own"
+    },
+    {
+      "category": "hacker_news",
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "raw_content": "<p>Article URL: <a href=\"https://github.github.com/gh-stack/\">https://github.github.com/gh-stack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47757495\">https://news.ycombinator.com/item?id=47757495</a></p>\n<p>Points: 466</p>\n<p># Comments: 260</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "raw_content": "<p>Article URL: <a href=\"https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\">https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47755629\">https://news.ycombinator.com/item?id=47755629</a></p>\n<p>Points: 733</p>\n<p># Comments: 206</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "link": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+      "raw_content": "<p>Article URL: <a href=\"https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety\">https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47754379\">https://news.ycombinator.com/item?id=47754379</a></p>\n<p>Points: 282</p>\n<p># Comments: 156</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Building a CLI for all of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cf-cli-local-explorer/\">https://blog.cloudflare.com/cf-cli-local-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753689\">https://news.ycombinator.com/item?id=47753689</a></p>\n<p>Points: 265</p>\n<p># Comments: 84</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/sterlingcrispin/nothing-ever-happens\">https://github.com/sterlingcrispin/nothing-ever-happens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753472\">https://news.ycombinator.com/item?id=47753472</a></p>\n<p>Points: 365</p>\n<p># Comments: 184</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "This year’s insane timeline of hacks",
+      "link": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+      "raw_content": "<p>Article URL: <a href=\"https://ringmast4r.substack.com/p/we-may-be-living-through-the-most\">https://ringmast4r.substack.com/p/we-may-be-living-through-the-most</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47752884\">https://news.ycombinator.com/item?id=47752884</a></p>\n<p>Points: 285</p>\n<p># Comments: 170</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Make tmux pretty and usable (2024)",
+      "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "raw_content": "<p>Article URL: <a href=\"https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/\">https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47752819\">https://news.ycombinator.com/item?id=47752819</a></p>\n<p>Points: 324</p>\n<p># Comments: 205</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "raw_content": "<p>Article URL: <a href=\"https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/\">https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47751936\">https://news.ycombinator.com/item?id=47751936</a></p>\n<p>Points: 333</p>\n<p># Comments: 246</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "raw_content": "<p>Article URL: <a href=\"https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/\">https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47751781\">https://news.ycombinator.com/item?id=47751781</a></p>\n<p>Points: 314</p>\n<p># Comments: 231</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Servo is now available on crates.io",
+      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "raw_content": "<p>Article URL: <a href=\"https://servo.org/blog/2026/04/13/servo-0.1.0-release/\">https://servo.org/blog/2026/04/13/servo-0.1.0-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47750872\">https://news.ycombinator.com/item?id=47750872</a></p>\n<p>Points: 429</p>\n<p># Comments: 140</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Android now stops you sharing your location in photos",
+      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "raw_content": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/\">https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47750669\">https://news.ycombinator.com/item?id=47750669</a></p>\n<p>Points: 305</p>\n<p># Comments: 280</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "raw_content": "<p>Article URL: <a href=\"https://www.viktorcessan.com/the-economics-of-software-teams/\">https://www.viktorcessan.com/the-economics-of-software-teams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47748064\">https://news.ycombinator.com/item?id=47748064</a></p>\n<p>Points: 391</p>\n<p># Comments: 259</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "raw_content": "<p>Article URL: <a href=\"https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end\">https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47747017\">https://news.ycombinator.com/item?id=47747017</a></p>\n<p>Points: 403</p>\n<p># Comments: 356</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "All elementary functions from a single binary operator",
+      "link": "https://arxiv.org/abs/2603.21852",
+      "raw_content": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.21852\">https://arxiv.org/abs/2603.21852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47746610\">https://news.ycombinator.com/item?id=47746610</a></p>\n<p>Points: 803</p>\n<p># Comments: 250</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "raw_content": "<p>Article URL: <a href=\"https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\">https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47745284\">https://news.ycombinator.com/item?id=47745284</a></p>\n<p>Points: 256</p>\n<p># Comments: 190</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "raw_content": "<p>Article URL: <a href=\"https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t\">https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47743730\">https://news.ycombinator.com/item?id=47743730</a></p>\n<p>Points: 510</p>\n<p># Comments: 284</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "The peril of laziness lost",
+      "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "raw_content": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/\">https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47743628\">https://news.ycombinator.com/item?id=47743628</a></p>\n<p>Points: 462</p>\n<p># Comments: 142</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
+      "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+      "raw_content": "<p><a href=\"https://x.com/EthanLevins2/status/2043366941922926940\" rel=\"nofollow\">https://x.com/EthanLevins2/status/2043366941922926940</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47742680\">https://news.ycombinator.com/item?id=47742680</a></p>\n<p>Points: 350</p>\n<p># Comments: 187</p>"
+    },
+    {
+      "category": "hacker_news",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "link": "https://boringbar.app/",
+      "raw_content": "<p>Hi HN!<p>I recently switched from a Fedora/GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.<p>I built boringBar so I would not have to use the Dock. It shows only the windows in the current S"
+    },
+    {
+      "category": "hacker_news",
+      "title": "DIY Soft Drinks",
+      "link": "https://blinry.org/diy-soft-drinks/",
+      "raw_content": "<p>Article URL: <a href=\"https://blinry.org/diy-soft-drinks/\">https://blinry.org/diy-soft-drinks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47741701\">https://news.ycombinator.com/item?id=47741701</a></p>\n<p>Points: 705</p>\n<p># Comments: 219</p>"
+    },
+    {
+      "category": "openai",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "raw_content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for operations teams",
+      "link": "https://openai.com/academy/operations",
+      "raw_content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
+    },
+    {
+      "category": "openai",
+      "title": "Applications of AI at OpenAI",
+      "link": "https://openai.com/academy/applications-of-ai",
+      "raw_content": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for finance teams",
+      "link": "https://openai.com/academy/finance",
+      "raw_content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
+    },
+    {
+      "category": "openai",
+      "title": "Brainstorming with ChatGPT",
+      "link": "https://openai.com/academy/brainstorming",
+      "raw_content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
+    },
+    {
+      "category": "openai",
+      "title": "Our response to the Axios developer tool compromise",
+      "link": "https://openai.com/index/axios-developer-tool-compromise",
+      "raw_content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for marketing teams",
+      "link": "https://openai.com/academy/marketing",
+      "raw_content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
+    },
+    {
+      "category": "openai",
+      "title": "Writing with ChatGPT",
+      "link": "https://openai.com/academy/writing",
+      "raw_content": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for research",
+      "link": "https://openai.com/academy/research",
+      "raw_content": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights."
+    },
+    {
+      "category": "openai",
+      "title": "Financial services",
+      "link": "https://openai.com/academy/financial-services",
+      "raw_content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely."
+    },
+    {
+      "category": "openai",
+      "title": "AI fundamentals",
+      "link": "https://openai.com/academy/what-is-ai",
+      "raw_content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence."
+    },
+    {
+      "category": "openai",
+      "title": "Responsible and safe use of AI",
+      "link": "https://openai.com/academy/responsible-and-safe-use",
+      "raw_content": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
+    },
+    {
+      "category": "openai",
+      "title": "Healthcare",
+      "link": "https://openai.com/academy/healthcare",
+      "raw_content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
+    },
+    {
+      "category": "openai",
+      "title": "Using projects in ChatGPT",
+      "link": "https://openai.com/academy/projects",
+      "raw_content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for managers",
+      "link": "https://openai.com/academy/managers",
+      "raw_content": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness."
+    },
+    {
+      "category": "openai",
+      "title": "ChatGPT for customer success teams",
+      "link": "https://openai.com/academy/customer-success",
+      "raw_content": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals."
+    },
+    {
+      "category": "openai",
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "raw_content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+    },
+    {
+      "category": "openai",
+      "title": "Research with ChatGPT",
+      "link": "https://openai.com/academy/search-and-deep-research",
+      "raw_content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
+    },
+    {
+      "category": "openai",
+      "title": "Prompting fundamentals",
+      "link": "https://openai.com/academy/prompting",
+      "raw_content": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
+    },
+    {
+      "category": "openai",
+      "title": "Using skills",
+      "link": "https://openai.com/academy/skills",
+      "raw_content": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs."
+    }
+  ]
+}
