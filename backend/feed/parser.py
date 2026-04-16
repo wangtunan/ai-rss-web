@@ -1,4 +1,5 @@
 import feedparser
+from time import strftime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -10,14 +11,23 @@ def _parse_one_feed(feed_item: dict, max_entries: int = 10):
         return []
     
     feed = feedparser.parse(feed_url)
+    # 按发布时间排序
+    sorted_entries = sorted(
+        feed.entries,
+        key=lambda e: e.get("published_parsed") or e.get("updated_parsed") or (0,) * 9,
+        reverse=True,
+    )
     result = []
-    for entry in feed.entries[:max_entries]:
+    for entry in sorted_entries[:max_entries]:
         content = entry.get("summary", "") or entry.get("description", "")
+        time_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+        formatted_time = strftime('%Y-%m-%d %H:%M:%S', time_struct) if time_struct else ""
 
         result.append({
             "category": feed_category,
             "title": entry.get("title", ""),
             "link": entry.get("link", ""),
+            "published_time": formatted_time,
             "raw_content": content[:500]
         })
     

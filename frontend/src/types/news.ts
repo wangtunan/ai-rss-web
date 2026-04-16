@@ -9,6 +9,8 @@ export interface NewsItem {
   title: string
   /** 原文链接地址 */
   link: string
+  /** 发布时间 */
+  published_time: string
   /** 原始内容（可能包含 HTML） */
   raw_content: string
   /** AI 生成的摘要文本 */

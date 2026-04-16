@@ -111,6 +111,7 @@ def summary_entries(entries: list[dict], batch_size: int = 10, workers: int = 3)
             "category": item.get("category", ""),
             "title": item.get("title", ""),
             "link": item.get("link", ""),
+            "published_time": item.get("published_time", ""),
             "raw_content": item.get("raw_content", ""),
             "ai_summary": ai.get("summary", ""),
             "ai_tags": ai.get("tags", []),

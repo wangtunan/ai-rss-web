@@ -11,31 +11,31 @@ export const CATEGORY_META: Record<string, CategoryMeta> = {
   v2ex: {
     label: 'V2EX 热帖',
     subtitle: 'V2EX',
-    icon: 'https://www.v2ex.com/favicon.ico'
+    icon: 'v2ex.ico'
   },
   hacker_news: {
     label: 'Hacker News 热榜',
     subtitle: 'Hacker News',
-    icon: 'https://news.ycombinator.com/favicon.ico',
+    icon: '/hacker_news.ico',
   },
   openai: {
     label: 'OpenAI 官方动态',
     subtitle: 'OpenAI',
-    icon: 'https://openai.com/favicon.ico'
+    icon: '/openai.ico'
   },
   google_ai: {
     label: 'Google AI 动态',
     subtitle: 'Google AI',
-    icon: 'https://blog.google/favicon.ico'
+    icon: '/google.ico'
   },
   hugging_face: {
     label: 'Hugging Face 动态',
     subtitle: 'Hugging Face',
-    icon: 'https://huggingface.co/favicon.ico',
+    icon: '/hugging_face.ico',
   },
   github: {
     label: 'GitHub Blog 动态',
     subtitle: 'GitHub',
-    icon: 'https://github.com/favicon.ico'
+    icon: '/github.ico'
   },
 }

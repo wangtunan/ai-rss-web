@@ -3,7 +3,10 @@
     <header class="card-header">
       <div>
         <h2>
-          <span class="category-icon" aria-hidden="true">
+          <span
+            class="category-icon" aria-hidden="true"
+            :class="category.key === 'github' ? 'github-icon' : ''"
+          >
             <img :src="category.icon" :alt="`${category.subtitle} favicon`" />
           </span>
           <span>{{ category.label }}</span>
@@ -30,11 +33,17 @@
             <span class="summary-label">AI摘要</span>
             <span>{{ item.ai_summary }}</span>
           </p>
-          <div v-if="item.ai_tags?.length" class="tags-row">
-            <span v-for="tag in item.ai_tags.slice(0, 3)" :key="`${item.link}-${tag}`" class="tag-chip">
-              {{ tag }}
-            </span>
+
+          <div class="footer">
+            <span class="published-time">{{ item.published_time }}</span>
+
+            <div v-if="item.ai_tags?.length" class="tags-row">
+              <span v-for="tag in item.ai_tags.slice(0, 3)" :key="`${item.link}-${tag}`" class="tag-chip">
+                {{ tag }}
+              </span>
+            </div>
           </div>
+          
         </div>
         <div class="meta">
           <span class="importance">★{{ item.ai_importance }}</span>
@@ -89,6 +98,12 @@ defineProps<{
   font-size: 0.78rem;
   color: var(--accent);
   overflow: hidden;
+
+  &.github-icon {
+   border-radius: 50%;
+   overflow: hidden;
+   background-color: #fff;
+  }
 }
 
 .category-icon img {
@@ -198,6 +213,18 @@ defineProps<{
   font-size: 0.68rem;
   font-weight: 700;
   vertical-align: baseline;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.36rem;
+}
+
+.published-time {
+  font-size: 0.79rem;
+  color: var(--text-soft);
 }
 
 .tags-row {
