@@ -1,853 +1,6 @@
 {
-  "last_updated": "2026-04-17 11:54:59",
+  "last_updated": "2026-04-17 17:58:27",
   "items": [
-    {
-      "category": "hacker_news",
-      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "published_time": "2026-04-16 17:37:20",
-      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/16/qwen-beats-opus/\">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796830\">https://news.ycombinator.com/item?id=47796830</a></p>\n<p>Points: 322</p>\n<p># Comments: 73</p>",
-      "ai_summary": "Qwen3.6-35B-A3B在笔记本电脑上绘制鹈鹕图像的表现优于Claude Opus 4.7，相关文章在Hacker News上获得322分和73条评论。",
-      "ai_tags": [
-        "AI模型",
-        "图像生成",
-        "性能比较"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Codex for almost everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "published_time": "2026-04-16 17:12:19",
-      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/codex-for-almost-everything/\">https://openai.com/index/codex-for-almost-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a></p>\n<p>Points: 712</p>\n<p># Comments: 374</p>",
-      "ai_summary": "OpenAI发布Codex模型，声称适用于几乎所有任务，在Hacker News上获得712分和374条评论。",
-      "ai_tags": [
-        "AI模型",
-        "通用AI",
-        "OpenAI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published_time": "2026-04-16 14:23:50",
-      "raw_content": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-7\">https://www.anthropic.com/news/claude-opus-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47793411\">https://news.ycombinator.com/item?id=47793411</a></p>\n<p>Points: 1523</p>\n<p># Comments: 1092</p>",
-      "ai_summary": "Anthropic发布Claude Opus 4.7模型，在Hacker News上获得1523分和1092条评论，关注度很高。",
-      "ai_tags": [
-        "AI模型",
-        "Claude",
-        "版本更新"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "published_time": "2026-04-16 13:36:27",
-      "raw_content": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.6-35b-a3b\">https://qwen.ai/blog?id=qwen3.6-35b-a3b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792764\">https://news.ycombinator.com/item?id=47792764</a></p>\n<p>Points: 940</p>\n<p># Comments: 421</p>",
-      "ai_summary": "Qwen3.6-35B-A3B模型开放给所有用户，强调其代理式编码能力，在Hacker News上获得940分和421条评论。",
-      "ai_tags": [
-        "AI模型",
-        "开源",
-        "编码助手"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "published_time": "2026-04-16 13:32:13",
-      "raw_content": "<p>Article URL: <a href=\"https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here\">https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792718\">https://news.ycombinator.com/item?id=47792718</a></p>\n<p>Points: 521</p>\n<p># Comments: 570</p>",
-      "ai_summary": "一篇探讨未来充满谎言的文章引发讨论，在Hacker News上获得521分和570条评论。",
-      "ai_tags": [
-        "未来展望",
-        "社会评论",
-        "哲学思考"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Cloudflare Email Service",
-      "link": "https://blog.cloudflare.com/email-for-agents/",
-      "published_time": "2026-04-16 13:21:53",
-      "raw_content": "<p>Article URL: <a href=\"https://blog.cloudflare.com/email-for-agents/\">https://blog.cloudflare.com/email-for-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792593\">https://news.ycombinator.com/item?id=47792593</a></p>\n<p>Points: 415</p>\n<p># Comments: 191</p>",
-      "ai_summary": "Cloudflare推出电子邮件服务，针对代理用户，在Hacker News上获得415分和191条评论。",
-      "ai_tags": [
-        "云服务",
-        "电子邮件",
-        "Cloudflare"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Mozilla Thunderbolt",
-      "link": "https://www.thunderbolt.io/",
-      "published_time": "2026-04-16 13:01:36",
-      "raw_content": "<p>Article URL: <a href=\"https://www.thunderbolt.io/\">https://www.thunderbolt.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792368\">https://news.ycombinator.com/item?id=47792368</a></p>\n<p>Points: 332</p>\n<p># Comments: 298</p>",
-      "ai_summary": "Mozilla发布Thunderbolt项目，在Hacker News上获得332分和298条评论。",
-      "ai_tags": [
-        "Mozilla",
-        "浏览器技术",
-        "开源项目"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "published_time": "2026-04-16 12:13:30",
-      "raw_content": "<p>Article URL: <a href=\"https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262\">https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47791871\">https://news.ycombinator.com/item?id=47791871</a></p>\n<p>Points: 378</p>\n<p># Comments: 277",
-      "ai_summary": "因未受限制的Firebase浏览器密钥访问Gemini API，导致13小时内产生5.4万欧元账单，在Hacker News上获得378分和277条评论。",
-      "ai_tags": [
-        "API滥用",
-        "账单问题",
-        "安全漏洞"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Darkbloom – Private inference on idle Macs",
-      "link": "https://darkbloom.dev",
-      "published_time": "2026-04-16 04:06:39",
-      "raw_content": "<p>Article URL: <a href=\"https://darkbloom.dev\">https://darkbloom.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788542\">https://news.ycombinator.com/item?id=47788542</a></p>\n<p>Points: 472</p>\n<p># Comments: 234</p>",
-      "ai_summary": "Darkbloom项目允许在闲置Mac上进行私有推理，在Hacker News上获得472分和234条评论。",
-      "ai_tags": [
-        "隐私计算",
-        "边缘计算",
-        "Mac应用"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "link": "https://daedal.io/@thomzane/116410863009847575",
-      "published_time": "2026-04-16 03:44:38",
-      "raw_content": "<p>Article URL: <a href=\"https://daedal.io/@thomzane/116410863009847575\">https://daedal.io/@thomzane/116410863009847575</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788424\">https://news.ycombinator.com/item?id=47788424</a></p>\n<p>Points: 364</p>\n<p># Comments: 215</p>",
-      "ai_summary": "FSF试图联系Google，关于垃圾邮件发送者从Gmail账户发送超过1万封邮件的问题，在Hacker News上获得364分和215条评论。",
-      "ai_tags": [
-        "垃圾邮件",
-        "Gmail",
-        "隐私问题"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "The local LLM ecosystem doesn’t need Ollama",
-      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "published_time": "2026-04-16 03:35:11",
-      "raw_content": "<p>Article URL: <a href=\"https://sleepingrobots.com/dreams/stop-using-ollama/\">https://sleepingrobots.com/dreams/stop-using-ollama/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788385\">https://news.ycombinator.com/item?id=47788385</a></p>\n<p>Points: 607</p>\n<p># Comments: 201</p>",
-      "ai_summary": "文章认为本地LLM生态系统不需要Ollama，并建议停止使用它，引发了Hacker News社区的广泛讨论。",
-      "ai_tags": [
-        "本地LLM",
-        "Ollama",
-        "技术工具"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "published_time": "2026-04-15 23:36:56",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes\">https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47786791\">https://news.ycombinator.com/item?id=47786791</a></p>\n<p>Points: 310</p>\n<p># Comments: 156</p>",
-      "ai_summary": "YouTube为用户提供将Shorts时间限制设置为零分钟的选项，允许用户完全关闭Shorts内容。",
-      "ai_tags": [
-        "YouTube",
-        "Shorts",
-        "用户设置"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "published_time": "2026-04-15 21:48:18",
-      "raw_content": "<p>Article URL: <a href=\"https://www.mcdonalds.co.jp/en/menu/burger/\">https://www.mcdonalds.co.jp/en/menu/burger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785738\">https://news.ycombinator.com/item?id=47785738</a></p>\n<p>Points: 645</p>\n<p># Comments: 301</p>",
-      "ai_summary": "日本麦当劳汉堡照片中的面包都略微倾斜，这一细节引发了网络关注和讨论。",
-      "ai_tags": [
-        "麦当劳",
-        "日本",
-        "营销细节"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "ChatGPT for Excel",
-      "link": "https://chatgpt.com/apps/spreadsheets/",
-      "published_time": "2026-04-15 21:21:05",
-      "raw_content": "<p>Article URL: <a href=\"https://chatgpt.com/apps/spreadsheets/\">https://chatgpt.com/apps/spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785397\">https://news.ycombinator.com/item?id=47785397</a></p>\n<p>Points: 320</p>\n<p># Comments: 191</p>",
-      "ai_summary": "ChatGPT推出Excel应用，将AI功能集成到电子表格中，提升数据处理和分析能力。",
-      "ai_tags": [
-        "ChatGPT",
-        "Excel",
-        "AI应用"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Why are Flock employees watching our children?",
-      "link": "https://substack.com/home/post/p-193593234",
-      "published_time": "2026-04-15 19:30:52",
-      "raw_content": "<p>Article URL: <a href=\"https://substack.com/home/post/p-193593234\">https://substack.com/home/post/p-193593234</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47784045\">https://news.ycombinator.com/item?id=47784045</a></p>\n<p>Points: 266</p>\n<p># Comments: 49</p>",
-      "ai_summary": "文章质疑Flock员工为何监视儿童，涉及隐私和安全问题，引发公众担忧。",
-      "ai_tags": [
-        "Flock",
-        "儿童隐私",
-        "监控"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Ask HN: Who is using OpenClaw?",
-      "link": "https://news.ycombinator.com/item?id=47783940",
-      "published_time": "2026-04-15 19:22:10",
-      "raw_content": "<p>I don't use it personally, and neither does anyone in my circle...even though I feel like I'm super plugged into the ai world</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47783940\">https://news.ycombinator.com/item?id=47783940</a></p>\n<p>Points: 319</p>\n<p># Comments: 365</p>",
-      "ai_summary": "Hacker News用户提问谁在使用OpenClaw，表示尽管身处AI领域，但个人和周围人都未使用，引发社区讨论。",
-      "ai_tags": [
-        "OpenClaw",
-        "AI工具",
-        "社区讨论"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "published_time": "2026-04-15 19:06:39",
-      "raw_content": "<p><a href=\"https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html\" rel=\"nofollow\">https://www.nytimes.com/2026/04/15/arts/music/live-nation-an...</a>, <a href=\"https://archive.ph/KA1wV\" rel=\"nofollow\">https://archive.ph/KA1wV</a><p><a href=\"https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict\" rel=\"nofollow\">https://www.theverge.com/policy/912689/live-nation-ticketmas...</a></p>\n<hr />\n<p>Comments URL: <a href=",
-      "ai_summary": "陪审团裁定Live Nation非法垄断票务市场，涉及反垄断法律问题，影响音乐和娱乐行业。",
-      "ai_tags": [
-        "Live Nation",
-        "垄断",
-        "票务市场"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Google broke its promise to me – now ICE has my data",
-      "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "published_time": "2026-04-15 17:44:26",
-      "raw_content": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data\">https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47782570\">https://news.ycombinator.com/item?id=47782570</a></p>\n<p>Points: 1669</p>\n<p># Comments: 739</p>",
-      "ai_summary": "文章指控Google违背承诺，导致ICE获取用户数据，涉及隐私和科技公司责任问题。",
-      "ai_tags": [
-        "Google",
-        "隐私",
-        "ICE",
-        "数据安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Open Source Isn't Dead",
-      "link": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "published_time": "2026-04-15 15:43:37",
-      "raw_content": "<p>Article URL: <a href=\"https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats\">https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780712\">https://news.ycombinator.com/item?id=47780712</a></p>\n<p>Points: 347</p>\n<p># Comments: 176</p>",
-      "ai_summary": "文章反驳开源已死的观点，以Cal.com因AI威胁关闭代码为例，讨论开源软件的未来。",
-      "ai_tags": [
-        "开源软件",
-        "Cal.com",
-        "AI威胁"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Cal.com is going closed source",
-      "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "published_time": "2026-04-15 15:26:46",
-      "raw_content": "<p>Article URL: <a href=\"https://cal.com/blog/cal-com-goes-closed-source-why\">https://cal.com/blog/cal-com-goes-closed-source-why</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780456\">https://news.ycombinator.com/item?id=47780456</a></p>\n<p>Points: 372</p>\n<p># Comments: 296</p>",
-      "ai_summary": "Cal.com宣布将转为闭源，解释这一决定的原因，涉及开源与闭源的商业策略讨论。",
-      "ai_tags": [
-        "Cal.com",
-        "闭源",
-        "商业策略"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "published_time": "2026-04-16 17:00:00",
-      "raw_content": "AI Mode in Chrome",
-      "ai_summary": "Chrome浏览器推出AI模式，提供新的网页浏览体验。",
-      "ai_tags": [
-        "Chrome",
-        "AI模式",
-        "网页浏览"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "New ways to create personalized images in the Gemini app",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "published_time": "2026-04-16 16:00:00",
-      "raw_content": "Example images made with Personal Intelligence",
-      "ai_summary": "Gemini应用新增个性化图像创建功能，支持定制化图片生成。",
-      "ai_tags": [
-        "Gemini",
-        "个性化图像",
-        "AI应用"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "published_time": "2026-04-15 15:00:00",
-      "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-      "ai_summary": "Gemini 3.1 Flash TTS发布，作为下一代富有表现力的AI语音技术。",
-      "ai_tags": [
-        "Gemini",
-        "TTS",
-        "AI语音"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "published_time": "2026-04-14 17:00:00",
-      "raw_content": "Video showing Skills in Chrome",
-      "ai_summary": "Chrome浏览器支持将最佳AI提示转化为一键工具，提升使用效率。",
-      "ai_tags": [
-        "Chrome",
-        "AI提示",
-        "一键工具"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Bringing people together at AI for the Economy Forum",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-      "published_time": "2026-04-14 09:00:00",
-      "raw_content": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
-      "ai_summary": "Google与MIT FutureTech合作举办AI经济论坛，聚焦新时代的创新与适应。",
-      "ai_tags": [
-        "AI论坛",
-        "Google",
-        "MIT",
-        "经济"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "published_time": "2026-04-02 16:00:00",
-      "raw_content": "Gemini API Dials",
-      "ai_summary": "Gemini API推出新功能，平衡成本与可靠性，提供灵活和优先推理选项。",
-      "ai_tags": [
-        "Gemini API",
-        "成本控制",
-        "可靠性"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "published_time": "2026-04-02 16:00:00",
-      "raw_content": "Google Vids logo surrounded by various video editing UI",
-      "ai_summary": "Google Vids提供免费视频创建、编辑和分享功能，集成Lyria和Veo技术。",
-      "ai_tags": [
-        "Google Vids",
-        "视频编辑",
-        "免费工具"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "published_time": "2026-04-01 13:30:00",
-      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "ai_summary": "Google与巴西政府合作创建卫星图像地图，以帮助保护该国森林。",
-      "ai_tags": [
-        "卫星图像",
-        "巴西",
-        "森林保护",
-        "Google Earth"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "google_ai",
-      "title": "The latest AI news we announced in March 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "published_time": "2026-04-01 13:00:00",
-      "raw_content": "March 2026 AI Recap showing new updates",
-      "ai_summary": "Google发布2026年3月的最新AI新闻，涵盖多项更新和进展。",
-      "ai_tags": [
-        "AI新闻",
-        "2026年3月",
-        "Google更新"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "published_time": "2026-03-31 16:00:00",
-      "raw_content": "Build with Veo 3.1 Lite",
-      "ai_summary": "Veo 3.1 Lite发布，作为最具成本效益的视频生成模型，支持开发者构建应用。",
-      "ai_tags": [
-        "Veo",
-        "视频生成",
-        "成本效益",
-        "AI模型"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "published_time": "2026-03-26 17:00:00",
-      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-      "ai_summary": "在最新一期《技术与社会对话》系列节目中，LL COOL J与James Manyika就人工智能与创造力展开讨论。",
-      "ai_tags": [
-        "人工智能",
-        "创造力",
-        "对话"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "published_time": "2026-03-26 16:00:00",
-      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-      "ai_summary": "Google翻译的耳机实时翻译功能正式登陆iOS平台，并扩展至更多国家和地区，支持iOS和Android用户。",
-      "ai_tags": [
-        "Google翻译",
-        "实时翻译",
-        "iOS",
-        "耳机"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "published_time": "2026-03-26 15:21:00",
-      "raw_content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-      "ai_summary": "Gemini 3.1 Flash Live发布，旨在使音频人工智能更加自然和可靠。",
-      "ai_tags": [
-        "Gemini",
-        "音频AI",
-        "自然语言处理"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Search Live is expanding globally",
-      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "published_time": "2026-03-26 15:00:00",
-      "raw_content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
-      "ai_summary": "Search Live功能正在全球范围内扩展，提供实时搜索体验。",
-      "ai_tags": [
-        "Search Live",
-        "全球扩展",
-        "实时搜索"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Build with Lyria 3, our newest music generation model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-      "published_time": "2026-03-25 16:00:00",
-      "raw_content": "Google Lyria teaser",
-      "ai_summary": "推出Lyria 3，这是最新的音乐生成模型，供开发者使用。",
-      "ai_tags": [
-        "Lyria 3",
-        "音乐生成",
-        "AI模型"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-      "published_time": "2026-03-25 16:00:00",
-      "raw_content": "Sizzle video showing new capabilities from Lyria 3 Pro",
-      "ai_summary": "Lyria 3 Pro发布，可在更多Google产品中创建更长的音乐曲目。",
-      "ai_tags": [
-        "Lyria 3 Pro",
-        "音乐创作",
-        "Google产品"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "Bringing the power of Personal Intelligence to more people",
-      "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-      "published_time": "2026-03-17 16:00:00",
-      "raw_content": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
-      "ai_summary": "将个人智能功能扩展到更多用户，整合Google Photos和Gmail等产品。",
-      "ai_tags": [
-        "个人智能",
-        "Google Photos",
-        "Gmail",
-        "扩展"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "google_ai",
-      "title": "Our latest investment in open source security for the AI era",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-      "published_time": "2026-03-17 16:00:00",
-      "raw_content": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
-      "ai_summary": "在AI时代，Google最新投资开源安全，加强AI驱动的安全防护。",
-      "ai_tags": [
-        "开源安全",
-        "AI安全",
-        "投资"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "How AI is helping improve heart health in rural Australia",
-      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-      "published_time": "2026-03-12 15:00:00",
-      "raw_content": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
-      "ai_summary": "人工智能正在帮助改善澳大利亚农村地区的心脏健康，通过技术辅助医疗诊断。",
-      "ai_tags": [
-        "AI医疗",
-        "心脏健康",
-        "澳大利亚",
-        "农村医疗"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "google_ai",
-      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-      "published_time": "2026-03-10 13:00:00",
-      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
-      "ai_summary": "Gemini在Google Sheets中达到最先进的性能，新增测试版功能，支持从基础任务到复杂数据分析的表格创建和编辑。",
-      "ai_tags": [
-        "Gemini",
-        "Google Sheets",
-        "数据分析",
-        "AI工具"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "The PR you would have opened yourself",
-      "link": "https://huggingface.co/blog/transformers-to-mlx",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍如何将Transformers模型转换为MLX格式，便于在苹果设备上运行。",
-      "ai_tags": [
-        "Transformers",
-        "MLX",
-        "模型转换"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "讲解如何使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
-      "ai_tags": [
-        "Sentence Transformers",
-        "多模态",
-        "模型训练"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "published_time": "2026-04-15 12:07:25",
-      "raw_content": "",
-      "ai_summary": "分析VAKRA基准测试中智能体的推理、工具使用和失败模式。",
-      "ai_tags": [
-        "VAKRA",
-        "智能体",
-        "基准测试"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "link": "https://huggingface.co/blog/Hcompany/holotab",
-      "published_time": "2026-04-15 09:25:20",
-      "raw_content": "",
-      "ai_summary": "介绍HCompany推出的HoloTab，一款AI浏览器伴侣工具。",
-      "ai_tags": [
-        "HoloTab",
-        "AI浏览器",
-        "HCompany"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hugging_face",
-      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-      "link": "https://huggingface.co/blog/waypoint-1-5",
-      "published_time": "2026-04-09 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍Waypoint-1.5，为日常GPU提供更高保真度的交互式世界生成。",
-      "ai_tags": [
-        "Waypoint-1.5",
-        "GPU",
-        "交互式世界"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "published_time": "2026-04-09 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍使用Sentence Transformers构建多模态嵌入与重排序模型的方法。",
-      "ai_tags": [
-        "Sentence Transformers",
-        "多模态",
-        "嵌入模型"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "published_time": "2026-04-08 00:00:00",
-      "raw_content": "",
-      "ai_summary": "宣布Safetensors加入PyTorch基金会，促进模型安全存储标准化。",
-      "ai_tags": [
-        "Safetensors",
-        "PyTorch基金会",
-        "模型安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hugging_face",
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "link": "https://huggingface.co/blog/gemma4",
-      "published_time": "2026-04-02 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍Gemma 4，一款前沿的多模态设备端智能模型。",
-      "ai_tags": [
-        "Gemma 4",
-        "多模态",
-        "设备端AI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hugging_face",
-      "title": "Falcon Perception",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "published_time": "2026-04-01 07:13:20",
-      "raw_content": "",
-      "ai_summary": "介绍Falcon Perception，一种用于感知任务的新模型。",
-      "ai_tags": [
-        "Falcon Perception",
-        "感知模型",
-        "TII UAE"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Any Custom Frontend with Gradio's Backend",
-      "link": "https://huggingface.co/blog/introducing-gradio-server",
-      "published_time": "2026-04-01 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍如何使用Gradio后端构建自定义前端界面。",
-      "ai_tags": [
-        "Gradio",
-        "自定义前端",
-        "后端服务"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "published_time": "2026-03-31 15:10:41",
-      "raw_content": "",
-      "ai_summary": "IBM发布Granite 4.0 3B Vision，这是一个紧凑的多模态AI模型，专为企业文档处理设计，具备视觉理解能力。",
-      "ai_tags": [
-        "AI模型",
-        "多模态",
-        "企业应用"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "Training mRNA Language Models Across 25 Species for $165",
-      "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
-      "published_time": "2026-03-31 08:23:44",
-      "raw_content": "",
-      "ai_summary": "研究人员以165美元的成本，训练了覆盖25个物种的mRNA语言模型，展示了低成本生物信息学研究的潜力。",
-      "ai_tags": [
-        "生物信息学",
-        "语言模型",
-        "低成本研究"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "link": "https://huggingface.co/blog/trl-v1",
-      "published_time": "2026-03-31 00:00:00",
-      "raw_content": "",
-      "ai_summary": "TRL v1.0发布，这是一个专为模型后训练设计的开源库，旨在跟上快速发展的AI领域步伐。",
-      "ai_tags": [
-        "开源工具",
-        "模型训练",
-        "AI开发"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Liberate your OpenClaw",
-      "link": "https://huggingface.co/blog/liberate-your-openclaw",
-      "published_time": "2026-03-27 00:00:00",
-      "raw_content": "",
-      "ai_summary": "发布OpenClaw解放指南，帮助开发者更好地利用这一开源工具进行AI项目开发。",
-      "ai_tags": [
-        "开源工具",
-        "开发指南"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hugging_face",
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "published_time": "2026-03-24 02:01:52",
-      "raw_content": "",
-      "ai_summary": "ServiceNow推出EVA框架，这是一个专门用于评估语音助手性能的新评估体系。",
-      "ai_tags": [
-        "语音助手",
-        "评估框架",
-        "AI评估"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "published_time": "2026-03-20 19:38:16",
-      "raw_content": "",
-      "ai_summary": "NVIDIA展示如何在一天内构建领域特定的嵌入模型，大幅缩短定制化AI模型的开发时间。",
-      "ai_tags": [
-        "嵌入模型",
-        "快速开发",
-        "领域定制"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "published_time": "2026-03-17 16:37:55",
-      "raw_content": "",
-      "ai_summary": "Hugging Face发布2026年春季开源状态报告，概述了平台上的开源AI项目发展现状。",
-      "ai_tags": [
-        "开源报告",
-        "行业趋势",
-        "Hugging Face"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Holotron-12B - High Throughput Computer Use Agent",
-      "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
-      "published_time": "2026-03-17 12:33:39",
-      "raw_content": "",
-      "ai_summary": "H公司发布Holotron-12B，这是一个高吞吐量的计算机使用代理，能够高效处理复杂计算任务。",
-      "ai_tags": [
-        "AI代理",
-        "高性能计算",
-        "企业级AI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "Introducing Storage Buckets on the Hugging Face Hub",
-      "link": "https://huggingface.co/blog/storage-buckets",
-      "published_time": "2026-03-10 00:00:00",
-      "raw_content": "",
-      "ai_summary": "Hugging Face Hub引入存储桶功能，为用户提供更灵活、高效的数据存储和管理解决方案。",
-      "ai_tags": [
-        "云存储",
-        "平台功能",
-        "数据管理"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-      "link": "https://huggingface.co/blog/async-rl-training-landscape",
-      "published_time": "2026-03-10 00:00:00",
-      "raw_content": "",
-      "ai_summary": "基于16个开源强化学习库的经验总结，分享保持训练流程顺畅的关键教训和最佳实践。",
-      "ai_tags": [
-        "强化学习",
-        "开源经验",
-        "训练优化"
-      ],
-      "ai_importance": 3
-    },
     {
       "category": "github",
       "title": "How GitHub uses eBPF to improve deployment safety",
@@ -869,7 +22,7 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
       "published_time": "2026-04-15 17:00:00",
       "raw_content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "一位GitHub工程师利用GitHub Copilot CLI构建个人组织命令中心，并分享了AI如何支持开发过程。",
+      "ai_summary": "一位GitHub工程师利用GitHub Copilot CLI构建个人组织命令中心，展示了AI如何支持开发过程。",
       "ai_tags": [
         "GitHub Copilot",
         "CLI",
@@ -884,7 +37,7 @@
       "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
       "published_time": "2026-04-15 15:00:00",
       "raw_content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub更新开发者政策，涉及中介责任、版权和透明度，并发布了2025年全年数据。",
+      "ai_summary": "GitHub更新开发者政策，涉及中介责任、版权和透明度，并发布2025年全年数据，展望未来。",
       "ai_tags": [
         "政策更新",
         "透明度",
@@ -899,12 +52,12 @@
       "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
       "published_time": "2026-04-14 18:17:59",
       "raw_content": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHu",
-      "ai_summary": "通过GitHub安全代码游戏，开发者可以学习和利用现实中的AI代理漏洞，提升安全技能。",
+      "ai_summary": "通过GitHub安全代码游戏，开发者可以学习发现和利用现实世界中的AI代理漏洞，提升安全技能。",
       "ai_tags": [
         "AI安全",
-        "安全游戏",
-        "漏洞利用",
-        "开源"
+        "游戏",
+        "漏洞",
+        "开发者教育"
       ],
       "ai_importance": 4
     },
@@ -914,12 +67,12 @@
       "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
       "published_time": "2026-04-14 15:00:00",
       "raw_content": "<p>The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/\">How exposed is your code? Find out in minutes—for free</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "新的代码安全风险评估工具提供一键查看组织内漏洞的功能，且完全免费。",
+      "ai_summary": "新的代码安全风险评估工具提供一键查看组织内漏洞的功能，免费且快速。",
       "ai_tags": [
         "代码安全",
         "风险评估",
-        "漏洞检测",
-        "免费工具"
+        "免费工具",
+        "漏洞检测"
       ],
       "ai_importance": 5
     },
@@ -929,14 +82,14 @@
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
       "published_time": "2026-04-13 15:00:00",
       "raw_content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub Pages入门指南，帮助初学者为GitHub仓库创建免费网站。",
+      "ai_summary": "GitHub Pages入门指南，教初学者如何为GitHub仓库创建免费网站。",
       "ai_tags": [
         "GitHub Pages",
         "初学者",
         "网站创建",
         "教程"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "github",
@@ -959,11 +112,11 @@
       "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
       "published_time": "2026-04-09 02:21:17",
       "raw_content": "<p>In March, we experienced four incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-march-2026/\">GitHub availability report: March 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub发布2026年3月可用性报告，期间发生了四起导致服务性能下降的事件。",
+      "ai_summary": "GitHub发布2026年3月可用性报告，期间发生四起导致服务性能下降的事件。",
       "ai_tags": [
         "可用性报告",
         "服务中断",
-        "性能监控",
+        "性能",
         "公司新闻"
       ],
       "ai_importance": 4
@@ -974,12 +127,12 @@
       "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
       "published_time": "2026-04-08 16:35:46",
       "raw_content": "<p>Get inspired by five of the most memorable, magical, and quirky Universe sessions to date.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/\">GitHub Universe is back: We want you to take the stage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub Universe活动回归，邀请开发者上台分享，并回顾了以往精彩会议。",
+      "ai_summary": "GitHub Universe活动回归，邀请开发者上台分享，回顾以往精彩会议。",
       "ai_tags": [
         "GitHub Universe",
-        "开发者活动",
-        "演讲机会",
-        "社区"
+        "活动",
+        "开发者社区",
+        "公司新闻"
       ],
       "ai_importance": 3
     },
@@ -989,14 +142,1005 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
       "published_time": "2026-04-06 21:53:49",
       "raw_content": "<p>Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/\">GitHub Copilot CLI combines model families for a second opinion</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub Copilot CLI结合不同模型家族，通过Rubber Duck功能提供第二意见以增强决策。",
+      "ai_summary": "GitHub Copilot CLI结合不同模型家族，通过Rubber Duck提供第二意见，增强决策多样性。",
       "ai_tags": [
         "GitHub Copilot",
         "CLI",
-        "模型集成",
-        "AI辅助"
+        "AI模型",
+        "决策支持"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "The PR you would have opened yourself",
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍如何将Transformers模型转换为MLX格式，方便在苹果设备上运行。",
+      "ai_tags": [
+        "transformers",
+        "mlx",
+        "苹果设备"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "讲解如何使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+      "ai_tags": [
+        "sentence transformers",
+        "多模态",
+        "训练",
+        "微调"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "published_time": "2026-04-15 12:07:25",
+      "raw_content": "",
+      "ai_summary": "分析VAKRA基准测试中智能体的推理、工具使用和失败模式。",
+      "ai_tags": [
+        "vakra",
+        "基准测试",
+        "智能体",
+        "推理"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "link": "https://huggingface.co/blog/Hcompany/holotab",
+      "published_time": "2026-04-15 09:25:20",
+      "raw_content": "",
+      "ai_summary": "介绍HCompany推出的HoloTab，一款AI浏览器伴侣工具。",
+      "ai_tags": [
+        "holotab",
+        "浏览器",
+        "ai伴侣",
+        "hcompany"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hugging_face",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "link": "https://huggingface.co/blog/waypoint-1-5",
+      "published_time": "2026-04-09 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍Waypoint-1.5，为日常GPU提供更高保真度的交互式世界生成。",
+      "ai_tags": [
+        "waypoint",
+        "交互式世界",
+        "gpu",
+        "保真度"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "published_time": "2026-04-09 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍使用Sentence Transformers的多模态嵌入与重排序模型。",
+      "ai_tags": [
+        "sentence transformers",
+        "多模态",
+        "嵌入",
+        "重排序"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "published_time": "2026-04-08 00:00:00",
+      "raw_content": "",
+      "ai_summary": "宣布Safetensors加入PyTorch基金会，促进模型安全存储标准化。",
+      "ai_tags": [
+        "safetensors",
+        "pytorch",
+        "基金会",
+        "安全存储"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hugging_face",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "link": "https://huggingface.co/blog/gemma4",
+      "published_time": "2026-04-02 00:00:00",
+      "raw_content": "",
+      "ai_summary": "欢迎Gemma 4，一款前沿的多模态智能模型，支持设备端运行。",
+      "ai_tags": [
+        "gemma",
+        "多模态",
+        "设备端",
+        "智能模型"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hugging_face",
+      "title": "Falcon Perception",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "published_time": "2026-04-01 07:13:20",
+      "raw_content": "",
+      "ai_summary": "介绍Falcon Perception，一个用于感知任务的多模态模型。",
+      "ai_tags": [
+        "falcon",
+        "感知",
+        "多模态",
+        "tiiuae"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "link": "https://huggingface.co/blog/introducing-gradio-server",
+      "published_time": "2026-04-01 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍如何使用Gradio后端创建自定义前端界面。",
+      "ai_tags": [
+        "gradio",
+        "后端",
+        "前端",
+        "自定义"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "published_time": "2026-03-31 15:10:41",
+      "raw_content": "",
+      "ai_summary": "Granite 4.0 3B Vision是一款紧凑的多模态智能模型，专为企业文档处理设计，支持视觉和文本理解。",
+      "ai_tags": [
+        "多模态AI",
+        "企业应用",
+        "文档处理"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Training mRNA Language Models Across 25 Species for $165",
+      "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+      "published_time": "2026-03-31 08:23:44",
+      "raw_content": "",
+      "ai_summary": "研究以165美元成本训练了覆盖25个物种的mRNA语言模型，展示了低成本生物信息学AI的潜力。",
+      "ai_tags": [
+        "生物信息学",
+        "低成本训练",
+        "mRNA模型"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "link": "https://huggingface.co/blog/trl-v1",
+      "published_time": "2026-03-31 00:00:00",
+      "raw_content": "",
+      "ai_summary": "TRL v1.0是一个后训练库，旨在灵活适应快速发展的AI领域，提供模型优化工具。",
+      "ai_tags": [
+        "后训练",
+        "AI工具库",
+        "模型优化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Liberate your OpenClaw",
+      "link": "https://huggingface.co/blog/liberate-your-openclaw",
+      "published_time": "2026-03-27 00:00:00",
+      "raw_content": "",
+      "ai_summary": "发布OpenClaw工具的解放指南，帮助用户更自由地使用和定制这一开源AI工具。",
+      "ai_tags": [
+        "开源工具",
+        "AI定制",
+        "工具解放"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hugging_face",
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "published_time": "2026-03-24 02:01:52",
+      "raw_content": "",
+      "ai_summary": "推出新的语音代理评估框架EVA，为语音AI系统提供标准化测试和性能度量。",
+      "ai_tags": [
+        "语音AI",
+        "评估框架",
+        "性能测试"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "published_time": "2026-03-20 19:38:16",
+      "raw_content": "",
+      "ai_summary": "介绍在一天内构建领域特定嵌入模型的方法，利用NVIDIA技术快速定制AI解决方案。",
+      "ai_tags": [
+        "嵌入模型",
+        "快速定制",
+        "领域AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "published_time": "2026-03-17 16:37:55",
+      "raw_content": "",
+      "ai_summary": "发布2026年春季Hugging Face开源生态状态报告，总结平台发展和社区趋势。",
+      "ai_tags": [
+        "开源生态",
+        "社区报告",
+        "平台发展"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "published_time": "2026-03-17 12:33:39",
+      "raw_content": "",
+      "ai_summary": "Holotron-12B是一个高吞吐量的计算机使用代理，专注于高效的任务自动化和操作。",
+      "ai_tags": [
+        "AI代理",
+        "高吞吐量",
+        "任务自动化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "link": "https://huggingface.co/blog/storage-buckets",
+      "published_time": "2026-03-10 00:00:00",
+      "raw_content": "",
+      "ai_summary": "在Hugging Face Hub上引入存储桶功能，为用户提供更灵活的数据存储和管理选项。",
+      "ai_tags": [
+        "数据存储",
+        "平台功能",
+        "存储管理"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "published_time": "2026-03-10 00:00:00",
+      "raw_content": "",
+      "ai_summary": "总结16个开源强化学习库的经验教训，强调保持令牌流动性和训练效率的关键策略。",
+      "ai_tags": [
+        "强化学习",
+        "开源库",
+        "训练优化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "published_time": "2026-04-16 17:00:00",
+      "raw_content": "AI Mode in Chrome",
+      "ai_summary": "Chrome浏览器推出AI模式，提供新的网页浏览体验。",
+      "ai_tags": [
+        "Chrome",
+        "AI模式",
+        "网页浏览"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "published_time": "2026-04-16 16:00:00",
+      "raw_content": "Example images made with Personal Intelligence",
+      "ai_summary": "Gemini应用新增个性化图像创建功能。",
+      "ai_tags": [
+        "Gemini",
+        "个性化图像",
+        "AI应用"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "published_time": "2026-04-15 15:00:00",
+      "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "ai_summary": "Gemini 3.1 Flash TTS发布，提供下一代富有表现力的AI语音技术。",
+      "ai_tags": [
+        "Gemini",
+        "TTS",
+        "AI语音"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "published_time": "2026-04-14 17:00:00",
+      "raw_content": "Video showing Skills in Chrome",
+      "ai_summary": "Chrome浏览器支持将最佳AI提示转化为一键工具。",
+      "ai_tags": [
+        "Chrome",
+        "AI提示",
+        "一键工具"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Bringing people together at AI for the Economy Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "published_time": "2026-04-14 09:00:00",
+      "raw_content": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+      "ai_summary": "Google与MIT合作举办AI经济论坛，探讨新时代的创新与适应。",
+      "ai_tags": [
+        "AI论坛",
+        "Google",
+        "MIT",
+        "经济"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "published_time": "2026-04-02 16:00:00",
+      "raw_content": "Gemini API Dials",
+      "ai_summary": "Gemini API新增功能，平衡成本与可靠性。",
+      "ai_tags": [
+        "Gemini API",
+        "成本优化",
+        "可靠性"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "published_time": "2026-04-02 16:00:00",
+      "raw_content": "Google Vids logo surrounded by various video editing UI",
+      "ai_summary": "Google Vids提供免费的视频创建、编辑和分享功能。",
+      "ai_tags": [
+        "Google Vids",
+        "视频编辑",
+        "免费工具"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "published_time": "2026-04-01 13:30:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "ai_summary": "Google与巴西政府合作创建卫星图像地图，以帮助保护森林。",
+      "ai_tags": [
+        "卫星图像",
+        "森林保护",
+        "巴西",
+        "Google Earth"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "google_ai",
+      "title": "The latest AI news we announced in March 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "published_time": "2026-04-01 13:00:00",
+      "raw_content": "March 2026 AI Recap showing new updates",
+      "ai_summary": "Google发布2026年3月的最新AI新闻汇总。",
+      "ai_tags": [
+        "AI新闻",
+        "2026年3月",
+        "更新汇总"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "google_ai",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "published_time": "2026-03-31 16:00:00",
+      "raw_content": "Build with Veo 3.1 Lite",
+      "ai_summary": "Veo 3.1 Lite发布，作为最具成本效益的视频生成模型。",
+      "ai_tags": [
+        "Veo",
+        "视频生成",
+        "成本效益"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "published_time": "2026-03-26 17:00:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "ai_summary": "在最新一期《科技与社会对话》系列中，LL COOL J与James Manyika讨论人工智能与创造力。",
+      "ai_tags": [
+        "对话",
+        "人工智能",
+        "创造力"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "published_time": "2026-03-26 16:00:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "ai_summary": "Google翻译的耳机实时翻译功能正式登陆iOS，并扩展至更多国家，支持iOS和Android用户。",
+      "ai_tags": [
+        "翻译",
+        "iOS",
+        "耳机"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "published_time": "2026-03-26 15:21:00",
+      "raw_content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+      "ai_summary": "Gemini 3.1 Flash Live旨在使音频AI更自然可靠，背景展示相关图标。",
+      "ai_tags": [
+        "Gemini",
+        "音频AI",
+        "自然"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Search Live is expanding globally",
+      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "published_time": "2026-03-26 15:00:00",
+      "raw_content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+      "ai_summary": "Search Live功能正在全球范围内扩展，展示相关图形和手机应用界面。",
+      "ai_tags": [
+        "搜索",
+        "全球扩展",
+        "实时"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Build with Lyria 3, our newest music generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "published_time": "2026-03-25 16:00:00",
+      "raw_content": "Google Lyria teaser",
+      "ai_summary": "Lyria 3是最新的音乐生成模型，开发者可基于此构建应用。",
+      "ai_tags": [
+        "音乐生成",
+        "Lyria",
+        "开发者"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "published_time": "2026-03-25 16:00:00",
+      "raw_content": "Sizzle video showing new capabilities from Lyria 3 Pro",
+      "ai_summary": "Lyria 3 Pro可在更多Google产品中创建更长曲目，展示新功能视频。",
+      "ai_tags": [
+        "Lyria Pro",
+        "音乐创作",
+        "Google产品"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "google_ai",
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "published_time": "2026-03-17 16:00:00",
+      "raw_content": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "ai_summary": "个人智能功能正扩展到更多用户，涉及Google Photos和Gmail等产品。",
+      "ai_tags": [
+        "个人智能",
+        "扩展",
+        "Google产品"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "Our latest investment in open source security for the AI era",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "published_time": "2026-03-17 16:00:00",
+      "raw_content": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "ai_summary": "Google在AI时代投资开源安全，展示安全图标和相关场景。",
+      "ai_tags": [
+        "开源安全",
+        "AI投资",
+        "安全"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "google_ai",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "published_time": "2026-03-12 15:00:00",
+      "raw_content": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+      "ai_summary": "AI正在帮助改善澳大利亚农村地区的心脏健康，展示医生与患者互动场景。",
+      "ai_tags": [
+        "AI医疗",
+        "心脏健康",
+        "澳大利亚"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "google_ai",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "published_time": "2026-03-10 13:00:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "ai_summary": "Gemini在Google Sheets中实现最先进性能，新增测试功能支持创建和分析表格。",
+      "ai_tags": [
+        "Gemini",
+        "Google Sheets",
+        "数据分析"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Everything we like is a psyop?",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "published_time": "2026-04-16 23:15:33",
+      "raw_content": "<p>Article URL: <a href=\"https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/\">https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47800738\">https://news.ycombinator.com/item?id=47800738</a></p>\n<p>Points: 255</p>\n<p># Comments: 168</p>",
+      "ai_summary": "一篇探讨我们喜欢的事物是否都是心理操纵的文章，引发了对社交媒体和流行文化影响的思考。",
+      "ai_tags": [
+        "心理操纵",
+        "社交媒体",
+        "文化影响"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+      "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+      "published_time": "2026-04-16 20:31:52",
+      "raw_content": "<p>Article URL: <a href=\"https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\">https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47799120\">https://news.ycombinator.com/item?id=47799120</a></p>\n<p>Points: 303</p>\n<p># Comments: 201</p>",
+      "ai_summary": "文章分析了被动收入陷阱如何影响一代创业者，指出过度追求被动收入可能导致创业失败和财务风险。",
+      "ai_tags": [
+        "被动收入",
+        "创业",
+        "财务陷阱"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "published_time": "2026-04-16 17:37:20",
+      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/16/qwen-beats-opus/\">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796830\">https://news.ycombinator.com/item?id=47796830</a></p>\n<p>Points: 402</p>\n<p># Comments: 84</p>",
+      "ai_summary": "用户分享在笔记本电脑上使用Qwen3.6-35B-A3B模型绘制鹈鹕图像，效果优于Claude Opus 4.7，展示了AI模型的图像生成能力。",
+      "ai_tags": [
+        "AI模型",
+        "图像生成",
+        "性能比较"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "published_time": "2026-04-16 17:12:19",
+      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/codex-for-almost-everything/\">https://openai.com/index/codex-for-almost-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a></p>\n<p>Points: 870</p>\n<p># Comments: 443</p>",
+      "ai_summary": "OpenAI发布Codex模型，旨在应用于几乎一切领域，展示了AI在代码生成和通用任务中的潜力。",
+      "ai_tags": [
+        "OpenAI",
+        "Codex",
+        "AI应用"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published_time": "2026-04-16 14:23:50",
+      "raw_content": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-7\">https://www.anthropic.com/news/claude-opus-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47793411\">https://news.ycombinator.com/item?id=47793411</a></p>\n<p>Points: 1744</p>\n<p># Comments: 1255</p>",
+      "ai_summary": "Anthropic发布Claude Opus 4.7模型，作为AI助手的最新版本，提升了性能和功能。",
+      "ai_tags": [
+        "Anthropic",
+        "Claude",
+        "AI助手"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "published_time": "2026-04-16 13:36:27",
+      "raw_content": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.6-35b-a3b\">https://qwen.ai/blog?id=qwen3.6-35b-a3b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792764\">https://news.ycombinator.com/item?id=47792764</a></p>\n<p>Points: 1090</p>\n<p># Comments: 466</p>",
+      "ai_summary": "Qwen3.6-35B-A3B模型开放给所有用户，专注于代理式编码能力，为开发者提供强大的AI工具。",
+      "ai_tags": [
+        "Qwen",
+        "AI编码",
+        "开源模型"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "published_time": "2026-04-16 13:32:13",
+      "raw_content": "<p>Article URL: <a href=\"https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here\">https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792718\">https://news.ycombinator.com/item?id=47792718</a></p>\n<p>Points: 611</p>\n<p># Comments: 639</p>",
+      "ai_summary": "文章探讨未来可能充满谎言和不确定性，引发对技术、社会和伦理方向的反思。",
+      "ai_tags": [
+        "未来展望",
+        "技术伦理",
+        "社会反思"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Cloudflare Email Service",
+      "link": "https://blog.cloudflare.com/email-for-agents/",
+      "published_time": "2026-04-16 13:21:53",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.cloudflare.com/email-for-agents/\">https://blog.cloudflare.com/email-for-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792593\">https://news.ycombinator.com/item?id=47792593</a></p>\n<p>Points: 440</p>\n<p># Comments: 198</p>",
+      "ai_summary": "Cloudflare推出电子邮件服务，专为代理设计，提供安全可靠的邮件解决方案。",
+      "ai_tags": [
+        "Cloudflare",
+        "电子邮件",
+        "代理服务"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "link": "https://blog.cloudflare.com/ai-platform/",
+      "published_time": "2026-04-16 13:17:37",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.cloudflare.com/ai-platform/\">https://blog.cloudflare.com/ai-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792538\">https://news.ycombinator.com/item?id=47792538</a></p>\n<p>Points: 280</p>\n<p># Comments: 68</p>",
+      "ai_summary": "Cloudflare发布AI平台，作为专为代理设计的推理层，支持AI应用部署和优化。",
+      "ai_tags": [
+        "Cloudflare",
+        "AI平台",
+        "推理服务"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Mozilla Thunderbolt",
+      "link": "https://www.thunderbolt.io/",
+      "published_time": "2026-04-16 13:01:36",
+      "raw_content": "<p>Article URL: <a href=\"https://www.thunderbolt.io/\">https://www.thunderbolt.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792368\">https://news.ycombinator.com/item?id=47792368</a></p>\n<p>Points: 351</p>\n<p># Comments: 310</p>",
+      "ai_summary": "Mozilla推出Thunderbolt项目，可能涉及新技术或工具，具体细节未在输入中明确。",
+      "ai_tags": [
+        "Mozilla",
+        "Thunderbolt",
+        "新技术"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "published_time": "2026-04-16 12:13:30",
+      "raw_content": "<p>Article URL: <a href=\"https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262\">https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47791871\">https://news.ycombinator.com/item?id=47791871</a></p>\n<p>Points: 386</p>\n<p># Comments: 281",
+      "ai_summary": "因未受限制的Firebase浏览器密钥被用于Gemini API请求，导致13小时内产生5.4万欧元账单激增。",
+      "ai_tags": [
+        "安全漏洞",
+        "API滥用",
+        "计费问题"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "published_time": "2026-04-16 04:06:39",
+      "raw_content": "<p>Article URL: <a href=\"https://darkbloom.dev\">https://darkbloom.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788542\">https://news.ycombinator.com/item?id=47788542</a></p>\n<p>Points: 481</p>\n<p># Comments: 237</p>",
+      "ai_summary": "Darkbloom项目允许在闲置的Mac电脑上进行私密推理计算。",
+      "ai_tags": [
+        "隐私计算",
+        "分布式计算",
+        "Mac应用"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "published_time": "2026-04-16 03:44:38",
+      "raw_content": "<p>Article URL: <a href=\"https://daedal.io/@thomzane/116410863009847575\">https://daedal.io/@thomzane/116410863009847575</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788424\">https://news.ycombinator.com/item?id=47788424</a></p>\n<p>Points: 378</p>\n<p># Comments: 217</p>",
+      "ai_summary": "自由软件基金会试图联系谷歌，关于有垃圾邮件发送者从Gmail账户发送超过1万封邮件的问题。",
+      "ai_tags": [
+        "垃圾邮件",
+        "Gmail安全",
+        "隐私问题"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "The local LLM ecosystem doesn’t need Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "published_time": "2026-04-16 03:35:11",
+      "raw_content": "<p>Article URL: <a href=\"https://sleepingrobots.com/dreams/stop-using-ollama/\">https://sleepingrobots.com/dreams/stop-using-ollama/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788385\">https://news.ycombinator.com/item?id=47788385</a></p>\n<p>Points: 621</p>\n<p># Comments: 207</p>",
+      "ai_summary": "文章认为本地LLM生态系统不需要Ollama，讨论了替代方案。",
+      "ai_tags": [
+        "本地AI",
+        "Ollama",
+        "开源工具"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "published_time": "2026-04-15 23:36:56",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes\">https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47786791\">https://news.ycombinator.com/item?id=47786791</a></p>\n<p>Points: 313</p>\n<p># Comments: 157</p>",
+      "ai_summary": "YouTube用户现在可以选择将Shorts短视频的时间限制设置为零分钟。",
+      "ai_tags": [
+        "YouTube",
+        "短视频",
+        "用户控制"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "published_time": "2026-04-15 21:48:18",
+      "raw_content": "<p>Article URL: <a href=\"https://www.mcdonalds.co.jp/en/menu/burger/\">https://www.mcdonalds.co.jp/en/menu/burger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785738\">https://news.ycombinator.com/item?id=47785738</a></p>\n<p>Points: 665</p>\n<p># Comments: 302</p>",
+      "ai_summary": "日本麦当劳汉堡照片中的面包都略微倾斜，引发网友讨论。",
+      "ai_tags": [
+        "麦当劳",
+        "营销策略",
+        "视觉设计"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "hacker_news",
+      "title": "ChatGPT for Excel",
+      "link": "https://chatgpt.com/apps/spreadsheets/",
+      "published_time": "2026-04-15 21:21:05",
+      "raw_content": "<p>Article URL: <a href=\"https://chatgpt.com/apps/spreadsheets/\">https://chatgpt.com/apps/spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785397\">https://news.ycombinator.com/item?id=47785397</a></p>\n<p>Points: 326</p>\n<p># Comments: 195</p>",
+      "ai_summary": "ChatGPT推出Excel集成应用，帮助用户处理电子表格数据。",
+      "ai_tags": [
+        "ChatGPT",
+        "Excel",
+        "办公自动化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Why are Flock employees watching our children?",
+      "link": "https://substack.com/home/post/p-193593234",
+      "published_time": "2026-04-15 19:30:52",
+      "raw_content": "<p>Article URL: <a href=\"https://substack.com/home/post/p-193593234\">https://substack.com/home/post/p-193593234</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47784045\">https://news.ycombinator.com/item?id=47784045</a></p>\n<p>Points: 268</p>\n<p># Comments: 50</p>",
+      "ai_summary": "文章质疑Flock公司员工为何在监视儿童，引发隐私担忧。",
+      "ai_tags": [
+        "隐私安全",
+        "儿童保护",
+        "监控技术"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Ask HN: Who is using OpenClaw?",
+      "link": "https://news.ycombinator.com/item?id=47783940",
+      "published_time": "2026-04-15 19:22:10",
+      "raw_content": "<p>I don't use it personally, and neither does anyone in my circle...even though I feel like I'm super plugged into the ai world</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47783940\">https://news.ycombinator.com/item?id=47783940</a></p>\n<p>Points: 326</p>\n<p># Comments: 366</p>",
+      "ai_summary": "Hacker News用户询问谁在使用OpenClaw工具，尽管作者身处AI领域却未见人使用。",
+      "ai_tags": [
+        "OpenClaw",
+        "AI工具",
+        "社区讨论"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "published_time": "2026-04-15 19:06:39",
+      "raw_content": "<p><a href=\"https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html\" rel=\"nofollow\">https://www.nytimes.com/2026/04/15/arts/music/live-nation-an...</a>, <a href=\"https://archive.ph/KA1wV\" rel=\"nofollow\">https://archive.ph/KA1wV</a><p><a href=\"https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict\" rel=\"nofollow\">https://www.theverge.com/policy/912689/live-nation-ticketmas...</a></p>\n<hr />\n<p>Comments URL: <a href=",
+      "ai_summary": "陪审团裁定Live Nation非法垄断票务市场，违反反垄断法。",
+      "ai_tags": [
+        "反垄断",
+        "票务市场",
+        "Live Nation"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "v2ex",
+      "title": "周五了，大家周末准备干啥呢",
+      "link": "https://www.v2ex.com/t/1206651",
+      "published_time": "2026-04-17 07:05:29",
+      "raw_content": "space2020: 今天晚上去买麦当劳整点薯条<br />明天去南京南站南广场买绝味鸭脖的虾尾<br />再买点菜做两天菜<br />然后就宅家看两天金庸武侠电视剧",
+      "ai_summary": "用户分享周末计划：周五晚上买麦当劳薯条，周六去南京南站买绝味鸭脖虾尾，买菜做饭，宅家看金庸武侠电视剧。",
+      "ai_tags": [
+        "生活分享",
+        "周末计划",
+        "休闲娱乐"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "中年单身男人想给自己买个生日礼物，可以买什么?",
+      "link": "https://www.v2ex.com/t/1206617",
+      "published_time": "2026-04-17 06:04:39",
+      "raw_content": "duanxianze: <p>95 年的，马上 31 了</p>",
+      "ai_summary": "95年出生的中年单身男性询问31岁生日礼物建议，寻求购买推荐。",
+      "ai_tags": [
+        "生活咨询",
+        "生日礼物",
+        "中年男性"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "家有老人，看电视直播有啥软件",
+      "link": "https://www.v2ex.com/t/1206544",
+      "published_time": "2026-04-17 02:36:41",
+      "raw_content": "nicking: <p>如题，家里面宽带没有开通电视服务，另外现在就算开通的话，要重新走线才行 [我了解到的是网线和电视线线是两根] 。所以有没有比较稳定的直接通过网络来看电视直播的方式，之前的好几个总是掉线，然后老人很久都不能看电视了，只有等我放假回去了再给他找个新的。</p>",
+      "ai_summary": "用户询问为家中老人提供稳定网络电视直播软件的方法，因宽带未开通电视服务且重新布线不便，寻求可靠解决方案。",
+      "ai_tags": [
+        "技术咨询",
+        "电视直播",
+        "老年人需求"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "买了咸鱼低价 Gemini pro，账号差点被盗。突然发现国内诈骗成本为零",
+      "link": "https://www.v2ex.com/t/1206537",
+      "published_time": "2026-04-17 02:23:41",
+      "raw_content": "finalcut: 先说结论，冲自己的号，改密码后正常用，但总觉得不对劲......<br /><br />过程就是把自己的账密发给卖家，然后在账号中开通身份验证器，手机再接几个验证码，开通了。结果第二天就发现账号再多个国外设备上登录，找卖家沟通，卖家直接来了句改密码就行，问是不是他泄露了密码，结果对方直接来了句你不爽就报警吧，甚至嚣张的把手机号给我了。我试着给当地 110 报警，并提供了他营业执照的地址和姓名，搞笑的是，110 及其不耐烦接警，还没了解情况就跟我说这事管不了，最后反馈的结果是：电话查不到人，营业地址是假的也查不到人，身份证也查不到人。。。。哎，如果真的是搞诈骗，原来成本这么低。。。",
+      "ai_summary": "用户购买低价Gemini Pro账号后遭遇账号被盗风险，卖家泄露密码且态度嚣张，报警后因信息虚假无法处理，感叹国内诈骗成本低。",
+      "ai_tags": [
+        "网络安全",
+        "诈骗经历",
+        "账号安全"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "RAG 难以让人满意啊",
+      "link": "https://www.v2ex.com/t/1206512",
+      "published_time": "2026-04-17 01:39:02",
+      "raw_content": "archxm: <ul>\n<li>\n文档是日常工作的运维知识点。<ul>\n<li>比如设置 ssh 免密登陆、设置 sudo 权限、git 的常用操作、等等。</li>\n<li>暂时用这些文档来，后续想把公司业务流程放进去。</li>\n</ul>\n</li>\n<li>先后试了 obsidian 和 anythingllm ，都不能达到目的。</li>\n<li>我想要的是：我输入一个关键词，它能找到相关文档。</li>\n<li>当然，这是初步需求。</li>\n<li>后续需求，大概是，进行适当联想和总结。</li>\n<li>现状是，比如我让它给我找 ssh 内容，压根就不准。</li>\n<li>我想，现在这些 ai 产品，大概率就是骗投资的。</li>\n<li>\n类似秦国时期的商鞅变法，先做宣传：<ul>\n<li>谁把这根柱子从西门搬到东门，谁就得 10 根金条。</li>\n<li>这种蠢事，就很容易得到宣传，先把气氛搞起来。</li>\n</ul>\n</li>\n<li>我认为， 如今的 ai ，或者说：大模型，确实是可以提升生产力的。</li>\n<li>\n但是，这玩意盈利模式，不清晰。<",
+      "ai_summary": "用户对RAG技术不满意，尝试用其管理运维文档但效果不佳，认为当前AI产品宣传过度但实际应用有限，盈利模式不清晰。",
+      "ai_tags": [
+        "技术讨论",
+        "RAG",
+        "AI应用"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "2026 年了，这个世界还存在互联网精神🥹",
+      "link": "https://www.v2ex.com/t/1206511",
+      "published_time": "2026-04-17 01:37:18",
+      "raw_content": "hellodigua: <p>先说事情起因，我几个月前开发了一个分析聊天记录的软件，当时是在自己的 github 账户下的，也就是 <a href=\"https://github.com/hellodigua/chatlab\" rel=\"nofollow\">hellodigua/chatlab</a>，结果没想到发出去以后有很多用户有这个需求，在不断维护下，Star 到现在也涨到 5700 了。</p>\n<p>于是就想到，这个项目要继续发展下去的话，应该把项目转到组织下更合适一些，不出意外，ChatLab 的组织已经被一个葡萄牙的开发者给注册了，但是它的项目已经 5 年多没有更新了。</p>\n<p>于是尝试给那个开发者的项目下发了一个 issue ，说明了我的项目现状，希望能获取到这个组织。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/2G2C984q.png\" /></p>\n<p>发完之后一个月都没动静，我基本已经死心了，打算迁移到另一个组织下，结果昨天开发者大佬居",
+      "ai_summary": "开发者分享项目ChatLab在GitHub上获得5700星后，尝试迁移到组织下，原组织所有者五年未更新但意外同意转让，体现互联网协作精神。",
+      "ai_tags": [
+        "开源项目",
+        "GitHub",
+        "社区协作"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "分享下最近低价 GPT Codex 的来源(源头)",
+      "link": "https://www.v2ex.com/t/1206503",
+      "published_time": "2026-04-17 01:12:51",
+      "raw_content": "taozheju: <a href=\"https://shop.86gamestore.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://shop.86gamestore.com/</a> 最近泛滥就是因为这个源头下场卖货然后一堆倒卖的 plus7 元<br /><a href=\"https://ferrigpt.asia/\" rel=\"nofollow noopener\" target=\"_blank\">https://ferrigpt.asia/</a> plus 6 元 5x 95 元 20x 160 元（这家 Plus 掉订阅比较多）<br />https://shop.nitro.xin/ xin 渠道散客买不到太低价格 代理 Plus 8 元左右<br />https://makerich.club/ chong 这个渠道不是源头，也是流传最久的渠道 价格散卖 5x 110 元 20x160 左右<br />@<a href=\"https://www.v2ex.com/member/gptnocard_bot\" re",
+      "ai_summary": "用户分享低价GPT Codex的购买来源，包括多个网站和价格信息，指出这些渠道导致市场泛滥。",
+      "ai_tags": [
+        "AI工具",
+        "低价渠道",
+        "市场分享"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "[送码]多角色沉浸式听书 app, 送 20 个订阅，注册留邮箱即可",
+      "link": "https://www.v2ex.com/t/1206495",
+      "published_time": "2026-04-17 00:54:32",
+      "raw_content": "weiwenhao: <p>新版已发布，增加了离线语音克隆功能，优化了离线音色，角色识别现在会按照性别和年龄分配音色。</p>\n<h3>音频实录</h3>\n<p><a href=\"http://assert.nature-lang.cn/jjbook_example.mp4\" rel=\"nofollow\">http://assert.nature-lang.cn/jjbook_example.mp4</a>  (其中韩立音色和旁白都是声音克隆的)，</p>\n<h3>界面展示</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/aI3d6150.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/7qg88ShN.png\" /></p>\n<p>洗澡模式 -&gt; 常亮大字，洗澡的时候放在一边水声太大听不到也能用眼睛看</p>\n<p><img alt",
+      "ai_summary": "开发者发布多角色沉浸式听书app新版，增加离线语音克隆功能，优化音色分配，并送20个订阅码，邀请用户注册留邮箱参与。",
+      "ai_tags": [
+        "App发布",
+        "听书软件",
+        "促销活动"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "程序员历时一年转型成功的一些思考",
+      "link": "https://www.v2ex.com/t/1206456",
+      "published_time": "2026-04-16 15:09:41",
+      "raw_content": "yinglian: <h1>程序员历时一年转型成功的一些思考</h1>\n<p>我是 24 年底拿了大礼包，去年 25 年年初回来工作一个月就又吃了滚蛋套餐，后边到现在基本上一年没做程序员的工作了，快五一了差不多刚好一年，分享一下如何利用 ai 转型的一些心得。</p>\n<h2>修炼过程</h2>\n<p>刚出来第一个路线就是走 SEO ，也进了互联网上比较出名的社区，这里就不说了以免被当成广，社区里都有眼熟的。一开始想试着用 Wordpress 搞点花头，主要是有一位朋友天天跟我洗脑说 WP 怎么怎么牛逼，让我搞，后边我发现了这个牛逼的真实落地场景，后边会说。但我没搞起来，我发现也就普通的一个前后端不分离的网站技术栈。期间还学了 AI prompt 之类的，之前在公司都是 Cursor 这样的工具直出，碰到幻觉也只会破防跟 Cursor 斗气“给我说中文，给我重新生成”之类，系统过了一遍之后加上海外技术栈，Next 、Cloudflare 之类的，基本就上马开始干了。</p>\n<h2>开场即吃瘪</h2>\n<p>参照社区的 SEO 指南，也搞了几个月，先说结论，没搞起来哈哈，一个子没有，",
+      "ai_summary": "程序员分享转型经历：失业后尝试SEO和AI技术，学习海外技术栈如Next.js和Cloudflare，最终利用AI成功转型，但初期SEO尝试未果。",
+      "ai_tags": [
+        "职业转型",
+        "AI应用",
+        "技术学习"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "自家茶叶 26 年新茶上市，评论抽奖",
+      "link": "https://www.v2ex.com/t/1206417",
+      "published_time": "2026-04-16 11:37:43",
+      "raw_content": "kailpony4396: <p>自家茶山产安吉白茶 2026 年新茶上市，自家产茶叶不打催芽剂，品质统一，明前茶雨前茶口粮茶出售，各价位都有，口粮茶低至 200 一斤，另有礼盒出售，联系方式绿泡泡：ricsun0527</p>\n<p>抽奖：评论“安吉白茶”抽三位送 50g 原价 300 一斤的茶叶，另外之前购买过超过 300 元的老客可以领一份试喝装，还有三位领完即止，都是包邮的，抽奖截止时间 4 月 22 日晚 8 点</p>\n<hr />\n<p>备注：欢迎联系，加 v 购买有额外赠送</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/2Etf0CI.jpeg\" /></td>\n<td><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https",
+      "ai_summary": "用户推广自家安吉白茶新茶上市，提供各价位茶叶和礼盒，并举办评论抽奖活动，送三位用户50克茶叶，老客可领试喝装。",
+      "ai_tags": [
+        "产品推广",
+        "茶叶销售",
+        "抽奖活动"
+      ],
+      "ai_importance": 1
     },
     {
       "category": "openai",
@@ -1004,7 +1148,7 @@
       "link": "https://openai.com/index/codex-for-almost-everything",
       "published_time": "2026-04-16 10:00:00",
       "raw_content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "ai_summary": "OpenAI更新Codex应用，为macOS和Windows添加计算机使用、应用内浏览、图像生成、记忆和插件功能，以加速开发者工作流程。",
+      "ai_summary": "Codex应用更新，新增计算机使用、应用内浏览、图像生成、记忆和插件功能，加速开发者工作流程。",
       "ai_tags": [
         "Codex",
         "macOS",
@@ -1034,7 +1178,7 @@
       "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-      "ai_summary": "领先安全公司和企业加入OpenAI的网络安全可信访问计划，使用GPT-5.4-Cyber和1000万美元API资助，以加强全球网络防御。",
+      "ai_summary": "领先安全公司和企业加入OpenAI的网络安全可信访问计划，使用GPT-5.4-Cyber和1000万美元API资助加强全球网络防御。",
       "ai_tags": [
         "网络安全",
         "GPT-5.4-Cyber",
@@ -1049,12 +1193,12 @@
       "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "published_time": "2026-04-15 10:00:00",
       "raw_content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "ai_summary": "OpenAI更新Agents SDK，增加原生沙箱执行和模型原生框架，帮助开发者构建跨文件和工具的安全、长期运行的智能体。",
+      "ai_summary": "OpenAI更新Agents SDK，新增原生沙箱执行和模型原生框架，帮助开发者构建跨文件和工具的安全、长期运行代理。",
       "ai_tags": [
         "Agents SDK",
         "沙箱执行",
-        "智能体开发",
-        "开发者工具"
+        "开发者工具",
+        "AI代理"
       ],
       "ai_importance": 4
     },
@@ -1064,12 +1208,12 @@
       "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "published_time": "2026-04-14 00:00:00",
       "raw_content": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "ai_summary": "OpenAI扩展网络安全可信访问计划，向经过审查的防御者推出GPT-5.4-Cyber，并在AI网络安全能力进步时加强安全防护。",
+      "ai_summary": "OpenAI扩展网络安全可信访问计划，向经过审查的防御者推出GPT-5.4-Cyber，并在AI网络安全能力进步时加强安全保障。",
       "ai_tags": [
         "网络安全",
         "GPT-5.4-Cyber",
         "可信访问",
-        "安全防护"
+        "安全保障"
       ],
       "ai_importance": 4
     },
@@ -1079,7 +1223,7 @@
       "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "published_time": "2026-04-13 06:00:00",
       "raw_content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "ai_summary": "Cloudflare将OpenAI的GPT-5.4和Codex引入Agent Cloud，使企业能够快速、安全地构建、部署和扩展用于现实世界任务的AI智能体。",
+      "ai_summary": "Cloudflare将OpenAI的GPT-5.4和Codex引入Agent Cloud，使企业能够快速、安全地构建、部署和扩展用于实际任务的AI代理。",
       "ai_tags": [
         "Cloudflare",
         "Agent Cloud",
@@ -1094,11 +1238,11 @@
       "link": "https://openai.com/academy/what-is-ai",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-      "ai_summary": "了解AI是什么、如何工作，以及ChatGPT等工具如何使用大语言模型。这是一个清晰、适合初学者的指南，帮助理解人工智能。",
+      "ai_summary": "学习AI基础知识，了解AI是什么、如何工作，以及ChatGPT等工具如何使用大型语言模型。这是一个清晰、适合初学者的指南。",
       "ai_tags": [
         "AI基础",
         "ChatGPT",
-        "大语言模型",
+        "大型语言模型",
         "初学者指南"
       ],
       "ai_importance": 3
@@ -1139,12 +1283,12 @@
       "link": "https://openai.com/academy/financial-services",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "ai_summary": "探索金融服务领域的AI资源，包括提示包、GPTs、指南和工具，帮助机构安全部署和扩展AI。",
+      "ai_summary": "探索金融服务AI资源，包括提示包、GPTs、指南和工具，帮助机构安全部署和扩展AI。",
       "ai_tags": [
         "金融服务",
         "AI资源",
-        "安全部署",
-        "金融科技"
+        "GPTs",
+        "安全部署"
       ],
       "ai_importance": 3
     },
@@ -1156,8 +1300,8 @@
       "raw_content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "ai_summary": "学习如何使用ChatGPT，开始首次对话，探索写作、头脑风暴和解决问题的简单方法。",
       "ai_tags": [
-        "入门指南",
-        "AI工具"
+        "ChatGPT入门",
+        "AI使用"
       ],
       "ai_importance": 3
     },
@@ -1167,10 +1311,10 @@
       "link": "https://openai.com/academy/data-analysis",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "ai_summary": "学习使用ChatGPT分析数据，包括探索数据集、生成洞察、创建可视化，并将发现转化为可操作的决策。",
+      "ai_summary": "学习如何用ChatGPT分析数据，包括探索数据集、生成洞察、创建可视化，并将发现转化为可操作的决策。",
       "ai_tags": [
         "数据分析",
-        "可视化"
+        "AI应用"
       ],
       "ai_importance": 4
     },
@@ -1180,7 +1324,7 @@
       "link": "https://openai.com/academy/sales",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-      "ai_summary": "学习销售团队如何使用ChatGPT研究客户、个性化沟通、管理交易，并改善销售渠道和转化率。",
+      "ai_summary": "学习销售团队如何使用ChatGPT研究客户、个性化沟通、管理交易，并改善销售流程和转化率。",
       "ai_tags": [
         "销售",
         "团队协作"
@@ -1206,10 +1350,10 @@
       "link": "https://openai.com/academy/image-generation",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "ai_summary": "学习使用ChatGPT创建和优化图像，通过清晰提示、迭代设计，在几分钟内生成高质量视觉效果。",
+      "ai_summary": "学习如何使用ChatGPT创建和优化图像，通过清晰的提示迭代设计，在几分钟内生成高质量视觉内容。",
       "ai_tags": [
         "图像生成",
-        "设计"
+        "创意设计"
       ],
       "ai_importance": 4
     },
@@ -1232,7 +1376,7 @@
       "link": "https://openai.com/academy/search-and-deep-research",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "ai_summary": "学习使用ChatGPT进行研究，通过搜索和深度研究获取最新信息、分析来源，并生成结构化洞察。",
+      "ai_summary": "学习如何使用ChatGPT进行研究，通过搜索和深度研究获取最新信息、分析来源，并生成结构化洞察。",
       "ai_tags": [
         "研究",
         "信息分析"
@@ -1247,8 +1391,8 @@
       "raw_content": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
       "ai_summary": "学习如何负责任地使用AI，包括使用ChatGPT等工具时的安全、准确性和透明度最佳实践。",
       "ai_tags": [
-        "AI伦理",
-        "安全使用"
+        "AI安全",
+        "伦理使用"
       ],
       "ai_importance": 5
     },
@@ -1258,7 +1402,7 @@
       "link": "https://openai.com/academy/writing",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "ai_summary": "学习使用ChatGPT进行写作，包括起草、修订和优化内容，确保结构清晰、语气恰当和意图明确。",
+      "ai_summary": "学习如何使用ChatGPT进行写作，包括起草、修订和优化内容，确保结构清晰、语气恰当和意图明确。",
       "ai_tags": [
         "写作",
         "内容创作"
@@ -1271,152 +1415,12 @@
       "link": "https://openai.com/academy/marketing",
       "published_time": "2026-04-10 00:00:00",
       "raw_content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "ai_summary": "学习营销团队如何使用ChatGPT规划活动、生成内容、分析绩效，并加速从想法到执行的进程。",
+      "ai_summary": "学习营销团队如何使用ChatGPT规划活动、生成内容、分析绩效，并更快地从想法转向执行。",
       "ai_tags": [
         "营销",
         "内容策略"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "2026 年了，这个世界还存在互联网精神🥹",
-      "link": "https://www.v2ex.com/t/1206511",
-      "published_time": "2026-04-17 01:37:18",
-      "raw_content": "hellodigua: <p>先说事情起因，我几个月前开发了一个分析聊天记录的软件，当时是在自己的 github 账户下的，也就是 <a href=\"https://github.com/hellodigua/chatlab\" rel=\"nofollow\">hellodigua/chatlab</a>，结果没想到发出去以后有很多用户有这个需求，在不断维护下，Star 到现在也涨到 5700 了。</p>\n<p>于是就想到，这个项目要继续发展下去的话，应该把项目转到组织下更合适一些，不出意外，ChatLab 的组织已经被一个葡萄牙的开发者给注册了，但是它的项目已经 5 年多没有更新了。</p>\n<p>于是尝试给那个开发者的项目下发了一个 issue ，说明了我的项目现状，希望能获取到这个组织。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/2G2C984q.png\" /></p>\n<p>发完之后一个月都没动静，我基本已经死心了，打算迁移到另一个组织下，结果昨天开发者大佬居",
-      "ai_summary": "开发者分享了一个关于互联网精神的故事：他开发的聊天记录分析软件ChatLab在GitHub上获得5700星后，想将项目转移到一个组织下，但发现组织已被一名葡萄牙开发者注册。他尝试联系该开发者，一个月后意外获得回应，对方同意转让组织，体现了开源社区的互助精神。",
-      "ai_tags": [
-        "开源",
-        "GitHub",
-        "互联网精神"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "分享下最近低价 GPT Codex 的来源(源头)",
-      "link": "https://www.v2ex.com/t/1206503",
-      "published_time": "2026-04-17 01:12:51",
-      "raw_content": "taozheju: <a href=\"https://shop.86gamestore.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://shop.86gamestore.com/</a> 最近泛滥就是因为这个源头下场卖货然后一堆倒卖的 plus7 元<br /><a href=\"https://ferrigpt.asia/\" rel=\"nofollow noopener\" target=\"_blank\">https://ferrigpt.asia/</a> plus 6 元 5x 95 元 20x 160 元（这家 Plus 掉订阅比较多）<br />https://shop.nitro.xin/ xin 渠道散客买不到太低价格 代理 Plus 8 元左右<br />https://makerich.club/ chong 这个渠道不是源头，也是流传最久的渠道 价格散卖 5x 110 元 20x160 左右<br />@<a href=\"https://www.v2ex.com/member/gptnocard_bot\" re",
-      "ai_summary": "用户分享了低价GPT Codex的来源，包括多个网站如shop.86gamestore.com和ferrigpt.asia，提供GPT Plus订阅的低价选项，价格从6元到160元不等，并提到这些渠道导致市场泛滥和倒卖现象。",
-      "ai_tags": [
-        "GPT",
-        "低价",
-        "订阅"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "程序员历时一年转型成功的一些思考",
-      "link": "https://www.v2ex.com/t/1206456",
-      "published_time": "2026-04-16 15:09:41",
-      "raw_content": "yinglian: <h1>程序员历时一年转型成功的一些思考</h1>\n<p>我是 24 年底拿了大礼包，去年 25 年年初回来工作一个月就又吃了滚蛋套餐，后边到现在基本上一年没做程序员的工作了，快五一了差不多刚好一年，分享一下如何利用 ai 转型的一些心得。</p>\n<h2>修炼过程</h2>\n<p>刚出来第一个路线就是走 SEO ，也进了互联网上比较出名的社区，这里就不说了以免被当成广，社区里都有眼熟的。一开始想试着用 Wordpress 搞点花头，主要是有一位朋友天天跟我洗脑说 WP 怎么怎么牛逼，让我搞，后边我发现了这个牛逼的真实落地场景，后边会说。但我没搞起来，我发现也就普通的一个前后端不分离的网站技术栈。期间还学了 AI prompt 之类的，之前在公司都是 Cursor 这样的工具直出，碰到幻觉也只会破防跟 Cursor 斗气“给我说中文，给我重新生成”之类，系统过了一遍之后加上海外技术栈，Next 、Cloudflare 之类的，基本就上马开始干了。</p>\n<h2>开场即吃瘪</h2>\n<p>参照社区的 SEO 指南，也搞了几个月，先说结论，没搞起来哈哈，一个子没有，",
-      "ai_summary": "程序员分享了一年转型成功的经历：在失业后尝试SEO和AI技术，学习了Next.js、Cloudflare等工具，最终通过AI辅助成功转型，强调了持续学习和适应新技术的重要性。",
-      "ai_tags": [
-        "转型",
-        "AI",
-        "程序员"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "自家茶叶 26 年新茶上市，评论抽奖",
-      "link": "https://www.v2ex.com/t/1206417",
-      "published_time": "2026-04-16 11:37:43",
-      "raw_content": "kailpony4396: <p>自家茶山产安吉白茶 2026 年新茶上市，自家产茶叶不打催芽剂，品质统一，明前茶雨前茶口粮茶出售，各价位都有，口粮茶低至 200 一斤，另有礼盒出售，联系方式绿泡泡：ricsun0527</p>\n<p>抽奖：评论“安吉白茶”抽三位送 50g 原价 300 一斤的茶叶，另外之前购买过超过 300 元的老客可以领一份试喝装，还有三位领完即止，都是包邮的，抽奖截止时间 4 月 22 日晚 8 点</p>\n<hr />\n<p>备注：欢迎联系，加 v 购买有额外赠送</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/2Etf0CI.jpeg\" /></td>\n<td><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https",
-      "ai_summary": "用户推广自家安吉白茶2026年新茶上市，提供不同价位的茶叶，包括口粮茶和礼盒，并举办评论抽奖活动，赠送茶叶试喝装，鼓励联系购买。",
-      "ai_tags": [
-        "茶叶",
-        "安吉白茶",
-        "抽奖"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "公司裁员，目前没有工作。想试试摆摊，做一个移动鲜啤打酒车",
-      "link": "https://www.v2ex.com/t/1206375",
-      "published_time": "2026-04-16 08:01:13",
-      "raw_content": "linmilu: 已经失业两个月了，一直按照之前的方向投简历，但基本没有回应。目前虽然还在领取失业金，但心里难免有些焦虑。<br /><br />最近观察到一个情况：我们楼下有一条街，晚上非常热闹，两边有不少烧烤、炒饭、鸭货、水果等摊位。我也特地问过商贩关于城管的问题，大家普遍反馈管理相对宽松。这条街快到尽头的位置还有一家规模不小的固定烧烤店，而且这里也是附近居民取快递的必经之路——因为周边小区门口没有驿站，大多数人都要去隔壁小区门口取件。<br /><br />观察了一段时间后发现，这条街上没有专门卖啤酒的摊位。<br /><br />所以我在想，如果投入大概 2 万元，做一个打酒的三轮车，在这里摆摊卖啤酒，这个思路是否可行？不过我之前没有任何摆摊经验，也不太清楚实际操作中会遇到哪些问题。<br /><br />有没有有经验的朋友，可以给点建议或者提醒一些容易踩的坑？不胜感激。<br />大家针对这个想法，有没有什么建议或意见，小弟非常感谢<br /><br />大致就是图片中的样子<br /><a href=\"https://i.imgur.com/5esNv11.png\" rel",
-      "ai_summary": "失业用户考虑投资2万元制作移动鲜啤打酒车摆摊卖啤酒，观察到一条热闹的街道没有啤酒摊位，寻求关于摆摊可行性和潜在问题的建议。",
-      "ai_tags": [
-        "摆摊",
-        "失业",
-        "创业"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "你们的父母爱你们吗",
-      "link": "https://www.v2ex.com/t/1206341",
-      "published_time": "2026-04-16 06:47:08",
-      "raw_content": "NullIsLife: <p>有了孩子之后，我会想到小时候的事情，感觉我父母可能没有那么爱我</p>\n<p>有小孩之后，会关心她在学校有没有交到好朋友，有没有人欺负她，有什么好吃的带她去吃，有什么好玩的带她去玩...</p>\n<p>然后回忆小时候，我爸基本没怎么和我说过话，基本没什么沟通。\n我妈从小就告诉我别享乐，家里没钱之类的，从来也没给过我零花钱，从小我就觉得家里很拮据(其实家里还可以)。</p>\n<p>我买了一辆车放在上海，开的不多，我妈让我把车给我爸，为了这个老婆还和我吵了一顿。\n现在每次回家他们总是带我去奶奶姥姥家，有意无意的告诉我要孝敬老人，感觉我生来就是他们养儿防老的工具。</p>\n<p>想问问 v 友们，你父母爱你们吗？你们如何感受到的。</p>",
-      "ai_summary": "用户反思父母的爱，通过对比自己作为父母对孩子的关心与童年时父母的冷淡沟通和经济压力，质疑父母是否真正爱自己，并询问其他用户的感受。",
-      "ai_tags": [
-        "家庭",
-        "父母",
-        "情感"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "爱他美也爆了，有没有推荐新生儿能喝的奶粉",
-      "link": "https://www.v2ex.com/t/1206339",
-      "published_time": "2026-04-16 06:39:20",
-      "raw_content": "luckzk: 给新生儿预备的，担心刚生没下奶",
-      "ai_summary": "用户因爱他美奶粉问题，寻求新生儿能喝的奶粉推荐，担心新生儿出生后没奶的情况。",
-      "ai_tags": [
-        "奶粉",
-        "新生儿",
-        "推荐"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "内存减产,涨价的真正主要原因不是 AI,而是内存物理接口将发生天翻地覆的变化",
-      "link": "https://www.v2ex.com/t/1206337",
-      "published_time": "2026-04-16 06:28:45",
-      "raw_content": "mrzx: <p>我们常见的内存通过插槽来增加或减少内存这个设计</p>\n<p>DIMM 物理接口  是从从 1990 年代用到现在   我人生第一台电脑就是 SDRAM 开始  到现在的 ddr1 ddr2,ddr3,ddr4,ddr5  都是用的 DIMM 物理接口这个设计,只是因为防呆设计,内存条每个豁口位置不一样,防止笨蛋插错.</p>\n<p>但到明天 2027 年 DDR6 内存开始普及,这一切都会发生巨大变化</p>\n<p>DDR6 要跑到 8800-17600 MT/s 这个原始的物理设计,DIMM 插槽已经无法满足了,是物理规律不允许了\n简化点来说,要达到这个频率,还用 DIMM 这种原始插槽设计,会导致一堆问题产生.</p>\n<p>以前是机械硬盘拖后腿,大概固态普及花了很多年了</p>\n<p>现在是内存的原始设计要拖后腿了...</p>\n<p>咋办?\n换物理接触形式呗.\n1.以后主板集成内存,类似苹果的统一内存架构,不够大部分消费者不会认可的...那以后还怎么扩容内存\n2.发明一种新的内存物理接口规范,所以现在有了 CAMM2</p>\n<p>那好,如果现在就开始普及 ",
-      "ai_summary": "讨论内存减产和涨价的原因，指出DDR6内存将带来物理接口的重大变化，如从DIMM转向CAMM2或集成内存，以适应更高频率需求，这可能导致当前内存设计过时。",
-      "ai_tags": [
-        "内存",
-        "DDR6",
-        "技术"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "分享一下自己身上出现过哪些重大线上事故",
-      "link": "https://www.v2ex.com/t/1206336",
-      "published_time": "2026-04-16 06:25:57",
-      "raw_content": "fromMars1130:",
-      "ai_summary": "用户邀请分享个人经历过的重大线上事故，内容为空，可能是一个开放性问题等待回复。",
-      "ai_tags": [
-        "事故",
-        "线上",
-        "分享"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "老了在养老院会不会挨打跟什么有关系？",
-      "link": "https://www.v2ex.com/t/1206326",
-      "published_time": "2026-04-16 05:50:52",
-      "raw_content": "alogbycat: <p>午休时候突然想到的，是有孝顺的儿女经常探望？有没有钱送更高级的养老院？生活能不能自理？性格/人缘好不好？</p>",
-      "ai_summary": "用户思考老年人在养老院是否会挨打，探讨影响因素如子女探望频率、经济能力、自理能力和性格等。",
-      "ai_tags": [
-        "养老院",
-        "老年",
-        "社会问题"
-      ],
-      "ai_importance": 3
     }
   ]
 }
