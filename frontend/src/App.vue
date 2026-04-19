@@ -2,6 +2,7 @@
 import { onMounted } from 'vue'
 
 import CategoryCard from '@/components/CategoryCard.vue'
+import CategoryCardSkeleton from '@/components/CategoryCardSkeleton.vue'
 import TopBar from '@/components/TopBar.vue'
 import { useNewsBoard } from '@/hooks/useNewsBoard'
 import { useTheme } from '@/hooks/useTheme'
@@ -19,7 +20,9 @@ onMounted(async () => {
   <div class="dashboard">
     <TopBar :last-updated="lastUpdatedLabel" :theme="theme" @toggle-theme="toggleTheme" />
 
-    <main v-if="loading" class="state-card">正在加载数据...</main>
+    <main v-if="loading" class="grid-board">
+      <CategoryCardSkeleton v-for="index in 6" :key="`skeleton-${index}`" />
+    </main>
     <main v-else-if="errorMessage" class="state-card state-error">{{ errorMessage }}</main>
     <main v-else class="grid-board">
       <CategoryCard v-for="category in groupedCategories" :key="category.key" :category="category" />
