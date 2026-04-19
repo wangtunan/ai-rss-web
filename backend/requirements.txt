@@ -4,3 +4,8 @@ feedparser
 openai
 pyyaml
 tzdata
+requests
+fastapi
+sqlalchemy
+alembic
+psycopg[binary]
