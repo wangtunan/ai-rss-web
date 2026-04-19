@@ -1,11 +1,5 @@
 name: Daily News Update
 
-on:
-  schedule:
-    - cron: '30 0 * * *'
-    - cron: '30 8 * * *'
-  workflow_dispatch:
-
 jobs:
   run-python:
     runs-on: ubuntu-latest

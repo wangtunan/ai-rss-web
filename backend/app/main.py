@@ -1,10 +1,22 @@
 from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
 from datetime import datetime
 
 from app.db.session import SessionLocal
 from app.repositories.news_repository import list_news_items
 
 app = FastAPI(title="AI RSS API", version="0.1.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "https://ai-rss-web.vercel.app/"
+    ],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/health")
 def health_check() -> dict[str, bool]:
