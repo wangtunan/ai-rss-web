@@ -3,8 +3,8 @@ import type { CategoryMeta } from '@/types/news'
 export const MAX_ITEMS_PER_CATEGORY = 10
 
 export const SORT_CATEGORY_KEYS = [
-  'openai', 'hugging_face', 'google_ai',
-  'v2ex', 'hacker_news', 'github'
+  'openai', 'hugging_face', 'hacker_news',
+  'v2ex', 'google_ai', 'github'
 ]
 
 export const CATEGORY_META: Record<string, CategoryMeta> = {
