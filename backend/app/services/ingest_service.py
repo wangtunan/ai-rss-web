@@ -6,6 +6,7 @@ from app.repositories.news_repository import save_news_items
 from app.services.feed_service import parse_feeds
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
+from app.services.raw_backup_service import backup_entries, is_raw_backup_enabled
 
 
 def _attach_source_name(entries: list[dict], sources: list[dict]) -> list[dict]:
@@ -55,6 +56,10 @@ def run_ingest(max_entries: int = 20) -> dict:
     raw_entries = _attach_source_name(raw_entries, sources)
     summarized_entries = summary_entries(raw_entries)
     print(f"✅ 摘要完成，共 {len(summarized_entries)} 条")
+
+    if is_raw_backup_enabled():
+        print("💾 正在备份摘要数据...")
+        backup_entries(summarized_entries)
 
     print("💾 正在写入数据库（自动去重）...")
     session: Session = SessionLocal()

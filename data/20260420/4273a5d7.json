@@ -1,0 +1,1992 @@
+[
+  {
+    "category": "github",
+    "title": "Building an emoji list generator with the GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+    "published_time": "2026-04-17 18:00:00",
+    "raw_content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "在Rubber Duck Thursday直播中，展示了如何使用GitHub Copilot CLI构建表情符号列表生成器。",
+    "ai_tags": [
+      "GitHub Copilot",
+      "CLI",
+      "开发工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Bringing more transparency to GitHub’s status page",
+    "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+    "published_time": "2026-04-17 16:00:00",
+    "raw_content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub状态页面将提供更具体的数据，增强平台健康状况的透明度。",
+    "ai_tags": [
+      "GitHub",
+      "状态页面",
+      "透明度"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "How GitHub uses eBPF to improve deployment safety",
+    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub利用eBPF技术检测和防止部署工具中的循环依赖，提升部署安全性。",
+    "ai_tags": [
+      "GitHub",
+      "eBPF",
+      "部署安全"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "Build a personal organization command center with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+    "published_time": "2026-04-15 17:00:00",
+    "raw_content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "一位GitHub工程师分享了如何使用GitHub Copilot CLI构建个人组织命令中心，并探讨AI在开发过程中的支持作用。",
+    "ai_tags": [
+      "GitHub Copilot",
+      "CLI",
+      "生产力工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub更新开发者政策，涉及中介责任、版权和透明度，并公开2025年全年数据。",
+    "ai_tags": [
+      "GitHub",
+      "政策更新",
+      "透明度"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "github",
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+    "published_time": "2026-04-14 18:17:59",
+    "raw_content": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHu",
+    "ai_summary": "通过GitHub Secure Code Game的五个渐进挑战，学习发现和利用现实世界中的AI代理漏洞，提升安全技能。",
+    "ai_tags": [
+      "GitHub",
+      "AI安全",
+      "游戏学习"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "How exposed is your code? Find out in minutes—for free",
+    "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+    "published_time": "2026-04-14 15:00:00",
+    "raw_content": "<p>The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/\">How exposed is your code? Find out in minutes—for free</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "新的代码安全风险评估工具提供一键查看组织内漏洞的功能，免费且快速。",
+    "ai_tags": [
+      "GitHub",
+      "代码安全",
+      "风险评估"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "GitHub for Beginners: Getting started with GitHub Pages",
+    "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+    "published_time": "2026-04-13 15:00:00",
+    "raw_content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "初学者指南：学习如何使用GitHub Pages为任何仓库创建免费网站。",
+    "ai_tags": [
+      "GitHub Pages",
+      "初学者",
+      "网站创建"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+    "published_time": "2026-04-10 16:00:00",
+    "raw_content": "<p>GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/\">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "初学者指南：逐步教程介绍如何开始使用GitHub Copilot CLI。",
+    "ai_tags": [
+      "GitHub Copilot",
+      "CLI",
+      "初学者"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "GitHub availability report: March 2026",
+    "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+    "published_time": "2026-04-09 02:21:17",
+    "raw_content": "<p>In March, we experienced four incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-march-2026/\">GitHub availability report: March 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "2026年3月，GitHub经历了四次导致服务性能下降的事件，并发布了可用性报告。",
+    "ai_tags": [
+      "GitHub",
+      "可用性报告",
+      "服务事件"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.5",
+    "link": "https://blog.vuejs.org/posts/vue-3-5",
+    "published_time": "2024-09-01 00:00:00",
+    "raw_content": "<p>Today we are excited to announce the release of Vue 3.5 &quot;Tengen Toppa Gurren Lagann&quot;!</p>\n<p>This minor release contains no breaking changes and includes both internal improvements and useful new features. We will cover some highlights in this blog post - for a full list of changes and new features, please consult <a href=\"https://github.com/vuejs/core/blob/main/CHANGELOG.md\" rel=\"noreferrer\" target=\"_blank\">the full changelog on GitHub</a>.</p>",
+    "ai_summary": "Vue 3.5 \"Tengen Toppa Gurren Lagann\" 版本发布，这是一个次要版本更新，没有破坏性变更，包含内部改进和有用的新功能。",
+    "ai_tags": [
+      "Vue.js",
+      "版本发布",
+      "前端框架"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing VitePress 1.0",
+    "link": "https://blog.vuejs.org/posts/vitepress-1.0",
+    "published_time": "2024-03-21 00:00:00",
+    "raw_content": "<img alt=\"vitepress logo\" src=\"https://vitepress.dev/vitepress-logo-large.webp\" style=\"width: 256px; margin: 2em auto;\" />\n<p>Today we are happy to announce the (long overdue) 1.0 release of <a href=\"https://vitepress.dev/\" rel=\"noreferrer\" target=\"_blank\">VitePress</a>!</p>\n<p>VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pag",
+    "ai_summary": "VitePress 1.0 正式发布，这是一个静态站点生成器，专为构建快速、内容为中心的网站设计，支持Markdown内容生成静态HTML页面。",
+    "ai_tags": [
+      "VitePress",
+      "静态站点生成器",
+      "前端工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.4",
+    "link": "https://blog.vuejs.org/posts/vue-3-4",
+    "published_time": "2023-12-28 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.4 &quot;🏀 Slam Dunk&quot;!</p>\n<p>This release includes some substantial internal improvements - most notably a rewritten template parser that is 2x faster, and a refactored reactivity system that makes effect triggering more accurate and efficient. It also packs a number of quality-of-life API improvements, including the stabilization of <code>defineModel</code> and a new same-name shorthand when binding props.</p>\n<p>This post provides an",
+    "ai_summary": "Vue 3.4 \"🏀 Slam Dunk\" 版本发布，包含重大内部改进：模板解析器速度提升2倍，重构的响应式系统更准确高效，并提供了多项API改进。",
+    "ai_tags": [
+      "Vue.js",
+      "版本发布",
+      "性能优化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2 is Approaching End Of Life",
+    "link": "https://blog.vuejs.org/posts/vue-2-eol",
+    "published_time": "2023-12-15 00:00:00",
+    "raw_content": "<p>With 2024 almost upon us, we would like to take this opportunity to remind the Vue community that Vue 2 will reach End of Life (EOL) on December 31st, 2023.</p>\n<p>Vue 2.0 was released more than 7 years ago in 2016. It was a major milestone in Vue's journey of becoming a mainstream framework. Many current Vue users started using Vue during the Vue 2 era, and many great things have been built with it.</p>\n<p>However, active maintenance of two major versions in parallel isn't sustainable for us",
+    "ai_summary": "Vue 2 将于2023年12月31日达到生命周期终止，Vue团队提醒社区注意版本迁移计划。",
+    "ai_tags": [
+      "Vue.js",
+      "生命周期终止",
+      "版本迁移"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.3",
+    "link": "https://blog.vuejs.org/posts/vue-3-3",
+    "published_time": "2023-05-11 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.3 &quot;Rurouni Kenshin&quot;!</p>\n<p>This release is focused on developer experience improvements - in particular, SFC <code>&lt;script setup&gt;</code> usage with TypeScript. Together with the 1.6 release of <a href=\"https://github.com/vuejs/language-tools/\" rel=\"noreferrer\" target=\"_blank\">Vue Language Tools</a> (previously known as Volar), we have resolved many long-standing pain points when using Vue with TypeScript.</p>\n<p>This post p",
+    "ai_summary": "Vue 3.3 \"Rurouni Kenshin\" 版本发布，专注于开发者体验改进，特别是SFC <script setup>与TypeScript的使用。",
+    "ai_tags": [
+      "Vue.js",
+      "版本发布",
+      "TypeScript",
+      "开发者体验"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Volar: a New Beginning",
+    "link": "https://blog.vuejs.org/posts/volar-a-new-beginning",
+    "published_time": "2023-02-08 00:00:00",
+    "raw_content": "<p>Most users of Volar know it as the official Vue.js VSCode extension. It started as a personal project when the official recommendation was still Vetur, and over time got adopted as the new official extension due to improved architecture and performance.</p>\n<p>As a project created to improve the quality of life for developers, we spent over two years before <a href=\"https://blog.vuejs.org/posts/volar-1.0.html\" rel=\"noreferrer\" target=\"_blank\">reaching 1.0</a>, and have been continuously shipp",
+    "ai_summary": "Volar项目回顾：从个人项目发展为官方Vue.js VSCode扩展，致力于提升开发者生活质量。",
+    "ai_tags": [
+      "Volar",
+      "VSCode扩展",
+      "开发者工具"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "vue_blog",
+    "title": "2022 Year In Review",
+    "link": "https://blog.vuejs.org/posts/2022-year-in-review",
+    "published_time": "2023-01-01 00:00:00",
+    "raw_content": "<p>Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023.</p>",
+    "ai_summary": "Vue团队回顾2022年发展，展望2023年计划，向Vue社区致以新年问候。",
+    "ai_tags": [
+      "Vue.js",
+      "年度回顾",
+      "社区"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "vue_blog",
+    "title": "On Escape's Vue 2 to Svelte Migration",
+    "link": "https://blog.vuejs.org/posts/on-migration",
+    "published_time": "2022-12-05 00:00:00",
+    "raw_content": "<p>Recently, folks at Escape shared a <a href=\"https://escape.tech/blog/from-vue2-to-svelte/\" rel=\"noreferrer\" target=\"_blank\">blog post</a> talking about their migration from Vue 2 to Svelte, and compared Vue 3 with Svelte. We found that the article contained a number of inaccuracies. In this post, we will share some thoughts from our perspective and hope to clarify the potential misconceptions the post could give rise to.</p>",
+    "ai_summary": "Vue团队回应Escape公司从Vue 2迁移到Svelte的博客文章，指出其中存在不准确之处并澄清相关误解。",
+    "ai_tags": [
+      "Vue.js",
+      "Svelte",
+      "框架比较",
+      "技术讨论"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "vue_blog",
+    "title": "Volar 1.0 \"Nika\" Released!",
+    "link": "https://blog.vuejs.org/posts/volar-1.0",
+    "published_time": "2022-10-10 00:00:00",
+    "raw_content": "<p>We are happy to announce that we have released v1.0 of Volar, the official IDE/TS tooling support for Vue! 🎉</p>\n<p>This major version ships with tons of improvements across the board. In addition to improving UX, performance, and package size, we also released Plugin API v1 and refactored the core code to be framework-agnostic.</p>\n<p>注：結尾附有中文版本 (There is Chinese version of this post at the end)。</p>",
+    "ai_summary": "Volar 1.0 \"Nika\" 正式发布，这是Vue官方IDE/TypeScript工具支持，包含全方位改进和框架无关的核心代码重构。",
+    "ai_tags": [
+      "Volar",
+      "版本发布",
+      "开发者工具",
+      "TypeScript"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2.7 \"Naruto\" Released",
+    "link": "https://blog.vuejs.org/posts/vue-2-7-naruto",
+    "published_time": "2022-07-01 00:00:00",
+    "raw_content": "<p align=\"center\">\n  <img alt=\"naruto-vue-logo\" height=\"128px\" src=\"https://user-images.githubusercontent.com/499550/176823239-f59d75de-1d24-4b2d-b04b-fcc95db2903e.png\" width=\"300\" />\n</p>\n<p>Today we are happy to announce that Vue 2.7 &quot;Naruto&quot; has been released!</p>",
+    "ai_summary": "Vue 2.7 \"Naruto\" 版本发布，这是Vue 2系列的一个重要更新版本。",
+    "ai_tags": [
+      "Vue.js",
+      "版本发布",
+      "Vue 2"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2.7 is Now in Beta",
+    "link": "https://blog.vuejs.org/posts/vue-2-7-beta",
+    "published_time": "2022-06-20 00:00:00",
+    "raw_content": "<p>We are happy to announce that Vue 2.7 is now in beta.</p>",
+    "ai_summary": "Vue 2.7 版本现已进入测试阶段。",
+    "ai_tags": [
+      "Vue",
+      "版本发布",
+      "测试版"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 3 as the New Default",
+    "link": "https://blog.vuejs.org/posts/vue-3-as-the-new-default",
+    "published_time": "2022-01-20 00:00:00",
+    "raw_content": "<p>TL;DR: Vue 3 is now the new default version as of <strong>Monday, February 7, 2022</strong>!</p>\n<p>Make sure to read the <a href=\"https://blog.vuejs.org/posts/vue-3-as-the-new-default.html#potential-required-actions\">Potential Required Actions</a> section to see if you need to make certain changes before the switch to avoid breakage.</p>",
+    "ai_summary": "Vue 3 自2022年2月7日起成为新的默认版本，建议开发者查看相关操作以避免兼容性问题。",
+    "ai_tags": [
+      "Vue",
+      "版本更新",
+      "默认版本"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 3.2 Released!",
+    "link": "https://blog.vuejs.org/posts/vue-3-2",
+    "published_time": "2021-08-05 00:00:00",
+    "raw_content": "<p>We are excited to announce the release of Vue.js 3.2 &quot;Quintessential Quintuplets&quot;! This release includes many significant new features and performance improvements, and contains no breaking changes.</p>",
+    "ai_summary": "Vue.js 3.2 \"Quintessential Quintuplets\" 版本发布，包含多项新功能和性能改进，无破坏性变更。",
+    "ai_tags": [
+      "Vue",
+      "版本发布",
+      "性能改进"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Reflections for 2020-2021",
+    "link": "https://blog.vuejs.org/posts/hello-2021",
+    "published_time": "2021-01-11 00:00:00",
+    "raw_content": "<p>With a new year upon us, we also have a new blog! In this post, we would like to take a look back at some of the highlights from 2020, as well as some ideas we have for 2021.</p>",
+    "ai_summary": "回顾2020年的亮点，并展望2021年的计划。",
+    "ai_tags": [
+      "Vue",
+      "年度回顾",
+      "展望"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.0 \"One Piece\"",
+    "link": "https://blog.vuejs.org/posts/vue-3-one-piece",
+    "published_time": "2020-09-18 00:00:00",
+    "raw_content": "<p align=\"center\">\n  <img alt=\"one-piece-logo\" height=\"177px\" src=\"https://user-images.githubusercontent.com/499550/93624428-53932780-f9ae-11ea-8d16-af949e16a09f.png\" width=\"200\" />\n</p>\n<p>Today we are proud to announce the official release of Vue.js 3.0 &quot;One Piece&quot;. This new major version of the framework provides improved performance, smaller bundle sizes, better TypeScript integration, new APIs for tackling large scale use cases, and a solid foundation for long-term future iteratio",
+    "ai_summary": "Vue.js 3.0 \"One Piece\" 正式发布，提供性能提升、更小的包体积、更好的TypeScript集成等新特性。",
+    "ai_tags": [
+      "Vue",
+      "版本发布",
+      "性能优化"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hugging_face",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "published_time": "2026-04-17 16:17:55",
+    "raw_content": "",
+    "ai_summary": "使用合成数据构建快速的多语言OCR模型。",
+    "ai_tags": [
+      "OCR",
+      "多语言",
+      "合成数据"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "link": "https://huggingface.co/blog/ecom-rlve",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Ecom-RLVE：为电子商务对话代理提供自适应可验证环境。",
+    "ai_tags": [
+      "电子商务",
+      "对话代理",
+      "自适应环境"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "The PR you would have opened yourself",
+    "link": "https://huggingface.co/blog/transformers-to-mlx",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "关于将Transformers迁移到MLX的博客文章。",
+    "ai_tags": [
+      "Transformers",
+      "MLX",
+      "迁移"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hugging_face",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+    "ai_tags": [
+      "多模态",
+      "Sentence Transformers",
+      "模型训练"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "published_time": "2026-04-15 12:07:25",
+    "raw_content": "",
+    "ai_summary": "深入探讨VAKRA：代理的推理、工具使用和失败模式分析。",
+    "ai_tags": [
+      "VAKRA",
+      "代理",
+      "推理分析"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "link": "https://huggingface.co/blog/Hcompany/holotab",
+    "published_time": "2026-04-15 09:25:20",
+    "raw_content": "",
+    "ai_summary": "HCompany推出HoloTab，一款AI浏览器伴侣，旨在提升浏览体验。",
+    "ai_tags": [
+      "AI",
+      "浏览器",
+      "HCompany"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "link": "https://huggingface.co/blog/waypoint-1-5",
+    "published_time": "2026-04-09 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Waypoint-1.5发布，为日常GPU提供更高保真度的交互式世界模拟。",
+    "ai_tags": [
+      "交互式世界",
+      "GPU",
+      "模拟"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "published_time": "2026-04-09 00:00:00",
+    "raw_content": "",
+    "ai_summary": "介绍多模态嵌入和重排序模型，结合Sentence Transformers技术。",
+    "ai_tags": [
+      "多模态",
+      "嵌入",
+      "重排序",
+      "Sentence Transformers"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "published_time": "2026-04-08 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Safetensors加入PyTorch基金会，促进模型安全存储的标准化。",
+    "ai_tags": [
+      "Safetensors",
+      "PyTorch",
+      "基金会",
+      "安全存储"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "link": "https://huggingface.co/blog/gemma4",
+    "published_time": "2026-04-02 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Gemma 4发布，提供前沿的多模态智能，支持设备端运行。",
+    "ai_tags": [
+      "Gemma",
+      "多模态",
+      "设备端",
+      "智能"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hugging_face",
+    "title": "Falcon Perception",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "published_time": "2026-04-01 07:13:20",
+    "raw_content": "",
+    "ai_summary": "Falcon Perception推出，专注于感知技术的AI模型。",
+    "ai_tags": [
+      "Falcon",
+      "感知",
+      "AI模型"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Any Custom Frontend with Gradio's Backend",
+    "link": "https://huggingface.co/blog/introducing-gradio-server",
+    "published_time": "2026-04-01 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Gradio后端支持任何自定义前端，增强开发灵活性。",
+    "ai_tags": [
+      "Gradio",
+      "后端",
+      "自定义前端",
+      "开发"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "published_time": "2026-03-31 15:10:41",
+    "raw_content": "",
+    "ai_summary": "Granite 4.0 3B Vision发布，为企业文档提供紧凑的多模态智能解决方案。",
+    "ai_tags": [
+      "Granite",
+      "多模态",
+      "企业文档",
+      "智能"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+    "published_time": "2026-03-31 08:23:44",
+    "raw_content": "",
+    "ai_summary": "以165美元成本训练跨25个物种的mRNA语言模型，推动生物信息学发展。",
+    "ai_tags": [
+      "mRNA",
+      "语言模型",
+      "物种",
+      "生物信息学"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "link": "https://huggingface.co/blog/trl-v1",
+    "published_time": "2026-03-31 00:00:00",
+    "raw_content": "",
+    "ai_summary": "TRL v1.0发布，作为后训练库，旨在适应快速发展的AI领域。",
+    "ai_tags": [
+      "TRL",
+      "后训练",
+      "库",
+      "AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Liberate your OpenClaw",
+    "link": "https://huggingface.co/blog/liberate-your-openclaw",
+    "published_time": "2026-03-27 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Hugging Face发布博客文章，介绍如何解放OpenClaw工具，可能涉及开源或优化使用。",
+    "ai_tags": [
+      "Hugging Face",
+      "OpenClaw",
+      "开源工具"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hugging_face",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "published_time": "2026-03-24 02:01:52",
+    "raw_content": "",
+    "ai_summary": "Hugging Face推出评估语音代理的新框架EVA，旨在提升语音AI系统的性能评估标准。",
+    "ai_tags": [
+      "Hugging Face",
+      "语音代理",
+      "评估框架"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "published_time": "2026-03-20 19:38:16",
+    "raw_content": "",
+    "ai_summary": "Hugging Face博客介绍如何在一天内构建领域特定的嵌入模型，利用NVIDIA技术进行微调。",
+    "ai_tags": [
+      "Hugging Face",
+      "嵌入模型",
+      "领域特定",
+      "NVIDIA"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "published_time": "2026-03-17 16:37:55",
+    "raw_content": "",
+    "ai_summary": "Hugging Face发布2026年春季开源状态报告，总结平台上的开源项目进展和趋势。",
+    "ai_tags": [
+      "Hugging Face",
+      "开源状态",
+      "2026年春季"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hugging_face",
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "published_time": "2026-03-17 12:33:39",
+    "raw_content": "",
+    "ai_summary": "Hugging Face推出Holotron-12B，一个高吞吐量的计算机使用代理，旨在提升自动化效率。",
+    "ai_tags": [
+      "Hugging Face",
+      "Holotron-12B",
+      "计算机代理",
+      "高吞吐量"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295674",
+    "published_time": "2026-02-04 01:17:18",
+    "raw_content": "<div><p>在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。</p><p>长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。</p><p>公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。</p><p>长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。</p><p>负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认",
+    "ai_summary": "巴拿马最高法院裁定长和子公司运营巴拿马运河港口合同违宪，长和强烈反对并启动仲裁程序。",
+    "ai_tags": [
+      "长和",
+      "巴拿马",
+      "仲裁",
+      "国际纠纷"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "浙江夫妇吃网购娃娃菜中毒案反转 实为二人合谋骗赔偿",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295426",
+    "published_time": "2026-02-04 01:00:39",
+    "raw_content": "<div><p>中国浙江省一对夫妇因食用网购娃娃菜后出现中毒症状入院，警方调查曾指向商家包装不当、丈夫投毒，一度引发舆论关注。</p><p>但最新进展显示，中毒是夫妻二人事先合谋，故意制造“食用网购蔬菜中毒”的假象，企图以此向平台或商家要挟索取高额赔偿。目前，两人已被警方刑事拘留。</p><p>综合红星新闻、澎湃新闻报道，浙江省台州天台县杨女士和丈夫去年12月网购娃娃菜，食用后夫妇俩同时出现全身出血症状，入院抢救。杨女士在ICU（重症监护病房）抢救一个多月才好转，丈夫出现全身出血、肺积水、呼吸衰竭等症状。</p><p>医院诊断结果显示，夫妇俩均为老鼠药中毒。随后警方也在网购娃娃菜中检测出老鼠药，并受案。</p><p>上个月媒体披露，警方锁定毒源为包裹娃娃菜的旧报纸在回收储存中沾染杀鼠剂，商家为压缩成本用其包装，导致有毒物质渗透污染蔬菜。涉事商家随后下架失联，平台已提供店主信息，警方正追查全链条责任。</p><p>媒体星期二（2月3日）报道，警方进一步侦查发现，下毒者是杨女士的丈夫，目前涉事男子已被警方采取刑事强制措施。</p><p>2月3日晚，媒体再度披露，警方已侦查识破，丈夫的下毒行",
+    "ai_summary": "浙江夫妇网购娃娃菜中毒案反转，实为夫妻合谋制造假象以骗取赔偿，两人已被刑事拘留。",
+    "ai_tags": [
+      "浙江",
+      "中毒案",
+      "诈骗",
+      "刑事拘留"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295417",
+    "published_time": "2026-02-04 00:53:45",
+    "raw_content": "<div><p>在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。</p><p>港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。</p><p>文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。</p><p>文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。</p><p>文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正",
+    "ai_summary": "港澳办警告巴拿马，若一意孤行裁定长和合同违宪，将在政治和经济上付出沉重代价。",
+    "ai_tags": [
+      "港澳办",
+      "巴拿马",
+      "警告",
+      "国际关系"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中央一号文件再提整治农村高额彩礼",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295371",
+    "published_time": "2026-02-04 00:39:35",
+    "raw_content": "<div><p>中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。</p><p>据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。</p><p>中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。</p><p>2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。</p><p>在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
+    "ai_summary": "2026年中央一号文件再提整治农村高额彩礼，倡导简约文明婚俗文化，引导正确婚恋观。",
+    "ai_tags": [
+      "中央一号文件",
+      "高额彩礼",
+      "农村治理",
+      "婚俗文化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国艺术研究院原院长连辑被查 曾整顿《炎黄春秋》",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295357",
+    "published_time": "2026-02-04 00:30:59",
+    "raw_content": "<div><p>中国官方星期二（2月3日）通报，中国艺术研究院原院长连辑被查，他曾接管和整顿中国改革派标杆性刊物《炎黄春秋》。</p><p>据中共中央纪委国家监委网站星期二消息，连辑涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。</p><p>连辑今年71岁，山西沁源县人，曾长期任职内蒙古。他曾任呼和浩特市副市长，呼和浩特市委常委、副市长，呼伦贝尔盟盟委副书记、盟长，呼伦贝尔盟盟委书记、盟人大工作委员会主任，呼伦贝尔市委书记等职。</p><p>2003年1月，连辑任内蒙古自治区政府副主席。2011年9月，连辑调任甘肃省委常委、宣传部部长，2016年卸任后，曾任中国艺术研究院院长等职。</p><p>官网简介显示，中国艺术研究院是中国唯一一所集艺术研究、艺术教育、艺术创作、非物质文化遗产保护和文化艺术智库为一体的国家级综合性学术机构。</p>\n    \n  <p>据红星新闻报道，连辑卸任相关职务后，近些年仍频繁出现在媒体报道中，身份主要是书法家。</p><p>另据香港星岛头条网报道，《炎黄春秋》在2016年遭改组，引发风波。中国艺术研究院是《炎黄春秋》挂靠的主管单位，时任院",
+    "ai_summary": "中国艺术研究院原院长连辑被查，曾参与整顿《炎黄春秋》刊物，涉嫌严重违纪违法。",
+    "ai_tags": [
+      "连辑",
+      "被查",
+      "艺术研究院",
+      "《炎黄春秋》"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国公示世乒赛团体赛选拔办法 樊振东符合标准",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295210",
+    "published_time": "2026-02-03 23:48:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/5ed737d4aa6a46be76876676995669e5d3bed45730bdaf5555497d9bf48bfcae\" /><figcaption>1月4日，，在德国新乌尔姆举办的乒乓球德国杯决赛中，樊振东所在的萨尔布吕肯队夺得冠军。 （新华社）</figcaption></figure><div><p>中国乒协公示伦敦世乒赛团体赛选拔办法，奥运冠军樊振东符合标准。</p><p>中国乒乓球协会星期二（2月3日）在官网正式公示《2026年国际乒联伦敦世界乒乓球团体锦标赛决赛选拔办法》，明确了本届世乒赛团体赛的参赛运动员选拔标准、公示要求及报名截止时间等关键信息。</p><p>据紫牛新闻报道，根据选拔办法的第1、2条，2025年国际乒联多哈世界乒乓球锦标赛决赛男子单打冠军王楚钦、十五运乒乓球项目成年组男子单打冠军樊振东，2025年国际乒联多哈世界乒乓球锦标赛决赛女子单打冠军孙颖莎，十五运乒乓球项目成年组女子单打冠军王曼昱，均直接获得参赛资格。</p",
+    "ai_summary": "中国乒协公示2026年伦敦世乒赛团体赛选拔办法，奥运冠军樊振东等选手符合直接参赛标准。",
+    "ai_tags": [
+      "体育",
+      "乒乓球",
+      "选拔"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国仲裁机构首次聘请外籍专家担任执行机构负责人",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295200",
+    "published_time": "2026-02-03 23:12:13",
+    "raw_content": "<div><p>广州仲裁委员会聘请美籍专家担任执行机构负责人，是中国大陆首例。</p><p>据中新社报道，广州仲裁委员会星期二（2月3日）发布消息，委员会聘请北京大学国际法学院执行院长、法学教授马克·费尔德曼（美国籍）担任执行机构负责人，这是中国大陆仲裁机构首次聘请外籍专家担任执行机构负责人。</p><p>新一届委员会由13名委员组成，背景涵盖普通法系的代表国家、“一带一路”共建国家、金砖国家，以及香港和中国大陆。</p><p>广州仲裁委员会是中国司法部首批培育的中国特色国际一流仲裁机构之一，设有七个分支机构、五个专业仲裁平台，上线全球首个APEC成员经济体跨境在线商事争议解决平台。数据显示，广州仲裁委员会2025年受理案件达2.7万件。</p></div>",
+    "ai_summary": "广州仲裁委员会聘请美籍专家担任执行机构负责人，是中国大陆仲裁机构首次聘请外籍专家担任此职。",
+    "ai_tags": [
+      "法律",
+      "仲裁",
+      "国际化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "杨丹旭：调查记者刘虎的消失",
+    "link": "https://www.zaobao.com/news/china/story20260204-8294637",
+    "published_time": "2026-02-03 21:00:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/96463d6ea86e6082ff5b56de90201fb03ea51746e9bc5b6920ecdd1eec92bdf9\" /><figcaption>根据中国成都市公安局锦江分局通报，媒体人刘虎（图）和自媒体人巫英蛟涉嫌“诬告陷害罪”和“非法经营罪”被立案侦查，两人被采取了刑事强制措施。 （互联网）</figcaption></figure><div><p>中国媒体人刘虎消失的消息，星期二（2月2日）在朋友圈里不胫而走。成都警方当晚的通报证实了外界的猜测，刘虎和另一名自媒体人巫英蛟被警方带走。</p><p>根据成都市公安局锦江分局通报，刘巫二人涉嫌“诬告陷害罪”和“非法经营罪”被立案侦查，两人被采取了刑事强制措施，案件还在进一步侦查中。</p><p>刘虎被抓后，媒体圈和律师界的声援此起彼伏，人们的目光聚焦在两人被带走前发布的一篇文章上。据圈内人士推测，这篇带有调查色彩的报道，大概率是两人被盯上的导火索。</p><p>这篇题为《曾逼死教授的四川县委",
+    "ai_summary": "中国媒体人刘虎因涉嫌“诬告陷害罪”和“非法经营罪”被成都警方立案侦查并采取刑事强制措施。",
+    "ai_tags": [
+      "社会",
+      "法律",
+      "媒体"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "国共智库论坛登场 达成恢复两岸人员往来正常化等共同意见",
+    "link": "https://www.zaobao.com/news/china/story20260203-8294392",
+    "published_time": "2026-02-03 15:54:08",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/da5699305759c770ee986e236e8957eb7fc8a74e77e086d59a6dde3ac248e9e9\" /><figcaption>由中共中央台办海峡两岸关系研究中心与中国国民党国政研究基金会共同主办，以“两岸交流合作前瞻”为主题的国共两党智库论坛，星期二（2月3日）在北京开幕。图为中共中央台办主任宋涛（左）、中国国民党副主席萧旭岑（右）出席论坛。 （中新社）</figcaption></figure><div><p>国共智库论坛星期二在北京达成恢复两岸人员往来正常化等15项共同意见。台湾总统赖清德透过记者会喊话，面对中国大陆威胁，国民党作为最大在野党不审总预算、不审国防预算特别条例，只进行国共合作，“这对台湾来讲是危险的”。</p><p>国民党主席郑丽文在2026台北国际书展活动中，未直接回应国共论坛的问题，而是强调东亚已非昔日弱小的被殖民地，期许上个世纪曾经充满烟硝味的“第一岛链”，不再被视为战争冲突的代名词，而是转化为“和",
+    "ai_summary": "国共智库论坛在北京达成恢复两岸人员往来正常化等15项共同意见，台湾总统赖清德批评国民党此举对台湾危险。",
+    "ai_tags": [
+      "政治",
+      "两岸关系",
+      "论坛"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "香港巴士安全带新法暂缓 立法会被质疑把关不力",
+    "link": "https://www.zaobao.com/news/china/story20260203-8294588",
+    "published_time": "2026-02-03 15:32:58",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/0fd3e314c8ff2804bd96bd12e358379eeeef91c12e6780bec28ced8a02065162\" /><figcaption>香港1月25日正式实施巴士乘客强制佩戴安全带的新法例，图为当地市民乘坐巴士时佩戴安全带的情景。 （中通社）</figcaption></figure><figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/1c1555e4bc0503ad05614ac78c65430c341dede75c0b6b1cb76e1bb657a2cf83\" /><figcaption>香港1月25日正式实施巴士乘客强制佩戴安全带的新法例。图为香港公路上的巴士。 （中通社）</figcaption></figure><div><p>香港实施巴士乘客强制佩戴安全带新法例，岂料数天后就因发现执行细节和法例精神不符而宣布暂缓执行。社会各界纷纷质疑立法会把",
+    "ai_summary": "香港巴士乘客强制佩戴安全带新法例因执行细节问题暂缓实施，立法会被质疑把关不力。",
+    "ai_tags": [
+      "香港",
+      "交通",
+      "法规"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "台南男子马路持刀行凶三重伤 有人拇指遭砍断",
+    "link": "https://www.zaobao.com/news/china/story20260203-8294399",
+    "published_time": "2026-02-03 14:12:47",
+    "raw_content": "<div><p>台湾台南一名男子在派出所附近马路持刀行凶，造成三人受重伤，其中有人拇指遭砍断、内脏外露，男子已被捕。</p><p>综合台湾壹苹新闻网和中时新闻网报道，随机行凶事件发生在星期二（2月3日）晚间，一名黑衣男子在金华派出所前约30公尺的斑马线上，持刀行凶，短短三分钟内连续攻击多名路人，造成三人重伤送医，其中有人拇指遭砍断、内脏外露，现场血迹斑斑。</p><p>凶嫌犯案后并未立刻逃逸，而是手持仍在滴血的长刀，直接走进派出所，当着值班员警的面将刀械丢在柜台前，随后转身快步离开，消失在附近巷弄中。警方接报后封锁现场，追查凶嫌行踪，约五分钟后在周边将嫌犯逮捕。</p><p>有台湾媒体形容此案全程犹如精心计算的犯罪剧本。</p><p>嫌犯疑似是按摩店店员。一名42岁男子腹部被捅，赶紧跑进对面的派出所求援。现场还有女子背部遭刺，一名男子手指被划伤，送往医院救治。</p></div>",
+    "ai_summary": "台湾台南一名男子在派出所附近持刀随机行凶，造成三人重伤，其中有人拇指被砍断，嫌犯已被捕。",
+    "ai_tags": [
+      "台湾",
+      "社会",
+      "犯罪"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国叫停隐藏式车门把手 业者：促进电动车安全遏制设计内卷",
+    "link": "https://www.zaobao.com/news/china/story20260203-8293137",
+    "published_time": "2026-02-03 13:42:17",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/00163e71ae2a43f8735c0512caf28760c70d54d27d23ef8f7a8276d53d8bf2d2\" /><figcaption>与传统车门把手凸出且可用手抓握不同，隐藏式车门把手藏在门内，默认位置无法抓握。图为一名男子2月3日在北京展厅通过按压打开一辆极氪X7电动车的车门。 （法新社）</figcaption></figure><div><p>中国发生多起事故后新能源车车门难以开启的事件，令隐藏式车门把手的安全性受到公众质疑。官方出台规定，要求汽车必须配备可机械开启的车门外把手，保证发生事故时车门系统能够开启。</p><p>中国工信部星期二（2月3日）公告，工信部组织制定的强制性国家标准《汽车车门把手安全技术要求》获批发布。新规要求，在华销售的汽车，每个车门都配置机械式车门外把手和车门内把手，即便在事故或断电情况下处于锁住状态，车门也应能手动打开。</p><p>规定也要求，车门外把手在任意状态时，相对车身表面都应留有充足的手",
+    "ai_summary": "中国出台新规要求汽车必须配备可机械开启的车门外把手，以提升电动车安全性，遏制隐藏式车门把手的设计内卷。",
+    "ai_tags": [
+      "汽车",
+      "安全",
+      "法规"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "香港拟今年发出准许狗只进入饮食场所牌照",
+    "link": "https://www.zaobao.com/news/china/story20260203-8291895",
+    "published_time": "2026-02-03 13:06:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/d7064e0f36837a8067a52502a86c7b779a95506ee69cce9b0f0b494004ff5bc6\" /><figcaption>香港拟今年内向饮食场所发出准许狗只进入的牌照。 （法新社）</figcaption></figure><div><p>香港拟今年内向饮食场所发出准许狗只进入的牌照，首阶段发出最多1000个牌照。</p><p>综合《明报》和香港01报道，香港食物环境卫生署拟于今年首季向立法会提交建议，希望在今年中批出首阶段申请，获批食肆（饮食场所）会有明确标识，标示顾客可携带狗只进入。</p><p>港府发言人介绍，拟设500至1000个名额，但不接受火锅和烤肉店申请。</p><p>发言人说，拟修订《食物业条例》规管食肆和携狗人士。条例获通过后，狗只可以进入获批牌照的食肆，但须以不超过1.5米长的牵引带控制狗只，并由成人握持或绑在固定附着物上，“已知危险狗只”和格斗狗只不得入内，违反者可被判处最高第三级罚款，即1万元（",
+    "ai_summary": "香港拟今年内向饮食场所发出准许狗只进入的牌照，首阶段最多1000个，但火锅和烤肉店除外。",
+    "ai_tags": [
+      "香港",
+      "宠物",
+      "餐饮"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "zaobao_china",
+    "title": "下午察：中日关系恶化 日本动漫IP“辱华论”再起",
+    "link": "https://www.zaobao.com/news/china/story20260203-8286240",
+    "published_time": "2026-02-03 12:57:04",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/61360badad3aca10993c6a162f7e06efda15f25d84affd31f2fcd0c8268292cf\" /><figcaption>日本知名IP宝可梦和《名侦探柯南》相继卷入“辱华”争议，迅速引爆网民情绪。图为宝可梦卡牌。 （法新社）</figcaption></figure><div><p>中日关系恶化进入第三个月，多个日本游戏动漫IP相继卷入“辱华”争议，迅速引爆网民情绪。</p><p>上周，日本知名游戏动漫IP宝可梦日本官网发布一则活动预告，称将在靖国神社举办宝可梦卡牌儿童体验活动。海报显示，活动原计划1月31日举行，由民间团体主办。</p><p>预告最初仅以日文发布，经中国媒体翻译并报道后，迅速在中国社交平台传播，相关话题也一度登上微博热搜，引发广泛讨论。</p></div>",
+    "ai_summary": "中日关系恶化背景下，日本动漫IP宝可梦等卷入“辱华”争议，引发中国网民广泛讨论。",
+    "ai_tags": [
+      "国际关系",
+      "文化",
+      "动漫"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "达赖获格莱美奖 中国强调反对借艺术评奖操弄政治",
+    "link": "https://www.zaobao.com/news/china/story20260203-8293008",
+    "published_time": "2026-02-03 12:36:49",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/20d9dfd0e2bbe2e0c1aa7652d4fbae72ebda8a25e552b7a17e2d6cef3090e4c9\" /><figcaption>西藏精神领袖达赖喇嘛星期一首度获得美国格莱美奖。 （法新社档案照片）</figcaption></figure><div><p>（北京综合讯）西藏精神领袖达赖喇嘛星期一首度获得美国格莱美奖，中国外交部回应时强调，反对将艺术奖项作为反华政治操弄工具。</p><p>据法新社报道，高龄90岁的达赖喇嘛凭借作品《冥想：达赖喇嘛尊者的沉思》，获颁今年度格莱美最佳有声读物、旁白和故事讲述录音奖，有份参与的音乐人温赖特（Rufus Wainwright）代为领奖。</p><p>达赖喇嘛星期一（2月2日）在社交平台发文，对于获得这一殊荣表示感激。“我怀着感恩和谦卑之心接受这份荣誉。我并不认为这是对我个人的认可，而是对我们共同的普世责任的肯定。”</p><p>达赖还说，他真心相信和平、慈悲、关心环境，以及理解人类一体",
+    "ai_summary": "达赖喇嘛获格莱美奖，中国外交部回应反对将艺术奖项作为反华政治操弄工具。",
+    "ai_tags": [
+      "国际",
+      "政治",
+      "艺术"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "国共论坛期间 赖清德抛台美加速打造非红供应链",
+    "link": "https://www.zaobao.com/news/china/story20260203-8292632",
+    "published_time": "2026-02-03 12:17:52",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/e009d9bc85ceee7d03c9bcd91f5c53b84600bc646dbe07d73830214dc3ff51b8\" /><figcaption>台湾总统赖清德（左二）2月3日率领副总统萧美琴（右二）、外交部长林佳龙（左一）、经济部长龚明鑫等官员召开记者会，说明前一星期台美经济对话成果。 （取自台湾总统府网站）</figcaption></figure><div><p>正值国共两党智库在北京召开论坛之际，台湾总统赖清德星期二（3日）举行记者会，说明上星期台美经济对话成果，并指台美未来投资合作关键项目包括AI与半导体等高科技产业，加速建构具备韧性的“非红供应链”。</p><p><a href=\"https://www.zaobao.com/finance/china/story20260128-8204275?ref=article-inline\" target=\"_blank\">美台经济繁荣伙伴对话（EPPD）</a>今年在美东时间1月27日",
+    "ai_summary": "台湾总统赖清德在国共论坛期间举行记者会，宣布台美经济对话成果，强调将加速构建AI与半导体等高科技产业的“非红供应链”。",
+    "ai_tags": [
+      "台湾",
+      "台美关系",
+      "经济合作",
+      "供应链"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国外交部：一如既往坚定支持巴基斯坦打击恐怖主义",
+    "link": "https://www.zaobao.com/news/china/story20260203-8292639",
+    "published_time": "2026-02-03 12:06:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/83dc33847feed1a704c7df73b710c8d893f1cca626b998ae552d0e44fc523191\" /><figcaption>巴基斯坦俾路支分离主义分子上星期六（1月31日）展开袭击后，巴基斯坦安全人员封锁了位于奎达的爆炸案现场附近的一条道路。 （法新社）</figcaption></figure><div><p>巴基斯坦西南部上星期六（1月31日）发生袭击事件，造成多个平民死亡。中国谴责袭击事件，并强调将一如既往坚定支持巴基斯坦打击恐怖主义。</p><p>中国外交部发言人林剑星期二（2月3日）在例行记者会上说，中国对袭击事件予以强烈谴责，对遇难者表示深切哀悼，向伤者和遇难者家属致以诚挚慰问。</p><p>林剑也说，中国坚决反对一切形式的恐怖主义，将一如既往坚定支持巴方打击恐怖主义，维护社会团结稳定，保护民众安全。</p><p>法新社早前报道，巴基斯坦军方通报，分离主义分子星期六在巴基斯坦俾路支省发动袭击。</p><p>俾",
+    "ai_summary": "中国外交部强烈谴责巴基斯坦袭击事件，表示将一如既往坚定支持巴基斯坦打击恐怖主义，维护社会稳定。",
+    "ai_tags": [
+      "中国外交",
+      "巴基斯坦",
+      "反恐"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "国共智库论坛达成共同意见 提出推动恢复两岸人员往来正常化",
+    "link": "https://www.zaobao.com/news/china/story20260203-8293571",
+    "published_time": "2026-02-03 11:42:33",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/c6c9088c536c527824a644107083a88885f6a09ebe30792ff5a88961bdc51fb0\" /><figcaption>国共两党智库论坛星期二（2月3日）在北京开幕，中国国民党副主席萧旭岑在活动上致辞。 （中新社）</figcaption></figure><div><p>国共两党智库论坛星期二（2月3日）登场，国民党国政研究基金会副董事长李鸿源宣读论坛达成的共同意见，共五大方面，其中包括推动恢复两岸⼈员往来正常化。<br /><br />《联合报》报道，根据共同意见，国共智库达成推动恢复两岸⼈员往来正常化、加强两岸新兴产业领域合作、探索两岸医疗康养合作新路径、深化两岸环保领域交流合作、深化两岸防灾减灾合作，共五方面。<br /><br />李鸿源说，两岸代表人士、专家学者围绕两岸交流合作前瞻主题，就两岸旅游交流合作、两岸产业交流合作、两岸环境与永续发展合作三项议题，进行深入的交流跟探讨。与会人士认为，国共两党保持良",
+    "ai_summary": "国共两党智库论坛达成共同意见，提出推动恢复两岸人员往来正常化等五大方面合作，加强两岸交流。",
+    "ai_tags": [
+      "国共论坛",
+      "两岸关系",
+      "交流合作"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "云南男子报复时杀死阻拦者潜逃多年 法院再审改判死刑",
+    "link": "https://www.zaobao.com/news/china/story20260203-8289484",
+    "published_time": "2026-02-03 11:03:00",
+    "raw_content": "<div><p>中国云南男子20多年前报复时杀死上前阻拦的村民，潜逃多年后落网，法院星期二（2月3日）再审改判他死刑。</p><p>综合澎湃新闻和央视新闻报道，被告田永明因强奸自己的大嫂被判处刑罚后心怀不满，在刑满释放后持刀报复赵姓大嫂时，将见义勇为的村民刘铭富杀害，潜逃20年被抓。</p><p>田永明1996年9月强奸大嫂的恶行败露后，又持刀报复大嫂，被判处刑罚。</p><p>2002年7月15日刑满释放后，田永明伺机再次报复大嫂。同年11月13日晚上8时许，田永明持刀闯入大嫂家中，大嫂惊觉后逃出家门，田永明持刀追撵。</p><p>被害村民刘铭富（殁年37岁）见状上前阻拦田永明，田永明即连续捅刺刘铭富致其死亡。</p><p>玉溪市中级人民法院2022年11月一审以故意杀人罪判处田永明死刑，缓期二年执行，剥夺政治权利终身。</p><p>田永明上诉后，鉴于刑事诉讼法“上诉不加刑”原则，云南省高级人民法院于2025年10月26日作出“驳回上诉，维持原判”的终审裁定。据报道，因原判“在适用法律上确有错误，量刑明显不当”，云南省高级人民法院于2025年10月28日决定对该案启动再审。</p><",
+    "ai_summary": "云南男子田永明因报复杀人潜逃多年，法院再审后改判死刑，案件涉及故意杀人罪的法律适用问题。",
+    "ai_tags": [
+      "司法",
+      "死刑",
+      "刑事案件"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国驻韩大使：两国在海洋问题上应加强沟通管控分歧",
+    "link": "https://www.zaobao.com/news/china/story20260203-8287339",
+    "published_time": "2026-02-03 10:03:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/7f883e50cd8c042bd2edaa8b06b08bbf54641265f56ee5973e49a99797db911f\" /><figcaption>中国驻韩国大使戴兵2月2日说，中韩在海洋权益主张方面存在重叠，应加强沟通、管控分歧。 （路透社档案照）</figcaption></figure><div><p>中国驻韩国大使戴兵说，中韩在海洋权益主张方面存在重叠，应加强沟通、管控分歧。</p><p>据韩联社报道，戴兵星期一（2月2日）在首尔中国驻韩使馆大楼接受韩联社专访。</p><p>对于黄海（韩国称西海）构造物问题，戴兵说，中韩在海洋权益主张方面存在重叠，这也造成了双方有渔业等方面的分歧，双方应该加强沟通、管控分歧，在海洋权益方面加强合作。希望双方在相互尊重、重视彼此合理关切的基础上，推动中韩海域划界谈判取得积极进展。</p><p>戴兵说，所谓的海上构造物就是中方深海渔业养殖设施，养的是三文鱼，没有军事设施。有人制造谣言或夸大事实，目的是造成中",
+    "ai_summary": "中国驻韩大使戴兵表示，中韩在海洋权益主张上存在重叠，应加强沟通、管控分歧，推动海域划界谈判。",
+    "ai_tags": [
+      "中韩关系",
+      "海洋权益",
+      "外交"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "MDN ditches React for web components in frontend rebuild",
+    "link": "https://javascriptweekly.com/issues/781",
+    "published_time": "2026-04-14 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​781 — April 14, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183753/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "MDN在前端重建中放弃React，转向使用Web Components技术进行开发。",
+    "ai_tags": [
+      "前端开发",
+      "React",
+      "Web Components"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "What to know about JavaScript in 2026",
+    "link": "https://javascriptweekly.com/issues/780",
+    "published_time": "2026-04-07 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​780 — April 7, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183301/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScript",
+    "ai_summary": "文章介绍了2026年JavaScript的发展趋势和重要更新，为开发者提供技术参考。",
+    "ai_tags": [
+      "JavaScript",
+      "技术趋势",
+      "编程"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "A new, major npm supply chain attack via Axios",
+    "link": "https://javascriptweekly.com/issues/779",
+    "published_time": "2026-03-31 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​779 — March 31, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183032/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "通过Axios发生了一次新的重大npm供应链攻击，提醒开发者注意安全风险。",
+    "ai_tags": [
+      "网络安全",
+      "npm",
+      "供应链攻击"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "TypeScript 6.0, Next.js 16.2, and a new Node.js runtime",
+    "link": "https://javascriptweekly.com/issues/778",
+    "published_time": "2026-03-24 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​778 — March 24, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/182712/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "TypeScript 6.0、Next.js 16.2发布，同时推出了新的Node.js运行时环境。",
+    "ai_tags": [
+      "TypeScript",
+      "Next.js",
+      "Node.js",
+      "技术更新"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "我准备开个公司，上 5 休 4",
+    "link": "https://www.v2ex.com/t/1207088",
+    "published_time": "2026-04-20 02:08:41",
+    "raw_content": "JWilling: <p>每 9 天里面只需要工作 5 天！接近一半的放假时间！</p>\n<p>大家伙觉得怎么样，有搞头吗？是不是很大胆！</p>\n<p>（纯周一给大家来个乐子，所以话题也是在每日一笑，勿喷）</p>",
+    "ai_summary": "网友提出开设公司实行“上5休4”工作制的想法，旨在增加休假时间，引发讨论。",
+    "ai_tags": [
+      "工作制度",
+      "休闲",
+      "网络讨论"
+    ],
+    "ai_importance": 1
+  },
+  {
+    "category": "v2ex",
+    "title": "想问下是不是和女朋友三观不一致",
+    "link": "https://www.v2ex.com/t/1207078",
+    "published_time": "2026-04-20 01:48:24",
+    "raw_content": "wongfei: 事由：她的电车在充电桩被拔<br />我们是晚上 8 点开进充电停车场，插枪，没充电，把码拍下来，然后上楼，等特定点充相对便宜的电，然后到点充结果发现充电不是本车，我们下去看到插在车子的插头在隔壁车上，她马上就气愤，把插头也拔下来插自己车上充电（对方车也是等特定时间充电，所以可以轻易拔），然后就想找对方理论，打电话关机，就各种打电话，最后还是报 110 让对方来处理，当面道歉<br /><br />处理的结果：当着 JC 的面女朋友在疯狂的跳脚，觉得拔了就是你的问题，就是要让对方承认错误，让对方赔礼道歉，结果双双在争执，对方说看你没在充电就拔下来，JC 开始的意思就是说都有错，我们也是占着不充电，后面是因为看我女朋友和对方一直在争执，JC 就让对方认错了（不情愿）<br /><br />分歧点：我是那种多一事不如少一事的处理态度，因为我们也拔了对方的车的插头，就像对方做初一我们做十五，我们电还是充电了，我们就是耽误一下上楼下楼的时间，而且我们拔了对方的，对方也充不了电（也相当于是报复了）还有就是时间和精力，从晚上 10 点多从打电话在车身边待了 1 小时，JC 才联系",
+    "ai_summary": "用户因电车充电桩被拔与女友发生争执，女友坚持报警要求对方道歉，用户则认为多一事不如少一事，双方处理方式存在分歧。",
+    "ai_tags": [
+      "情感",
+      "生活纠纷",
+      "充电桩"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "大家一定要注意自己的血糖指标",
+    "link": "https://www.v2ex.com/t/1207065",
+    "published_time": "2026-04-20 01:24:14",
+    "raw_content": "MasterLei: 因为老婆是内分泌科的护士，所以对于血糖和糖尿病的预防有点敏感<br />我自认为身体是很好的，体重也不超标，但是去医院一查，就是已经胰岛素抵抗了，而且常规体检也不会检查这一项这就是糖尿病的前期，如果不注意防治，很有可能就会发展成糖尿病。<br />所以建议各位朋友吃完饭有口渴严重的症状，或者主食面食米食吃的多的，最好去医院查一下。",
+    "ai_summary": "用户因妻子是护士而关注血糖问题，自身体重正常但查出胰岛素抵抗，提醒大家注意糖尿病前期症状并及时检查。",
+    "ai_tags": [
+      "健康",
+      "糖尿病",
+      "预防"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "在你们的求学和职业生涯中，有“恩师”的存在吗",
+    "link": "https://www.v2ex.com/t/1207034",
+    "published_time": "2026-04-19 15:29:30",
+    "raw_content": "YanSeven: <p>我回顾我的求学生涯，好像一直没有遇到所谓的书籍上的“恩师”，都是教师以及“老板”或者“工头”。在基础教育阶段有几位老师至今感觉上还是很不错，但是也很难称之为“恩师”。</p>\n<p>职场我目前还初出茅庐，就更没有了。</p>\n<p>当然了，“恩师”这种东西，可能本身就和知己，仙侣，君子一样的，时常存活在“台词”中。</p>\n<p>大概也是一种只见其名，不见其人的东西。</p>",
+    "ai_summary": "用户回顾求学和职业生涯，认为从未遇到真正的“恩师”，更多是普通教师或上司，感慨“恩师”可能只存在于概念中。",
+    "ai_tags": [
+      "教育",
+      "职场",
+      "人际关系"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "公司前两周招了个新人， 在犹豫要不要叫老板辞退他",
+    "link": "https://www.v2ex.com/t/1207033",
+    "published_time": "2026-04-19 15:29:25",
+    "raw_content": "pengyOne: <p>说说前提， 公司不是说非常的正规， 总共就三四个开发。。所以要求是能够全栈的去做，没有测试， 需求理解也得靠自己来琢磨。 现在有 ai coding 的情况下， 分析理解代码也很快，公司也有提供 github copilot ， 所以我很快就分配任务下去了</p>\n<p>最近给他分配了几个任务</p>\n<ol>\n<li>\n<p>让他对接 api 接口， 开发完说好了， 提交了代码， 因为是新人， 我就做做兜底审核， 发现有部分参数不能生效， 他没有测试出来， 而这几个参数是这个接口效果的核心参数</p>\n</li>\n<li>\n<p>再次对接 api 接口， 开发完说好了， 提交了代码， 我继续审核， 发现计费逻辑没有考虑完全， 有部分计费逻辑没有算进去。 </p>\n</li>\n<li>\n<p>再次对接 api 接口，开发完说好了， 提交了代码， 我继续审核， 发现他计费逻辑少了数量计费</p>\n</li>\n</ol>\n<p>三次， 我都对他进行了警告，要求他思维要严谨， 计费是与金钱有关， 说实话我已经对他很不满了， 本身自己工作就多，还每次都能检查到这种基本",
+    "ai_summary": "公司新人多次对接API接口出错，涉及核心参数和计费逻辑问题，用户作为同事不满其工作态度，考虑建议辞退。",
+    "ai_tags": [
+      "职场",
+      "新人",
+      "工作失误"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "人在无奈的时候真的会笑",
+    "link": "https://www.v2ex.com/t/1207008",
+    "published_time": "2026-04-19 11:52:24",
+    "raw_content": "nothingt: 今年 36 了，当然也是被公司优化了，从去年年底就在投简历面试和准备考试了，昨天上午参加的事业编的考试，在回家的过程中，我姐给我发消息，说是我妈半个月前在蒜厂打工的时候，帮着扶装蒜的那种小推车的时候，被小推车的把手打到前胸，肋骨骨折了几根，还伤到肺部，现在肺部还在水肿，因为我一直在备考没有告诉我，今天告诉我，让我回去照顾一段时间。<br />    有时候父母的倔强是理解不了的，因为我妈年龄大了，所以从两三年前就劝她不要去蒜厂干活了，她从来不听劝，每次都是敷衍了事，都是早上 5 点起床去蒜厂干到傍晚 6 点，一天 25-40 块钱，蒜厂不管饭还得自己带饭去。受伤了蒜厂老板是不管的，更不要想老板给出医药费，一整个冬天能赚两千块，都不够去医院看病的。前年冬天瞒着我们去蒜厂干了一冬天给自己累的心脏不舒服，躺着动不了，我回家送她去医院检查加住院花了八千多，有时候真是又心疼又无奈。我真的希望父母能健健康康、没病没灾的安稳生活，也许这一切都是我这个儿子无能造就的，没有功成名就，没有赚到足够的钱让他们拥有足够安全感的老年生活。<br />    并且昨天上午 11 点半考完试一出",
+    "ai_summary": "用户36岁失业备考期间，得知母亲在蒜厂打工受伤肋骨骨折，因父母不听劝而无奈，自责未能提供更好生活保障。",
+    "ai_tags": [
+      "家庭",
+      "失业",
+      "健康"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "v2ex",
+    "title": "出海技术团队招聘（核心岗位｜加速器方向）",
+    "link": "https://www.v2ex.com/t/1207002",
+    "published_time": "2026-04-19 11:12:26",
+    "raw_content": "ASBTYU: <p>统一待遇</p>\n<p>底薪：5000 ~ 10000 元 / 月（能力强可谈）\n利润分红：3% ~ 5%（核心成员可给期权）\n海外补贴：1000 ~ 3000 元 / 月\n休假福利：每季度 15 天带薪休假 + 往返机票\n报销福利：饮食 + 住宿全额报销</p>\n<p>项目属于出海业务 + 高执行节奏团队，偏结果导向</p>\n<p>🧠 一、后端工程师（ PHP 主+ Go 接口）</p>\n<p>岗位职责：</p>\n<p>使用 PHP 负责核心业务开发（用户、订单、代理体系等）\n对接 Go 接口服务（高性能模块）</p>\n<p>参与挂码系统、三级代理体系的设计与实现</p>\n<p>优化系统性能、接口稳定性与并发能力</p>\n<p>参与整体系统架构设计（含网络/加速相关模块）</p>\n<p>任职要求：\n精通 PHP ，有完整项目经验\n能读懂并对接 Go 接口（有 Go 经验更优）\n熟悉数据库（ MySQL / Redis ）</p>\n<p>理解代理分销/三级代理逻辑（重点）\n熟悉常见网络协议（ HTTP / TCP / UDP ）\n加分项：\n有加速器 / 游戏相关项",
+    "ai_summary": "出海技术团队招聘后端工程师等岗位，提供底薪、分红、海外补贴等福利，要求精通PHP、Go等技能，项目偏结果导向。",
+    "ai_tags": [
+      "招聘",
+      "技术",
+      "出海业务"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "人生中第一次装机🎉",
+    "link": "https://www.v2ex.com/t/1206994",
+    "published_time": "2026-04-19 09:24:32",
+    "raw_content": "MagicCoder: <p>买配件，组装，旧服务器环境迁移。</p>\n<p>耗时 7 天终于搞定了⚒️</p>\n<p>人生中第一次装机，还算顺利✌️</p>\n<p><img alt=\"33e014287cddb4abcbc3a13a3478cef0\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260419/6Tvmgb.jpg\" /></p>\n<p><img alt=\"c8728a67470c8bb636a40172b196637a\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260419/8ba5fG.jpg\" /></p>\n<p><img alt=\"02c425618bd02a558b0899bf15bc7818\" class=\"embedded_image\" rel=\"noreferrer\"",
+    "ai_summary": "用户分享首次装机经历，耗时7天完成配件购买、组装和旧服务器迁移，过程顺利并附上图片展示成果。",
+    "ai_tags": [
+      "技术",
+      "装机",
+      "个人成就"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "你的 plus 还好吗？",
+    "link": "https://www.v2ex.com/t/1206964",
+    "published_time": "2026-04-19 05:07:04",
+    "raw_content": "liuyin: 三个号全噶了。<br />看样子屠杀开始了~",
+    "ai_summary": "用户提到多个“plus”账号出现问题，猜测可能开始大规模封禁或限制，表达担忧。",
+    "ai_tags": [
+      "网络服务",
+      "账号问题",
+      "猜测"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "中转站新站开业 送 5 刀",
+    "link": "https://www.v2ex.com/t/1206958",
+    "published_time": "2026-04-19 04:23:30",
+    "raw_content": "2890875088: <p><a href=\"https://www.aitoke.top/\" rel=\"nofollow\">https://www.aitoke.top/</a>\n注册留用户名送 5 刀</p>",
+    "ai_summary": "中转站新站开业促销，注册留用户名即可赠送5美元，附上网站链接吸引用户参与。",
+    "ai_tags": [
+      "促销",
+      "网络服务",
+      "中转站"
+    ],
+    "ai_importance": 1
+  },
+  {
+    "category": "hacker_news",
+    "title": "The insider trading suspicions looming over Trump's presidency",
+    "link": "https://www.bbc.com/news/articles/cge0grppe3po",
+    "published_time": "2026-04-20 01:50:35",
+    "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cge0grppe3po\">https://www.bbc.com/news/articles/cge0grppe3po</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47829486\">https://news.ycombinator.com/item?id=47829486</a></p>\n<p>Points: 193</p>\n<p># Comments: 80</p>",
+    "ai_summary": "BBC报道特朗普总统任期内涉嫌内幕交易的疑虑，引发Hacker News社区讨论，文章获得高关注度和评论。",
+    "ai_tags": [
+      "政治",
+      "内幕交易",
+      "国际新闻"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Swiss authorities want to reduce dependency on Microsoft",
+    "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+    "published_time": "2026-04-19 20:25:29",
+    "raw_content": "<p>Article URL: <a href=\"https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532\">https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47827383\">https://news.ycombinator.com/item?id=47827383</a></p>\n<p>Points: 202</p>\n<p># Comments: 77</p>",
+    "ai_summary": "瑞士当局计划减少对微软的依赖，以增强技术自主性。",
+    "ai_tags": [
+      "瑞士",
+      "微软",
+      "技术依赖",
+      "自主性"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The Bromine Chokepoint",
+    "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+    "published_time": "2026-04-19 17:44:03",
+    "raw_content": "<p>Article URL: <a href=\"https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/\">https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47826100\">https://news.ycombinator.com/item?id=47826100</a></p>\n<p>Points: 172</p>\n<p># Comments: 78</p>",
+    "ai_summary": "中东冲突可能影响溴的供应，进而威胁全球内存芯片生产。",
+    "ai_tags": [
+      "中东",
+      "溴",
+      "内存芯片",
+      "供应链"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Vercel says internal systems hit in breach",
+    "link": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+    "published_time": "2026-04-19 15:23:39",
+    "raw_content": "<p>Article URL: <a href=\"https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/\">https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824976\">https://news.ycombinator.com/item?id=47824976</a></p>\n<p>Points: 376</p>\n<p># Comments: 2</p>",
+    "ai_summary": "Vercel公司内部系统遭入侵，可能涉及数据泄露。",
+    "ai_tags": [
+      "Vercel",
+      "安全漏洞",
+      "数据泄露",
+      "内部系统"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "link": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "published_time": "2026-04-19 15:20:01",
+    "raw_content": "<p>Article URL: <a href=\"https://twitter.com/weezerOSINT/status/2045849358462222720\">https://twitter.com/weezerOSINT/status/2045849358462222720</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824945\">https://news.ycombinator.com/item?id=47824945</a></p>\n<p>Points: 340</p>\n<p># Comments: 120</p>",
+    "ai_summary": "Notion平台泄露所有公开页面编辑者的电子邮件地址。",
+    "ai_tags": [
+      "Notion",
+      "隐私泄露",
+      "电子邮件",
+      "公开页面"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Vercel April 2026 security incident",
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "published_time": "2026-04-19 14:14:38",
+    "raw_content": "<p><a href=\"https://vercel.com/kb/bulletin/vercel-april-2026-security-incident\" rel=\"nofollow\">https://vercel.com/kb/bulletin/vercel-april-2026-security-in...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824463\">https://news.ycombinator.com/item?id=47824463</a></p>\n<p>Points: 602</p>\n<p># Comments: 338</p>",
+    "ai_summary": "Vercel公司确认2026年4月发生安全事件，黑客声称出售被盗数据。",
+    "ai_tags": [
+      "Vercel",
+      "安全事件",
+      "数据盗窃",
+      "黑客"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hacker_news",
+    "title": "The creative software industry has declared war on Adobe",
+    "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+    "published_time": "2026-04-19 14:05:49",
+    "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates\">https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824403\">https://news.ycombinator.com/item?id=47824403</a></p>\n<p>Points: 198</p>\n<p># Comments: 153</p>",
+    "ai_summary": "创意软件行业竞争对手宣布免费更新应用，向Adobe发起挑战。",
+    "ai_tags": [
+      "Adobe",
+      "创意软件",
+      "免费更新",
+      "行业竞争"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "link": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+    "published_time": "2026-04-19 13:13:09",
+    "raw_content": "<p>Article URL: <a href=\"https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/\">https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824068\">https://news.ycombinator.com/item?id=47824068</a></p>\n<p>Points: 256</p>\n<p># Comments: 167</p>",
+    "ai_summary": "航空公司员工因在WhatsApp群组分享炸弹损坏照片被捕，迪拜警方监控私人聊天。",
+    "ai_tags": [
+      "航空公司",
+      "WhatsApp",
+      "隐私监控",
+      "迪拜警方"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "published_time": "2026-04-19 10:36:29",
+    "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/18/opus-system-prompt/\">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47823270\">https://news.ycombinator.com/item?id=47823270</a></p>\n<p>Points: 247</p>\n<p># Comments: 144</p>",
+    "ai_summary": "分析Claude Opus 4.6与4.7版本之间系统提示的变化。",
+    "ai_tags": [
+      "Claude Opus",
+      "系统提示",
+      "版本更新",
+      "AI模型"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+    "link": "https://news.ycombinator.com/item?id=47822940",
+    "published_time": "2026-04-19 09:17:12",
+    "raw_content": "<p>I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy.<p>I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend/platform problems, and AI workflows that need to do real work rather than just look good in a demo.<p>I’m not really interested in becoming a generic agency. I’d rather work with businesses that a",
+    "ai_summary": "独立工程师/顾问分享如何获得首个项目，专注于帮助中小企业解决后台办公问题。",
+    "ai_tags": [
+      "独立顾问",
+      "中小企业",
+      "后台办公",
+      "项目获取"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+    "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+    "published_time": "2026-04-19 08:45:48",
+    "raw_content": "<p>Article URL: <a href=\"https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf\">https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822805\">https://news.ycombinator.com/item?id=47822805</a></p>\n<p>Points: 168</p>\n<p># Comments: 68</p>",
+    "ai_summary": "研究如何将扬声器转换为麦克风进行窃听，涉及安全与隐私问题（2017年论文）。",
+    "ai_tags": [
+      "扬声器",
+      "麦克风",
+      "窃听技术",
+      "安全研究"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The seven programming ur-languages (2022)",
+    "link": "https://madhadron.com/programming/seven_ur_languages.html",
+    "published_time": "2026-04-19 07:38:08",
+    "raw_content": "<p>Article URL: <a href=\"https://madhadron.com/programming/seven_ur_languages.html\">https://madhadron.com/programming/seven_ur_languages.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822486\">https://news.ycombinator.com/item?id=47822486</a></p>\n<p>Points: 303</p>\n<p># Comments: 117</p>",
+    "ai_summary": "文章探讨了编程中的七种原始语言概念，讨论了它们在计算机科学中的基础作用和影响。",
+    "ai_tags": [
+      "编程",
+      "计算机科学",
+      "技术"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The RAM shortage could last years",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "published_time": "2026-04-19 07:18:44",
+    "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years\">https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822414\">https://news.ycombinator.com/item?id=47822414</a></p>\n<p>Points: 226</p>\n<p># Comments: 244</p>",
+    "ai_summary": "报道指出，由于人工智能需求激增，全球RAM短缺问题可能持续数年，影响电子设备生产。",
+    "ai_tags": [
+      "硬件",
+      "人工智能",
+      "供应链"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+    "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+    "published_time": "2026-04-19 07:05:17",
+    "raw_content": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702\">https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822356\">https://news.ycombinator.com/item?id=47822356</a></p>\n<p>Points: 176</p>\n<p># Comments: 40</p>",
+    "ai_summary": "电子前沿基金会呼吁公众继续推动改革美国《702条款》监控法案，争取更多时间进行立法调整。",
+    "ai_tags": [
+      "隐私",
+      "法律",
+      "监控"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The world in which IPv6 was a good design (2017)",
+    "link": "https://apenwarr.ca/log/20170810",
+    "published_time": "2026-04-19 02:50:43",
+    "raw_content": "<p>Article URL: <a href=\"https://apenwarr.ca/log/20170810\">https://apenwarr.ca/log/20170810</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47821429\">https://news.ycombinator.com/item?id=47821429</a></p>\n<p>Points: 216</p>\n<p># Comments: 142</p>",
+    "ai_summary": "文章回顾IPv6协议的设计背景，探讨其在特定技术环境下的合理性和优势。",
+    "ai_tags": [
+      "网络协议",
+      "技术历史",
+      "IPv6"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+    "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+    "published_time": "2026-04-18 23:47:45",
+    "raw_content": "<p>Article URL: <a href=\"https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/\">https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47820531\">https://news.ycombinator.com/item?id=47820531</a></p>\n<p>Points: 225</p>\n<p># Comments: 110</p>",
+    "ai_summary": "NASA为延长旅行者1号探测器寿命，关闭了其上一台科学仪器以节省电力。",
+    "ai_tags": [
+      "太空探索",
+      "NASA",
+      "航天器"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Dad brains: How fatherhood rewires the male mind",
+    "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
+    "published_time": "2026-04-18 22:24:47",
+    "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare\">https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47820046\">https://news.ycombinator.com/item?id=47820046</a></p>\n<p>Points: 164</p>\n<p># Comments: 168</p>",
+    "ai_summary": "研究显示，父亲身份会改变男性大脑结构和功能，使其更适应育儿需求。",
+    "ai_tags": [
+      "心理学",
+      "育儿",
+      "神经科学"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "NIST scientists create 'any wavelength' lasers",
+    "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+    "published_time": "2026-04-18 20:54:17",
+    "raw_content": "<p>Article URL: <a href=\"https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits\">https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47819453\">https://news.ycombinator.com/item?id=47819453</a></p>\n<p>Points: 410</p>\n<p># Comments: 186</p>",
+    "ai_summary": "NIST科学家开发出新型激光技术，可在微型电路中产生任意波长的激光。",
+    "ai_tags": [
+      "物理学",
+      "激光技术",
+      "创新"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Thoughts and feelings around Claude Design",
+    "link": "https://samhenri.gold/blog/20260418-claude-design/",
+    "published_time": "2026-04-18 19:19:24",
+    "raw_content": "<p>Article URL: <a href=\"https://samhenri.gold/blog/20260418-claude-design/\">https://samhenri.gold/blog/20260418-claude-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47818700\">https://news.ycombinator.com/item?id=47818700</a></p>\n<p>Points: 369</p>\n<p># Comments: 239</p>",
+    "ai_summary": "作者分享了对Claude Design产品的个人感受和思考，涉及用户体验和设计理念。",
+    "ai_tags": [
+      "产品设计",
+      "用户体验",
+      "AI工具"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "published_time": "2026-04-18 19:00:00",
+    "raw_content": "<p>Article URL: <a href=\"https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/\">https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47818485\">https://news.ycombinator.com/item?id=47818485</a></p>\n<p>Points: 464</p>\n<p># Comments: 410</p>",
+    "ai_summary": "大学教师采用打字机教学，以减少学生使用AI完成作业，并传授生活技能。",
+    "ai_tags": [
+      "教育",
+      "人工智能",
+      "教学方法"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "published_time": "2026-04-17 14:00:00",
+    "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+    "ai_summary": "谷歌提供七种智能旅行建议，利用其搜索和AI技术帮助用户规划更高效的夏季出行。",
+    "ai_tags": [
+      "旅行",
+      "谷歌",
+      "人工智能"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "google_ai",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "published_time": "2026-04-16 17:00:00",
+    "raw_content": "AI Mode in Chrome",
+    "ai_summary": "Chrome浏览器推出AI模式，提供新的网页浏览体验。",
+    "ai_tags": [
+      "Chrome",
+      "AI模式",
+      "网页浏览"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "New ways to create personalized images in the Gemini app",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "Example images made with Personal Intelligence",
+    "ai_summary": "Gemini应用新增个性化图像创建功能，支持用户定制化生成图片。",
+    "ai_tags": [
+      "Gemini",
+      "个性化图像",
+      "AI生成"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+    "ai_summary": "Gemini 3.1 Flash TTS发布，作为新一代富有表现力的AI语音技术。",
+    "ai_tags": [
+      "Gemini",
+      "TTS",
+      "AI语音"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "published_time": "2026-04-14 17:00:00",
+    "raw_content": "Video showing Skills in Chrome",
+    "ai_summary": "Chrome浏览器支持将最佳AI提示转化为一键工具，提升使用效率。",
+    "ai_tags": [
+      "Chrome",
+      "AI提示",
+      "一键工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Bringing people together at AI for the Economy Forum",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+    "published_time": "2026-04-14 09:00:00",
+    "raw_content": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+    "ai_summary": "谷歌与MIT合作举办AI经济论坛，聚焦新时代的创新与适应。",
+    "ai_tags": [
+      "AI经济论坛",
+      "谷歌",
+      "MIT"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "published_time": "2026-04-02 16:00:00",
+    "raw_content": "Gemini API Dials",
+    "ai_summary": "Gemini API推出新功能，帮助用户在成本与可靠性之间取得平衡。",
+    "ai_tags": [
+      "Gemini API",
+      "成本控制",
+      "可靠性"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "published_time": "2026-04-02 16:00:00",
+    "raw_content": "Google Vids logo surrounded by various video editing UI",
+    "ai_summary": "Google Vids提供免费的视频创建、编辑和分享功能，集成AI技术。",
+    "ai_tags": [
+      "Google Vids",
+      "视频编辑",
+      "免费工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+    "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+    "published_time": "2026-04-01 13:30:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+    "ai_summary": "谷歌与巴西政府合作创建卫星图像地图，以帮助保护该国森林。",
+    "ai_tags": [
+      "卫星图像",
+      "森林保护",
+      "巴西"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "google_ai",
+    "title": "The latest AI news we announced in March 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "published_time": "2026-04-01 13:00:00",
+    "raw_content": "March 2026 AI Recap showing new updates",
+    "ai_summary": "谷歌发布2026年3月的最新AI新闻汇总，涵盖多项更新。",
+    "ai_tags": [
+      "AI新闻",
+      "2026年3月",
+      "谷歌更新"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+    "published_time": "2026-03-31 16:00:00",
+    "raw_content": "Build with Veo 3.1 Lite",
+    "ai_summary": "Veo 3.1 Lite发布，作为最具成本效益的视频生成模型供开发者使用。",
+    "ai_tags": [
+      "Veo 3.1 Lite",
+      "视频生成",
+      "成本效益"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+    "published_time": "2026-03-26 17:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+    "ai_summary": "在最新一期《科技与社会对话》系列中，LL COOL J与James Manyika讨论人工智能与创造力。",
+    "ai_tags": [
+      "人工智能",
+      "创造力",
+      "对话"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Transform your headphones into a live personal translator on iOS.",
+    "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+    "published_time": "2026-03-26 16:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+    "ai_summary": "Google翻译的耳机实时翻译功能正式登陆iOS，并扩展至更多国家，支持iOS和Android用户。",
+    "ai_tags": [
+      "Google翻译",
+      "实时翻译",
+      "iOS",
+      "Android"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "published_time": "2026-03-26 15:21:00",
+    "raw_content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+    "ai_summary": "Gemini 3.1 Flash Live旨在使音频AI更自然可靠，提升用户体验。",
+    "ai_tags": [
+      "Gemini",
+      "音频AI",
+      "自然语言处理"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Search Live is expanding globally",
+    "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+    "published_time": "2026-03-26 15:00:00",
+    "raw_content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+    "ai_summary": "Search Live功能正在全球范围内扩展，增强搜索体验。",
+    "ai_tags": [
+      "Search Live",
+      "全球扩展",
+      "搜索功能"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+    "published_time": "2026-03-25 16:00:00",
+    "raw_content": "Sizzle video showing new capabilities from Lyria 3 Pro",
+    "ai_summary": "Lyria 3 Pro可在更多Google产品中创建更长的音乐轨道，提升创作能力。",
+    "ai_tags": [
+      "Lyria",
+      "音乐生成",
+      "Google产品"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Build with Lyria 3, our newest music generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+    "published_time": "2026-03-25 16:00:00",
+    "raw_content": "Google Lyria teaser",
+    "ai_summary": "Lyria 3是最新的音乐生成模型，为开发者提供构建工具。",
+    "ai_tags": [
+      "Lyria",
+      "音乐生成",
+      "开发者工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Bringing the power of Personal Intelligence to more people",
+    "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+    "published_time": "2026-03-17 16:00:00",
+    "raw_content": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+    "ai_summary": "个人智能功能正扩展到更多用户，整合Google Photos和Gmail等服务。",
+    "ai_tags": [
+      "个人智能",
+      "Google Photos",
+      "Gmail",
+      "扩展"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Our latest investment in open source security for the AI era",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+    "published_time": "2026-03-17 16:00:00",
+    "raw_content": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+    "ai_summary": "Google在AI时代对开源安全进行最新投资，加强安全防护。",
+    "ai_tags": [
+      "开源安全",
+      "AI安全",
+      "投资"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "google_ai",
+    "title": "How AI is helping improve heart health in rural Australia",
+    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "published_time": "2026-03-12 15:00:00",
+    "raw_content": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+    "ai_summary": "AI技术帮助改善澳大利亚农村地区的心脏健康，提升医疗效率。",
+    "ai_tags": [
+      "AI医疗",
+      "心脏健康",
+      "澳大利亚",
+      "农村医疗"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "published_time": "2026-04-16 10:00:00",
+    "raw_content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "ai_summary": "Codex应用更新，为macOS和Windows添加计算机使用、浏览、图像生成等功能，加速开发者工作流程。",
+    "ai_tags": [
+      "Codex",
+      "开发者工具",
+      "macOS",
+      "Windows",
+      "更新"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "published_time": "2026-04-16 01:00:00",
+    "raw_content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "ai_summary": "OpenAI推出GPT-Rosalind前沿推理模型，旨在加速药物发现、基因组学分析、蛋白质推理和科学研究工作流程。",
+    "ai_tags": [
+      "OpenAI",
+      "GPT-Rosalind",
+      "生命科学研究",
+      "药物发现"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "ai_summary": "领先安全公司和企业加入OpenAI的网络安全可信访问计划，使用GPT-5.4-Cyber和1000万美元API资助来加强全球网络防御。",
+    "ai_tags": [
+      "OpenAI",
+      "网络安全",
+      "GPT-5.4-Cyber",
+      "可信访问"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "published_time": "2026-04-15 10:00:00",
+    "raw_content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "ai_summary": "OpenAI更新Agents SDK，增加原生沙箱执行和模型原生框架，帮助开发者构建跨文件和工具的安全、长期运行的智能体。",
+    "ai_tags": [
+      "OpenAI",
+      "Agents SDK",
+      "开发者工具",
+      "智能体开发"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Trusted access for the next era of cyber defense",
+    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "published_time": "2026-04-14 00:00:00",
+    "raw_content": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "ai_summary": "OpenAI扩展网络安全可信访问计划，向经过审查的防御者推出GPT-5.4-Cyber，并在AI网络安全能力进步时加强安全保障。",
+    "ai_tags": [
+      "OpenAI",
+      "网络安全",
+      "GPT-5.4-Cyber",
+      "可信访问"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "published_time": "2026-04-13 06:00:00",
+    "raw_content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "ai_summary": "Cloudflare在Agent Cloud中集成OpenAI的GPT-5.4和Codex，使企业能够快速、安全地构建、部署和扩展用于现实世界任务的AI智能体。",
+    "ai_tags": [
+      "Cloudflare",
+      "OpenAI",
+      "Agent Cloud",
+      "企业AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Creating images with ChatGPT",
+    "link": "https://openai.com/academy/image-generation",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "ai_summary": "学习如何使用ChatGPT通过清晰提示创建和优化图像，迭代设计，并在几分钟内生成高质量视觉效果。",
+    "ai_tags": [
+      "ChatGPT",
+      "图像生成",
+      "AI创作",
+      "设计工具"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "ChatGPT for research",
+    "link": "https://openai.com/academy/research",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+    "ai_summary": "学习如何使用ChatGPT进行研究，包括收集来源、分析信息和创建有引用支持的结构化见解。",
+    "ai_tags": [
+      "ChatGPT",
+      "研究工具",
+      "信息分析",
+      "学术研究"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Healthcare",
+    "link": "https://openai.com/academy/healthcare",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "ai_summary": "探索临床医生如何使用ChatGPT支持诊断、文档记录和患者护理，利用符合HIPAA标准的安全AI工具。",
+    "ai_tags": [
+      "ChatGPT",
+      "医疗保健",
+      "临床支持",
+      "HIPAA合规"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Our response to the Axios developer tool compromise",
+    "link": "https://openai.com/index/axios-developer-tool-compromise",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "ai_summary": "OpenAI对Axios供应链攻击做出回应，轮换macOS代码签名证书、更新应用程序，并确认没有用户数据被泄露。",
+    "ai_tags": [
+      "OpenAI",
+      "安全事件",
+      "供应链攻击",
+      "Axios"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Using projects in ChatGPT",
+    "link": "https://openai.com/academy/projects",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "ai_summary": "学习如何在ChatGPT中使用项目功能来组织聊天、文件和指令，管理正在进行的工作，并更有效地协作。",
+    "ai_tags": [
+      "ChatGPT",
+      "项目管理",
+      "协作工具",
+      "工作效率"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Analyzing data with ChatGPT",
+    "link": "https://openai.com/academy/data-analysis",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "ai_summary": "学习如何使用ChatGPT分析数据，包括探索数据集、生成洞察、创建可视化图表，并将发现转化为可操作的决策。",
+    "ai_tags": [
+      "数据分析",
+      "ChatGPT",
+      "可视化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "AI fundamentals",
+    "link": "https://openai.com/academy/what-is-ai",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "ai_summary": "了解人工智能的基础知识，包括AI是什么、如何工作，以及像ChatGPT这样的工具如何使用大型语言模型。这是一个清晰、适合初学者的指南。",
+    "ai_tags": [
+      "人工智能基础",
+      "ChatGPT",
+      "初学者指南"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "ChatGPT for operations teams",
+    "link": "https://openai.com/academy/operations",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "ai_summary": "学习运营团队如何使用ChatGPT来简化工作流程、改善协调、标准化流程，并推动更快的执行。",
+    "ai_tags": [
+      "运营团队",
+      "ChatGPT",
+      "工作流程优化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "ai_summary": "学习如何使用ChatGPT进行头脑风暴，组织思维，并将粗略的概念转化为结构化的、可操作的计划。",
+    "ai_tags": [
+      "头脑风暴",
+      "ChatGPT",
+      "创意生成"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Writing with ChatGPT",
+    "link": "https://openai.com/academy/writing",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "ai_summary": "学习如何使用ChatGPT进行写作，包括起草、修订和精炼内容，确保结构清晰、语气恰当、意图明确。",
+    "ai_tags": [
+      "写作",
+      "ChatGPT",
+      "内容创作"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Responsible and safe use of AI",
+    "link": "https://openai.com/academy/responsible-and-safe-use",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+    "ai_summary": "学习如何负责任地使用AI，包括在使用像ChatGPT这样的工具时，遵循安全、准确和透明的最佳实践。",
+    "ai_tags": [
+      "负责任AI",
+      "安全使用",
+      "最佳实践"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "ai_summary": "学习如何使用ChatGPT，开始你的第一次对话，并发现简单的写作、头脑风暴和解决问题的方法。",
+    "ai_tags": [
+      "入门指南",
+      "ChatGPT",
+      "基础使用"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Research with ChatGPT",
+    "link": "https://openai.com/academy/search-and-deep-research",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "ai_summary": "学习如何使用ChatGPT进行研究，包括搜索和深度研究，以找到最新信息、分析来源并生成结构化洞察。",
+    "ai_tags": [
+      "研究",
+      "ChatGPT",
+      "信息搜索"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "ChatGPT for customer success teams",
+    "link": "https://openai.com/academy/customer-success",
+    "published_time": "2026-04-10 00:00:00",
+    "raw_content": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "ai_summary": "学习客户成功团队如何使用ChatGPT来管理账户、改善沟通、减少客户流失，并推动采用和续订。",
+    "ai_tags": [
+      "客户成功",
+      "ChatGPT",
+      "客户管理"
+    ],
+    "ai_importance": 3
+  }
+]

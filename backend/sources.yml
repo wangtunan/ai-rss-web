@@ -22,3 +22,15 @@ sources:
   - name: Github
     url: https://github.blog/feed/
     category: github
+
+  - name: Vue Blog
+    url: https://blog.vuejs.org/feed.rss
+    category: vue_blog
+  
+  - name: JavaScript Weekly
+    url: https://cprss.s3.amazonaws.com/javascriptweekly.com.xml
+    category: javascript_weekly
+  
+  - name: 联合早报
+    url: https://plink.anyfeeder.com/zaobao/realtime/china
+    category: zaobao_china

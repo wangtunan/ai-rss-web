@@ -1,0 +1,650 @@
+[
+  {
+    "category": "github",
+    "title": "Building an emoji list generator with the GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+    "published_time": "2026-04-17 18:00:00",
+    "raw_content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "在Rubber Duck Thursday直播中，展示了如何使用GitHub Copilot CLI构建表情符号列表生成器。",
+    "ai_tags": [
+      "GitHub",
+      "Copilot",
+      "CLI",
+      "开发工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Bringing more transparency to GitHub’s status page",
+    "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+    "published_time": "2026-04-17 16:00:00",
+    "raw_content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub状态页面将提供更具体的数据，增强平台整体健康状况的透明度。",
+    "ai_tags": [
+      "GitHub",
+      "状态页面",
+      "透明度",
+      "平台健康"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "How GitHub uses eBPF to improve deployment safety",
+    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub利用eBPF技术检测和防止部署工具中的循环依赖，提升部署安全性。",
+    "ai_tags": [
+      "GitHub",
+      "eBPF",
+      "部署安全",
+      "基础设施"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "Build a personal organization command center with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+    "published_time": "2026-04-15 17:00:00",
+    "raw_content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "一位GitHub工程师分享了如何使用GitHub Copilot CLI构建个人组织命令中心，并探讨AI在开发过程中的支持作用。",
+    "ai_tags": [
+      "GitHub",
+      "Copilot",
+      "CLI",
+      "生产力工具",
+      "AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub更新开发者政策，涉及中介责任、版权和透明度，并更新了2025年全年数据的透明度中心。",
+    "ai_tags": [
+      "GitHub",
+      "政策更新",
+      "版权",
+      "透明度",
+      "开发者"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hugging_face",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "published_time": "2026-04-17 16:17:55",
+    "raw_content": "",
+    "ai_summary": "使用合成数据构建快速多语言OCR模型。",
+    "ai_tags": [
+      "Hugging Face",
+      "OCR",
+      "多语言",
+      "合成数据",
+      "AI模型"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "link": "https://huggingface.co/blog/ecom-rlve",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Ecom-RLVE：为电子商务对话代理提供自适应可验证环境。",
+    "ai_tags": [
+      "Hugging Face",
+      "电子商务",
+      "对话代理",
+      "可验证环境",
+      "AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "The PR you would have opened yourself",
+    "link": "https://huggingface.co/blog/transformers-to-mlx",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "探讨如何将Transformers模型转换为MLX格式，实现更高效的模型部署。",
+    "ai_tags": [
+      "Hugging Face",
+      "Transformers",
+      "MLX",
+      "模型转换",
+      "部署"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入及重排序模型。",
+    "ai_tags": [
+      "Hugging Face",
+      "多模态",
+      "嵌入模型",
+      "Sentence Transformers",
+      "AI训练"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "published_time": "2026-04-15 12:07:25",
+    "raw_content": "",
+    "ai_summary": "深入分析VAKRA基准测试，探讨智能体的推理、工具使用及失败模式。",
+    "ai_tags": [
+      "Hugging Face",
+      "VAKRA",
+      "智能体",
+      "推理",
+      "基准测试",
+      "AI研究"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.5",
+    "link": "https://blog.vuejs.org/posts/vue-3-5",
+    "published_time": "2024-09-01 00:00:00",
+    "raw_content": "<p>Today we are excited to announce the release of Vue 3.5 &quot;Tengen Toppa Gurren Lagann&quot;!</p>\n<p>This minor release contains no breaking changes and includes both internal improvements and useful new features. We will cover some highlights in this blog post - for a full list of changes and new features, please consult <a href=\"https://github.com/vuejs/core/blob/main/CHANGELOG.md\" rel=\"noreferrer\" target=\"_blank\">the full changelog on GitHub</a>.</p>",
+    "ai_summary": "Vue 3.5 \"Tengen Toppa Gurren Lagann\" 发布，这是一个次要版本，没有破坏性更改，包含内部改进和有用的新功能。",
+    "ai_tags": [
+      "Vue",
+      "前端框架",
+      "版本发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing VitePress 1.0",
+    "link": "https://blog.vuejs.org/posts/vitepress-1.0",
+    "published_time": "2024-03-21 00:00:00",
+    "raw_content": "<img alt=\"vitepress logo\" src=\"https://vitepress.dev/vitepress-logo-large.webp\" style=\"width: 256px; margin: 2em auto;\" />\n<p>Today we are happy to announce the (long overdue) 1.0 release of <a href=\"https://vitepress.dev/\" rel=\"noreferrer\" target=\"_blank\">VitePress</a>!</p>\n<p>VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pag",
+    "ai_summary": "VitePress 1.0 发布，这是一个静态站点生成器，用于构建快速、以内容为中心的网站，将 Markdown 源内容转换为静态 HTML 页面。",
+    "ai_tags": [
+      "VitePress",
+      "静态站点生成器",
+      "前端工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.4",
+    "link": "https://blog.vuejs.org/posts/vue-3-4",
+    "published_time": "2023-12-28 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.4 &quot;🏀 Slam Dunk&quot;!</p>\n<p>This release includes some substantial internal improvements - most notably a rewritten template parser that is 2x faster, and a refactored reactivity system that makes effect triggering more accurate and efficient. It also packs a number of quality-of-life API improvements, including the stabilization of <code>defineModel</code> and a new same-name shorthand when binding props.</p>\n<p>This post provides an",
+    "ai_summary": "Vue 3.4 \"🏀 Slam Dunk\" 发布，包含重大内部改进，如模板解析器速度提升 2 倍，以及更准确高效的反应性系统，还有 API 改进。",
+    "ai_tags": [
+      "Vue",
+      "前端框架",
+      "性能优化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2 is Approaching End Of Life",
+    "link": "https://blog.vuejs.org/posts/vue-2-eol",
+    "published_time": "2023-12-15 00:00:00",
+    "raw_content": "<p>With 2024 almost upon us, we would like to take this opportunity to remind the Vue community that Vue 2 will reach End of Life (EOL) on December 31st, 2023.</p>\n<p>Vue 2.0 was released more than 7 years ago in 2016. It was a major milestone in Vue's journey of becoming a mainstream framework. Many current Vue users started using Vue during the Vue 2 era, and many great things have been built with it.</p>\n<p>However, active maintenance of two major versions in parallel isn't sustainable for us",
+    "ai_summary": "Vue 2 将于 2023 年 12 月 31 日达到生命周期结束，提醒社区注意升级到 Vue 3。",
+    "ai_tags": [
+      "Vue",
+      "生命周期结束",
+      "技术迁移"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.3",
+    "link": "https://blog.vuejs.org/posts/vue-3-3",
+    "published_time": "2023-05-11 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.3 &quot;Rurouni Kenshin&quot;!</p>\n<p>This release is focused on developer experience improvements - in particular, SFC <code>&lt;script setup&gt;</code> usage with TypeScript. Together with the 1.6 release of <a href=\"https://github.com/vuejs/language-tools/\" rel=\"noreferrer\" target=\"_blank\">Vue Language Tools</a> (previously known as Volar), we have resolved many long-standing pain points when using Vue with TypeScript.</p>\n<p>This post p",
+    "ai_summary": "Vue 3.3 \"Rurouni Kenshin\" 发布，专注于开发者体验改进，特别是与 TypeScript 的 SFC <script setup> 使用。",
+    "ai_tags": [
+      "Vue",
+      "TypeScript",
+      "开发者工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "想问下是不是和女朋友三观不一致",
+    "link": "https://www.v2ex.com/t/1207078",
+    "published_time": "2026-04-20 01:48:24",
+    "raw_content": "wongfei: 事由：她的电车在充电桩被拔<br />我们是晚上 8 点开进充电停车场，插枪，没充电，把码拍下来，然后上楼，等特定点充相对便宜的电，然后到点充结果发现充电不是本车，我们下去看到插在车子的插头在隔壁车上，她马上就气愤，把插头也拔下来插自己车上充电（对方车也是等特定时间充电，所以可以轻易拔），然后就想找对方理论，打电话关机，就各种打电话，最后还是报 110 让对方来处理，当面道歉<br /><br />处理的结果：当着 JC 的面女朋友在疯狂的跳脚，觉得拔了就是你的问题，就是要让对方承认错误，让对方赔礼道歉，结果双双在争执，对方说看你没在充电就拔下来，JC 开始的意思就是说都有错，我们也是占着不充电，后面是因为看我女朋友和对方一直在争执，JC 就让对方认错了（不情愿）<br /><br />分歧点：我是那种多一事不如少一事的处理态度，因为我们也拔了对方的车的插头，就像对方做初一我们做十五，我们电还是充电了，我们就是耽误一下上楼下楼的时间，而且我们拔了对方的，对方也充不了电（也相当于是报复了）还有就是时间和精力，从晚上 10 点多从打电话在车身边待了 1 小时，JC 才联系",
+    "ai_summary": "用户分享与女友在充电桩被拔插头事件中的分歧，女友坚持理论并要求道歉，而用户倾向于多一事不如少一事，导致争执和报警处理。",
+    "ai_tags": [
+      "个人经历",
+      "情感关系",
+      "社会事件"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "大家一定要注意自己的血糖指标",
+    "link": "https://www.v2ex.com/t/1207065",
+    "published_time": "2026-04-20 01:24:14",
+    "raw_content": "MasterLei: 因为老婆是内分泌科的护士，所以对于血糖和糖尿病的预防有点敏感<br />我自认为身体是很好的，体重也不超标，但是去医院一查，就是已经胰岛素抵抗了，而且常规体检也不会检查这一项这就是糖尿病的前期，如果不注意防治，很有可能就会发展成糖尿病。<br />所以建议各位朋友吃完饭有口渴严重的症状，或者主食面食米食吃的多的，最好去医院查一下。",
+    "ai_summary": "用户提醒注意血糖指标，分享自己胰岛素抵抗的经历，建议有口渴症状或主食摄入多的人去医院检查，以预防糖尿病。",
+    "ai_tags": [
+      "健康",
+      "糖尿病预防",
+      "医疗建议"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "AI 代码后面怎么维护,心智负担太大了",
+    "link": "https://www.v2ex.com/t/1207049",
+    "published_time": "2026-04-19 23:37:14",
+    "raw_content": "cc9910: ai 生成爽是很爽,但是数量太多了,每次阅读起来真的太累了<br />今天加了两个函数,回来一看,又多了 300 行,也不能说它错,因为字段检验,格式又是自己写的要求<br />本来立项的时候,规定一个文件最长就 400 行,现在都多余,无非是拆分一堆小文件,还不如一个文件两千行,省得点了<br />整个项目搞下来都几万行了<br />读是肯定要读的,不然后面报错,只能跟 ai 一起赌运气了,好累啊,难道要用 AI 控制 AI?",
+    "ai_summary": "用户抱怨 AI 生成代码维护困难，心智负担大，代码量多导致阅读累，项目行数激增，考虑是否用 AI 控制 AI 来管理。",
+    "ai_tags": [
+      "AI 编程",
+      "代码维护",
+      "技术挑战"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "在你们的求学和职业生涯中，有“恩师”的存在吗",
+    "link": "https://www.v2ex.com/t/1207034",
+    "published_time": "2026-04-19 15:29:30",
+    "raw_content": "YanSeven: <p>我回顾我的求学生涯，好像一直没有遇到所谓的书籍上的“恩师”，都是教师以及“老板”或者“工头”。在基础教育阶段有几位老师至今感觉上还是很不错，但是也很难称之为“恩师”。</p>\n<p>职场我目前还初出茅庐，就更没有了。</p>\n<p>当然了，“恩师”这种东西，可能本身就和知己，仙侣，君子一样的，时常存活在“台词”中。</p>\n<p>大概也是一种只见其名，不见其人的东西。</p>",
+    "ai_summary": "用户讨论在求学和职业生涯中是否有“恩师”存在，回顾个人经历，认为恩师像知己一样罕见，更多存在于概念中。",
+    "ai_tags": [
+      "教育",
+      "职业生涯",
+      "人际关系"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "公司前两周招了个新人， 在犹豫要不要叫老板辞退他",
+    "link": "https://www.v2ex.com/t/1207033",
+    "published_time": "2026-04-19 15:29:25",
+    "raw_content": "pengyOne: <p>说说前提， 公司不是说非常的正规， 总共就三四个开发。。所以要求是能够全栈的去做，没有测试， 需求理解也得靠自己来琢磨。 现在有 ai coding 的情况下， 分析理解代码也很快，公司也有提供 github copilot ， 所以我很快就分配任务下去了</p>\n<p>最近给他分配了几个任务</p>\n<ol>\n<li>\n<p>让他对接 api 接口， 开发完说好了， 提交了代码， 因为是新人， 我就做做兜底审核， 发现有部分参数不能生效， 他没有测试出来， 而这几个参数是这个接口效果的核心参数</p>\n</li>\n<li>\n<p>再次对接 api 接口， 开发完说好了， 提交了代码， 我继续审核， 发现计费逻辑没有考虑完全， 有部分计费逻辑没有算进去。 </p>\n</li>\n<li>\n<p>再次对接 api 接口，开发完说好了， 提交了代码， 我继续审核， 发现他计费逻辑少了数量计费</p>\n</li>\n</ol>\n<p>三次， 我都对他进行了警告，要求他思维要严谨， 计费是与金钱有关， 说实话我已经对他很不满了， 本身自己工作就多，还每次都能检查到这种基本",
+    "ai_summary": "公司新人多次在 API 接口开发中出错，如参数不生效、计费逻辑不全，导致审核者不满，考虑是否建议老板辞退他。",
+    "ai_tags": [
+      "职场",
+      "新人培训",
+      "代码质量"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Swiss authorities want to reduce dependency on Microsoft",
+    "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+    "published_time": "2026-04-19 20:25:29",
+    "raw_content": "<p>Article URL: <a href=\"https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532\">https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47827383\">https://news.ycombinator.com/item?id=47827383</a></p>\n<p>Points: 200</p>\n<p># Comments: 76</p>",
+    "ai_summary": "瑞士当局计划减少对微软的依赖，以增强技术自主性。",
+    "ai_tags": [
+      "瑞士",
+      "微软",
+      "技术依赖",
+      "自主性"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The Bromine Chokepoint",
+    "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+    "published_time": "2026-04-19 17:44:03",
+    "raw_content": "<p>Article URL: <a href=\"https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/\">https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47826100\">https://news.ycombinator.com/item?id=47826100</a></p>\n<p>Points: 165</p>\n<p># Comments: 77</p>",
+    "ai_summary": "中东冲突可能通过溴供应瓶颈影响全球内存芯片生产。",
+    "ai_tags": [
+      "中东",
+      "溴",
+      "内存芯片",
+      "供应链"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+    "published_time": "2026-04-19 15:48:40",
+    "raw_content": "<p>Article URL: <a href=\"https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/\">https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47825160\">https://news.ycombinator.com/item?id=47825160</a></p>\n<p>Points: 139</p>\n<p># Comments: 115</p>",
+    "ai_summary": "Turtle WoW经典服务器因暴雪获得禁令而宣布关闭。",
+    "ai_tags": [
+      "Turtle WoW",
+      "暴雪",
+      "禁令",
+      "服务器关闭"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "Vercel says internal systems hit in breach",
+    "link": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+    "published_time": "2026-04-19 15:23:39",
+    "raw_content": "<p>Article URL: <a href=\"https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/\">https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824976\">https://news.ycombinator.com/item?id=47824976</a></p>\n<p>Points: 376</p>\n<p># Comments: 2</p>",
+    "ai_summary": "Vercel内部系统在数据泄露事件中受到影响。",
+    "ai_tags": [
+      "Vercel",
+      "数据泄露",
+      "内部系统",
+      "安全"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "link": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "published_time": "2026-04-19 15:20:01",
+    "raw_content": "<p>Article URL: <a href=\"https://twitter.com/weezerOSINT/status/2045849358462222720\">https://twitter.com/weezerOSINT/status/2045849358462222720</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824945\">https://news.ycombinator.com/item?id=47824945</a></p>\n<p>Points: 334</p>\n<p># Comments: 118</p>",
+    "ai_summary": "Notion泄露了所有公共页面编辑者的电子邮件地址。",
+    "ai_tags": [
+      "Notion",
+      "数据泄露",
+      "电子邮件",
+      "隐私"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "MDN ditches React for web components in frontend rebuild",
+    "link": "https://javascriptweekly.com/issues/781",
+    "published_time": "2026-04-14 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​781 — April 14, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183753/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "MDN在前端重建中放弃React，转向使用Web组件。",
+    "ai_tags": [
+      "MDN",
+      "React",
+      "Web组件",
+      "前端"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "What to know about JavaScript in 2026",
+    "link": "https://javascriptweekly.com/issues/780",
+    "published_time": "2026-04-07 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​780 — April 7, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183301/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScript",
+    "ai_summary": "2026年JavaScript相关的重要知识和趋势概述。",
+    "ai_tags": [
+      "JavaScript",
+      "2026",
+      "趋势",
+      "技术"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "A new, major npm supply chain attack via Axios",
+    "link": "https://javascriptweekly.com/issues/779",
+    "published_time": "2026-03-31 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​779 — March 31, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183032/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "通过Axios发生的新一轮重大npm供应链攻击。",
+    "ai_tags": [
+      "npm",
+      "供应链攻击",
+      "Axios",
+      "安全"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "TypeScript 6.0, Next.js 16.2, and a new Node.js runtime",
+    "link": "https://javascriptweekly.com/issues/778",
+    "published_time": "2026-03-24 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​778 — March 24, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/182712/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "TypeScript 6.0、Next.js 16.2和新Node.js运行时的发布。",
+    "ai_tags": [
+      "TypeScript",
+      "Next.js",
+      "Node.js",
+      "发布"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295674",
+    "published_time": "2026-02-04 01:17:18",
+    "raw_content": "<div><p>在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。</p><p>长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。</p><p>公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。</p><p>长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。</p><p>负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认",
+    "ai_summary": "长和强烈反对巴拿马最高法院裁定其港口合同违宪，并将进行仲裁。",
+    "ai_tags": [
+      "长和",
+      "巴拿马",
+      "仲裁",
+      "港口合同"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "浙江夫妇吃网购娃娃菜中毒案反转 实为二人合谋骗赔偿",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295426",
+    "published_time": "2026-02-04 01:00:39",
+    "raw_content": "<div><p>中国浙江省一对夫妇因食用网购娃娃菜后出现中毒症状入院，警方调查曾指向商家包装不当、丈夫投毒，一度引发舆论关注。</p><p>但最新进展显示，中毒是夫妻二人事先合谋，故意制造“食用网购蔬菜中毒”的假象，企图以此向平台或商家要挟索取高额赔偿。目前，两人已被警方刑事拘留。</p><p>综合红星新闻、澎湃新闻报道，浙江省台州天台县杨女士和丈夫去年12月网购娃娃菜，食用后夫妇俩同时出现全身出血症状，入院抢救。杨女士在ICU（重症监护病房）抢救一个多月才好转，丈夫出现全身出血、肺积水、呼吸衰竭等症状。</p><p>医院诊断结果显示，夫妇俩均为老鼠药中毒。随后警方也在网购娃娃菜中检测出老鼠药，并受案。</p><p>上个月媒体披露，警方锁定毒源为包裹娃娃菜的旧报纸在回收储存中沾染杀鼠剂，商家为压缩成本用其包装，导致有毒物质渗透污染蔬菜。涉事商家随后下架失联，平台已提供店主信息，警方正追查全链条责任。</p><p>媒体星期二（2月3日）报道，警方进一步侦查发现，下毒者是杨女士的丈夫，目前涉事男子已被警方采取刑事强制措施。</p><p>2月3日晚，媒体再度披露，警方已侦查识破，丈夫的下毒行",
+    "ai_summary": "浙江一对夫妇声称食用网购娃娃菜后中毒，警方调查发现实为夫妻合谋下毒，企图骗取赔偿，两人已被刑事拘留。",
+    "ai_tags": [
+      "社会新闻",
+      "诈骗案",
+      "食品安全"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295417",
+    "published_time": "2026-02-04 00:53:45",
+    "raw_content": "<div><p>在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。</p><p>港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。</p><p>文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。</p><p>文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。</p><p>文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正",
+    "ai_summary": "中国国务院港澳办警告巴拿马，若执意裁定香港企业巴拿马运河港口合约违宪，将在政治和经济上付出沉重代价。",
+    "ai_tags": [
+      "国际关系",
+      "港澳事务",
+      "经济警告"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中央一号文件再提整治农村高额彩礼",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295371",
+    "published_time": "2026-02-04 00:39:35",
+    "raw_content": "<div><p>中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。</p><p>据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。</p><p>中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。</p><p>2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。</p><p>在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
+    "ai_summary": "2026年中央一号文件再次提出整治农村高额彩礼，引导树立正确婚恋观，培育简约文明婚俗文化。",
+    "ai_tags": [
+      "政策文件",
+      "农村治理",
+      "社会风俗"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国艺术研究院原院长连辑被查 曾整顿《炎黄春秋》",
+    "link": "https://www.zaobao.com/news/china/story20260204-8295357",
+    "published_time": "2026-02-04 00:30:59",
+    "raw_content": "<div><p>中国官方星期二（2月3日）通报，中国艺术研究院原院长连辑被查，他曾接管和整顿中国改革派标杆性刊物《炎黄春秋》。</p><p>据中共中央纪委国家监委网站星期二消息，连辑涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。</p><p>连辑今年71岁，山西沁源县人，曾长期任职内蒙古。他曾任呼和浩特市副市长，呼和浩特市委常委、副市长，呼伦贝尔盟盟委副书记、盟长，呼伦贝尔盟盟委书记、盟人大工作委员会主任，呼伦贝尔市委书记等职。</p><p>2003年1月，连辑任内蒙古自治区政府副主席。2011年9月，连辑调任甘肃省委常委、宣传部部长，2016年卸任后，曾任中国艺术研究院院长等职。</p><p>官网简介显示，中国艺术研究院是中国唯一一所集艺术研究、艺术教育、艺术创作、非物质文化遗产保护和文化艺术智库为一体的国家级综合性学术机构。</p>\n    \n  <p>据红星新闻报道，连辑卸任相关职务后，近些年仍频繁出现在媒体报道中，身份主要是书法家。</p><p>另据香港星岛头条网报道，《炎黄春秋》在2016年遭改组，引发风波。中国艺术研究院是《炎黄春秋》挂靠的主管单位，时任院",
+    "ai_summary": "中国艺术研究院原院长连辑因涉嫌严重违纪违法被查，他曾参与整顿改革派刊物《炎黄春秋》。",
+    "ai_tags": [
+      "反腐调查",
+      "文化机构",
+      "政治人物"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "published_time": "2026-04-17 14:00:00",
+    "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+    "ai_summary": "谷歌提供七种夏季旅行更智能的方法，利用其搜索和人工智能工具优化旅行体验。",
+    "ai_tags": [
+      "科技新闻",
+      "旅行建议",
+      "谷歌产品"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "google_ai",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "published_time": "2026-04-16 17:00:00",
+    "raw_content": "AI Mode in Chrome",
+    "ai_summary": "谷歌Chrome浏览器推出AI模式，提供新的网页浏览方式，增强人工智能辅助功能。",
+    "ai_tags": [
+      "科技新闻",
+      "浏览器更新",
+      "人工智能"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "New ways to create personalized images in the Gemini app",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "Example images made with Personal Intelligence",
+    "ai_summary": "Gemini应用推出个性化图像创建新功能，用户可生成定制化图像内容。",
+    "ai_tags": [
+      "科技新闻",
+      "图像生成",
+      "谷歌AI"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "google_ai",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+    "ai_summary": "谷歌发布Gemini 3.1 Flash TTS，下一代富有表现力的人工智能语音技术。",
+    "ai_tags": [
+      "科技新闻",
+      "语音合成",
+      "AI模型"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "published_time": "2026-04-14 17:00:00",
+    "raw_content": "Video showing Skills in Chrome",
+    "ai_summary": "谷歌Chrome新增功能，允许用户将最佳AI提示转化为一键工具，提升浏览效率。",
+    "ai_tags": [
+      "科技新闻",
+      "浏览器工具",
+      "人工智能"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "published_time": "2026-04-16 10:00:00",
+    "raw_content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "ai_summary": "OpenAI更新Codex应用，新增计算机使用、浏览、图像生成等功能，加速开发者工作流程。",
+    "ai_tags": [
+      "科技新闻",
+      "开发工具",
+      "OpenAI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "published_time": "2026-04-16 01:00:00",
+    "raw_content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "ai_summary": "OpenAI推出GPT-Rosalind前沿推理模型，旨在加速药物发现、基因组学分析、蛋白质推理和科学研究工作流程。",
+    "ai_tags": [
+      "OpenAI",
+      "GPT-Rosalind",
+      "生命科学研究",
+      "药物发现"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "ai_summary": "领先安全公司和企业加入OpenAI的网络安全可信访问计划，使用GPT-5.4-Cyber和1000万美元API资助，以加强全球网络防御。",
+    "ai_tags": [
+      "OpenAI",
+      "网络安全",
+      "GPT-5.4-Cyber",
+      "可信访问"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "published_time": "2026-04-15 10:00:00",
+    "raw_content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "ai_summary": "OpenAI更新Agents SDK，新增原生沙箱执行和模型原生框架，帮助开发者构建跨文件和工具的安全、长期运行的智能体。",
+    "ai_tags": [
+      "OpenAI",
+      "Agents SDK",
+      "开发者工具",
+      "智能体开发"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Trusted access for the next era of cyber defense",
+    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "published_time": "2026-04-14 00:00:00",
+    "raw_content": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "ai_summary": "OpenAI扩展网络安全可信访问计划，向经过审查的防御者推出GPT-5.4-Cyber，并在AI网络安全能力提升的同时加强安全防护措施。",
+    "ai_tags": [
+      "OpenAI",
+      "网络安全",
+      "可信访问",
+      "GPT-5.4-Cyber"
+    ],
+    "ai_importance": 4
+  }
+]

@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from sqlalchemy import DateTime, Integer, String, Text, UniqueConstraint, func
+from sqlalchemy import DateTime, Integer, String, Text, UniqueConstraint, func, Date
 from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import Mapped, mapped_column
 
@@ -20,5 +20,6 @@ class NewsItem(Base):
     ai_summary: Mapped[str] = mapped_column(Text, default="")
     ai_tags: Mapped[list] = mapped_column(JSONB, default=list)
     ai_importance: Mapped[int] = mapped_column(Integer, default=3)
+    ingest_date: Mapped[datetime] = mapped_column(Date, server_default=func.current_date(), index=True)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
     updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
