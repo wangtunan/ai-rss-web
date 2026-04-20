@@ -22,9 +22,35 @@ export interface NewsItem {
 }
 
 /** 资讯接口返回结构 */
-export interface NewsPayload {
+export interface NewsResponse {
   /** 本批次数据更新时间 */
   last_updated: string
+  /** 资讯列表 */
+  items: NewsItem[]
+}
+
+/** 资讯列表接口请求结构 */
+export interface NewsListRequest {
+  /** 分类 */
+  category?: string
+  /** 来源 */
+  source?: string
+  /** 日期 */
+  ingest_date?: string
+  /** 每页条数 */
+  limit?: number
+  /** 偏移量 */
+  offset?: number
+}
+
+/** 资讯列表接口返回结构 */
+export interface NewsListResponse {
+  /** 总条数 */
+  total: number
+  /** 每页条数 */
+  limit: number
+  /** 偏移量 */
+  offset: number
   /** 资讯列表 */
   items: NewsItem[]
 }

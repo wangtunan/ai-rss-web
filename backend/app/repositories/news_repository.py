@@ -1,4 +1,5 @@
 from typing import Iterable
+from datetime import date
 from sqlalchemy import desc
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
@@ -44,12 +45,39 @@ def save_news_items(session: Session, items: Iterable[dict]) -> tuple[int, int]:
     return inserted, skipped
 
 
-def list_news_items(session: Session, limit: int = 100) -> list[NewsItem]:
-    limit = max(1, min(limit, 500))
+def list_news_items(
+    session: Session,
+    *,
+    category: str | None = None,
+    source: str | None = None,
+    ingest_date: date | None = None,
+    limit: int = 100,
+    offset: int = 0,
+) -> tuple[list[NewsItem], int]:
+    """
+    根据条件查询新闻列表。
+    """
 
-    return (
-        session.query(NewsItem)
-        .order_by(desc(NewsItem.created_at))
-        .limit(limit)
+    safe_limit = max(1, min(limit, 500))
+    safe_offset = max(0, offset)
+    query = session.query(NewsItem)
+
+    if category:
+        query = query.filter(NewsItem.category == category)
+    
+    if source:
+        query = query.filter(NewsItem.source == source)
+    
+    if ingest_date:
+        query = query.filter(NewsItem.ingest_date == ingest_date)
+    
+    total = query.count()
+
+    items = (
+        query.order_by(desc(NewsItem.created_at))
+        .offset(safe_offset)
+        .limit(safe_limit)
         .all()
     )
+
+    return items, total
