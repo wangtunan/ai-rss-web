@@ -2,7 +2,7 @@ import { ref } from 'vue'
 
 import { THEME_STORAGE_KEY, DEFAULT_THEME } from '@/constants/theme'
 
-import type { ThemeMode } from '@/types/news'
+import type { ThemeMode } from '@/types/theme'
 
 export const useTheme = () => {
   const theme = ref<ThemeMode>(DEFAULT_THEME)

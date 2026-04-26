@@ -1,0 +1,85 @@
+.theme-switch {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.9rem;
+  height: 1.62rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: color-mix(in oklab, var(--text), transparent 18%);
+  cursor: pointer;
+  transition:
+    transform 0.18s ease,
+    color 0.18s ease,
+    background 0.2s ease;
+
+  &__track {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    background: color-mix(in oklab, var(--text-soft), transparent 82%);
+    transition:
+      background 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+
+  &__thumb {
+    position: absolute;
+    top: 0.18rem;
+    left: 0.18rem;
+    display: grid;
+    place-items: center;
+    width: 1.26rem;
+    height: 1.26rem;
+    border-radius: 50%;
+    background: var(--surface);
+    color: var(--text);
+    transform: translateX(1.28rem);
+    transition:
+      transform 0.24s cubic-bezier(0.22, 1, 0.36, 1),
+      background 0.2s ease,
+      color 0.2s ease;
+  }
+
+  &__icon {
+    width: 0.78rem;
+    height: 0.78rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.8;
+  }
+
+  &:hover {
+    transform: translateY(-1px);
+    color: var(--text);
+  }
+
+  &:hover .theme-switch__track {
+    background: color-mix(in oklab, var(--accent), transparent 76%);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  &--dark .theme-switch__track {
+    background: color-mix(in oklab, var(--accent), transparent 62%);
+  }
+
+  &--dark .theme-switch__thumb {
+    background: color-mix(in oklab, var(--bg), var(--surface) 18%);
+    color: var(--accent);
+    transform: translateX(0);
+  }
+}
+
+:root[data-theme='light'] .theme-switch {
+  background: transparent;
+}

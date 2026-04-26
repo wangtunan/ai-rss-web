@@ -1,5 +1,5 @@
-/** 主题模式：暗色或亮色 */
-export type ThemeMode = 'dark' | 'light'
+import type { NavType } from './nav'
+
 
 /** 单条资讯数据 */
 export interface NewsItem {
@@ -66,7 +66,9 @@ export interface CategoryMeta {
   /** 分类副标题（通常是来源名） */
   subtitle: string
   /** 分类图标地址（通常使用对应官网 favicon） */
-  icon: string
+  icon: string,
+  /** 该分类属于哪些导航栏 */
+  belong_to?: NavType[]
 }
 
 /** 页面展示用的分类数据结构 */

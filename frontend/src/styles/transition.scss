@@ -1,0 +1,18 @@
+.category-card-enter-active,
+.category-card-leave-active {
+  transition:
+    opacity 0.24s ease,
+    transform 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.24s ease;
+}
+
+.category-card-enter-from,
+.category-card-leave-to {
+  opacity: 0;
+  filter: blur(4px);
+  transform: translateY(0.75rem) scale(0.985);
+}
+
+.category-card-move {
+  transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+}
