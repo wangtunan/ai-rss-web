@@ -1,12 +1,14 @@
 import { computed, ref } from 'vue'
 
 import { CATEGORY_META, SORT_CATEGORY_KEYS } from '@/constants/news'
+import type { NavType } from '@/types/nav'
 
 export type CategoryCardConfig = {
   key: string
   label: string
   subtitle: string
   icon: string
+  belongTo: NavType[]
 }
 
 export const useNewsBoard = () => {
@@ -23,6 +25,7 @@ export const useNewsBoard = () => {
         label: meta.label,
         subtitle: meta.subtitle,
         icon: meta.icon,
+        belongTo: meta.belong_to ?? [],
       }
     }),
   )

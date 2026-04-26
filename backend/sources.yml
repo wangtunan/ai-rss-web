@@ -34,3 +34,27 @@ sources:
   - name: 联合早报
     url: https://plink.anyfeeder.com/zaobao/realtime/china
     category: zaobao_china
+  
+  - name: 36氪
+    url: https://36kr.com/feed
+    category: 36kr
+  
+  - name: 华尔街日报
+    url: https://plink.anyfeeder.com/wsj/cn
+    category: wsj
+  
+  - name: InfoQ
+    url: https://plink.anyfeeder.com/infoq/recommend
+    category: infoq
+  
+  - name: 掘金
+    url: https://rsshub.bestblogs.dev/juejin/trending/all/weekly
+    category: juejin
+  
+  - name: 雪球
+    url: https://xueqiu.com/hots/topic/rss
+    category: xueqiu
+
+  - name: 财联社
+    url: https://rsshub.rssforever.com/cls/telegraph
+    category: cls

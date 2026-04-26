@@ -1,6 +1,6 @@
 from typing import Iterable
 from datetime import date
-from sqlalchemy import desc
+from sqlalchemy import desc, func
 from sqlalchemy.orm import Session
 
 from app.db.models import NewsItem
@@ -81,8 +81,14 @@ def list_news_items(
     
     total = query.count()
 
+    date_key = func.substr(NewsItem.published_time, 1, 10)
+
     items = (
-        query.order_by(desc(NewsItem.created_at))
+        query.order_by(
+            desc(date_key),
+            desc(NewsItem.ai_importance),
+            desc(NewsItem.id),
+        )
         .offset(safe_offset)
         .limit(safe_limit)
         .all()

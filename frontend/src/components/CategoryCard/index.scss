@@ -252,3 +252,36 @@
     white-space: nowrap;
   }
 }
+
+:root[data-theme='light'] .category-card {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(248, 252, 255, 0.96)),
+    var(--surface);
+  box-shadow: none;
+
+  .category-card__header {
+    background: linear-gradient(180deg, rgba(246, 250, 253, 0.9), rgba(255, 255, 255, 0));
+  }
+
+  .category-card__row:hover {
+    background: rgba(15, 159, 149, 0.045);
+  }
+
+  .category-card__summary-label,
+  .category-card__count-pill,
+  .category-card__importance {
+    background: rgba(15, 159, 149, 0.08);
+  }
+
+  .category-card__tag:nth-child(3n + 1) {
+    color: #0f766e;
+  }
+
+  .category-card__tag:nth-child(3n + 2) {
+    color: #6d5bd0;
+  }
+
+  .category-card__tag:nth-child(3n) {
+    color: #b45309;
+  }
+}
