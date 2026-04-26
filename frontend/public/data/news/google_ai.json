@@ -1,0 +1,167 @@
+{
+  "total": 20,
+  "limit": 10,
+  "offset": 0,
+  "items": [
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "published_time": "2026-04-24 19:00:00",
+      "raw_content": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+      "ai_summary": "谷歌Gemini提供8个整理空间和生活的技巧。",
+      "ai_tags": [
+        "Gemini",
+        "整理",
+        "生活技巧"
+      ],
+      "ai_importance": 1,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "published_time": "2026-04-23 12:00:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "ai_summary": "谷歌介绍其TPU如何支持日益增长的AI工作负载。",
+      "ai_tags": [
+        "TPU",
+        "AI",
+        "谷歌云"
+      ],
+      "ai_importance": 3,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "published_time": "2026-04-23 09:00:00",
+      "raw_content": "Aerial image of the data center",
+      "ai_summary": "谷歌在奥地利投资建设首个数据中心，位于阿尔卑斯山地区。",
+      "ai_tags": [
+        "谷歌",
+        "数据中心",
+        "奥地利"
+      ],
+      "ai_importance": 3,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "published_time": "2026-04-22 12:00:00",
+      "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "ai_summary": "谷歌推出两款专用TPU芯片，用于代理时代，属于第八代TPU。",
+      "ai_tags": [
+        "谷歌",
+        "TPU",
+        "AI芯片"
+      ],
+      "ai_importance": 5,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "published_time": "2026-04-21 14:30:00",
+      "raw_content": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "ai_summary": "谷歌广告顾问推出三项新功能，使Google Ads更安全、更快速。",
+      "ai_tags": [
+        "谷歌",
+        "广告",
+        "安全"
+      ],
+      "ai_importance": 4,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "published_time": "2026-04-17 14:00:00",
+      "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "ai_summary": "谷歌提供7种利用AI工具更智能地夏季旅行的方法。",
+      "ai_tags": [
+        "谷歌",
+        "旅行",
+        "AI"
+      ],
+      "ai_importance": 3,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "published_time": "2026-04-16 17:00:00",
+      "raw_content": "AI Mode in Chrome",
+      "ai_summary": "Chrome浏览器推出AI模式，提供新的网页探索方式。",
+      "ai_tags": [
+        "谷歌",
+        "Chrome",
+        "AI"
+      ],
+      "ai_importance": 4,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "published_time": "2026-04-16 16:00:00",
+      "raw_content": "Example images made with Personal Intelligence",
+      "ai_summary": "Gemini应用新增个性化图像创建功能，支持个人智能。",
+      "ai_tags": [
+        "谷歌",
+        "Gemini",
+        "图像生成"
+      ],
+      "ai_importance": 4,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "published_time": "2026-04-15 15:00:00",
+      "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "ai_summary": "谷歌发布Gemini 3.1 Flash TTS，新一代表达性AI语音技术。",
+      "ai_tags": [
+        "谷歌",
+        "Gemini",
+        "语音合成"
+      ],
+      "ai_importance": 4,
+      "ingest_date": "2026-04-26"
+    },
+    {
+      "category": "google_ai",
+      "source": "",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "published_time": "2026-04-14 17:00:00",
+      "raw_content": "Video showing Skills in Chrome",
+      "ai_summary": "Chrome浏览器可将最佳AI提示转化为一键工具，名为Skills。",
+      "ai_tags": [
+        "谷歌",
+        "Chrome",
+        "AI工具"
+      ],
+      "ai_importance": 3,
+      "ingest_date": "2026-04-26"
+    }
+  ]
+}

@@ -13,5 +13,4 @@ dependencies = [
   "requests",
   "sqlalchemy",
   "alembic",
-  "psycopg[binary]",
 ]

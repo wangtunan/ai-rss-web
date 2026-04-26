@@ -5,6 +5,8 @@ export type ThemeMode = 'dark' | 'light'
 export interface NewsItem {
   /** 数据来源分类标识，例如 hacker_news / v2ex / openai */
   category: string
+  /** 数据来源显示名 */
+  source?: string
   /** 资讯标题 */
   title: string
   /** 原文链接地址 */
@@ -19,6 +21,8 @@ export interface NewsItem {
   ai_tags: string[]
   /** AI 评估的重要度分值 */
   ai_importance: number
+  /** 入库或导出日期 */
+  ingest_date?: string
 }
 
 /** 资讯接口返回结构 */

@@ -1,7 +1,6 @@
 from typing import Iterable
 from datetime import date
 from sqlalchemy import desc
-from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
 
 from app.db.models import NewsItem
@@ -12,14 +11,16 @@ def save_news_items(session: Session, items: Iterable[dict]) -> tuple[int, int]:
     返回: (inserted_count, skipped_count)
     """
 
-    rows = []
+    candidate_rows = []
+    seen_links = set()
 
     for item in items:
         link = (item.get("link") or "").strip()
-        if not link:
+        if not link or link in seen_links:
             continue
+        seen_links.add(link)
 
-        rows.append({
+        candidate_rows.append({
             "source": item.get("source", ""),
             "category": item.get("category", ""),
             "title": item.get("title", ""),
@@ -31,17 +32,24 @@ def save_news_items(session: Session, items: Iterable[dict]) -> tuple[int, int]:
             "ai_importance": item.get("ai_importance", 3),
         })
     
-    if not rows:
+    if not candidate_rows:
         return 0, 0
-    
-    stmt = insert(NewsItem).values(rows)
-    stmt = stmt.on_conflict_do_nothing(index_elements=["link"]).returning(NewsItem.id)
 
-    inserted_ids  = session.execute(stmt).scalars().all()
+    links = [row["link"] for row in candidate_rows]
+    existing_links = {
+        link
+        for (link,) in session.query(NewsItem.link)
+        .filter(NewsItem.link.in_(links))
+        .all()
+    }
+
+    rows = [row for row in candidate_rows if row["link"] not in existing_links]
+    if rows:
+        session.add_all(NewsItem(**row) for row in rows)
     session.commit()
 
-    inserted = len(inserted_ids)
-    skipped = len(rows) - inserted
+    inserted = len(rows)
+    skipped = len(candidate_rows) - inserted
     return inserted, skipped
 
 

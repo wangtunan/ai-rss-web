@@ -1,19 +1,19 @@
-import type { NewsResponse, NewsListResponse, NewsListRequest } from '@/types/news'
+import type { NewsListResponse, NewsListRequest } from '@/types/news'
+import { fetchJson } from './json'
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? ''
+const DATA_MODE = import.meta.env.VITE_DATA_MODE ?? 'api'
+const STATIC_NEWS_LIST_BASE_URL = import.meta.env.VITE_STATIC_NEWS_LIST_BASE_URL ?? '/data/news'
 
-export const fetchNewsPayload = async (): Promise<NewsResponse> => {
-  const url = `${API_BASE_URL}/api/v1/news?limit=200`
-  const response = await fetch(url, { cache: 'no-store' })
-  if (!response.ok) {
-    throw new Error(`数据加载失败: ${response.status}`)
-  }
-  const result = await response.json()
-
-  return result as NewsResponse
-}
+const isStaticMode = () => DATA_MODE === 'static'
 
 export const fetchNewsListPayload = async (params: NewsListRequest): Promise<NewsListResponse> => {
+  if (isStaticMode()) {
+    const category = params.category ?? 'all'
+    const url = `${STATIC_NEWS_LIST_BASE_URL}/${category}.json`
+    return fetchJson<NewsListResponse>(url)
+  }
+
   const queryParams = new URLSearchParams()
   if (params.category) {
     queryParams.set('category', params.category)
@@ -29,10 +29,5 @@ export const fetchNewsListPayload = async (params: NewsListRequest): Promise<New
   queryParams.set('offset', String(params.offset ?? 0))
 
   const url = `${API_BASE_URL}/api/v1/news/list?${queryParams.toString()}`
-  const response = await fetch(url, { cache: 'no-store' })
-  if (!response.ok) {
-    throw new Error(`数据加载失败: ${response.status}`)
-  }
-  const result = await response.json()
-  return result as NewsListResponse
+  return fetchJson<NewsListResponse>(url)
 }

@@ -3,3 +3,7 @@ node_modules
 __pycache__
 
 .env
+backend/data/*.db
+backend/data/*.db-*
+*.sqlite
+*.sqlite3
