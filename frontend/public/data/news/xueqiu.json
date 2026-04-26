@@ -1,0 +1,149 @@
+{
+  "total": 20,
+  "limit": 10,
+  "offset": 0,
+  "items": [
+    {
+      "category": "xueqiu",
+      "title": "关于异环的一些个人观点",
+      "link": "http://xueqiu.com/6108306252/385808189",
+      "published_time": "2026-04-26 10:39:23",
+      "raw_content": "",
+      "ai_summary": "作者分享对“异环”的个人观点，可能涉及投资或行业分析。",
+      "ai_tags": [
+        "异环",
+        "个人观点",
+        "投资"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "转型价值投资正当时",
+      "link": "http://xueqiu.com/7708198303/385818352",
+      "published_time": "2026-04-26 05:26:39",
+      "raw_content": "",
+      "ai_summary": "认为当前是转向价值投资策略的合适时机。",
+      "ai_tags": [
+        "价值投资",
+        "投资策略",
+        "时机"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "陕西煤业一季度净利润分析和后续展望",
+      "link": "http://xueqiu.com/7123126150/385833069",
+      "published_time": "2026-04-26 05:26:22",
+      "raw_content": "",
+      "ai_summary": "分析陕西煤业一季度净利润及未来展望。",
+      "ai_tags": [
+        "陕西煤业",
+        "净利润",
+        "展望"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "当我们在说一个AI好用/不好用的时候，在说什么",
+      "link": "http://xueqiu.com/6623660105/385851739",
+      "published_time": "2026-04-26 10:48:54",
+      "raw_content": "",
+      "ai_summary": "探讨评价AI好用与否的标准，涉及用户体验、功能实用性等维度。",
+      "ai_tags": [
+        "AI",
+        "用户体验",
+        "评价标准"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "有色学习笔记（二）：兴业银锡",
+      "link": "http://xueqiu.com/5332385101/385793014",
+      "published_time": "2026-04-26 05:26:31",
+      "raw_content": "",
+      "ai_summary": "学习笔记，分析兴业银锡在有色金属领域的投资价值。",
+      "ai_tags": [
+        "有色金属",
+        "兴业银锡",
+        "投资分析"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "和美国老友聊投资——从苹果、拼多多到泡泡玛特，我更确定什么才是好生意",
+      "link": "http://xueqiu.com/1574262287/385839597",
+      "published_time": "2026-04-26 11:08:06",
+      "raw_content": "",
+      "ai_summary": "作者与美国老友讨论投资，从苹果、拼多多到泡泡玛特，分享好生意的判断。",
+      "ai_tags": [
+        "投资",
+        "股票",
+        "商业分析"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "硅光 vs EML＝铁锂 vs 三元锂；NPO vs CPO＝混动 vs 纯电",
+      "link": "http://xueqiu.com/5672579962/385840736",
+      "published_time": "2026-04-26 10:48:30",
+      "raw_content": "",
+      "ai_summary": "将硅光与EML、NPO与CPO分别类比为电池技术中的铁锂与三元锂、混动与纯电，讨论技术路线差异。",
+      "ai_tags": [
+        "硅光",
+        "EML",
+        "NPO",
+        "CPO",
+        "技术对比"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "比暴跌更可怕的是：手里没“能扛命”的资产",
+      "link": "http://xueqiu.com/5632341672/385831835",
+      "published_time": "2026-04-26 05:26:46",
+      "raw_content": "",
+      "ai_summary": "强调在资产暴跌时，持有能抵御风险的资产比恐慌更重要。",
+      "ai_tags": [
+        "投资",
+        "风险",
+        "资产配置"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "基础知识和逻辑科普",
+      "link": "http://xueqiu.com/6812363119/385759347",
+      "published_time": "2026-04-25 11:41:25",
+      "raw_content": "",
+      "ai_summary": "科普基础知识和逻辑，可能涉及投资或行业常识。",
+      "ai_tags": [
+        "基础知识",
+        "逻辑",
+        "科普"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "非洲的电解铝",
+      "link": "http://xueqiu.com/3151137858/385735677",
+      "published_time": "2026-04-25 13:23:26",
+      "raw_content": "",
+      "ai_summary": "介绍非洲电解铝产业的发展现状和前景。",
+      "ai_tags": [
+        "非洲",
+        "电解铝",
+        "产业"
+      ],
+      "ai_importance": 2
+    }
+  ]
+}

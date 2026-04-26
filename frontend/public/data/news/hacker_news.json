@@ -5,17 +5,17 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
       "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
       "published_time": "2026-04-26 06:24:42",
-      "raw_content": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 362</p>\n<p># Comments: 170</p>",
-      "ai_summary": "西方在制造业衰退后，编程能力也在下降，引发对技术竞争力的担忧。",
+      "raw_content": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 571</p>\n<p># Comments: 333</p>",
+      "ai_summary": "文章指出西方已忘记如何制造实物，如今又忘记如何编程，引发对技术能力衰退的讨论。",
       "ai_tags": [
-        "科技",
+        "技术",
         "编程",
         "制造业"
       ],
-      "ai_importance": 4
+      "ai_importance": 2
     },
     {
       "category": "hacker_news",
@@ -26,119 +26,119 @@
       "ai_summary": "用户反映iPhone每天自动安装Headspace应用，即使关闭自动下载，原因不明。",
       "ai_tags": [
         "iPhone",
-        "应用",
-        "隐私"
+        "自动安装",
+        "应用"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "published_time": "2026-04-26 03:44:28",
+      "raw_content": "<p><a href=\"https://web.archive.org/web/20260426040218/https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/\" rel=\"nofollow\">https://web.archive.org/web/20260426040218/https://juraj.bed...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907130\">https://news.ycombinator.com/item?id=47907130</a></p>\n<p>Points: 222</p>\n<p># Comments: 117</p>",
+      "ai_summary": "欧盟年龄验证系统可能成为数字身份证的突破口，引发隐私担忧。",
+      "ai_tags": [
+        "欧盟",
+        "数字身份证",
+        "隐私"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
       "published_time": "2026-04-26 00:12:47",
-      "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 230</p>\n<p># Comments: 129</p>",
-      "ai_summary": "探讨阿尔茨海默病研究进展缓慢的原因，分析科研挑战。",
+      "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 276</p>\n<p># Comments: 165</p>",
+      "ai_summary": "探讨阿尔茨海默病研究进展缓慢的原因，涉及科学和资金问题。",
       "ai_tags": [
-        "医学",
         "阿尔茨海默病",
-        "科研"
+        "研究进展",
+        "科学"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Trump fires NSF's oversight board",
-      "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-      "published_time": "2026-04-25 22:39:33",
-      "raw_content": "<p>Article URL: <a href=\"https://www.science.org/content/article/trump-fires-nsf-s-oversight-board\">https://www.science.org/content/article/trump-fires-nsf-s-oversight-board</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905283\">https://news.ycombinator.com/item?id=47905283</a></p>\n<p>Points: 458</p>\n<p># Comments: 228</p>",
-      "ai_summary": "特朗普解雇美国国家科学基金会监督委员会，引发科学界争议。",
+      "title": "Plain text has been around for decades and it’s here to stay",
+      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "published_time": "2026-04-25 01:03:09",
+      "raw_content": "<p>Article URL: <a href=\"https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/\">https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47897681\">https://news.ycombinator.com/item?id=47897681</a></p>\n<p>Points: 296</p>\n<p># Comments: 147</p>",
+      "ai_summary": "纯文本已存在数十年，并将继续存在，强调其持久性和重要性。",
       "ai_tags": [
-        "政治",
-        "科学",
-        "NSF"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "USB Cheat Sheet (2022)",
-      "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "published_time": "2026-04-25 21:51:18",
-      "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 321</p>\n<p># Comments: 58</p>",
-      "ai_summary": "2022年USB速查表，涵盖USB标准、接口和协议。",
-      "ai_tags": [
-        "USB",
         "技术",
-        "参考"
+        "纯文本",
+        "历史"
       ],
       "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "The AI industry is discovering that the public hates it",
-      "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-      "published_time": "2026-04-25 21:11:11",
-      "raw_content": "<p>Article URL: <a href=\"https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash\">https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904568\">https://news.ycombinator.com/item?id=47904568</a></p>\n<p>Points: 238</p>\n<p># Comments: 323</p>",
-      "ai_summary": "AI行业发现公众对其持反感态度，面临信任危机。",
-      "ai_tags": [
-        "AI",
-        "公众",
-        "信任"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Amateur armed with ChatGPT solves an Erdős problem",
-      "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "published_time": "2026-04-25 17:40:38",
-      "raw_content": "<p><a href=\"https://www.erdosproblems.com/1196\" rel=\"nofollow\">https://www.erdosproblems.com/1196</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903126\">https://news.ycombinator.com/item?id=47903126</a></p>\n<p>Points: 379</p>\n<p># Comments: 239</p>",
-      "ai_summary": "业余爱好者借助ChatGPT解决了埃尔德什难题，展示AI辅助研究潜力。",
-      "ai_tags": [
-        "数学",
-        "AI",
-        "ChatGPT"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Using coding assistance tools to revive projects you never were going to finish",
-      "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-      "published_time": "2026-04-25 16:11:50",
-      "raw_content": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/\">https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902525\">https://news.ycombinator.com/item?id=47902525</a></p>\n<p>Points: 272</p>\n<p># Comments: 166</p>",
-      "ai_summary": "使用编码辅助工具复活搁置项目，降低完成门槛。",
-      "ai_tags": [
-        "编程",
-        "工具",
-        "项目"
-      ],
-      "ai_importance": 3
     },
     {
       "category": "hacker_news",
       "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
       "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
       "published_time": "2026-04-25 15:59:15",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/niri-wm/niri/releases/tag/v26.04\">https://github.com/niri-wm/niri/releases/tag/v26.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902416\">https://news.ycombinator.com/item?id=47902416</a></p>\n<p>Points: 232</p>\n<p># Comments: 76</p>",
-      "ai_summary": "Niri 26.04发布：可滚动平铺的Wayland合成器。",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/niri-wm/niri/releases/tag/v26.04\">https://github.com/niri-wm/niri/releases/tag/v26.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902416\">https://news.ycombinator.com/item?id=47902416</a></p>\n<p>Points: 235</p>\n<p># Comments: 78</p>",
+      "ai_summary": "Niri 26.04发布，可滚动平铺Wayland合成器，提升窗口管理体验。",
       "ai_tags": [
-        "Linux",
+        "Niri",
         "Wayland",
-        "窗口管理器"
+        "平铺"
       ],
       "ai_importance": 2
     },
     {
       "category": "hacker_news",
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "link": "https://github.com/nex-crm/wuphf",
-      "published_time": "2026-04-25 08:53:53",
-      "raw_content": "<p>I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.<p>It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you.<p>The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most impl",
-      "ai_summary": "展示一个基于Markdown和Git的LLM知识库，供AI代理维护。",
+      "title": "Turbo Vision 2.0 – a modern port",
+      "link": "https://github.com/magiblot/tvision",
+      "published_time": "2026-04-25 04:18:01",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/magiblot/tvision\">https://github.com/magiblot/tvision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47898597\">https://news.ycombinator.com/item?id=47898597</a></p>\n<p>Points: 195</p>\n<p># Comments: 56</p>",
+      "ai_summary": "Turbo Vision 2.0发布，这是一个现代移植版本。",
       "ai_tags": [
-        "AI",
-        "知识库",
+        "开源",
+        "软件",
+        "移植"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "USB Cheat Sheet (2022)",
+      "link": "https://fabiensanglard.net/usbcheat/index.html",
+      "published_time": "2026-04-25 21:51:18",
+      "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 368</p>\n<p># Comments: 66</p>",
+      "ai_summary": "USB速查表，涵盖USB标准、接口和协议等实用信息。",
+      "ai_tags": [
+        "USB",
+        "速查表",
+        "技术"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "published_time": "2026-04-25 05:56:12",
+      "raw_content": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47899053\">https://news.ycombinator.com/item?id=47899053</a></p>\n<p>Points: 583</p>\n<p># Comments: 348</p>",
+      "ai_summary": "新型10GbE USB适配器更小巧、散热更好且价格更低。",
+      "ai_tags": [
+        "硬件",
+        "网络",
+        "USB适配器"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "published_time": "2026-04-25 00:58:38",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md\">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47897647\">https://news.ycombinator.com/item?id=47897647</a></p>\n<p>Points: 358</p>\n<p># Comments: 50</p>",
+      "ai_summary": "用/dev/urandom替换IBM量子后端，讽刺量子计算炒作。",
+      "ai_tags": [
+        "量子计算",
+        "幽默",
         "开源"
       ],
       "ai_importance": 3
