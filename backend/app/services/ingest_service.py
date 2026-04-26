@@ -83,22 +83,15 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
         reverse=True,
     )
 
-    payload = {
-        "last_updated": updated_at,
-        "items": sorted_items[:limit],
-    }
-
     public_data_dir = _project_root() / "frontend" / "public" / "data"
-    output_path = public_data_dir / "news.json"
-    _write_json(output_path, payload)
-
     category_dir = public_data_dir / "news"
     category_dir.mkdir(parents=True, exist_ok=True)
     for old_file in category_dir.glob("*.json"):
         old_file.unlink()
 
+    output_path = category_dir / "all.json"
     _write_json(
-        category_dir / "all.json",
+        output_path,
         {
             "total": len(sorted_items),
             "limit": limit,
@@ -123,7 +116,7 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
             },
         )
 
-    return output_path, len(payload["items"])
+    return output_path, min(len(sorted_items), limit)
 
 
 def local_fetch_news(max_entries: int = 20) -> dict:

@@ -12,7 +12,6 @@
 - `backend/app/jobs/local_fetch_news.py`: 本地抓取、摘要并写入 SQLite 的任务命令（用于 API 模式）
 - `backend/app/jobs/cron_fetch_news.py`: 线上抓取并导出静态 JSON 的任务命令（不写 DB）
 - `backend/app/main.py`: API 入口
-- `frontend/public/data/news.json`: 线上静态数据文件
 - `frontend/public/data/news/*.json`: 按分类生成的静态列表接口数据
 
 ## 前端本地开发
