@@ -1,6 +1,144 @@
 {
-  "total": 0,
+  "total": 20,
   "limit": 10,
   "offset": 0,
-  "items": []
+  "items": [
+    {
+      "category": "hugging_face",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "published_time": "2026-04-24 00:00:00",
+      "raw_content": "",
+      "ai_summary": "DeepSeek-V4 发布，支持百万级 token 上下文，代理可实际使用。",
+      "ai_tags": [
+        "AI",
+        "模型"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "published_time": "2026-04-23 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍如何在 Chrome 扩展中使用 Transformers.js。",
+      "ai_tags": [
+        "教程",
+        "Chrome扩展"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "link": "https://huggingface.co/blog/nvidia/gemma4",
+      "published_time": "2026-04-22 15:40:50",
+      "raw_content": "",
+      "ai_summary": "Gemma 4 VLA 在 Jetson Orin Nano Super 上的演示。",
+      "ai_tags": [
+        "AI",
+        "边缘计算"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published_time": "2026-04-21 10:09:58",
+      "raw_content": "",
+      "ai_summary": "QIMMA 阿拉伯语 LLM 排行榜发布，注重质量优先。",
+      "ai_tags": [
+        "AI",
+        "排行榜"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "link": "https://huggingface.co/blog/cybersecurity-openness",
+      "published_time": "2026-04-21 00:00:00",
+      "raw_content": "",
+      "ai_summary": "探讨 AI 与网络安全未来，强调开放性的重要性。",
+      "ai_tags": [
+        "AI",
+        "网络安全"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "link": "https://huggingface.co/blog/ecom-rlve",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍Ecom-RLVE，一种为电商对话代理创建自适应可验证环境的方法。",
+      "ai_tags": [
+        "电商",
+        "对话代理",
+        "强化学习"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "The PR you would have opened yourself",
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "讨论如何将Transformers模型转换为MLX格式，以便在Apple设备上高效运行。",
+      "ai_tags": [
+        "模型转换",
+        "MLX",
+        "Transformers"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+      "ai_tags": [
+        "多模态",
+        "嵌入",
+        "重排序",
+        "Sentence Transformers"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "published_time": "2026-04-15 12:07:25",
+      "raw_content": "",
+      "ai_summary": "分析VAKRA基准测试，探讨智能体的推理、工具使用和失败模式。",
+      "ai_tags": [
+        "智能体",
+        "推理",
+        "工具使用",
+        "基准测试"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "link": "https://huggingface.co/blog/Hcompany/holotab",
+      "published_time": "2026-04-15 09:25:20",
+      "raw_content": "",
+      "ai_summary": "介绍HoloTab，一个AI浏览器伴侣，旨在提升浏览体验。",
+      "ai_tags": [
+        "AI",
+        "浏览器",
+        "助手"
+      ],
+      "ai_importance": 2
+    }
+  ]
 }

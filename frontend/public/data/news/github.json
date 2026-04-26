@@ -9,7 +9,7 @@
       "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
       "published_time": "2026-04-20 18:15:28",
       "raw_content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub Copilot个人计划变更，旨在为现有客户提供可靠可预测的体验。",
+      "ai_summary": "GitHub Copilot个人计划变更，旨在为现有客户提供可靠和可预测的体验。",
       "ai_tags": [
         "GitHub",
         "Copilot",
@@ -23,12 +23,12 @@
       "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
       "published_time": "2026-04-20 16:43:57",
       "raw_content": "<p>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "Git 2.54发布，GitHub介绍了其中一些最有趣的特性和变化。",
+      "ai_summary": "Git 2.54发布，GitHub介绍了其中的一些有趣特性和变化。",
       "ai_tags": [
         "Git",
         "版本更新"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "github",
@@ -36,11 +36,11 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
       "published_time": "2026-04-17 18:00:00",
       "raw_content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "展示如何使用GitHub Copilot CLI构建表情符号列表生成器。",
+      "ai_summary": "使用GitHub Copilot CLI构建表情符号列表生成器，展示了AI辅助开发。",
       "ai_tags": [
         "GitHub Copilot",
         "CLI",
-        "表情符号"
+        "AI"
       ],
       "ai_importance": 2
     },
@@ -50,13 +50,13 @@
       "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
       "published_time": "2026-04-17 16:00:00",
       "raw_content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub状态页面更新，提供更具体的数据，增强平台健康透明度。",
+      "ai_summary": "GitHub状态页面增加透明度，提供更具体的数据以了解平台整体健康状况。",
       "ai_tags": [
         "GitHub",
         "状态页面",
         "透明度"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "github",
@@ -64,7 +64,7 @@
       "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
       "published_time": "2026-04-16 16:00:00",
       "raw_content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub使用eBPF检测并防止部署工具中的循环依赖，提升部署安全性。",
+      "ai_summary": "GitHub使用eBPF检测和防止部署工具中的循环依赖，提高部署安全性。",
       "ai_tags": [
         "GitHub",
         "eBPF",
@@ -78,7 +78,7 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
       "published_time": "2026-04-15 17:00:00",
       "raw_content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "一位GitHub工程师使用GitHub Copilot CLI构建个人组织命令中心，AI辅助开发。",
+      "ai_summary": "使用GitHub Copilot CLI构建个人组织命令中心，AI支持开发过程。",
       "ai_tags": [
         "GitHub Copilot",
         "CLI",
@@ -92,11 +92,10 @@
       "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
       "published_time": "2026-04-15 15:00:00",
       "raw_content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub分享开发者政策更新，涉及中介责任、版权和透明度，并更新了2025年全年数据。",
+      "ai_summary": "GitHub发布开发者政策更新，涉及中介责任、版权和透明度，并更新了透明度中心数据。",
       "ai_tags": [
         "GitHub",
         "政策更新",
-        "版权",
         "透明度"
       ],
       "ai_importance": 4
@@ -107,7 +106,7 @@
       "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
       "published_time": "2026-04-14 18:17:59",
       "raw_content": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHu",
-      "ai_summary": "GitHub Secure Code Game推出AI代理安全挑战，通过五个渐进式关卡学习发现和利用真实AI漏洞。",
+      "ai_summary": "GitHub Secure Code Game推出AI代理安全挑战，帮助开发者学习发现和利用AI漏洞。",
       "ai_tags": [
         "GitHub",
         "安全",
@@ -138,11 +137,11 @@
       "raw_content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "ai_summary": "GitHub Pages入门指南，教你如何为任何仓库创建免费网站。",
       "ai_tags": [
-        "GitHub",
-        "Pages",
-        "初学者"
+        "GitHub Pages",
+        "入门",
+        "教程"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     }
   ]
 }
