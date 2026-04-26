@@ -77,9 +77,19 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
     将摘要数据导出给前端静态模式读取。
     """
     updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    def _sort_key(item: dict) -> tuple[str, int, str]:
+        published_raw = item.get("published_time") or ""
+        published = published_raw[:10] if len(published_raw) >= 10 else published_raw
+        try:
+            importance = int(item.get("ai_importance", 3))
+        except (TypeError, ValueError):
+            importance = 3
+        link = (item.get("link") or "").strip()
+        return (published, -importance, link)
+
     sorted_items = sorted(
         summarized_entries,
-        key=lambda item: item.get("published_time") or "",
+        key=_sort_key,
         reverse=True,
     )
 

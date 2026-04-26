@@ -3,6 +3,7 @@ export enum NavType {
   AI = 'ai',
   News = 'news',
   Blog = 'blog',
+  Finance = 'finance',
   Default = 'default',
 }
 

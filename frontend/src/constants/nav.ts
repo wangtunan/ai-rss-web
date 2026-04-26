@@ -22,4 +22,8 @@ export const NAV_LIST: NavItem[] = [
     key: NavType.News,
     label: '新闻',
   },
+  {
+    key: NavType.Finance,
+    label: '财经',
+  },
 ]
