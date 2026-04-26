@@ -5,163 +5,143 @@
   "items": [
     {
       "category": "hacker_news",
-      "source": "",
+      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "published_time": "2026-04-26 06:24:42",
+      "raw_content": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 362</p>\n<p># Comments: 170</p>",
+      "ai_summary": "文章指出西方世界不仅失去了制造能力，现在连编程能力也在衰退，引发关于技术竞争力的讨论。",
+      "ai_tags": [
+        "技术",
+        "西方",
+        "编程"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "link": "https://news.ycombinator.com/item?id=47906253",
+      "published_time": "2026-04-26 00:50:56",
+      "raw_content": "<p>Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn't seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this",
+      "ai_summary": "用户反映iPhone每天自动安装Headspace应用，即使关闭自动下载和更新系统也无法阻止，多名用户报告相同问题。",
+      "ai_tags": [
+        "iPhone",
+        "Bug",
+        "自动安装"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
       "published_time": "2026-04-26 00:12:47",
-      "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 171</p>\n<p># Comments: 79</p>",
-      "ai_summary": "探讨阿尔茨海默病研究进展缓慢的原因，来自 Freakonomics 播客。",
+      "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 230</p>\n<p># Comments: 129</p>",
+      "ai_summary": "探讨阿尔茨海默病研究进展缓慢的原因，分析相关挑战。",
       "ai_tags": [
+        "医学",
         "阿尔茨海默病",
-        "研究进展",
-        "播客"
+        "科研进展"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "Trump fires NSF's oversight board",
       "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
       "published_time": "2026-04-25 22:39:33",
-      "raw_content": "<p>Article URL: <a href=\"https://www.science.org/content/article/trump-fires-nsf-s-oversight-board\">https://www.science.org/content/article/trump-fires-nsf-s-oversight-board</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905283\">https://news.ycombinator.com/item?id=47905283</a></p>\n<p>Points: 427</p>\n<p># Comments: 228</p>",
-      "ai_summary": "特朗普解雇美国国家科学基金会（NSF）监督委员会成员，引发争议。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.science.org/content/article/trump-fires-nsf-s-oversight-board\">https://www.science.org/content/article/trump-fires-nsf-s-oversight-board</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905283\">https://news.ycombinator.com/item?id=47905283</a></p>\n<p>Points: 458</p>\n<p># Comments: 228</p>",
+      "ai_summary": "特朗普解雇美国国家科学基金会监督委员会，引发争议。",
       "ai_tags": [
-        "特朗普",
-        "NSF",
-        "政治"
+        "政治",
+        "科学政策",
+        "特朗普"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "USB Cheat Sheet (2022)",
       "link": "https://fabiensanglard.net/usbcheat/index.html",
       "published_time": "2026-04-25 21:51:18",
-      "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 244</p>\n<p># Comments: 51</p>",
-      "ai_summary": "USB 速查表（2022版）发布，涵盖USB协议、接口类型等实用信息。",
+      "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 321</p>\n<p># Comments: 58</p>",
+      "ai_summary": "2022年USB速查表，涵盖USB标准、接口和协议。",
       "ai_tags": [
+        "技术",
         "USB",
-        "技术参考"
+        "速查表"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "The AI industry is discovering that the public hates it",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
       "published_time": "2026-04-25 21:11:11",
-      "raw_content": "<p>Article URL: <a href=\"https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash\">https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904568\">https://news.ycombinator.com/item?id=47904568</a></p>\n<p>Points: 226</p>\n<p># Comments: 300</p>",
-      "ai_summary": "AI行业发现公众对其持反感态度，引发关于AI伦理和公众接受的讨论。",
+      "raw_content": "<p>Article URL: <a href=\"https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash\">https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904568\">https://news.ycombinator.com/item?id=47904568</a></p>\n<p>Points: 238</p>\n<p># Comments: 323</p>",
+      "ai_summary": "AI行业发现公众对其持反感态度，面临舆论反弹。",
       "ai_tags": [
         "AI",
-        "公众态度",
-        "伦理"
+        "公众舆论",
+        "行业挑战"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "published_time": "2026-04-25 17:40:38",
-      "raw_content": "<p><a href=\"https://www.erdosproblems.com/1196\" rel=\"nofollow\">https://www.erdosproblems.com/1196</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903126\">https://news.ycombinator.com/item?id=47903126</a></p>\n<p>Points: 249</p>\n<p># Comments: 165</p>",
-      "ai_summary": "一位业余爱好者借助ChatGPT解决了埃尔德什难题，展示了AI在数学研究中的潜力。",
+      "raw_content": "<p><a href=\"https://www.erdosproblems.com/1196\" rel=\"nofollow\">https://www.erdosproblems.com/1196</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903126\">https://news.ycombinator.com/item?id=47903126</a></p>\n<p>Points: 379</p>\n<p># Comments: 239</p>",
+      "ai_summary": "业余爱好者借助ChatGPT解决了一个埃尔德什问题。",
       "ai_tags": [
-        "ChatGPT",
         "数学",
-        "埃尔德什问题"
+        "AI",
+        "ChatGPT"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
       "published_time": "2026-04-25 16:11:50",
-      "raw_content": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/\">https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902525\">https://news.ycombinator.com/item?id=47902525</a></p>\n<p>Points: 246</p>\n<p># Comments: 136</p>",
-      "ai_summary": "文章探讨使用编码辅助工具复活搁置项目，认为这是合理且有效的做法。",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/\">https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902525\">https://news.ycombinator.com/item?id=47902525</a></p>\n<p>Points: 272</p>\n<p># Comments: 166</p>",
+      "ai_summary": "使用编码辅助工具复活未完成的项目，探讨其合理性。",
       "ai_tags": [
-        "编码辅助",
-        "项目复活",
-        "生产力"
+        "编程",
+        "工具",
+        "项目管理"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
       "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
       "published_time": "2026-04-25 15:59:15",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/niri-wm/niri/releases/tag/v26.04\">https://github.com/niri-wm/niri/releases/tag/v26.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902416\">https://news.ycombinator.com/item?id=47902416</a></p>\n<p>Points: 229</p>\n<p># Comments: 72</p>",
-      "ai_summary": "Niri 26.04发布，这是一个可滚动平铺的Wayland合成器，带来新功能和改进。",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/niri-wm/niri/releases/tag/v26.04\">https://github.com/niri-wm/niri/releases/tag/v26.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902416\">https://news.ycombinator.com/item?id=47902416</a></p>\n<p>Points: 232</p>\n<p># Comments: 76</p>",
+      "ai_summary": "Niri 26.04发布：可滚动平铺的Wayland合成器。",
       "ai_tags": [
+        "Linux",
         "Wayland",
-        "合成器",
-        "Niri"
+        "窗口管理器"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "source": "",
       "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "link": "https://github.com/nex-crm/wuphf",
       "published_time": "2026-04-25 08:53:53",
       "raw_content": "<p>I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.<p>It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you.<p>The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most impl",
-      "ai_summary": "展示一个基于Markdown和Git的LLM维基系统，供AI代理维护知识库，支持本地运行和版本控制。",
+      "ai_summary": "展示一个基于Markdown和Git的AI代理知识库，支持本地运行。",
       "ai_tags": [
-        "LLM",
-        "维基",
-        "AI代理",
-        "Markdown"
+        "AI",
+        "知识管理",
+        "开源"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
-    },
-    {
-      "category": "hacker_news",
-      "source": "",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "published_time": "2026-04-25 05:56:12",
-      "raw_content": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47899053\">https://news.ycombinator.com/item?id=47899053</a></p>\n<p>Points: 570</p>\n<p># Comments: 339</p>",
-      "ai_summary": "新型10GbE USB适配器更小巧、更凉爽、更便宜，提升了高速网络连接的易用性。",
-      "ai_tags": [
-        "USB",
-        "10GbE",
-        "网络适配器"
-      ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
-    },
-    {
-      "category": "hacker_news",
-      "source": "",
-      "title": "Turbo Vision 2.0 – a modern port",
-      "link": "https://github.com/magiblot/tvision",
-      "published_time": "2026-04-25 04:18:01",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/magiblot/tvision\">https://github.com/magiblot/tvision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47898597\">https://news.ycombinator.com/item?id=47898597</a></p>\n<p>Points: 193</p>\n<p># Comments: 55</p>",
-      "ai_summary": "Turbo Vision 2.0发布，这是一个现代移植版，为经典文本用户界面框架带来更新。",
-      "ai_tags": [
-        "Turbo Vision",
-        "移植",
-        "文本界面"
-      ],
-      "ai_importance": 2,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     }
   ]
 }

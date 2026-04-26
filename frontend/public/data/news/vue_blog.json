@@ -5,22 +5,19 @@
   "items": [
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Announcing Vue 3.5",
       "link": "https://blog.vuejs.org/posts/vue-3-5",
       "published_time": "2024-09-01 00:00:00",
       "raw_content": "<p>Today we are excited to announce the release of Vue 3.5 &quot;Tengen Toppa Gurren Lagann&quot;!</p>\n<p>This minor release contains no breaking changes and includes both internal improvements and useful new features. We will cover some highlights in this blog post - for a full list of changes and new features, please consult <a href=\"https://github.com/vuejs/core/blob/main/CHANGELOG.md\" rel=\"noreferrer\" target=\"_blank\">the full changelog on GitHub</a>.</p>",
-      "ai_summary": "Vue 3.5 发布，代号“天元突破”，包含内部改进和新功能，无破坏性变更。",
+      "ai_summary": "Vue 3.5 发布，代号“天元突破”，无破坏性变更，包含内部改进和新功能。",
       "ai_tags": [
         "Vue",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Announcing VitePress 1.0",
       "link": "https://blog.vuejs.org/posts/vitepress-1.0",
       "published_time": "2024-03-21 00:00:00",
@@ -28,14 +25,12 @@
       "ai_summary": "VitePress 1.0 发布，是一个基于 Vite 的静态站点生成器，用于构建快速、内容驱动的网站。",
       "ai_tags": [
         "VitePress",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Announcing Vue 3.4",
       "link": "https://blog.vuejs.org/posts/vue-3-4",
       "published_time": "2023-12-28 00:00:00",
@@ -43,59 +38,51 @@
       "ai_summary": "Vue 3.4 发布，代号“灌篮高手”，包含重写的模板解析器（速度提升2倍）和重构的响应式系统，以及 defineModel 稳定化等 API 改进。",
       "ai_tags": [
         "Vue",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Vue 2 is Approaching End Of Life",
       "link": "https://blog.vuejs.org/posts/vue-2-eol",
       "published_time": "2023-12-15 00:00:00",
       "raw_content": "<p>With 2024 almost upon us, we would like to take this opportunity to remind the Vue community that Vue 2 will reach End of Life (EOL) on December 31st, 2023.</p>\n<p>Vue 2.0 was released more than 7 years ago in 2016. It was a major milestone in Vue's journey of becoming a mainstream framework. Many current Vue users started using Vue during the Vue 2 era, and many great things have been built with it.</p>\n<p>However, active maintenance of two major versions in parallel isn't sustainable for us",
-      "ai_summary": "Vue 2 将于 2023 年 12 月 31 日停止维护（EOL），提醒用户升级。",
+      "ai_summary": "Vue 2 将于 2023年12月31日 停止维护（EOL），提醒用户升级到 Vue 3。",
       "ai_tags": [
         "Vue",
-        "生命周期结束"
+        "EOL"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 5
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Announcing Vue 3.3",
       "link": "https://blog.vuejs.org/posts/vue-3-3",
       "published_time": "2023-05-11 00:00:00",
       "raw_content": "<p>Today we're excited to announce the release of Vue 3.3 &quot;Rurouni Kenshin&quot;!</p>\n<p>This release is focused on developer experience improvements - in particular, SFC <code>&lt;script setup&gt;</code> usage with TypeScript. Together with the 1.6 release of <a href=\"https://github.com/vuejs/language-tools/\" rel=\"noreferrer\" target=\"_blank\">Vue Language Tools</a> (previously known as Volar), we have resolved many long-standing pain points when using Vue with TypeScript.</p>\n<p>This post p",
-      "ai_summary": "Vue 3.3 发布，代号“浪客剑心”，重点改进开发者体验，特别是 SFC <script setup> 与 TypeScript 的集成。",
+      "ai_summary": "Vue 3.3 发布，代号“浪客剑心”，专注于开发者体验改进，特别是 SFC <script setup> 与 TypeScript 的使用。",
       "ai_tags": [
         "Vue",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Volar: a New Beginning",
       "link": "https://blog.vuejs.org/posts/volar-a-new-beginning",
       "published_time": "2023-02-08 00:00:00",
       "raw_content": "<p>Most users of Volar know it as the official Vue.js VSCode extension. It started as a personal project when the official recommendation was still Vetur, and over time got adopted as the new official extension due to improved architecture and performance.</p>\n<p>As a project created to improve the quality of life for developers, we spent over two years before <a href=\"https://blog.vuejs.org/posts/volar-1.0.html\" rel=\"noreferrer\" target=\"_blank\">reaching 1.0</a>, and have been continuously shipp",
-      "ai_summary": "Volar 项目迎来新篇章，作为 Vue 官方 VSCode 扩展，持续改进架构和性能。",
+      "ai_summary": "Volar 项目迎来新起点，作为官方 Vue.js VSCode 扩展，持续改进架构和性能。",
       "ai_tags": [
         "Volar",
-        "工具"
+        "Vue"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "2022 Year In Review",
       "link": "https://blog.vuejs.org/posts/2022-year-in-review",
       "published_time": "2023-01-01 00:00:00",
@@ -105,12 +92,10 @@
         "Vue",
         "年度回顾"
       ],
-      "ai_importance": 2,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 2
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "On Escape's Vue 2 to Svelte Migration",
       "link": "https://blog.vuejs.org/posts/on-migration",
       "published_time": "2022-12-05 00:00:00",
@@ -118,14 +103,13 @@
       "ai_summary": "针对 Escape 从 Vue 2 迁移到 Svelte 的文章，Vue 团队指出其中存在不准确之处并澄清误解。",
       "ai_tags": [
         "Vue",
-        "社区讨论"
+        "Svelte",
+        "迁移"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Volar 1.0 \"Nika\" Released!",
       "link": "https://blog.vuejs.org/posts/volar-1.0",
       "published_time": "2022-10-10 00:00:00",
@@ -133,14 +117,12 @@
       "ai_summary": "Volar 1.0 发布，代号“Nika”，带来大量改进，包括插件 API v1 和框架无关的核心重构。",
       "ai_tags": [
         "Volar",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     },
     {
       "category": "vue_blog",
-      "source": "",
       "title": "Vue 2.7 \"Naruto\" Released",
       "link": "https://blog.vuejs.org/posts/vue-2-7-naruto",
       "published_time": "2022-07-01 00:00:00",
@@ -148,10 +130,9 @@
       "ai_summary": "Vue 2.7 发布，代号“火影忍者”。",
       "ai_tags": [
         "Vue",
-        "版本发布"
+        "发布"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     }
   ]
 }

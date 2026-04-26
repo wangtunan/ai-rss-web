@@ -5,162 +5,143 @@
   "items": [
     {
       "category": "openai",
-      "source": "",
       "title": "Introducing GPT-5.5",
       "link": "https://openai.com/index/introducing-gpt-5-5",
       "published_time": "2026-04-23 11:00:00",
       "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "ai_summary": "OpenAI推出GPT-5.5，更快速、更强大，适用于编码、研究和数据分析。",
+      "ai_summary": "OpenAI 发布 GPT-5.5，更快速、更强大，适用于编码、研究和数据分析。",
       "ai_tags": [
-        "GPT-5.5",
         "OpenAI",
-        "AI模型"
+        "GPT-5.5",
+        "AI"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 5
     },
     {
       "category": "openai",
-      "source": "",
       "title": "GPT-5.5 System Card",
       "link": "https://openai.com/index/gpt-5-5-system-card",
       "published_time": "2026-04-23 11:00:00",
       "raw_content": "",
-      "ai_summary": "发布GPT-5.5系统卡。",
+      "ai_summary": "OpenAI发布了GPT-5.5系统卡，详细介绍了该模型的能力、安全性和性能。",
       "ai_tags": [
+        "OpenAI",
         "GPT-5.5",
         "系统卡"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 5
     },
     {
       "category": "openai",
-      "source": "",
       "title": "Automations",
       "link": "https://openai.com/academy/codex-automations",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "ai_summary": "学习如何使用Codex中的计划和触发器自动化任务，无需手动操作即可创建报告、摘要和重复性工作流。",
+      "ai_summary": "学习如何在Codex中使用计划和触发器自动化任务，无需手动操作即可创建报告、摘要和重复工作流。",
       "ai_tags": [
-        "自动化",
+        "OpenAI",
         "Codex",
-        "工作流"
+        "自动化"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "openai",
-      "source": "",
       "title": "Top 10 uses for Codex at work",
       "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "ai_summary": "探索10个Codex实用案例，涵盖任务自动化、交付物创建以及跨工具、文件和流程的输入输出转换。",
+      "ai_summary": "探索Codex在职场中的10个实用用例，包括自动化任务、创建交付物以及跨工具、文件和流程处理输入输出。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "用例",
-        "自动化"
+        "用例"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "openai",
-      "source": "",
       "title": "Plugins and skills",
       "link": "https://openai.com/academy/codex-plugins-and-skills",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "ai_summary": "学习如何使用Codex插件和技能连接工具、访问数据并遵循可重复工作流，以自动化任务并提升效果。",
+      "ai_summary": "学习如何使用Codex插件和技能连接工具、访问数据并遵循可重复工作流，以自动化任务并改进结果。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "插件",
-        "技能"
+        "插件"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "openai",
-      "source": "",
       "title": "Working with Codex",
       "link": "https://openai.com/academy/working-with-codex",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "ai_summary": "学习如何设置Codex工作区、创建线程和项目、管理文件，并通过分步指导开始完成任务。",
+      "ai_summary": "了解如何设置Codex工作区、创建线程和项目、管理文件，并通过逐步指导开始完成任务。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "入门",
-        "工作区"
+        "入门"
       ],
-      "ai_importance": 3,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 2
     },
     {
       "category": "openai",
-      "source": "",
       "title": "Codex settings",
       "link": "https://openai.com/academy/codex-settings",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
       "ai_summary": "学习如何配置Codex设置，包括个性化、详细级别和权限，以顺利运行任务并自定义工作流。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "设置",
-        "配置"
+        "设置"
       ],
-      "ai_importance": 2,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 2
     },
     {
       "category": "openai",
-      "source": "",
       "title": "What is Codex?",
       "link": "https://openai.com/academy/what-is-codex",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "ai_summary": "了解Codex如何超越聊天，通过自动化任务、连接工具并生成文档和仪表盘等实际输出来提升效率。",
+      "ai_summary": "了解Codex如何通过自动化任务、连接工具和生成文档、仪表盘等实际输出来超越聊天功能。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "概述",
-        "自动化"
+        "概述"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 3
     },
     {
       "category": "openai",
-      "source": "",
       "title": "How to get started with Codex",
       "link": "https://openai.com/academy/codex-how-to-start",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "ai_summary": "学习如何通过设置项目、创建线程和完成首个任务来快速上手Codex，提供分步指导。",
+      "ai_summary": "学习如何通过设置项目、创建线程和完成第一个任务来开始使用Codex，提供逐步指导。",
       "ai_tags": [
+        "OpenAI",
         "Codex",
-        "入门",
-        "教程"
+        "入门"
       ],
-      "ai_importance": 4,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 2
     },
     {
       "category": "openai",
-      "source": "",
       "title": "GPT-5.5 Bio Bug Bounty",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
-      "ai_summary": "探索GPT-5.5生物漏洞赏金计划：一项红队挑战，旨在发现生物安全风险的通用越狱方法，最高奖励25,000美元。",
+      "ai_summary": "探索GPT-5.5生物漏洞赏金计划：一项红队挑战，旨在发现生物安全风险的通用越狱方法，奖励高达25,000美元。",
       "ai_tags": [
+        "OpenAI",
         "GPT-5.5",
-        "安全",
-        "赏金"
+        "漏洞赏金"
       ],
-      "ai_importance": 5,
-      "ingest_date": "2026-04-26"
+      "ai_importance": 4
     }
   ]
 }
