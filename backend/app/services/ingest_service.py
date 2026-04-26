@@ -6,12 +6,11 @@ from sqlalchemy.orm import Session
 from time import perf_counter
 
 from app.db.session import SessionLocal
-from app.repositories.news_repository import list_news_items, save_news_items
+from app.repositories.news_repository import save_news_items
 from app.services.feed_service import parse_feeds
 from app.services.raw_backup_service import backup_entries, is_raw_backup_enabled
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
-from app.utils.news import serialize_news_row
 
 
 def _project_root() -> Path:
@@ -37,71 +36,9 @@ def _attach_source_name(entries: list[dict], sources: list[dict]) -> list[dict]:
     ]
 
 
-def _write_json(output_path: Path, payload: dict) -> None:
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with output_path.open("w", encoding="utf-8") as file:
-        json.dump(payload, file, ensure_ascii=False, indent=2)
-        file.write("\n")
-
-
-def _export_latest_news_json(session: Session, sources: list[dict], limit: int = 500) -> tuple[Path, int]:
-    """
-    将数据库中的最新资讯导出给前端静态模式读取。
-    """
-    rows, _total = list_news_items(session, limit=limit, offset=0)
-    updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    payload = {
-        "last_updated": updated_at,
-        "items": [serialize_news_row(row) for row in rows],
-    }
-
-    public_data_dir = _project_root() / "frontend" / "public" / "data"
-    output_path = public_data_dir / "news.json"
-    _write_json(output_path, payload)
-
-    category_dir = public_data_dir / "news"
-    category_dir.mkdir(parents=True, exist_ok=True)
-    for old_file in category_dir.glob("*.json"):
-        old_file.unlink()
-
-    _write_json(
-        category_dir / "all.json",
-        {
-            "total": _total,
-            "limit": limit,
-            "offset": 0,
-            "items": [serialize_news_row(row) for row in rows],
-        },
-    )
-
-    for source in sources:
-        category = source.get("category")
-        if not category:
-            continue
-
-        category_rows, total = list_news_items(session, category=category, limit=10, offset=0)
-        category_payload = {
-            "total": total,
-            "limit": 10,
-            "offset": 0,
-            "items": [serialize_news_row(row) for row in category_rows],
-        }
-        _write_json(category_dir / f"{category}.json", category_payload)
-
-    return output_path, len(payload["items"])
-
-
-def run_ingest(max_entries: int = 20) -> dict:
-    """
-    执行一次抓取 -> 摘要 -> 入库流程。
-    返回统计信息，供 job 命令输出。
-    """
+def _collect_summarized_entries(max_entries: int = 20) -> tuple[list[dict], list[dict], dict]:
     if max_entries < 1:
         raise ValueError("max_entries 必须 >= 1")
-
-    started_at = perf_counter()
-    print("🚀 开始执行抓取任务...")
 
     print("📦 正在加载 feed 源配置...")
     sources = load_sources()
@@ -120,31 +57,123 @@ def run_ingest(max_entries: int = 20) -> dict:
         print("💾 正在备份摘要数据...")
         backup_entries(summarized_entries)
 
+    return summarized_entries, sources, {
+        "source_count": len(sources),
+        "fetched_count": len(raw_entries),
+        "summarized_count": len(summarized_entries),
+    }
+
+
+def _write_json(output_path: Path, payload: dict) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w", encoding="utf-8") as file:
+        json.dump(payload, file, ensure_ascii=False, indent=2)
+        file.write("\n")
+
+
+def _export_summarized_news_json(summarized_entries: list[dict], sources: list[dict], limit: int = 500) -> tuple[Path, int]:
+    """
+    将摘要数据导出给前端静态模式读取。
+    """
+    updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    sorted_items = sorted(
+        summarized_entries,
+        key=lambda item: item.get("published_time") or "",
+        reverse=True,
+    )
+
+    payload = {
+        "last_updated": updated_at,
+        "items": sorted_items[:limit],
+    }
+
+    public_data_dir = _project_root() / "frontend" / "public" / "data"
+    output_path = public_data_dir / "news.json"
+    _write_json(output_path, payload)
+
+    category_dir = public_data_dir / "news"
+    category_dir.mkdir(parents=True, exist_ok=True)
+    for old_file in category_dir.glob("*.json"):
+        old_file.unlink()
+
+    _write_json(
+        category_dir / "all.json",
+        {
+            "total": len(sorted_items),
+            "limit": limit,
+            "offset": 0,
+            "items": sorted_items[:limit],
+        },
+    )
+
+    for source in sources:
+        category = source.get("category")
+        if not category:
+            continue
+
+        category_items = [item for item in sorted_items if item.get("category") == category]
+        _write_json(
+            category_dir / f"{category}.json",
+            {
+                "total": len(category_items),
+                "limit": 10,
+                "offset": 0,
+                "items": category_items[:10],
+            },
+        )
+
+    return output_path, len(payload["items"])
+
+
+def local_fetch_news(max_entries: int = 20) -> dict:
+    """
+    执行一次抓取 -> 摘要 -> 入库流程。
+    返回统计信息，供 job 命令输出。
+    """
+    started_at = perf_counter()
+    print("🚀 开始执行抓取任务...")
+    summarized_entries, sources, stats = _collect_summarized_entries(max_entries=max_entries)
+
     print("💾 正在写入数据库（自动去重）...")
     session: Session = SessionLocal()
     try:
         inserted, skipped = save_news_items(session, summarized_entries)
-        print("🧾 正在导出前端静态 JSON...")
-        output_path, exported_count = _export_latest_news_json(session, sources)
     except Exception:
         session.rollback()
-        print("❌ 入库或导出失败，已回滚事务")
+        print("❌ 入库失败，已回滚事务")
         raise
     finally:
         session.close()
     
     elapsed = perf_counter() - started_at
     print(
-        f"🎉 任务完成：新增 {inserted} 条，跳过重复 {skipped} 条，"
-        f"导出 {exported_count} 条到 {output_path}，耗时 {elapsed:.1f}s"
+        f"🎉 任务完成：新增 {inserted} 条，跳过重复 {skipped} 条，耗时 {elapsed:.1f}s"
     )
     
     return {
-        "source_count": len(sources),
-        "fetched_count": len(raw_entries),
-        "summarized_count": len(summarized_entries),
+        **stats,
         "inserted_count": inserted,
-        "skipped_count": skipped,
+        "skipped_count": skipped
+    }
+
+
+def cron_fetch_news(max_entries: int = 20) -> dict:
+    """
+    执行一次抓取 -> 摘要 -> 导出静态 JSON 流程（不写数据库）。
+    """
+    started_at = perf_counter()
+    print("🚀 开始执行静态导出任务...")
+    summarized_entries, sources, stats = _collect_summarized_entries(max_entries=max_entries)
+
+    print("🧾 正在导出前端静态 JSON...")
+    output_path, exported_count = _export_summarized_news_json(summarized_entries, sources)
+
+    elapsed = perf_counter() - started_at
+    print(f"🎉 静态导出完成：导出 {exported_count} 条到 {output_path}，耗时 {elapsed:.1f}s")
+
+    return {
+        **stats,
         "exported_count": exported_count,
         "output_path": str(output_path),
     }

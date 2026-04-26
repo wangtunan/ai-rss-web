@@ -1,12 +1,16 @@
 # AI 资讯看板
 
-一个基于 AI 的资讯看板。本地使用 FastAPI + SQLAlchemy + SQLite 练习 Python 接口服务，线上使用 GitHub Actions 定时抓取 RSS、生成静态 JSON，并由前端直接读取静态资源展示资讯。
+一个基于 AI 的资讯看板，分为两种运行模式：
+
+- 本地 API 模式：使用 FastAPI + SQLite，抓取任务只负责写入数据库，前端通过 API 请求数据。
+- 线上静态模式：使用 GitHub Actions 定时抓取并生成静态 JSON，前端直接读取静态资源。
 
 ## 项目结构
 
 - `frontend/`: Vue 3 前端
 - `backend/`: FastAPI + SQLAlchemy 后端
-- `backend/app/jobs/fetch_news.py`: 抓取、摘要、入库并导出静态 JSON 的任务命令
+- `backend/app/jobs/local_fetch_news.py`: 本地抓取、摘要并写入 SQLite 的任务命令（用于 API 模式）
+- `backend/app/jobs/cron_fetch_news.py`: 线上抓取并导出静态 JSON 的任务命令（不写 DB）
 - `backend/app/main.py`: API 入口
 - `frontend/public/data/news.json`: 线上静态数据文件
 - `frontend/public/data/news/*.json`: 按分类生成的静态列表接口数据
@@ -31,11 +35,20 @@ $ python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 ## 运行抓取任务（本地）
 
-该命令会抓取 RSS、生成 AI 摘要、写入 SQLite，并导出 `frontend/public/data/news.json` 和 `frontend/public/data/news/*.json`。
+该命令会抓取 RSS、生成 AI 摘要并写入 SQLite（不导出静态 JSON）。
 
 ```sh
 $ cd backend
-$ python -m app.jobs.fetch_news --max-entries 20
+$ python -m app.jobs.local_fetch_news --max-entries 20
+```
+
+## 运行纯 JSON 导出（不写 DB）
+
+该命令会抓取 RSS 并导出静态 JSON，同时可选写入根目录 `data/` 备份，仅用于线上定时任务，不依赖数据库。
+
+```sh
+$ cd backend
+$ python -m app.jobs.cron_fetch_news --max-entries 20
 ```
 
 ## API 示例
@@ -59,22 +72,21 @@ VITE_API_BASE_URL=http://localhost:8000
 
 ```env
 VITE_DATA_MODE=static
-VITE_STATIC_NEWS_URL=/data/news.json
 VITE_STATIC_NEWS_LIST_BASE_URL=/data/news
 ```
 
 ## 线上部署（GitHub + 静态 JSON）
 
-线上不部署 Python 服务。GitHub Actions 会定时运行 `backend/app/jobs/fetch_news.py`，更新 `frontend/public/data` 下的静态 JSON 并提交回仓库。
+线上不部署 Python 服务。GitHub Actions 会定时运行 `backend/app/jobs/cron_fetch_news.py`，更新 `frontend/public/data` 下的静态 JSON，并将可选备份写入根目录 `data/` 后一并提交。
 
 需要在 GitHub Secrets 中配置：
 
 - `OPENAI_API_KEY`
 - `OPENAI_BASE_URL`
 - `OPENAI_MODEL`
+- `ENABLE_SUMMARIZED_BACKUP`（建议线上设为 `true` 用于备份）
 
 前端部署到 GitHub Pages、Vercel 或 Cloudflare Pages 时，将数据源模式设置为：
 
 - `VITE_DATA_MODE=static`
-- `VITE_STATIC_NEWS_URL=/data/news.json`
 - `VITE_STATIC_NEWS_LIST_BASE_URL=/data/news`
