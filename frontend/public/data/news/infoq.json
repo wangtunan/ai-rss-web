@@ -9,11 +9,11 @@
       "link": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1",
       "published_time": "2026-04-27 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/2c/225cf1c81c21c57e6e70e57be79c7b2c.jpg\" /></p><p>我得跟你们说句实话。六个月前，我还是 <a href=\"https://graphql.org/learn/federation/\">GraphQL Federation</a>\" 的布道者。我们花了六个月的时间，利用 <a href=\"https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation\">Apollo</a>\" 构建了一个联邦图，其中包含模式拼接、网关配置，以及一套复杂的 CI/CD 管道（每次提交都会重新生成类型）。纸上谈兵时，这套方案看起来很完美。但在生产环境中呢？每次部署都像是要发生一场灾难。</p><p>&nbsp;</p><p>转折点发生在周五下午的一次例行部署中。我们的产品团队更新了某项服务中的一个字段类型，模式重新生成成功，测试通过，于是我",
-      "ai_summary": "作者从GraphQL Federation转向tRPC，认为tRPC在生产环境中更稳定，部署更简单，避免了联邦图的复杂性。",
+      "ai_summary": "作者从GraphQL Federation转向tRPC，分享在生产中遇到的部署灾难，认为tRPC是更稳定的TypeScript替代方案。",
       "ai_tags": [
         "tRPC",
         "GraphQL",
-        "API",
+        "Apollo Federation",
         "TypeScript"
       ],
       "ai_importance": 3
@@ -35,11 +35,64 @@
     },
     {
       "category": "infoq",
+      "title": "Slack 重构通知系统，设置参与度提升 5 倍",
+      "link": "https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ",
+      "published_time": "2026-04-27 04:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f3/bc/f34945df5dab0e5c97eb98a84d2f06bc.jpg\" /></p><p>Slack 对其通知系统进行了重构，引入<a href=\"https://slack.engineering/how-slack-rebuilt-notifications/\">统一架构以提升跨平台的一致性和用户可控性</a>\"。此次重设计旨在解决长期存在的问题，包括通知偏好设置碎片化以及行为不可预测，这些问题随着平台规模扩大，已经逐渐成为用户体验不佳和支持成本上升的重要来源。</p><p>&nbsp;</p><p>根据 Slack 工程团队的说法，与通知相关的问题一直是客户支持工单的主要来源之一。其根本原因在于其多套偏好模型的长期叠加，这些模型在语义上存在差异，导致桌面端与移动端之间的行为不一致。用户往往难以理解为何会收到某些通知，或者为何错过了其他通知。</p><p>&nbsp;</p><p>Slack 高级软件工程师 <a href=\"https://www.link",
+      "ai_summary": "Slack 重构通知系统，统一架构提升跨平台一致性和用户可控性，设置参与度提升5倍。",
+      "ai_tags": [
+        "Slack",
+        "通知系统"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
+      "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE",
+      "published_time": "2026-04-27 07:50:35",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/dc/fb/dcf6823f669c06685e95df92a95e9afb.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？</p><p></p><p>Snowflake 在亚太地区举办的「Data and AI Fast Track」系列深度分享或许能够提供一种思路和答案，为了帮助数据从业者在技术浪潮中重建坐标，我们特别选摘了系列直播内容的精华版，本文将探讨以下三个核心命题：</p><p>从一颗牛油果的成熟，看懂 AI 是如何从工具进化为执行者的；当 AI 算得比你快时，为什么",
+      "ai_summary": "探讨 AI 时代数据分析师应培养的核心能力，并提供行动路线图。",
+      "ai_tags": [
+        "AI",
+        "数据分析"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "当云区域失效：地缘动荡环境下的高可用重构",
+      "link": "https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6",
+      "published_time": "2026-04-27 05:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/15/32/15d86013f2f252eaee32a4ed17501732.jpg\" /></p><p></p><h2>一度成立的假设，终被打破</h2><p></p><p>云架构师们所采用的故障模型广为人知且经过了实战检验：通过自动扩缩容来处理实例故障，以多可用区部署抵御数据中心级别的故障，而区域则处于架构顶层，作为故障爆炸半径的最终边界。这一模型诞生于以硬件故障、自然灾害和软件缺陷为主要威胁的时代，对这类威胁模型而言是合理的。区域在设计上相互独立，具有独立的供电、网络及物理基础设施。</p><p>&nbsp;</p><p>这一假设建立在一个前提之上，即云区域只会因技术原因发生故障，且故障模式均在云服务商的可恢复范围内。但这个前提正悄然崩塌，地缘政治事件并不遵循这一规律。当一国政府切断边境网络连接时，云区域不会以“优雅降级”的方式失效；当制裁迫使云服务商暂停对整个国家的服务时，服务也无法按可预期的时间线恢复。此外，当冲突危及物理基础设施或数据驻留法规突然导致跨境数据复制不再",
+      "ai_summary": "探讨地缘政治风险下云区域失效对高可用架构的挑战与重构。",
+      "ai_tags": [
+        "云计算",
+        "高可用"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
+      "link": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym",
+      "published_time": "2026-04-27 07:02:32",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>4 月 27 日，蚂蚁集团旗下全模态AI 助手灵光&nbsp;App&nbsp;上线“体验世界模型”功能。用户上传一张图片，即可在手机端生成一个60s的&nbsp;3D世界，以第一人称视角进入其中，像玩游戏一样在&nbsp;AI&nbsp;实时生成的场景中漫游。无需本地部署，无需复杂配置，打开App 即可体验。这是世界模型首次以移动端产品的形态，面向普通用户开放。</p><p>&nbsp;</p><p>支撑这一体验的核心，是蚂蚁灵波科技开源的世界模型LingBot-World-Fast。该模型在480P 分辨率下可实现16 fps 实时生成，端到端交互延迟控制在 1 秒以内，兼具通用性、长时序一致性与⾼动态场景表现能力。</p><p>&nbsp;</p><p>LingBot-World-Fast地址：https://github.com/robbyant/lingbot-w",
+      "ai_summary": "蚂蚁灵波开源世界模型LingBot-World-Fast，支持实时生成3D世界。",
+      "ai_tags": [
+        "AI",
+        "开源",
+        "世界模型"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
       "title": "智能体工程的隐性技术债务",
       "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
       "published_time": "2026-04-27 03:02:04",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
-      "ai_summary": "文章探讨了智能体工程中的隐性技术债务，指出在本地构建智能体容易，但投入生产后可能面临数据、后果和工程化挑战。",
+      "ai_summary": "本文探讨智能体从本地构建到生产部署后面临的技术债务问题，引用谷歌2015年相关研究，强调工程化挑战。",
       "ai_tags": [
         "智能体",
         "技术债务",
@@ -49,16 +102,29 @@
     },
     {
       "category": "infoq",
+      "title": "摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地",
+      "link": "https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq",
+      "published_time": "2026-04-27 07:32:26",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c5/5f/c53b74fb32d7cb3a37e5a006b34yy15f.png\" /></p><p>4月26日，国产 GPU 创企摩尔线程（688795.SH）披露了2025年报及2026年一季报。根据公告，摩尔线程2025年实现营收15.05亿元，同比增长243.37%；毛利总额达到9.87亿元，较上年同期增长218.43%。2026年第一季度，摩尔线程实现营收7.38亿元，同比增长155.35%。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c2/c20a307860cbc208cd221c40cba87f88.png\" /></p><p></p><p>随着摩尔线程商业化进程提速，2025年业务保持高速增长，经营表现创历史新高。2022至2024年，摩尔线程营业收入复合增长率超200%；2025年实现营业收入15.05亿元，同比增长243.37%。凭借产品全功能技术优势与客户高度认可，毛利规模",
+      "ai_summary": "摩尔线程2025年营收15.05亿元，同比增长243%，研发占比超86%。",
+      "ai_tags": [
+        "GPU",
+        "财报"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
       "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
       "link": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW",
       "published_time": "2026-04-27 02:43:39",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d5/f3/d5ccdbf9204fdeb7479e8bc2e18aacf3.jpg\" /></p><p>2026 年 4 月 23 日，OpenAI 做了两件事：发布了 GPT-5.5，并把价格翻了一倍。</p><p>&nbsp;</p><p>按常理，这应该是属于 OpenAI 的一天。全新预训练架构“Spud”的首个公开版本，SOTA 级的基准测试成绩，SemiAnalysis 在第一时间给出了“GPT-5.5 已经抵达前沿”的评价。但翻看定价页面，开发者很难不算账：每百万输出 token 收费 30 美元，比前代 GPT-5.4 贵了一倍，甚至比一贯以昂贵著称的 Claude Opus 4.7 还要贵出一截。</p><p>&nbsp;</p><p>而仅仅过了不到一天，4 月 24 日，DeepSeek 把 V4 的模型权重扔到了 HuggingFace 上。MIT 开源协议，100 万 token 上下文窗口，以及一个极其低廉的价格：输出 token 每百万 3.48 美",
-      "ai_summary": "OpenAI发布GPT-5.5并提价，DeepSeek随即开源V4模型，价格更低且性能更好，引发开发者关注。",
+      "ai_summary": "OpenAI发布GPT-5.5并提价，DeepSeek随即开源V4模型，价格更低且性能更优，引发开发者关注。",
       "ai_tags": [
         "OpenAI",
         "DeepSeek",
-        "模型对比",
-        "价格"
+        "大模型",
+        "开源"
       ],
       "ai_importance": 5
     },
@@ -68,7 +134,7 @@
       "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi",
       "published_time": "2026-04-26 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b4/de/b49a39374f474a853bfedd8eb69050de.jpg\" /></p><p>Anthropic为<a href=\"https://claude.com/product/claude-code\">Claude Code</a>\"推出了新的<a href=\"https://claude.com/blog/code-review\">Code Review</a>\"功能，新增了一个基于智能体的拉取请求（pull request）审查系统，可由多个AI审查器协同分析代码变更。该功能目前以研究预览形式向Team和Enterprise用户开放。</p><p>&nbsp;</p><p>该系统会在拉取请求创建后自动运行，并调度多个智能体并行检查变更。Anthropic表示，这些智能体会查找潜在的缺陷，并验证其发现以降低误报，按严重程度对问题排序，随后在拉取请求中发布汇总审查意见和行内评论。</p><p>&nbsp;</p><p>Anthropic称，分配的智能体数量",
-      "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，支持多AI审查器并行分析PR，降低误报并排序问题。",
+      "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，支持多AI审查器并行分析PR，降低误报。",
       "ai_tags": [
         "Anthropic",
         "Claude Code",
@@ -76,81 +142,6 @@
         "AI"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g",
-      "published_time": "2026-04-25 06:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/fe/e5/fee173ae91702225580e11dcea8eyye5.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>Cortex Code 技能如何将 Snowflake 本体架构转变为可复用的对话式工作流——在单次会话中，从任意关系型模式生成完整的五层技术栈。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7c/7c12c3ad5f4780c4ae4e07cb0c27f67c.png\" /></p><p></p><h2>从概念到对话</h2><p></p><p></p><p>今年早些时候，我发表了一个由三部分",
-      "ai_summary": "本文展示如何利用Snowflake Cortex Code技能将本体架构转化为可复用的对话式工作流，从模式生成完整技术栈。",
-      "ai_tags": [
-        "Snowflake",
-        "本体",
-        "Cortex Code",
-        "工作流"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
-      "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO",
-      "published_time": "2026-04-25 13:04:45",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/77/2e/7740c8f0711c741e149bf2b5efdb2a2e.png\" /></p><p></p><p>整理｜华卫</p><p></p><p>4月24日，斑马智能在北京车展上发布车载Agent短剧产品“元神小剧”，并宣布该产品将登陆智能座舱，首发落地在比亚迪旗下新能源车型。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/db/db1a07cf698099aa68fd73bcd8ca72cc.png\" /></p><p></p><p>&nbsp;现场，比亚迪生态负责人王晨被聘任为“元神小剧首席体验官”，并围绕新能源汽车使用场景与内容消费节奏进行了分享。王晨表示，在充电效率持续提升的背景下，比亚迪已实现“5分钟充好，9分钟充饱，零下30度再多3分钟”。而这9分钟的碎片时间，恰好与短剧观看节奏完美契合，在斑马智能座舱内，用户利用充电时间可以刚好看完3集元神小剧，充电不再是出行的中断，而是沉浸式体",
-      "ai_summary": "斑马智能在北京车展发布车载Agent短剧产品“元神小剧”，首发落地比亚迪车型，利用充电碎片时间观看。",
-      "ai_tags": [
-        "斑马智能",
-        "车载Agent",
-        "短剧",
-        "比亚迪"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
-      "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh",
-      "published_time": "2026-04-25 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Cloudflare <a href=\"https://blog.cloudflare.com/enterprise-mcp/\">概要介绍</a>\"了一种参考架构，用于在企业范围内扩展 Model Context Protocol（MCP）部署，并将集中式治理、远程服务器基础设施和成本控制视为生产就绪型代理系统的关键要求。</p><p>&nbsp;</p><p>该公告发布之际，基于 MCP 的系统正面临着日益严格的审查。近期有研究<a href=\"https://www.veeam.com/blog/model-context-protocol-security-risks.html\">指出</a>\"，此类系统存在即时注入、供应链攻击以及服务器暴露或配置错误等风险，部分研究还证实，在 MCP 集成环境中存在任意代码执行和数据外泄的问题。</p><p>&nbsp;</p><p",
-      "ai_summary": "Cloudflare提出企业级MCP参考架构，强调集中治理、远程服务器和成本控制，以应对安全与治理风险。",
-      "ai_tags": [
-        "Cloudflare",
-        "MCP",
-        "安全",
-        "治理"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9",
-      "published_time": "2026-04-25 08:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c7/yy/c798b24343a329a80f980a7369abfayy.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>请勿仅限于查询数据——让数据主动为你服务。本文提供一份实用指南，剖析一个简洁的 Snowflake 智能体架构设计，并通过逐步的代码实现，帮助你构建出第一个自治数据助手。</p><p></p><h3>前言</h3><p></p><p></p><p>多年来，构建智能数据系统往往意味着编写数以百计的模型、数据流水线、存储过程以及编排脚本。面对每一个新的业务问题，都需要开发新的转换逻辑、新的仪表盘或新的工作流。即使基于现代数据平台，开发模式本质上仍未改变：人工定义每一个步骤，",
-      "ai_summary": "文章介绍如何将Snowflake作为智能体运行时，构建自治数据助手，从静态管道迈向自主数据系统。",
-      "ai_tags": [
-        "Snowflake",
-        "智能体",
-        "数据系统",
-        "自治"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
-      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2",
-      "published_time": "2026-04-24 11:18:13",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png\" /></p><p>作者 &nbsp;| 文朋</p><p></p><p>项目管理始终是企业提升生产效率的重要抓手。</p><p></p><p>但长期以来，大多数项目管理工具解决的，更多只是记录、同步与协同层面的表层问题：把需求记下来，把任务挂上去，把流程放进系统里。</p><p></p><p>一旦进入真实业务深水区，排期是否合理、依赖是否清晰、风险能否提前暴露，仍然高度依赖人的经验去判断、协调和补位。这也带来一个尴尬的现实：尽管工具迭代多年，企业项目交付效率始终没有实现质变。</p><p></p><p>随着 AI 浪潮到来，越来越多企业开始尝试把 AI 引入项目管理，用于写总结、做分析、辅助排期等单点提效。但如果 AI 与项目工具之间仍只是“外部协作”关系，停留在流程之外，就很难触及项目管理最核心的执行链路。</p><p></p><p>正如飞书项目负责人洪涛在飞书项目生态日上所说，未来的工作",
-      "ai_summary": "飞书项目通过开放架构实现AI友好，将AI融入项目管理核心执行链路，提升交付效率。",
-      "ai_tags": [
-        "飞书项目",
-        "AI",
-        "项目管理",
-        "开放"
-      ],
-      "ai_importance": 3
     }
   ]
 }
