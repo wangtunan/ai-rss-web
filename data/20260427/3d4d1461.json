@@ -1,0 +1,3636 @@
+[
+  {
+    "category": "github",
+    "title": "Changes to GitHub Copilot Individual plans",
+    "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "published_time": "2026-04-20 18:15:28",
+    "raw_content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "",
+    "ai_tags": [],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Highlights from Git 2.54",
+    "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+    "published_time": "2026-04-20 16:43:57",
+    "raw_content": "<p>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub Copilot个人计划变更，旨在为现有客户提供可靠和可预测的体验。",
+    "ai_tags": [
+      "GitHub",
+      "Copilot",
+      "计划变更"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "Building an emoji list generator with the GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+    "published_time": "2026-04-17 18:00:00",
+    "raw_content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "Git 2.54发布，GitHub介绍了自上一版本以来引入的一些最有趣的功能和变化。",
+    "ai_tags": [
+      "Git",
+      "版本发布",
+      "开源"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Bringing more transparency to GitHub’s status page",
+    "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+    "published_time": "2026-04-17 16:00:00",
+    "raw_content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "使用GitHub Copilot CLI构建表情符号列表生成器，展示了AI辅助开发的过程。",
+    "ai_tags": [
+      "GitHub Copilot",
+      "CLI",
+      "AI",
+      "开发工具"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "github",
+    "title": "How GitHub uses eBPF to improve deployment safety",
+    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub状态页面更新，提供更具体的数据，使用户能更好地了解平台整体健康状况。",
+    "ai_tags": [
+      "GitHub",
+      "状态页面",
+      "透明度"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "Build a personal organization command center with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+    "published_time": "2026-04-15 17:00:00",
+    "raw_content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub使用eBPF检测和防止部署工具中的循环依赖，提高部署安全性。",
+    "ai_tags": [
+      "GitHub",
+      "eBPF",
+      "部署安全",
+      "基础设施"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "使用GitHub Copilot CLI构建个人组织命令中心，AI支持了开发过程。",
+    "ai_tags": [
+      "GitHub Copilot",
+      "CLI",
+      "生产力工具",
+      "AI"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "github",
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+    "published_time": "2026-04-14 18:17:59",
+    "raw_content": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHu",
+    "ai_summary": "GitHub分享开发者政策更新，涉及中介责任、版权和透明度，并更新了透明度中心数据。",
+    "ai_tags": [
+      "GitHub",
+      "政策更新",
+      "版权",
+      "透明度"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "github",
+    "title": "How exposed is your code? Find out in minutes—for free",
+    "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+    "published_time": "2026-04-14 15:00:00",
+    "raw_content": "<p>The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/\">How exposed is your code? Find out in minutes—for free</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub Secure Code Game推出AI代理安全挑战，帮助开发者通过实战学习发现和利用AI漏洞。",
+    "ai_tags": [
+      "GitHub",
+      "安全",
+      "AI",
+      "游戏化学习"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "github",
+    "title": "GitHub for Beginners: Getting started with GitHub Pages",
+    "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+    "published_time": "2026-04-13 15:00:00",
+    "raw_content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+    "ai_summary": "GitHub推出免费代码安全风险评估工具，一键查看组织内的漏洞。",
+    "ai_tags": [
+      "GitHub",
+      "安全",
+      "风险评估",
+      "免费"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "zaobao_china",
+    "title": "宣传照疑影射清末剪辫历史 法国名牌被轰辱华致歉",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957882",
+    "published_time": "2026-04-27 03:08:23",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/3a3c5870623cd38b08901dca10df1233df6a159b785a484565f5bd92e1f65b4f\" /><figcaption></figcaption></figure><div><div><p>以法式简约风格见称的法国时装品牌LEMAIRE，近日因一组宣传照在中国大陆引发轩然大波。照片中出现的长衫、长辫及剪刀等元素组合，被大批网民质疑明显影射清末的剪辫历史，带有“辱华”倾向。在舆论压力下，LEMAIRE星期天（4月26日）发声明致歉，称并未充分考虑文化语境的差异。</p><p>据南方都市报、星岛头条等报道，这起事件的导火线，是LEMAIRE为其香氛系列“Objets Senteur”所发布的一辑宣传照片。照片中，一款用于承载香氛的手工编织物，其外形被设计成一条长长的辫子，旁边更配上了一把剪刀。</p><figure class=\"inline-figure bff-inline-image\">\n             ",
+    "ai_summary": "法国品牌LEMAIRE因宣传照中长衫、长辫和剪刀元素被指影射清末剪辫历史，引发辱华争议，品牌致歉称未考虑文化差异。",
+    "ai_tags": [
+      "辱华",
+      "法国品牌",
+      "文化争议"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "美国最后一批M1A2T坦克已抵台",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957819",
+    "published_time": "2026-04-27 02:56:51",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/ddfc11e37808934880f6925fe6a93fc27af9d7e70ea8f6f4a57707dd6f808d74\" /><figcaption></figcaption></figure><div><div><p>台湾陆军向美国采购的最后一批M1A2T坦克，已运抵台湾。</p><p>综合中时新闻网和民视新闻网等台媒报道，台湾向美国采购108辆M1A2T坦克，首批38辆2024年12月抵台，去年10月成军。第二批42辆去年7月运抵台湾，今年4月成军。第三批28辆星期天（4月26日）晚间抵达台北港。</p><p>据报道，第三批28辆M1A2T坦克的运送路线跟上两次相同，在26日晚间抵步后，星期天（27日）凌晨由台北港走西滨快速道路，转运到位在新竹湖口的装甲兵训练指挥部。整个运送过程高度戒备，由警方沿线进行交通管制，宪兵车辆则在车队前后方押车警戒，确保安全无虞。</p><p>以上两批坦克运送到成军的时程推估，第三批28辆M1A2T坦克从到港至成军",
+    "ai_summary": "台湾向美国采购的最后一批28辆M1A2T坦克运抵台北港，至此108辆坦克全部到货，前两批已分别于2024年12月和2025年7月抵台。",
+    "ai_tags": [
+      "台湾",
+      "美国",
+      "军售",
+      "M1A2T坦克"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国收紧境外借款审批 1000亿美元债券今年到期",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957570",
+    "published_time": "2026-04-27 02:16:36",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/d118aa849c09f2671625430eafa78297fdd961fe6b0ecd8d9d59fe030285b2f1\" /><figcaption></figcaption></figure><div><div><p>中国正收紧境外借款审批，面对今年约1000亿美元（1277亿新元）债券到期压力，一些企业因此急忙筹措资金。</p><p>彭博社星期一（4月27日）引述知情人士报道，中国国家发展和改革委员会审批一年期及以上债券及贷款额度，如今需时四至六个月，约为以往的两倍。知情人士说，在某些情况下，审批流程甚至长达九个月。</p><p>知情人士补充说，自2025年底起，监管机构开始要求企业提供更多有关偿债安排及资金用途的细节，导致审批流程拉长。</p><p>为避免境外债务违约，中国企业纷纷转向发行短期债券，这使其更难平衡投资需求与现金流管理。彭博社报道认为，更高的门槛显示，国家发改委正加大力度遏制资质较弱企业及地方政府融资平台不断膨胀的债务。</p",
+    "ai_summary": "中国收紧境外借款审批，审批时间延长至4-6个月甚至9个月，企业面临约1000亿美元债券到期压力，转向发行短期债券。",
+    "ai_tags": [
+      "境外借款",
+      "审批收紧",
+      "债券到期"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国一季度规上工业企业利润总额同比增逾15%",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957467",
+    "published_time": "2026-04-27 02:02:57",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/da7beb5dd0c800690d2585f3df27d7a8f128c333478061729bb2b23242327c00\" /><figcaption></figcaption></figure><div><div><p>中国官方数据显示，中国一季度规上工业企业利润总额同比增逾15%。</p><p>中国国家统计局星期一（4月27日）在官网发布的最新数据显示，中国1至3月全国规模以上工业企业实现利润总额1万6960亿元（人民币，下同，3167亿4400万新元），同比增长15.5%。中国3月规模以上工业企业利润同比增长15.8%。</p><p>根据数据，中国1至3月规模以上工业企业实现营业收入33万1900亿元，同比增长5.0%；发生营业成本28万1900亿元，增长4.5%；营业收入利润率为5.11%，同比上升0.46个百分点。</p><p>中国国家统计局工业司首席统计师于卫宁解读上述数据时说，一季度，面对复杂经济环境，中国官方及时加大宏观调控力度，靠",
+    "ai_summary": "中国一季度规模以上工业企业利润总额同比增长15.5%，3月同比增长15.8%，营收增长5%，利润率提升。",
+    "ai_tags": [
+      "工业企业利润",
+      "经济数据",
+      "增长"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "台股升破4万点创新高",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957375",
+    "published_time": "2026-04-27 01:42:02",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>台湾股市星期一（4月27日）创下历史新高，加权指数升破4万点大关。</p><p>综合联合新闻网和《经济日报》报道，受美股科技股与半导体股强劲反弹带动，台股星期一早盘开盘后火力全开，加权指数强势突破4万点关卡，一举改写历史新高。权王台湾半导体巨头台积电成为推升大盘的最关键动力，早盘股价突破2300元新台币（93.17新元）关卡。</p><p>截至上午9时34分，加权指数继续走高，触及40160.32点。</p></div></div>",
+    "ai_summary": "台股加权指数突破4万点创历史新高，受美股科技股反弹带动，台积电股价突破2300元新台币。",
+    "ai_tags": [
+      "台股",
+      "创新高",
+      "科技股"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "中国促欧盟删除法案歧视性要求 若无视将反制",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957359",
+    "published_time": "2026-04-27 01:35:36",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/56317578da63aef61a215bef3a454f29c88abf11d9221e1fdecb2e3682d3c13c\" /><figcaption></figcaption></figure><div><div><p>针对欧盟《工业加速器法案》提出的评论意见，中国商务部促欧盟删除法案歧视性要求，并称如果无视中方建议将进行反制。</p><p>据中国商务部官网消息，商务部发言人星期一（4月27日）答记者问时说，商务部上星期五（24日）向欧委会正式提交了对欧盟《工业加速器法案》的评论意见，表达了中方正式立场和严正关切。</p><p>发言人指出，法案对外商投资电池、电动汽车、光伏、关键原材料四大新兴战略行业设置了诸多限制性要求，并在公共采购和公共支持政策中设置了“欧盟原产”的排他性条款，构成了严重的投资壁垒和制度性歧视。</p><p>中方评论意见指出，法案主要存在以下问题：一是涉嫌违反最惠国待遇、国民待遇等基本原则，并违反《1994年关税与贸易总协定》",
+    "ai_summary": "中国商务部向欧盟提交对《工业加速器法案》的评论意见，要求删除歧视性条款，否则将采取反制措施。",
+    "ai_tags": [
+      "中欧贸易",
+      "反制",
+      "歧视性条款"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "zaobao_china",
+    "title": "港媒：毕雁英今年1月出掌国务院发展研究中心港澳研究所",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957329",
+    "published_time": "2026-04-27 01:21:41",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/77432ba8d7720fedc858b89fa87afbda0ec1895b25211c89753c8dacaa03b127\" /><figcaption></figcaption></figure><div><div><p>香港媒体报道，原任中国国际关系学院副院长的毕雁英，大约在今年1月出掌国务院发展研究中心港澳研究所，结束了该所多年来“群龙无主”的现象。</p><p>据《明报》星期一（4月27日）报道，4月15日是全民国家安全教育日，香港在此期间举行了系列活动。毕雁英也带队赴港，参加了两场活动。</p><p>国务院发展研究中心港澳研究所2003年成立，是国务院发展研究中心内设机构，其主要职责是根据《香港基本法》、《澳门基本法》和港澳地区的形势发展和变化，承担有关港澳问题的课题研究。</p><p>报道称，由前新华社香港分社（中联办前身）副社长朱育诚担任首任所长，原中联办秘书长赵广庭为第二任所长，北京大学法学院教授饶戈平是第三任所长。饶戈平大概于202",
+    "ai_summary": "毕雁英于今年1月出任国务院发展研究中心港澳研究所所长，结束了该所多年无正职所长的局面。",
+    "ai_tags": [
+      "人事任命",
+      "港澳研究所",
+      "毕雁英"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "会湖南省委书记 巴基斯坦总统：愿与中国深化经贸合作",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957156",
+    "published_time": "2026-04-27 01:08:11",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/a34c7458a0c363df54e3ca42294fb0ac81a7059eb7fbf923ad248e89d6bf14ca\" /><figcaption></figcaption></figure><div><div><p>巴基斯坦总统扎尔达里在与湖南省委书记沈晓明会面时表明，巴国愿与中国深化经贸合作。</p><p>综合巴基斯坦《黎明报》和土耳其安纳杜鲁新闻社报道，扎尔达里上星期六（4月25日）抵达湖南长沙，在星期天（26日）与沈晓明会面时，作出以上表述。</p><p>巴基斯坦外交部在声明中说，扎尔达里应中国政府邀请，在4月25日至5月1日访华。他先在上星期六抵达湖南长沙，逗留至星期一（27日）后，将于星期二（28日）续程前往海南三亚，直至5月1日。</p><p>巴基斯坦外交部指出，扎尔达里将与湖南和海南地方政府举行会谈，讨论巴中双边关系，特别聚焦经贸合作和中巴经济走廊议题，但未说明扎尔达里是否在北京与中国高层领导人会面。</p><p>据巴基斯坦总统",
+    "ai_summary": "巴基斯坦总统扎尔达里访华，在湖南与省委书记沈晓明会面，表示愿深化经贸合作，聚焦中巴经济走廊。",
+    "ai_tags": [
+      "巴基斯坦",
+      "中巴关系",
+      "经贸合作"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "AI带动中国进口激增 经济学家大幅上调预测",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957202",
+    "published_time": "2026-04-27 00:48:07",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>经济学家大幅上调了对中国进口增长的预测，目前预计中国进口增速将自2021年以来首次超过出口增速。</p><p>据彭博社本月对17位经济学家的调查中值预测，随着中国企业大量采购人工智能（AI）所需的高端晶片，中国2026年进口增速料升至5%，创五年来最高水平。这一预测较3月的预估高出一倍以上，并将结束此前连续四年的停滞或下滑。</p><p>出口增速也由3.6%上调至4.9%，中国商品贸易顺差预计将略高于1.2万亿美元（1.53万亿新元），在连续两年快速增长后，仅略高于2025年的水平。</p><p>自冠病疫情以来，中国商品大量涌入海外市场，引发各国反弹。对此，中国政府承诺进一步开放国内市场扩大进口，并陆续推出一些渐进式政策，例如取消太阳能电池等产品的出口退税优惠。</p><p>不过，在国内消费疲弱压抑需求之际，真正推动进口加快增长的，是中国对与",
+    "ai_summary": "经济学家上调中国进口增长预测至5%，受AI芯片需求推动，预计进口增速将自2021年来首次超过出口。",
+    "ai_tags": [
+      "进口增长",
+      "AI芯片",
+      "经济预测"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "游客投诉遭无人机喷药 江西庐山西海景区致歉",
+    "link": "https://www.zaobao.com/news/china/story20260427-8957092",
+    "published_time": "2026-04-26 23:42:00",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国网民申诉在江西庐山西海景区度假时，遇到无人机大面积喷药，导致大人不停打喷嚏，小孩咳嗽。景区回应时说，第三方公司开展病虫害防治时操作不当，并为此致歉。</p><p>据中国极目新闻报道，上述网友说，自己开开心心前往庐山西海景区度假，结果遇上无人机大面积喷药，“大人被农药雾气笼罩鼻子发痒、不停打喷嚏，孩子莫名咳嗽。当时真的很无助，无处可躲，跑都来不及。现在全身头发、衣服上都是刺鼻的农药味。”</p><p>极目新闻记者以游客身份咨询了庐山西海景区，工作人员称此次喷洒的是杀虫剂，不会对人体造成伤害，主要针对害虫较多、森林覆盖率高的区域进行作业。事发时，景区游客偶遇喷洒作业，已进行投诉。</p><p>景区工作人员得知记者身份后婉拒采访，并说自己没有权限回复，将转接其他同事。当地警方工作人员说，已接到群众反映此事，具体情况需咨询景区。</p><p>江西",
+    "ai_summary": "游客投诉江西庐山西海景区无人机喷药致身体不适，景区致歉称第三方操作不当，已加强监管。",
+    "ai_tags": [
+      "景区管理",
+      "无人机喷药",
+      "游客投诉"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "zaobao_china",
+    "title": "戴庆成：香港推广阅读搞错了方向",
+    "link": "https://www.zaobao.com/news/china/story20260427-8955532",
+    "published_time": "2026-04-26 21:00:00",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/0aeea9495ee7a5a26c0e3437d01a130eae2059c037969e9696da29edbfa6bc57\" /><figcaption></figcaption></figure><div><div><p>上个星期四（4月23日）是“世界阅读日”，香港和全球其他大城市一样，在此前后举办了大大小小的活动，推动全民阅读文化，成功引起不少市民的关注。<br /><br />可惜这股风气只是昙花一现，现实是近些年越来越少港人看书。记得20多年前在香港乘搭港铁或者巴士，随处可见读报纸、小说的人。如今车厢里九成以上乘客都是低头看手机，刷览短视频、社交平台，手捧实体书阅读已成为稀有行为。<br /><br />香港出版学会早前针对港人阅读习惯，随机抽样访问了832人。结果显示，过去一年仅有55.7%市民阅读印刷书，比2021年75%的高位下跌近20个百分点，录得近年新低。<br /><br />在阅读量方面，受访者过去一年平均阅读的印刷书籍或刊物",
+    "ai_summary": "香港阅读推广效果不佳，调查显示仅55.7%市民过去一年阅读印刷书，较2021年大幅下降，车厢内多数人看手机，实体书阅读成稀有行为。",
+    "ai_tags": [
+      "香港",
+      "阅读",
+      "文化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "深圳女子“裸检”被指过度执法 律师：高强度检查应有更高监督标准",
+    "link": "https://www.zaobao.com/news/china/story20260426-8956088",
+    "published_time": "2026-04-26 14:48:36",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/f5e4c3daeb034e33cb36c57632a4f69497ecf8b39244d5e9cf546320e6350f8a\" /><figcaption></figcaption></figure><div><div><p>深圳市一名女子阻止男子抽烟引发冲突后，爆出遭到当地警方脱衣裸体检查，舆论进一步从“控烟”争议转向裸检的合法性，并指深圳官方通告避重就轻。</p><p>受访律师指出，裸检是体检的一部分，但裸检强度更高，应有更高要求和更严监督。调查组应向外界详细说明，不能简单地一笔带过。</p><p>深圳一名女子星期五（4月24日）在巴士站台阻止男子抽烟时，双方发生口角，两人随后前往警局处理。</p><p>这名女子当晚在微博接连发文，称案件处理过程令她极度屈辱。她不仅被要求脱光衣物，内裤也“被扒到膝盖以下”，还被摘下高达1200度的近视眼镜，换衣服、如厕不让关门，导致衣服被尿湿，举手转圈检查时“旁边所有穿制服的人都在笑”。</p><p>上述内容引发网",
+    "ai_summary": "深圳女子因阻止吸烟被警方脱衣裸检，引发争议。律师指出裸检强度高，应有更高监督标准，调查组需详细说明。",
+    "ai_tags": [
+      "深圳",
+      "执法",
+      "争议"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "金门副县长赴厦门考察被台湾中央政府驳回",
+    "link": "https://www.zaobao.com/news/china/story20260426-8956113",
+    "published_time": "2026-04-26 12:23:34",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国大陆官方早前宣布10项两岸交流措施，包括支持台湾金门共用厦门新机场等后，金门县政府马上组团赴厦门考察。不过，副县长李文良及县府议会一级主管的赴陆申请被台湾中央政府驳回，县府随后改由较低层级官员率团出访。</p><p>台湾在野的国民党主席郑丽文与中共总书记习近平会晤后，大陆官方4月12日宣布10项两岸交流措施，包括推动福建沿海和金门、马祖通水、通电、通气、通桥，支持金门共用厦门新机场等。</p><p>据《联合报》星期天（4月26日）报道，金门县议员陈泱瑚4月16日总质询时称，大陆已明确释出支持金门共用厦门新机场及“新四通”政策信号，金门县政府不能只坐在办公室纸上谈兵，应主动出击，尽速由县府邀集议会组团赴厦门考察，掌握第一手资讯。</p><p>据报道，金门县政府在4月17日启动行政程序，将李文良及县府、议会一级主管赴大陆名单送交台湾移民署申请",
+    "ai_summary": "金门副县长李文良赴厦门考察申请被台湾中央政府驳回，改由较低层级官员率团出访。此前大陆宣布支持金门共用厦门新机场等交流措施。",
+    "ai_tags": [
+      "金门",
+      "两岸",
+      "交流"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "谢锋：越来越多美国朋友成为追茶人",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955984",
+    "published_time": "2026-04-26 11:34:02",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国驻美大使谢锋在一场活动中形容，茶是中美关系发展的见证者，并称越来越多美国朋友成为“追茶人”。</p><p>据中国驻美国大使馆微信公众号消息，谢锋上星期五（4月24日）在“茶和天下 乐贯东西”·雅集暨“你好！中国”旅游推介活动上致辞说，茶是中美关系发展的见证者，也是增进两国人民友好的绿色使者。</p><p>谢锋以多个例子说明茶在中美交流中的角色，包括美国商船“中国皇后”号满载中国茶叶返航，拉开中美通商序幕；美国前国务卿基辛格和前总统尼克松先后访华，开启中美关系正常化进程，西湖龙井和武夷山大红袍作为国礼相赠。</p><p>他也提到，美国总统特朗普首次访华期间，中美元首夫妇曾在故宫宝蕴楼茶叙。</p><p>谢锋进一步说，近年来，霸王茶姬、喜茶、茉莉奶白、蜜雪冰城等中国新茶饮品牌纷纷登陆美国、生意火爆，越来越多美国朋友成为“追茶人”，甚至选择在华",
+    "ai_summary": "中国驻美大使谢锋称茶是中美关系见证者，越来越多美国朋友成为“追茶人”，并提及中国新茶饮品牌在美火爆。",
+    "ai_tags": [
+      "中美",
+      "茶文化",
+      "交流"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "zaobao_china",
+    "title": "特稿：无人机监管收紧冲击消费市场 低空经济待整合起飞",
+    "link": "https://www.zaobao.com/news/china/story20260426-8852257",
+    "published_time": "2026-04-26 10:00:20",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/aa5d61b8e6ae31eef4853132ea68d67f53053acc9e4addd63e4b690f2d3af366\" /><figcaption></figcaption></figure><div><div><p>“一开始我以为是诈骗电话，后来才知道是派出所来问无人机。”</p><p>重庆无人机爱好者刘翔告诉《联合早报》，他上月24日在四川广元苍溪县出差时接到陌生来电，几番问询后才知道，是重庆民警来电查询他是否有无人机，并要求他本人前往派出所备案。</p><p>刘翔2024年置换了一台大疆mini4PRO，最近一次使用是去年8月在新疆的时候。</p><p>中国不少网民近期纷纷在社交平台发贴，讲述和刘翔遇到的类似情况。小红书“实名登记”、“无人机”以及“大疆无人机”等标签下，获得互动关注最多的几则贴文，都和警察致电要求备案无人机相关。</p><p>中国是全球最大的无人机市场之一。在龙头企业大疆无人机2012年取得技术突破后，无人机成为大众娱乐",
+    "ai_summary": "中国收紧无人机监管，要求实名备案，引发消费市场冲击。爱好者反映被警方致电要求备案，低空经济待整合。",
+    "ai_tags": [
+      "无人机",
+      "监管",
+      "低空经济"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "台军规划购买逾21万无人机 部署机器狗",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955665",
+    "published_time": "2026-04-26 09:47:49",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/9baeac830697b2aa2485bc798ecd5d64102659d47c94e841274e6ad00eb6527e\" /><figcaption></figcaption></figure><div><div><p>台湾国防部表示，台军已编列特别预算，规划购买21万余架各类无人机，同时也规划部署机器狗、无人运输及战术载具，用于侦察、攻击及物资运补等多样任务。</p><p>据联合新闻网星期六（4月25日）报道，台湾国防部星期一（4月27日）将赴立法院外交及国防委员会，针对新兴科技应用于不对称作战进行专案报告。</p><p>台国防部成立国防创新小组至今已超过两年。国防部指出，国防创新小组目前持续关注关键装备的发展趋势，包括多元情报融合强化预警能力与情报研判、无人机大规模应用与技术迭代、地面无人载具投入多元场景、水面／水下无人载具支援近海防御作战等。</p><p>台国防部进一步指出，当前各类无人机已大量用于情监侦、攻击、通信中继、电战、后勤与救援等",
+    "ai_summary": "台军规划购买逾21万架无人机并部署机器狗，用于侦察、攻击等任务，以应对不对称作战需求。",
+    "ai_tags": [
+      "台湾",
+      "军事",
+      "无人机"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "zaobao_china",
+    "title": "去年中国大型演唱会观演人次近3800万",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955277",
+    "published_time": "2026-04-26 08:21:10",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/ee6491d0358cf6ce365eda52f433b0d0d1bdbfd4d09284d4ebacbfcbc082d872\" /><figcaption></figcaption></figure><div><div><p>去年，中国大型演唱会观演人次近3800万，跨城观演比例超六成，成为地方文旅消费的重要引擎。</p><p>据央视新闻报道，中国演出行业协会等发布的《2025年现场音乐演出市场分析报告》显示，2025年，全国5000人以上大型营业性演出票房收入324.48亿元（人民币，下同，约60.62亿新元），占演出市场总票房的52.6%。</p><p>其中，大型演唱会票房295.58亿元，同比增长13.7%，观演人次近3800万，较上年增长30.8%，跨城观演比例超六成。57.4%的大型演唱会单场观演人数超过1万人，同比增长14.9%。</p><p>数据显示，2025年演唱会等大型演出带动相关消费效果明显。各地发展“3小时演出撬动72小时消费”模",
+    "ai_summary": "2025年中国大型演唱会观演人次近3800万，跨城观演比例超六成，票房295.58亿元，成为文旅消费重要引擎。",
+    "ai_tags": [
+      "演唱会",
+      "文旅",
+      "消费"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "zaobao_china",
+    "title": "卢秀燕赴高雄为柯志恩站台：奇迹及正义会在高雄出现",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955279",
+    "published_time": "2026-04-26 08:17:02",
+    "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>台中市长卢秀燕星期天（4月26日）南下高雄为国民党高雄市长参选人柯志恩站台时说，奇迹及正义会在高雄出现，如果柯志恩成功就是给孩子最好的示范，并称赞柯志恩有“妈妈心”。</p><p>柯志恩曾于2022年代表国民党参选高雄市长，但败给民进党对手陈其迈。这是她第二次竞选高雄市长。台湾将在今年11月底举行“九合一”地方选举。</p><p>综合《联合报》和TVBS新闻网报道，柯志恩星期天（4月26日）举办“好妈妈连线”见面会，邀请卢秀燕到高雄站台。柯志恩说，卢秀燕是她的好姐妹，此次特别找卢秀燕来学习，希望借镜台中这座幸福城市的经验。</p><p>卢秀燕则以“深蹲守护高雄”这句话肯定柯志恩，称她在上次参选失利后没有离开高雄。</p><p>卢秀燕也分享自身经验说，以前她参选台中市长时不被看好，后来却是“小虾米推倒大鲸鱼”。因此，她相信奇迹及正义会在高雄出现",
+    "ai_summary": "台中市长卢秀燕赴高雄为国民党市长参选人柯志恩站台，称奇迹和正义会在高雄出现，鼓励其以“妈妈心”参选。",
+    "ai_tags": [
+      "台湾",
+      "选举",
+      "政治"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "zaobao_china",
+    "title": "台湾旅游团甘肃车祸 大陆国台办证实一死12伤",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955264",
+    "published_time": "2026-04-26 08:13:10",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/ce3ea9ca6c33f146235ca569f02fb71c035494063c843e1409865b9d5ca38907\" /><figcaption></figcaption></figure><div><div><p>台湾旅行团上个星期五（24日）在甘肃省甘加秘境景区发生车辆翻复意外，造成一死12伤。中国大陆国台办表示，目前12名受伤者中三人留院继续治疗，九人已返回酒店，有关方面将积极协助遇难台胞家属处理善后事宜，对伤者提供必要协助。有关部门正在调查事故原因。</p><p>据联合新闻网、中时电子报、ETtoday新闻云等多家台媒报道，发生意外的台湾旅行团是喜鸿旅行社承办的旅客亲友自组团体，旅游日期从4月20日至5月1日，12天行程目的地包括四川黄龙、九寨沟等地。</p><p>事故发生在星期五下午。当时，一辆游园车在甘肃甘南州夏河县甘加镇八角城的景区内行驶，载有13名台湾旅客、司机、领队等共17人，途中游园车侧翻，酿成伤亡。</p><p>据报道，",
+    "ai_summary": "台湾旅行团在甘肃甘加秘境景区发生车辆翻覆，致1死12伤。国台办证实事故，3人留院治疗，9人已返酒店，正协助善后。",
+    "ai_tags": [
+      "台湾",
+      "甘肃",
+      "车祸"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "zaobao_china",
+    "title": "玉渊谭天：中国AI需要活在自己的节奏里",
+    "link": "https://www.zaobao.com/news/china/story20260426-8955099",
+    "published_time": "2026-04-26 07:26:10",
+    "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/2059045fe2b03969de42d898d1451b062a3f857057e75219cd231ff599ebd182\" /><figcaption></figcaption></figure><div><div><p>中国人工智能（AI）公司深度求索（DeepSeek）发布最新旗舰AI模型的预览版后，中国央视旗下新媒体账号《玉渊谭天》发文称，当中国国产晶片开始在具体场景里能够接住原本由外国晶片承担的计算任务，企业就可以不再依赖特定进口型号，并指中国AI更需要活在自己的节奏里。</p><p>玉渊谭天星期天（4月26日）凌晨在微信公众号发布题为《沉默的DeepSeek，和不被定义的中国大模型》的文章。文章称，在这个国外主流大模型平均91.4天就迭代一个版本的时代，DeepSeek的“静默”，在很多人眼里几乎等同于落后，甚至掉队。</p><p>文章续称，沉默的DeepSeek，让人很不习惯；2025年初的横空出世、用更少的算力实现更优的性能、打破美西",
+    "ai_summary": "玉渊谭天发文称中国AI需活在自己节奏里，DeepSeek虽静默但国产芯片已能接替进口任务，不应被外界定义。",
+    "ai_tags": [
+      "AI",
+      "DeepSeek",
+      "国产芯片"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "wsj",
+    "title": "新东方公布疲弱财报后股价大跌",
+    "link": "https://cn.wsj.com/amp/articles/%E6%96%B0%E4%B8%9C%E6%96%B9%E5%85%AC%E5%B8%83%E7%96%B2%E5%BC%B1%E8%B4%A2%E6%8A%A5%E5%90%8E%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C-561840f2",
+    "published_time": "2024-08-01 08:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n      <p>Tracy Qu</p>\n\n  \n  </div>\n    <time>\n      2024年8月1日15:31 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n</section>\n\n</div>\n      <br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.run\" style=\"color: orange;\" target=\"_blank\">https://feedx.run</a><br /></div>",
+    "ai_summary": "新东方公布疲弱财报后股价大跌。",
+    "ai_tags": [
+      "新东方",
+      "财报",
+      "股价"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "王楚钦奥运混双夺金后球拍被踩断，世界头号种子单打爆冷出局",
+    "link": "https://cn.wsj.com/amp/articles/table-tennis-wang-chuqin-paris-olympics-7979e7fd",
+    "published_time": "2024-08-01 07:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/stu-woo\" rel=\"author\">Stu Woo</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日14:32 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n    \n      <figcaption>\n        <p>图左为王楚钦，右为孙颖莎，他们在赢得奥运乒乓球混合双打金牌后在摄影师面前合影庆祝。</p>\n    <p> 图片来源：wang zhao/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      ",
+    "ai_summary": "王楚钦奥运混双夺金后球拍被踩断，世界头号种子单打爆冷出局。",
+    "ai_tags": [
+      "王楚钦",
+      "奥运",
+      "乒乓球"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "王楚钦奥运混双夺金后球拍被踩断，世界头号种子单打爆冷出局",
+    "link": "https://cn.wsj.com/amp/articles/table-tennis-wang-chuqin-paris-olympics-5ba0a483",
+    "published_time": "2024-08-01 06:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/stu-woo\" rel=\"author\">Stu Woo</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日13:45 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n    \n      <figcaption>\n        <p>图左为王楚钦，右为孙颖莎，他们在赢得奥运乒乓球混合双打金牌后在摄影师面前合影庆祝。</p>\n    <p> 图片来源：wang zhao/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      ",
+    "ai_summary": "王楚钦奥运混双夺金后球拍被踩断，世界头号种子单打爆冷出局。",
+    "ai_tags": [
+      "王楚钦",
+      "奥运",
+      "乒乓球"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "苹果财报即将公布，围绕iPhone新机型的线索最值得关注",
+    "link": "https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E8%B4%A2%E6%8A%A5%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83-%E5%9B%B4%E7%BB%95iphone%E6%96%B0%E6%9C%BA%E5%9E%8B%E7%9A%84%E7%BA%BF%E7%B4%A2%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8-61a0bc8b",
+    "published_time": "2024-08-01 06:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"466\" src=\"https://images.wsj.net/im-912693?width=700&amp;height=466\" width=\"700\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>图片来源：CFOTO/NURPHOTO/ZUMA PRESS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually whe",
+    "ai_summary": "苹果财报即将公布，围绕iPhone新机型的线索最值得关注。",
+    "ai_tags": [
+      "苹果",
+      "财报",
+      "iPhone"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "财新7月中国PMI数据显示制造业状况恶化",
+    "link": "https://cn.wsj.com/amp/articles/%E8%B4%A2%E6%96%B07%E6%9C%88%E4%BB%BD%E4%B8%AD%E5%9B%BDpmi%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%E5%88%B6%E9%80%A0%E4%B8%9A%E6%81%B6%E5%8C%96-225a2c74",
+    "published_time": "2024-08-01 05:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"468\" src=\"https://images.wsj.net/im-932166?width=700&amp;height=468\" width=\"700\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>7月份，一项衡量中国工厂活动的非官方指标九个月来首次跌入萎缩区间。</p>\n    <p> 图片来源：str/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+    "ai_summary": "财新7月中国PMI数据显示制造业状况恶化，九个月来首次跌入萎缩区间。",
+    "ai_tags": [
+      "PMI",
+      "制造业",
+      "中国经济"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "9月降息对美联储来说是政治上的“两难”",
+    "link": "https://cn.wsj.com/amp/articles/9%E6%9C%88%E9%99%8D%E6%81%AF%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E6%9D%A5%E8%AF%B4%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B8%8A%E7%9A%84-%E4%B8%A4%E9%9A%BE-d44c9e50",
+    "published_time": "2024-08-01 05:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/nick-timiraos\" rel=\"author\">Nick Timiraos</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日12:08 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n  </div>\n  \n      <p>\n        美联储主席鲍威尔在美联储议息会议后召开的新闻发布会上说，利率目前将保持稳定，但降息“最快可能在9月份的下次会议上提出”。封面图片来源：Al Drago/Bloomberg\n        <span>\n        \n        The Wall Street",
+    "ai_summary": "9月降息对美联储来说是政治上的“两难”，鲍威尔暗示最快9月降息。",
+    "ai_tags": [
+      "美联储",
+      "降息",
+      "政治"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "《华尔街日报》对特斯拉涉Autopilot事故风险的调查发现了什么？",
+    "link": "https://cn.wsj.com/amp/articles/tesla-autopilot-crash-investigation-cdb0173c",
+    "published_time": "2024-08-01 04:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n      \n          <div>\n      <div>\n    <div>\n         <h4>\n        \n        </h4>\n  </div>\n  </div>\n  \n      <p>\n        特斯拉的Autopilot自动辅助驾驶技术主要基于摄像头进行感知，在业内可谓独树一帜，不少人长期担心其可靠性。《华尔街日报》搜集了200多起涉特斯拉Autopilot撞车事故的信息，相关视频和数据显示，上述担忧正在道路上显现，技术缺陷正给公众带来风险。封面图片制作：Ryan Trefes\n        <span>\n        \n        The Wall Street Journal Interactive Edition\n        </span>\n      </p>\n</div>\n\n      \n      \n      \n   ",
+    "ai_summary": "《华尔街日报》调查发现特斯拉Autopilot技术缺陷导致多起撞车事故，带来公众风险。",
+    "ai_tags": [
+      "特斯拉",
+      "Autopilot",
+      "事故"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "波音新帅能否带领公司成功逆袭？",
+    "link": "https://cn.wsj.com/amp/articles/boeings-new-pilot-has-the-turnaround-job-of-the-decade-b7aa2760",
+    "published_time": "2024-08-01 04:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"573\" src=\"https://images.wsj.net/im-985590?width=860&amp;height=573\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>波音公司第二财季亏损超过预期。</p>\n    <p> 图片来源：jason redmond/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n",
+    "ai_summary": "波音新帅能否带领公司成功逆袭？第二财季亏损超预期。",
+    "ai_tags": [
+      "波音",
+      "亏损",
+      "新CEO"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "中东滑向爆发更大范围战争的边缘",
+    "link": "https://cn.wsj.com/amp/articles/two-enemies-of-israel-are-killed-and-the-mideast-tilts-on-the-brink-of-wider-war-6cd9d084",
+    "published_time": "2024-08-01 02:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/summer-said\" rel=\"author\">Summer Said</a>\n              </span> / </p>\n            <p><span>\n                <a href=\"https://www.wsj.com/news/author/rory-jones\" rel=\"author\">Rory Jones</a>\n              </span> / Carrie Keller-Lynn</p>\n\n  </div>\n    <time>\n      2024年8月1日09:51 CST 更新\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>",
+    "ai_summary": "中东滑向爆发更大范围战争的边缘，以色列的敌人被击杀。",
+    "ai_tags": [
+      "中东",
+      "战争",
+      "以色列"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "什么能帮穷孩子改变命运？经济学家给出一个意想不到的答案",
+    "link": "https://cn.wsj.com/amp/articles/%E4%BB%80%E4%B9%88%E8%83%BD%E5%B8%AE%E7%A9%B7%E5%AD%A9%E5%AD%90%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%BB%99%E5%87%BA%E4%B8%80%E4%B8%AA%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E7%AD%94%E6%A1%88-75c2e1c5",
+    "published_time": "2024-08-01 02:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/justin-lahart\" rel=\"author\">Justin Lahart</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日09:50 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n      \t\t\t\t</div>\n      \t\t\t\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we know what this card will be we can cha",
+    "ai_summary": "经济学家给出一个意想不到的答案：什么能帮穷孩子改变命运？",
+    "ai_tags": [
+      "贫困",
+      "教育",
+      "经济学"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "wsj",
+    "title": "该不该以乐观视角看待瑞幸咖啡黯淡的财报？",
+    "link": "https://cn.wsj.com/amp/articles/chinasstarbucks-gets-bitter-reaction-to-weak-results-2868b431",
+    "published_time": "2024-08-01 01:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"573\" src=\"https://images.wsj.net/im-274474?width=860&amp;height=573\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>图为上海的一家瑞幸咖啡店。</p>\n    <p> 图片来源：TPG/ZUMA PRESS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!--",
+    "ai_summary": "瑞幸咖啡财报表现黯淡，但市场对其前景存在乐观与悲观两种看法。",
+    "ai_tags": [
+      "瑞幸咖啡",
+      "财报",
+      "市场观点"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "wsj",
+    "title": "特朗普攻击哈里斯的身份，称不知道她是黑人",
+    "link": "https://cn.wsj.com/amp/articles/trump-attacks-harriss-identity-saying-he-didnt-know-she-was-black-989cbd46",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n      \n          <div>\n      <div>\n    <div>\n         <h4>\n        \n        </h4>\n  </div>\n  </div>\n  \n      <p>\n        封面图片来源：Kamil Krzaczynski/AFP/Getty Images\n        <span>\n        \n        The Wall Street Journal Interactive Edition\n        </span>\n      </p>\n</div>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we kn",
+    "ai_summary": "特朗普攻击哈里斯的种族身份，声称不知道她是黑人。",
+    "ai_tags": [
+      "特朗普",
+      "哈里斯",
+      "种族身份"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "Meta人工智能投入飙升，数字广告收入增长",
+    "link": "https://cn.wsj.com/amp/articles/meta-platforms-q2-earnings-report-2024-12fe196e",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"566\" src=\"https://images.wsj.net/im-985050?width=860&amp;height=566\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>Meta的Reality Labs硬件部门是Quest VR头戴式设备的生产商，但该部门仍然处于亏损状态。</p>\n    <p> 图片来源：ronny hartmann/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n   ",
+    "ai_summary": "Meta加大人工智能投入，数字广告收入增长，但硬件部门仍亏损。",
+    "ai_tags": [
+      "Meta",
+      "人工智能",
+      "数字广告",
+      "亏损"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "哈立德·谢赫·穆罕默德和另两名911恐袭案被告同意认罪协议",
+    "link": "https://cn.wsj.com/amp/articles/khalid-sheikh-mohammed-and-two-other-9-11-defendants-agree-to-plea-deal-b0a38fbc",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"559\" src=\"https://images.wsj.net/im-986671?width=860&amp;height=559\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>2001年9月11日在恐怖袭击后的纽约世贸中心的废墟。</p>\n    <p> 图片来源：Alexandre Fuchs/Associated Press</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n   ",
+    "ai_summary": "911恐袭案主谋哈立德·谢赫·穆罕默德及另两名被告同意认罪协议。",
+    "ai_tags": [
+      "911恐袭",
+      "认罪协议",
+      "哈立德·谢赫·穆罕默德"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "阿里巴巴将推出AI采购引擎吸引海外商家",
+    "link": "https://cn.wsj.com/amp/articles/alibabato-debut-ai-sourcing-engine-to-draw-overseas-merchants-c797eec6",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"574\" src=\"https://images.wsj.net/im-849752?width=860&amp;height=574\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p> 图片来源：ALY SONG/REUTERS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we kno",
+    "ai_summary": "阿里巴巴将推出AI采购引擎，以吸引海外商家。",
+    "ai_tags": [
+      "阿里巴巴",
+      "AI",
+      "采购引擎",
+      "海外商家"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "阿克曼缩小筹资规模后撤回投资基金的IPO",
+    "link": "https://cn.wsj.com/amp/articles/%E9%98%BF%E5%85%8B%E6%9B%BC%E7%BC%A9%E5%B0%8F%E7%AD%B9%E8%B5%84%E8%A7%84%E6%A8%A1%E5%90%8E%E6%92%A4%E5%9B%9E%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91%E7%9A%84ipo-1681bc4e",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"467\" src=\"https://images.wsj.net/im-986546?width=700&amp;height=467\" width=\"700\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>比尔·阿克曼</p>\n    <p> 图片来源：Jeenah Moon/Bloomberg News</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         ",
+    "ai_summary": "阿克曼在缩小筹资规模后，撤回投资基金的IPO。",
+    "ai_tags": [
+      "阿克曼",
+      "IPO",
+      "撤回",
+      "筹资"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "wsj",
+    "title": "香港经济第二季度加速增长，但仍有疲软领域",
+    "link": "https://cn.wsj.com/amp/articles/hongkong-s-economic-growth-beats-expectations-but-weak-spots-remain-0b78ac02",
+    "published_time": "2024-08-01 00:33:02",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"574\" src=\"https://images.wsj.net/im-955623?width=860&amp;height=574\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p> 图片来源：CHAN LONG HEI/BLOOMBERG NEWS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually",
+    "ai_summary": "香港经济第二季度加速增长，但部分领域仍显疲软。",
+    "ai_tags": [
+      "香港经济",
+      "增长",
+      "疲软"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "wsj",
+    "title": "美联储为9月降息进一步打开大门",
+    "link": "https://cn.wsj.com/amp/articles/federal-reservice-interest-rate-decision-b152b467",
+    "published_time": "2024-07-31 23:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n      \n          <div>\n      <div>\n    <div>\n         <h4>\n        \n        </h4>\n  </div>\n  </div>\n  \n      <p>\n        封面图片来源：Al Drago/Bloomberg\n        <span>\n        \n        The Wall Street Journal Interactive Edition\n        </span>\n      </p>\n</div>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we know what this car",
+    "ai_summary": "美联储为9月降息进一步打开大门。",
+    "ai_tags": [
+      "美联储",
+      "降息",
+      "9月"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "wsj",
+    "title": "许多公司的AI支出都进了微软口袋",
+    "link": "https://cn.wsj.com/amp/articles/%E8%AE%B8%E5%A4%9A%E5%85%AC%E5%8F%B8%E7%9A%84ai%E6%94%AF%E5%87%BA%E9%83%BD%E8%BF%9B%E4%BA%86%E5%BE%AE%E8%BD%AF%E5%8F%A3%E8%A2%8B-ffad3c81",
+    "published_time": "2024-07-31 23:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"467\" src=\"https://images.wsj.net/im-985917?width=700&amp;height=467\" width=\"700\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>对于想要尝试AI技术的公司来说，微软的Copilot是一款很受欢迎的工具。</p>\n    <p> 图片来源：Gonzalo Fuentes/Reuters</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n  ",
+    "ai_summary": "许多公司的AI支出流向了微软，其Copilot工具受欢迎。",
+    "ai_tags": [
+      "AI支出",
+      "微软",
+      "Copilot"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "wsj",
+    "title": "香港经济第二季度加速增长，超出此前预期",
+    "link": "https://cn.wsj.com/amp/articles/-0b78ac02",
+    "published_time": "2024-07-31 14:33:03",
+    "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"574\" src=\"https://images.wsj.net/im-955623?width=860&amp;height=574\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p> 图片来源：CHAN LONG HEI/BLOOMBERG NEWS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually",
+    "ai_summary": "香港经济第二季度加速增长，超出预期。",
+    "ai_tags": [
+      "香港经济",
+      "增长",
+      "超预期"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "published_time": "2026-04-26 20:56:30",
+    "raw_content": "<p><a href=\"https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/\" rel=\"nofollow\">https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh...</a><p><a href=\"https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca\" rel=\"nofollow\">https://news.adidas.com/running/two-adidas-athletes-sabastia...</a></p>\n<hr />\n<p>Comments URL",
+    "ai_summary": "萨巴斯蒂安·萨维在2026年伦敦马拉松上成为首位在竞技比赛中跑进2小时的运动员，打破马拉松2小时大关。",
+    "ai_tags": [
+      "马拉松",
+      "纪录",
+      "体育"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hacker_news",
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "published_time": "2026-04-26 20:41:06",
+    "raw_content": "<p>Article URL: <a href=\"https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d\">https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914165\">https://news.ycombinator.com/item?id=47914165</a></p>\n<p>Points: 496</p>\n<p># Comments: 269</p>",
+    "ai_summary": "作者以3万美元收购了社交网站Friendster，并分享了其后续计划。",
+    "ai_tags": [
+      "收购",
+      "社交网络",
+      "Friendster"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "published_time": "2026-04-26 20:18:37",
+    "raw_content": "<p>Article URL: <a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913855\">https://news.ycombinator.com/item?id=47913855</a></p>\n<p>Points: 176</p>\n<p># Comments: 46</p>",
+    "ai_summary": "SentinelOne实验室揭露了名为Fast16的高精度软件破坏活动，比Stuxnet早5年，与ShadowBrokers有关。",
+    "ai_tags": [
+      "网络安全",
+      "恶意软件",
+      "Stuxnet"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "AI should elevate your thinking, not replace it",
+    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "published_time": "2026-04-26 20:03:12",
+    "raw_content": "<p>Article URL: <a href=\"https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/\">https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913650\">https://news.ycombinator.com/item?id=47913650</a></p>\n<p>Points: 316</p>\n<p># Comments: 263</p>",
+    "ai_summary": "文章主张AI应提升而非取代人类思考，强调人机协作的重要性。",
+    "ai_tags": [
+      "AI",
+      "思考",
+      "协作"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
+    "link": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
+    "published_time": "2026-04-26 18:34:31",
+    "raw_content": "<p>Article URL: <a href=\"https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo\">https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47912645\">https://news.ycombinator.com/item?id=47912645</a></p>\n<p>Points: 211</p>\n<p># Comments: 321</p>",
+    "ai_summary": "Waymo表示无法避免使用自行车道，因为乘客希望在此上下车，引发争议。",
+    "ai_tags": [
+      "自动驾驶",
+      "自行车道",
+      "Waymo"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Dillo Browser Release 3.3.0",
+    "link": "https://dillo-browser.org/release/3.3.0/",
+    "published_time": "2026-04-26 17:18:14",
+    "raw_content": "<p>Article URL: <a href=\"https://dillo-browser.org/release/3.3.0/\">https://dillo-browser.org/release/3.3.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911977\">https://news.ycombinator.com/item?id=47911977</a></p>\n<p>Points: 163</p>\n<p># Comments: 25</p>",
+    "ai_summary": "轻量级网页浏览器Dillo发布3.3.0版本，带来新功能和改进。",
+    "ai_tags": [
+      "浏览器",
+      "开源",
+      "Dillo"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+    "published_time": "2026-04-26 16:57:56",
+    "raw_content": "<p>Article URL: <a href=\"https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/\">https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911780\">https://news.ycombinator.com/item?id=47911780</a></p>\n<p>Points: 558</p>\n<p># Comments: 223</p>",
+    "ai_summary": "用户投诉GoDaddy在未提供任何文件的情况下将域名转移给陌生人，引发安全担忧。",
+    "ai_tags": [
+      "域名",
+      "安全",
+      "GoDaddy"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "published_time": "2026-04-26 16:27:29",
+    "raw_content": "<p>Article URL: <a href=\"https://twitter.com/lifeof_jer/status/2048103471019434248\">https://twitter.com/lifeof_jer/status/2048103471019434248</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911524\">https://news.ycombinator.com/item?id=47911524</a></p>\n<p>Points: 515</p>\n<p># Comments: 666</p>",
+    "ai_summary": "一个AI代理意外删除了生产数据库，并发布了“认罪”声明，引发对AI安全性的讨论。",
+    "ai_tags": [
+      "AI",
+      "事故",
+      "数据库"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hacker_news",
+    "title": "Clay PCB Tutorial",
+    "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+    "published_time": "2026-04-26 16:02:14",
+    "raw_content": "<p>Article URL: <a href=\"https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial\">https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911350\">https://news.ycombinator.com/item?id=47911350</a></p>\n<p>Points: 203</p>\n<p># Comments: 122</p>",
+    "ai_summary": "教程介绍如何使用粘土制作PCB电路板，提供了一种低成本的DIY方法。",
+    "ai_tags": [
+      "PCB",
+      "DIY",
+      "教程"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "Issue links now open in a popup",
+    "link": "https://github.com/orgs/community/discussions/192666",
+    "published_time": "2026-04-26 14:18:38",
+    "raw_content": "<p>Article URL: <a href=\"https://github.com/orgs/community/discussions/192666\">https://github.com/orgs/community/discussions/192666</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910546\">https://news.ycombinator.com/item?id=47910546</a></p>\n<p>Points: 233</p>\n<p># Comments: 124</p>",
+    "ai_summary": "GitHub更新了功能，现在问题链接会在弹出窗口中打开，改善用户体验。",
+    "ai_tags": [
+      "GitHub",
+      "更新",
+      "用户体验"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hacker_news",
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "published_time": "2026-04-26 13:58:13",
+    "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/\">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910388\">https://news.ycombinator.com/item?id=47910388</a></p>\n<p>Points: 261</p>\n<p># Comments: 148</p>",
+    "ai_summary": "OpenAI 宣布不再使用 SWE-bench Verified 评估前沿编码能力，认为该基准已无法有效衡量模型性能。",
+    "ai_tags": [
+      "AI",
+      "基准测试",
+      "OpenAI"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Asahi Linux Progress Linux 7.0",
+    "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+    "published_time": "2026-04-26 10:50:32",
+    "raw_content": "<p>Article URL: <a href=\"https://asahilinux.org/2026/04/progress-report-7-0/\">https://asahilinux.org/2026/04/progress-report-7-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47909226\">https://news.ycombinator.com/item?id=47909226</a></p>\n<p>Points: 598</p>\n<p># Comments: 297</p>",
+    "ai_summary": "Asahi Linux 发布 7.0 版本进度报告，展示在 Apple Silicon Mac 上运行 Linux 的最新进展。",
+    "ai_tags": [
+      "Linux",
+      "Apple Silicon",
+      "开源"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Statecharts: hierarchical state machines",
+    "link": "https://statecharts.dev/",
+    "published_time": "2026-04-26 09:32:22",
+    "raw_content": "<p>Article URL: <a href=\"https://statecharts.dev/\">https://statecharts.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908833\">https://news.ycombinator.com/item?id=47908833</a></p>\n<p>Points: 291</p>\n<p># Comments: 79</p>",
+    "ai_summary": "介绍状态图（Statecharts）作为分层状态机的概念，用于复杂系统建模。",
+    "ai_tags": [
+      "状态机",
+      "软件工程",
+      "设计模式"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "The West forgot how to make things, now it’s forgetting how to code",
+    "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+    "published_time": "2026-04-26 06:24:42",
+    "raw_content": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 1103</p>\n<p># Comments: 791</p>",
+    "ai_summary": "文章指出西方世界先失去了制造业能力，现在又面临编程能力衰退的危机。",
+    "ai_tags": [
+      "技术衰退",
+      "制造业",
+      "编程"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hacker_news",
+    "title": "EU Age Control: The trojan horse for digital IDs",
+    "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+    "published_time": "2026-04-26 03:44:28",
+    "raw_content": "<p><a href=\"https://web.archive.org/web/20260426040218/https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/\" rel=\"nofollow\">https://web.archive.org/web/20260426040218/https://juraj.bed...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907130\">https://news.ycombinator.com/item?id=47907130</a></p>\n<p>Points: 331</p>\n<p># Comments: 183</p>",
+    "ai_summary": "欧盟的年龄控制措施被视为数字身份系统的特洛伊木马，引发隐私担忧。",
+    "ai_tags": [
+      "隐私",
+      "数字身份",
+      "欧盟"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "GnuPG – post-quantum crypto landing in mainline",
+    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+    "published_time": "2026-04-26 03:25:02",
+    "raw_content": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907018\">https://news.ycombinator.com/item?id=47907018</a></p>\n<p>Points: 165</p>\n<p># Comments: 56</p>",
+    "ai_summary": "GnuPG 主分支合并了后量子密码学支持，增强未来抗量子攻击能力。",
+    "ai_tags": [
+      "加密",
+      "后量子",
+      "GnuPG"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+    "link": "https://news.ycombinator.com/item?id=47906253",
+    "published_time": "2026-04-26 00:50:56",
+    "raw_content": "<p>Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn't seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this",
+    "ai_summary": "用户反映 iPhone 每天自动安装 Headspace 应用，即使关闭自动下载，原因不明。",
+    "ai_tags": [
+      "iPhone",
+      "隐私",
+      "Bug"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hacker_news",
+    "title": "Why has there been so little progress on Alzheimer's disease?",
+    "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+    "published_time": "2026-04-26 00:12:47",
+    "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 408</p>\n<p># Comments: 288</p>",
+    "ai_summary": "Freakonomics 播客探讨阿尔茨海默病研究进展缓慢的原因，分析科研方向与资金问题。",
+    "ai_tags": [
+      "医学",
+      "阿尔茨海默",
+      "科研"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hacker_news",
+    "title": "Trump fires NSF's oversight board",
+    "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+    "published_time": "2026-04-25 22:39:33",
+    "raw_content": "<p>Article URL: <a href=\"https://www.science.org/content/article/trump-fires-nsf-s-oversight-board\">https://www.science.org/content/article/trump-fires-nsf-s-oversight-board</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905283\">https://news.ycombinator.com/item?id=47905283</a></p>\n<p>Points: 500</p>\n<p># Comments: 302</p>",
+    "ai_summary": "特朗普解雇了美国国家科学基金会（NSF）的监督委员会，引发科学界争议。",
+    "ai_tags": [
+      "政治",
+      "科学",
+      "NSF"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hacker_news",
+    "title": "USB Cheat Sheet (2022)",
+    "link": "https://fabiensanglard.net/usbcheat/index.html",
+    "published_time": "2026-04-25 21:51:18",
+    "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 489</p>\n<p># Comments: 83</p>",
+    "ai_summary": "Fabien Sanglard 发布 USB 速查表，涵盖 USB 协议、版本和引脚定义等实用信息。",
+    "ai_tags": [
+      "USB",
+      "技术参考",
+      "硬件"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "link": "https://huggingface.co/blog/deepseekv4",
+    "published_time": "2026-04-24 00:00:00",
+    "raw_content": "",
+    "ai_summary": "DeepSeek-V4 支持百万级 token 上下文，使 AI 代理能够有效利用长文本。",
+    "ai_tags": [
+      "DeepSeek",
+      "长上下文",
+      "AI代理"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "published_time": "2026-04-23 00:00:00",
+    "raw_content": "",
+    "ai_summary": "介绍如何在 Chrome 扩展中使用 Transformers.js 进行本地 AI 推理。",
+    "ai_tags": [
+      "Transformers.js",
+      "Chrome扩展",
+      "本地推理"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "link": "https://huggingface.co/blog/nvidia/gemma4",
+    "published_time": "2026-04-22 15:40:50",
+    "raw_content": "",
+    "ai_summary": "在 Jetson Orin Nano Super 上演示 Gemma 4 VLA 模型，展示边缘设备上的视觉-语言-动作能力。",
+    "ai_tags": [
+      "Gemma 4",
+      "VLA",
+      "Jetson",
+      "边缘AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "published_time": "2026-04-21 10:09:58",
+    "raw_content": "",
+    "ai_summary": "QIMMA 是一个质量优先的阿拉伯语大模型排行榜，旨在推动阿拉伯语 AI 发展。",
+    "ai_tags": [
+      "阿拉伯语",
+      "LLM排行榜",
+      "质量优先"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "link": "https://huggingface.co/blog/cybersecurity-openness",
+    "published_time": "2026-04-21 00:00:00",
+    "raw_content": "",
+    "ai_summary": "探讨 AI 在网络安全中的未来，强调开放性和协作的重要性。",
+    "ai_tags": [
+      "AI",
+      "网络安全",
+      "开放性"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "link": "https://huggingface.co/blog/ecom-rlve",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Ecom-RLVE 为电商对话代理提供自适应可验证环境，提升交互可靠性。",
+    "ai_tags": [
+      "电商",
+      "对话代理",
+      "强化学习",
+      "可验证环境"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "The PR you would have opened yourself",
+    "link": "https://huggingface.co/blog/transformers-to-mlx",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "介绍一个工具，可自动将 Transformers 模型转换为 MLX 格式，简化 Apple Silicon 上的部署。",
+    "ai_tags": [
+      "模型转换",
+      "MLX",
+      "Transformers"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hugging_face",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "published_time": "2026-04-16 00:00:00",
+    "raw_content": "",
+    "ai_summary": "使用 Sentence Transformers 训练和微调多模态嵌入与重排序模型。",
+    "ai_tags": [
+      "多模态",
+      "嵌入",
+      "重排序",
+      "Sentence Transformers"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "published_time": "2026-04-15 12:07:25",
+    "raw_content": "",
+    "ai_summary": "分析 VAKRA 基准测试，揭示 AI 代理在推理、工具使用和失败模式方面的表现。",
+    "ai_tags": [
+      "VAKRA",
+      "AI代理",
+      "推理",
+      "工具使用",
+      "失败模式"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "link": "https://huggingface.co/blog/Hcompany/holotab",
+    "published_time": "2026-04-15 09:25:20",
+    "raw_content": "",
+    "ai_summary": "HoloTab 是 HCompany 推出的 AI 浏览器助手，提供智能浏览体验。",
+    "ai_tags": [
+      "HoloTab",
+      "AI助手",
+      "浏览器"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "hugging_face",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "link": "https://huggingface.co/blog/waypoint-1-5",
+    "published_time": "2026-04-09 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Waypoint-1.5 发布，旨在普通GPU上实现更高保真度的交互式世界。",
+    "ai_tags": [
+      "3D",
+      "交互",
+      "GPU"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "published_time": "2026-04-09 00:00:00",
+    "raw_content": "",
+    "ai_summary": "介绍使用Sentence Transformers的多模态嵌入与重排序模型。",
+    "ai_tags": [
+      "多模态",
+      "嵌入",
+      "重排序"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "published_time": "2026-04-08 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Safetensors 加入 PyTorch 基金会，增强安全张量存储。",
+    "ai_tags": [
+      "安全",
+      "PyTorch",
+      "基金会"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "link": "https://huggingface.co/blog/gemma4",
+    "published_time": "2026-04-02 00:00:00",
+    "raw_content": "",
+    "ai_summary": "欢迎 Gemma 4：设备端前沿多模态智能模型。",
+    "ai_tags": [
+      "多模态",
+      "设备端",
+      "AI"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hugging_face",
+    "title": "Falcon Perception",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "published_time": "2026-04-01 07:13:20",
+    "raw_content": "",
+    "ai_summary": "Falcon Perception 发布，专注于感知任务。",
+    "ai_tags": [
+      "感知",
+      "Falcon"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "hugging_face",
+    "title": "Any Custom Frontend with Gradio's Backend",
+    "link": "https://huggingface.co/blog/introducing-gradio-server",
+    "published_time": "2026-04-01 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Gradio 后端支持任意自定义前端，提升灵活性。",
+    "ai_tags": [
+      "Gradio",
+      "前端",
+      "后端"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "published_time": "2026-03-31 15:10:41",
+    "raw_content": "",
+    "ai_summary": "Granite 4.0 3B Vision：面向企业文档的紧凑多模态智能模型。",
+    "ai_tags": [
+      "企业",
+      "文档",
+      "多模态",
+      "视觉"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+    "published_time": "2026-03-31 08:23:44",
+    "raw_content": "",
+    "ai_summary": "仅需165美元即可训练涵盖25个物种的mRNA语言模型。",
+    "ai_tags": [
+      "mRNA",
+      "语言模型",
+      "低成本"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "hugging_face",
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "link": "https://huggingface.co/blog/trl-v1",
+    "published_time": "2026-03-31 00:00:00",
+    "raw_content": "",
+    "ai_summary": "TRL v1.0 发布：随领域发展的后训练库。",
+    "ai_tags": [
+      "TRL",
+      "后训练",
+      "库"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "hugging_face",
+    "title": "Liberate your OpenClaw",
+    "link": "https://huggingface.co/blog/liberate-your-openclaw",
+    "published_time": "2026-03-27 00:00:00",
+    "raw_content": "",
+    "ai_summary": "Liberate your OpenClaw：释放OpenClaw的潜力。",
+    "ai_tags": [
+      "OpenClaw",
+      "开源"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "google_ai",
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "published_time": "2026-04-24 19:00:00",
+    "raw_content": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+    "ai_summary": "谷歌Gemini提供8个整理空间和生活的技巧，包括使用Gemini Live激活功能。",
+    "ai_tags": [
+      "Gemini",
+      "生活技巧",
+      "谷歌"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "published_time": "2026-04-23 12:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+    "ai_summary": "谷歌TPU如何支持日益增长的AI工作负载，通过新视频进行介绍。",
+    "ai_tags": [
+      "TPU",
+      "AI",
+      "谷歌云"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+    "published_time": "2026-04-23 09:00:00",
+    "raw_content": "Aerial image of the data center",
+    "ai_summary": "谷歌在奥地利阿尔卑斯山投资首个数据中心，提升基础设施。",
+    "ai_tags": [
+      "数据中心",
+      "奥地利",
+      "谷歌"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+    "published_time": "2026-04-22 12:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+    "ai_summary": "谷歌推出两款专用TPU（第八代），为智能体时代提供动力。",
+    "ai_tags": [
+      "TPU",
+      "AI芯片",
+      "谷歌云"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "google_ai",
+    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+    "published_time": "2026-04-21 14:30:00",
+    "raw_content": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+    "ai_summary": "谷歌Ads Advisor新增三项功能，使Google Ads更安全、更快速。",
+    "ai_tags": [
+      "Google Ads",
+      "广告安全",
+      "AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "published_time": "2026-04-17 14:00:00",
+    "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+    "ai_summary": "谷歌提供7种夏季智能旅行方式，借助搜索和AI工具。",
+    "ai_tags": [
+      "旅行",
+      "谷歌搜索",
+      "AI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "published_time": "2026-04-16 17:00:00",
+    "raw_content": "AI Mode in Chrome",
+    "ai_summary": "Chrome浏览器推出AI模式，提供新的网页探索方式。",
+    "ai_tags": [
+      "Chrome",
+      "AI模式",
+      "浏览"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "New ways to create personalized images in the Gemini app",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "published_time": "2026-04-16 16:00:00",
+    "raw_content": "Example images made with Personal Intelligence",
+    "ai_summary": "Gemini应用新增个性化图像创建功能，利用个人智能。",
+    "ai_tags": [
+      "Gemini",
+      "图像生成",
+      "个性化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "published_time": "2026-04-15 15:00:00",
+    "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+    "ai_summary": "谷歌发布Gemini 3.1 Flash TTS，下一代表达性AI语音技术。",
+    "ai_tags": [
+      "TTS",
+      "语音合成",
+      "Gemini"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "published_time": "2026-04-14 17:00:00",
+    "raw_content": "Video showing Skills in Chrome",
+    "ai_summary": "Chrome中可将最佳AI提示转化为一键工具，提升效率。",
+    "ai_tags": [
+      "Chrome",
+      "AI提示",
+      "工具"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Bringing people together at AI for the Economy Forum",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+    "published_time": "2026-04-14 09:00:00",
+    "raw_content": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+    "ai_summary": "谷歌与MIT未来科技举办AI经济论坛，聚焦新时代的创新与适应。",
+    "ai_tags": [
+      "AI",
+      "经济",
+      "论坛"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "published_time": "2026-04-02 16:00:00",
+    "raw_content": "Gemini API Dials",
+    "ai_summary": "Gemini API推出新功能，帮助在成本和可靠性之间取得平衡。",
+    "ai_tags": [
+      "Gemini",
+      "API",
+      "成本",
+      "可靠性"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "published_time": "2026-04-02 16:00:00",
+    "raw_content": "Google Vids logo surrounded by various video editing UI",
+    "ai_summary": "Google Vids提供免费视频创建、编辑和分享功能。",
+    "ai_tags": [
+      "Google Vids",
+      "视频编辑",
+      "免费"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+    "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+    "published_time": "2026-04-01 13:30:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+    "ai_summary": "谷歌与巴西政府合作，利用卫星图像地图保护巴西森林。",
+    "ai_tags": [
+      "卫星图像",
+      "森林保护",
+      "巴西"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "google_ai",
+    "title": "The latest AI news we announced in March 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "published_time": "2026-04-01 13:00:00",
+    "raw_content": "March 2026 AI Recap showing new updates",
+    "ai_summary": "2026年3月谷歌AI新闻汇总，展示最新更新。",
+    "ai_tags": [
+      "AI",
+      "新闻",
+      "更新"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "google_ai",
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+    "published_time": "2026-03-31 16:00:00",
+    "raw_content": "Build with Veo 3.1 Lite",
+    "ai_summary": "推出Veo 3.1 Lite，最具成本效益的视频生成模型。",
+    "ai_tags": [
+      "Veo",
+      "视频生成",
+      "成本效益"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+    "published_time": "2026-03-26 17:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+    "ai_summary": "James Manyika与LL COOL J对话，探讨AI与创造力。",
+    "ai_tags": [
+      "AI",
+      "创造力",
+      "对话"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "google_ai",
+    "title": "Transform your headphones into a live personal translator on iOS.",
+    "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+    "published_time": "2026-03-26 16:00:00",
+    "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+    "ai_summary": "Google翻译在iOS上推出耳机实时翻译功能，并扩展至更多国家。",
+    "ai_tags": [
+      "Google翻译",
+      "实时翻译",
+      "iOS"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "published_time": "2026-03-26 15:21:00",
+    "raw_content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+    "ai_summary": "Gemini 3.1 Flash Live发布，使音频AI更自然可靠。",
+    "ai_tags": [
+      "Gemini",
+      "音频AI",
+      "自然",
+      "可靠"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "google_ai",
+    "title": "Search Live is expanding globally",
+    "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+    "published_time": "2026-03-26 15:00:00",
+    "raw_content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+    "ai_summary": "Search Live功能全球扩展，支持通过摄像头识别物体。",
+    "ai_tags": [
+      "Search Live",
+      "全球扩展",
+      "视觉搜索"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "智能体工程的隐性技术债务",
+    "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
+    "published_time": "2026-04-27 03:02:04",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
+    "ai_summary": "文章探讨了智能体工程中的隐性技术债务，指出在本地构建智能体容易，但投入生产后可能面临数据、后果和工程化挑战。",
+    "ai_tags": [
+      "智能体",
+      "技术债务",
+      "工程化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
+    "link": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW",
+    "published_time": "2026-04-27 02:43:39",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d5/f3/d5ccdbf9204fdeb7479e8bc2e18aacf3.jpg\" /></p><p>2026 年 4 月 23 日，OpenAI 做了两件事：发布了 GPT-5.5，并把价格翻了一倍。</p><p>&nbsp;</p><p>按常理，这应该是属于 OpenAI 的一天。全新预训练架构“Spud”的首个公开版本，SOTA 级的基准测试成绩，SemiAnalysis 在第一时间给出了“GPT-5.5 已经抵达前沿”的评价。但翻看定价页面，开发者很难不算账：每百万输出 token 收费 30 美元，比前代 GPT-5.4 贵了一倍，甚至比一贯以昂贵著称的 Claude Opus 4.7 还要贵出一截。</p><p>&nbsp;</p><p>而仅仅过了不到一天，4 月 24 日，DeepSeek 把 V4 的模型权重扔到了 HuggingFace 上。MIT 开源协议，100 万 token 上下文窗口，以及一个极其低廉的价格：输出 token 每百万 3.48 美",
+    "ai_summary": "OpenAI发布GPT-5.5并提价，DeepSeek随即开源V4模型，价格更低且性能更好，引发开发者关注。",
+    "ai_tags": [
+      "OpenAI",
+      "DeepSeek",
+      "模型对比",
+      "价格"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "infoq",
+    "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
+    "link": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1",
+    "published_time": "2026-04-27 02:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/2c/225cf1c81c21c57e6e70e57be79c7b2c.jpg\" /></p><p>我得跟你们说句实话。六个月前，我还是 <a href=\"https://graphql.org/learn/federation/\">GraphQL Federation</a>\" 的布道者。我们花了六个月的时间，利用 <a href=\"https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation\">Apollo</a>\" 构建了一个联邦图，其中包含模式拼接、网关配置，以及一套复杂的 CI/CD 管道（每次提交都会重新生成类型）。纸上谈兵时，这套方案看起来很完美。但在生产环境中呢？每次部署都像是要发生一场灾难。</p><p>&nbsp;</p><p>转折点发生在周五下午的一次例行部署中。我们的产品团队更新了某项服务中的一个字段类型，模式重新生成成功，测试通过，于是我",
+    "ai_summary": "作者从GraphQL Federation转向tRPC，认为tRPC在生产环境中更稳定，部署更简单，避免了联邦图的复杂性。",
+    "ai_tags": [
+      "tRPC",
+      "GraphQL",
+      "API",
+      "TypeScript"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构",
+    "link": "https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p",
+    "published_time": "2026-04-27 02:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/8f/22e46c84e27507ee06763cda9c6f6d8f.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>阿里云智能集团高级技术专家刘少伟已确认出席 “<a href=\"ht",
+    "ai_summary": "阿里云高级技术专家刘少伟将出席AICon上海站，分享企业Agent自动化行动架构的构建经验。",
+    "ai_tags": [
+      "阿里云",
+      "Agent",
+      "AICon",
+      "自动化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
+    "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi",
+    "published_time": "2026-04-26 02:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b4/de/b49a39374f474a853bfedd8eb69050de.jpg\" /></p><p>Anthropic为<a href=\"https://claude.com/product/claude-code\">Claude Code</a>\"推出了新的<a href=\"https://claude.com/blog/code-review\">Code Review</a>\"功能，新增了一个基于智能体的拉取请求（pull request）审查系统，可由多个AI审查器协同分析代码变更。该功能目前以研究预览形式向Team和Enterprise用户开放。</p><p>&nbsp;</p><p>该系统会在拉取请求创建后自动运行，并调度多个智能体并行检查变更。Anthropic表示，这些智能体会查找潜在的缺陷，并验证其发现以降低误报，按严重程度对问题排序，随后在拉取请求中发布汇总审查意见和行内评论。</p><p>&nbsp;</p><p>Anthropic称，分配的智能体数量",
+    "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，支持多AI审查器并行分析PR，降低误报并排序问题。",
+    "ai_tags": [
+      "Anthropic",
+      "Claude Code",
+      "代码审查",
+      "AI"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
+    "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO",
+    "published_time": "2026-04-25 13:04:45",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/77/2e/7740c8f0711c741e149bf2b5efdb2a2e.png\" /></p><p></p><p>整理｜华卫</p><p></p><p>4月24日，斑马智能在北京车展上发布车载Agent短剧产品“元神小剧”，并宣布该产品将登陆智能座舱，首发落地在比亚迪旗下新能源车型。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/db/db1a07cf698099aa68fd73bcd8ca72cc.png\" /></p><p></p><p>&nbsp;现场，比亚迪生态负责人王晨被聘任为“元神小剧首席体验官”，并围绕新能源汽车使用场景与内容消费节奏进行了分享。王晨表示，在充电效率持续提升的背景下，比亚迪已实现“5分钟充好，9分钟充饱，零下30度再多3分钟”。而这9分钟的碎片时间，恰好与短剧观看节奏完美契合，在斑马智能座舱内，用户利用充电时间可以刚好看完3集元神小剧，充电不再是出行的中断，而是沉浸式体",
+    "ai_summary": "斑马智能在北京车展发布车载Agent短剧产品“元神小剧”，首发落地比亚迪车型，利用充电碎片时间观看。",
+    "ai_tags": [
+      "斑马智能",
+      "车载Agent",
+      "短剧",
+      "比亚迪"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+    "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9",
+    "published_time": "2026-04-25 08:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c7/yy/c798b24343a329a80f980a7369abfayy.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>请勿仅限于查询数据——让数据主动为你服务。本文提供一份实用指南，剖析一个简洁的 Snowflake 智能体架构设计，并通过逐步的代码实现，帮助你构建出第一个自治数据助手。</p><p></p><h3>前言</h3><p></p><p></p><p>多年来，构建智能数据系统往往意味着编写数以百计的模型、数据流水线、存储过程以及编排脚本。面对每一个新的业务问题，都需要开发新的转换逻辑、新的仪表盘或新的工作流。即使基于现代数据平台，开发模式本质上仍未改变：人工定义每一个步骤，",
+    "ai_summary": "文章介绍如何将Snowflake作为智能体运行时，构建自治数据助手，从静态管道迈向自主数据系统。",
+    "ai_tags": [
+      "Snowflake",
+      "智能体",
+      "数据系统",
+      "自治"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
+    "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g",
+    "published_time": "2026-04-25 06:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/fe/e5/fee173ae91702225580e11dcea8eyye5.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>Cortex Code 技能如何将 Snowflake 本体架构转变为可复用的对话式工作流——在单次会话中，从任意关系型模式生成完整的五层技术栈。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7c/7c12c3ad5f4780c4ae4e07cb0c27f67c.png\" /></p><p></p><h2>从概念到对话</h2><p></p><p></p><p>今年早些时候，我发表了一个由三部分",
+    "ai_summary": "本文展示如何利用Snowflake Cortex Code技能将本体架构转化为可复用的对话式工作流，从模式生成完整技术栈。",
+    "ai_tags": [
+      "Snowflake",
+      "本体",
+      "Cortex Code",
+      "工作流"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
+    "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh",
+    "published_time": "2026-04-25 02:00:00",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Cloudflare <a href=\"https://blog.cloudflare.com/enterprise-mcp/\">概要介绍</a>\"了一种参考架构，用于在企业范围内扩展 Model Context Protocol（MCP）部署，并将集中式治理、远程服务器基础设施和成本控制视为生产就绪型代理系统的关键要求。</p><p>&nbsp;</p><p>该公告发布之际，基于 MCP 的系统正面临着日益严格的审查。近期有研究<a href=\"https://www.veeam.com/blog/model-context-protocol-security-risks.html\">指出</a>\"，此类系统存在即时注入、供应链攻击以及服务器暴露或配置错误等风险，部分研究还证实，在 MCP 集成环境中存在任意代码执行和数据外泄的问题。</p><p>&nbsp;</p><p",
+    "ai_summary": "Cloudflare提出企业级MCP参考架构，强调集中治理、远程服务器和成本控制，以应对安全与治理风险。",
+    "ai_tags": [
+      "Cloudflare",
+      "MCP",
+      "安全",
+      "治理"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+    "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2",
+    "published_time": "2026-04-24 11:18:13",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png\" /></p><p>作者 &nbsp;| 文朋</p><p></p><p>项目管理始终是企业提升生产效率的重要抓手。</p><p></p><p>但长期以来，大多数项目管理工具解决的，更多只是记录、同步与协同层面的表层问题：把需求记下来，把任务挂上去，把流程放进系统里。</p><p></p><p>一旦进入真实业务深水区，排期是否合理、依赖是否清晰、风险能否提前暴露，仍然高度依赖人的经验去判断、协调和补位。这也带来一个尴尬的现实：尽管工具迭代多年，企业项目交付效率始终没有实现质变。</p><p></p><p>随着 AI 浪潮到来，越来越多企业开始尝试把 AI 引入项目管理，用于写总结、做分析、辅助排期等单点提效。但如果 AI 与项目工具之间仍只是“外部协作”关系，停留在流程之外，就很难触及项目管理最核心的执行链路。</p><p></p><p>正如飞书项目负责人洪涛在飞书项目生态日上所说，未来的工作",
+    "ai_summary": "飞书项目通过开放架构实现AI友好，将AI融入项目管理核心执行链路，提升交付效率。",
+    "ai_tags": [
+      "飞书项目",
+      "AI",
+      "项目管理",
+      "开放"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
+    "link": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd",
+    "published_time": "2026-04-24 10:51:20",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/6c/2d/6ce2fc07b456046a60327907cabe7a2d.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><h2>为何AI辅助开发需要遵循SDLC的严谨性</h2><p></p><p></p><p>SDLC（软件开发生命周期）是一套将需求转化为可运行软件的结构化流程，涵盖需求收集、方案设计、编码实施、测试及部署等环节。正是这套严谨的规范，防止大型项目因自身复杂性而走向崩溃。</p><p></p><p><a href=\"https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code-cli\">Snowflake Co",
+    "ai_summary": "Snowflake Cortex Code 将SDLC方法论引入AI辅助工作流，强调在AI开发中遵循软件开发生命周期的严谨性，防止项目因复杂性崩溃。",
+    "ai_tags": [
+      "Snowflake",
+      "SDLC",
+      "AI辅助开发"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+    "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T",
+    "published_time": "2026-04-24 10:48:28",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/e3/4a/e349c6aaa6b93161c79b7e93d4cfd64a.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！ </p><p></p><p>在企业数据版图内，生成式人工智能的演进已超越简单的聊天界面，迈入自主编排的领域。对金融机构而言，这项技术的前景在于弥合一个历史性鸿沟：一端是高度结构化的交易数据（如总账分录），另一端是非结构化文档的庞大存储库（如监管手册和ERP系统指南）。Snowflake Cortex 智能体代表了这一范式的根本转变，它提供了一个托管框架，用于构建不仅能检索数据、还能规划复杂任务、执行专用工具，并以高精度和可验证的引用综合生成洞察的智能助手。</p><p></p><p>Cortex",
+    "ai_summary": "Snowflake Cortex Agents实现结构化与非结构化数据的统一分析，为金融机构提供自主编排的智能助手，弥合交易数据与文档之间的鸿沟。",
+    "ai_tags": [
+      "Snowflake",
+      "金融智能",
+      "数据统一分析"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+    "link": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N",
+    "published_time": "2026-04-24 10:46:43",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a5/25/a5c7a38cca54cba1fd0804f19c49c225.png\" /></p><p></p><blockquote>GitHub 暂停 Copilot 新用户注册并收紧限制：“长时间运行、并行执行的工作流……已经对我们的基础设施和定价结构构成挑战”。</blockquote><p></p><p>&nbsp;</p><p>GitHub 宣布将暂停 Copilot 个人订阅计划的新注册，同时对现有用户施加更严格的使用限制。这一调整意味着，这款全球使用最广泛的 AI 编程工具之一，正在承受越来越大的系统压力。</p><p>&nbsp;</p><p>这家隶属于 Microsoft 的公司，已经从原本基于请求次数的限制体系，转向对“会话”和“每周 token 使用量”分别进行独立限制。GitHub 同时建议用户，在处理简单任务时选择“倍率更低”的模型，并尽量分散请求时间，以减轻系统压力。</p><p>&nbsp;</p><p></p><p><img src=\"htt",
+    "ai_summary": "GitHub暂停Copilot新用户注册并收紧限制，因长时间运行和并行执行的工作流对基础设施和定价结构构成挑战，转向会话和token使用量限制。",
+    "ai_tags": [
+      "GitHub",
+      "Copilot",
+      "使用限制"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+    "link": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf",
+    "published_time": "2026-04-24 10:39:14",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/34/bc/34201f39c0f59290cbd26eb897d49dbc.jpg\" /></p><p>在金融行业，引入一项新技术从来不是一场“军备竞赛”，而是一场严苛的“压力测试”。当AI编程工具以惊人的提效速度席卷整个软件行业，许多互联网公司和小型团队迅速将“代码行数”和“Token消耗”挂上绩效考核，甚至直接与裁员挂钩时，神州信息这家深耕银行核心软件系统的金融科技企业，却选择了一条截然不同的路。</p><p>&nbsp;</p><p>它没有盲目跟风，而是先回到了一个根本问题：我们到底该不该用AI？ 从2025年初开始，神州信息展开了一场长达数月的系统性验证。他们不满足于“代码生成快不快”，而是用真实的金融项目需求做对比测试，从代码质量、任务拆解能力、存量工程匹配度，到开发规范与文档体系的兼容性，每一个维度都经过反复校验，直到确认AI生成的代码在缺陷密度和扫描覆盖度上与人工开发“基本持平”，才谨慎地迈出推广的第一步。</p><p>&nbsp;</p><p>更关键的是，当外",
+    "ai_summary": "神州信息在金融行业谨慎引入AI编程工具，通过系统性验证确保代码质量与人工开发持平后才推广，强调技术引入需经过严格压力测试。",
+    "ai_tags": [
+      "神州信息",
+      "金融科技",
+      "AI编程"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
+    "link": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP",
+    "published_time": "2026-04-24 10:34:59",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b5/13/b524629c0a316197cd35yyacbfb39c13.png\" /></p><p>当你的公司开始记录你敲了哪个键、鼠标点了哪里，甚至不定期截下你的屏幕，你会怎么想？</p><p>&nbsp;</p><p>这正在 Meta 发生。据 Business Insider 获取的内部公告，Meta 已向美国员工下发通知，将在办公电脑上启用一款名为 Model Capability Initiative（MCI）的追踪软件，用于记录鼠标移动、点击以及键盘输入，然后把这些数据直接喂给公司的人工智能模型当训练素材。</p><p>&nbsp;</p><p>随后，一位 AI 研究科学家把这则备忘录转发到了自己团队的内部频道——Meta SuperIntelligence Labs，让同事们一起围观。</p><p>&nbsp;</p><p>备忘录解释称，这么做的目的是提升 AI 模型在那些至今还搞不定的人类操作上的能力，比如从下拉菜单中选择选项、使用键盘快捷键，以及在应用程",
+    "ai_summary": "Meta启用追踪软件记录员工鼠标移动、点击和键盘输入，用于训练AI模型，提升其在复杂人类操作上的能力，引发隐私担忧。",
+    "ai_tags": [
+      "Meta",
+      "员工监控",
+      "AI训练"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "Meta“Token榜”逼疯打工人，一夜烧掉公司几万刀！AI时代Token焦虑越来越离谱",
+    "link": "https://www.infoq.cn/article/GPGgiqtS9tCiHjNkUOOd",
+    "published_time": "2026-04-24 09:59:41",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9c/4c/9cfcfecb5a79e1602407067c0f6f584c.png\" /></p><p></p><h2>Meta 内部把烧 token 当成 KPI</h2><p></p><p>近日，据 The Information 报道，Meta 公司内部出现了一个名为“Claudeonomics”（这一名称源自 Anthropic 旗舰产品 Claude）的 AI token 消费排行榜，该排行榜由员工自愿在公司内网创建，追踪超过 8.5 万名员工的 token 使用情况。</p><p></p><p>根据该榜单，Meta 内部过去 30 天的消耗掉 token 总量超过 60 万亿。按照 Anthropic 最新公布的定价，其 Claude Opus 4.6 模型中输入和输出 token 的平均成本约为每百万 token 15 美元。以此估算，60 万亿 token 的成本约为 9 亿美元。不过 Meta 实际采用的是哪种模型以及其采购价格，我们尚不清楚。</p><p>",
+    "ai_summary": "Meta内部出现AI token消费排行榜，员工烧token成KPI，过去30天消耗超60万亿token，成本估算达9亿美元，引发Token焦虑。",
+    "ai_tags": [
+      "Meta",
+      "Token消耗",
+      "KPI"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
+    "link": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72",
+    "published_time": "2026-04-24 09:29:54",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a9/a3/a9b04434374a7debb54dc8448f652ba3.png\" /></p><p>今日，DeepSeek-V4-Pro 1.6T 旗舰模型(1.86万亿参数）及DeepSeek-V4-Flash 284B 高效模型（2840亿）正式发布。由智源研究院牵头研发的众智FlagOS第一时间对两个“巨无霸”模型进行全量适配，已经完成 DeepSeek-V4-Flash在8款以上AI 芯片上的全量适配与推理部署，包括海光、沐曦、华为昇腾、摩尔线程（FP8）、昆仑芯、平头哥真武、天数、英伟达（FP8）等芯片。FlagOS 同时正在推进 DeepSeek-V4-Pro 模型在多个芯片的迁移适配，后续即将开源。</p><p></p><p>首先完成在八款芯片适配的 DeepSeek-V4-Flash 采用混合专家（MoE）架构，总参数量 284B，激活参数仅 13B，支持 100 万 token上下文长度。该模型在架构上引入了混合注意力机制（结合压缩稀疏注意力CSA与高度",
+    "ai_summary": "智源FlagOS完成DeepSeek-V4-Flash在八款AI芯片的适配与推理部署，实现三重技术突破，并推进V4-Pro模型迁移。",
+    "ai_tags": [
+      "智源",
+      "DeepSeek",
+      "芯片适配"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "infoq",
+    "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+    "link": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
+    "published_time": "2026-04-24 09:23:41",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/6d/c4/6d2177ef613b5bffa7a80eb4d42bd4c4.png\" /></p><p>刚刚，DeepSeek 在官方公众号发文宣布，全新系列模型&nbsp;DeepSeek-V4&nbsp;的预览版本正式上线，并同步开源！</p><p>&nbsp;</p><p>DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先。</p><p>&nbsp;</p><p>秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前往体验和下载。</p><p>&nbsp;</p><p>模型按大小分为两个版本：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/58/586bca4f31256fe02c77c64b6723af87.webp\" /></p><p></p><p>DeepSeek-V4",
+    "ai_summary": "DeepSeek V4开源，拥有百万上下文，在Agent能力、世界知识和推理性能上领先，首次打通华为Ascend并支持英伟达。",
+    "ai_tags": [
+      "DeepSeek",
+      "开源",
+      "大模型"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "infoq",
+    "title": "李志飞的“新实验”：当超级个体撞上真实组织",
+    "link": "https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j",
+    "published_time": "2026-04-24 09:20:26",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2a/e8/2af7e286ee4f2f6622d7bf8c738fd5e8.png\" /></p><p>2025 年端午节假期，李志飞把自己关在房间里，每天从早上9点干到凌晨1点。他用Cursor手搓了一个“AI时代的飞书”，十几万行代码，一天烧掉300美元的Token。三天后产品跑起来了，他的腰也坏了。</p><p></p><p>他把这段经历搬到公司的小型发布会，语气里难掩兴奋：“我们从一个有想法、有工程能力、但没有执行能力的团队，变成了一个超级个体。”那段时间他四处分享，在公司里讲，在湖畔大学讲，在朋友圈里讲。</p><p></p><p>“超级个体“成了AI圈最具诱惑力的叙事。几乎每位从业者，都被“一人顶一个团队”、“一夜重构产品”的故事撩拨过。</p><p></p><p>但这份狂热，只持续了一两个月。很快，李志飞发现了一个吊诡的事实：他自己确实变强了，但出门问问作为一家公司，却依然原地踏步。员工还是按旧方式开会、提需求、做文档、等排期、催研发。</p><p></p><p",
+    "ai_summary": "李志飞通过AI工具成为超级个体，但出门问问公司整体未进步，揭示个人效率提升与组织变革之间的脱节。",
+    "ai_tags": [
+      "李志飞",
+      "超级个体",
+      "组织变革"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "infoq",
+    "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
+    "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP",
+    "published_time": "2026-04-24 09:17:42",
+    "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1e/f9/1ef823e34e0dc9yy55ced931e535baf9.png\" /></p><p>“Claude 变笨了。”</p><p></p><h2>Anthropic 正面回应模型“变笨”：三处优化导致的</h2><p></p><p>&nbsp;</p><p>过去一段时间，这个声音在Hacker News、Reddit 以及 X 上此起彼伏。尤其是在万众瞩目的 Opus 4.7 发布后，不少老用户反馈 Claude Code 变得健忘、重复且废话连篇。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/4b/4b713309126b82f927e695fe4827acd3.png\" /></p><p>&nbsp;</p><p>作为目前全球最强梯队的编程模型，Claude 的口碑滑坡让 Anthropic 压力倍增。</p><p>&nbsp;</p><p>所以今天一早，Claude C",
+    "ai_summary": "Anthropic承认Claude变笨，因三处优化导致，用户反馈模型变得健忘、重复，引发口碑滑坡。",
+    "ai_tags": [
+      "Anthropic",
+      "Claude",
+      "模型退化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "Create videos with HTML and JavaScript via HyperFrames",
+    "link": "https://javascriptweekly.com/issues/782",
+    "published_time": "2026-04-21 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​782 — April 21, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/184040/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "HyperFrames 允许通过 HTML 和 JavaScript 创建视频。",
+    "ai_tags": [
+      "JavaScript",
+      "视频",
+      "HyperFrames"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "MDN ditches React for web components in frontend rebuild",
+    "link": "https://javascriptweekly.com/issues/781",
+    "published_time": "2026-04-14 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​781 — April 14, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183753/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "MDN 在前端重构中放弃 React，改用 Web Components。",
+    "ai_tags": [
+      "MDN",
+      "React",
+      "Web Components"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "What to know about JavaScript in 2026",
+    "link": "https://javascriptweekly.com/issues/780",
+    "published_time": "2026-04-07 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​780 — April 7, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183301/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScript",
+    "ai_summary": "2026 年 JavaScript 开发者需要了解的关键趋势和变化。",
+    "ai_tags": [
+      "JavaScript",
+      "2026",
+      "趋势"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "javascript_weekly",
+    "title": "A new, major npm supply chain attack via Axios",
+    "link": "https://javascriptweekly.com/issues/779",
+    "published_time": "2026-03-31 00:00:00",
+    "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​779 — March 31, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183032/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
+    "ai_summary": "npm 供应链遭遇重大攻击，涉及 Axios 库。",
+    "ai_tags": [
+      "npm",
+      "供应链攻击",
+      "Axios"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.5",
+    "link": "https://blog.vuejs.org/posts/vue-3-5",
+    "published_time": "2024-09-01 00:00:00",
+    "raw_content": "<p>Today we are excited to announce the release of Vue 3.5 &quot;Tengen Toppa Gurren Lagann&quot;!</p>\n<p>This minor release contains no breaking changes and includes both internal improvements and useful new features. We will cover some highlights in this blog post - for a full list of changes and new features, please consult <a href=\"https://github.com/vuejs/core/blob/main/CHANGELOG.md\" rel=\"noreferrer\" target=\"_blank\">the full changelog on GitHub</a>.</p>",
+    "ai_summary": "Vue 3.5 发布，代号“天元突破”，包含内部改进和新功能，无破坏性变更。",
+    "ai_tags": [
+      "Vue",
+      "3.5",
+      "发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing VitePress 1.0",
+    "link": "https://blog.vuejs.org/posts/vitepress-1.0",
+    "published_time": "2024-03-21 00:00:00",
+    "raw_content": "<img alt=\"vitepress logo\" src=\"https://vitepress.dev/vitepress-logo-large.webp\" style=\"width: 256px; margin: 2em auto;\" />\n<p>Today we are happy to announce the (long overdue) 1.0 release of <a href=\"https://vitepress.dev/\" rel=\"noreferrer\" target=\"_blank\">VitePress</a>!</p>\n<p>VitePress is a Static Site Generator (SSG) designed for building fast, content-centric websites. In a nutshell, VitePress takes your source content written in Markdown, applies a theme to it, and generates static HTML pag",
+    "ai_summary": "VitePress 1.0 正式发布，是一个基于 Vite 的静态站点生成器。",
+    "ai_tags": [
+      "VitePress",
+      "1.0",
+      "SSG"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.4",
+    "link": "https://blog.vuejs.org/posts/vue-3-4",
+    "published_time": "2023-12-28 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.4 &quot;🏀 Slam Dunk&quot;!</p>\n<p>This release includes some substantial internal improvements - most notably a rewritten template parser that is 2x faster, and a refactored reactivity system that makes effect triggering more accurate and efficient. It also packs a number of quality-of-life API improvements, including the stabilization of <code>defineModel</code> and a new same-name shorthand when binding props.</p>\n<p>This post provides an",
+    "ai_summary": "Vue 3.4 发布，代号“灌篮高手”，模板解析器速度提升 2 倍，响应式系统优化。",
+    "ai_tags": [
+      "Vue",
+      "3.4",
+      "发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2 is Approaching End Of Life",
+    "link": "https://blog.vuejs.org/posts/vue-2-eol",
+    "published_time": "2023-12-15 00:00:00",
+    "raw_content": "<p>With 2024 almost upon us, we would like to take this opportunity to remind the Vue community that Vue 2 will reach End of Life (EOL) on December 31st, 2023.</p>\n<p>Vue 2.0 was released more than 7 years ago in 2016. It was a major milestone in Vue's journey of becoming a mainstream framework. Many current Vue users started using Vue during the Vue 2 era, and many great things have been built with it.</p>\n<p>However, active maintenance of two major versions in parallel isn't sustainable for us",
+    "ai_summary": "Vue 2 将于 2023 年 12 月 31 日停止维护，提醒用户升级。",
+    "ai_tags": [
+      "Vue",
+      "2",
+      "EOL"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.3",
+    "link": "https://blog.vuejs.org/posts/vue-3-3",
+    "published_time": "2023-05-11 00:00:00",
+    "raw_content": "<p>Today we're excited to announce the release of Vue 3.3 &quot;Rurouni Kenshin&quot;!</p>\n<p>This release is focused on developer experience improvements - in particular, SFC <code>&lt;script setup&gt;</code> usage with TypeScript. Together with the 1.6 release of <a href=\"https://github.com/vuejs/language-tools/\" rel=\"noreferrer\" target=\"_blank\">Vue Language Tools</a> (previously known as Volar), we have resolved many long-standing pain points when using Vue with TypeScript.</p>\n<p>This post p",
+    "ai_summary": "Vue 3.3 发布，代号“浪客剑心”，重点改进 TypeScript 和 SFC 开发体验。",
+    "ai_tags": [
+      "Vue",
+      "3.3",
+      "TypeScript"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Volar: a New Beginning",
+    "link": "https://blog.vuejs.org/posts/volar-a-new-beginning",
+    "published_time": "2023-02-08 00:00:00",
+    "raw_content": "<p>Most users of Volar know it as the official Vue.js VSCode extension. It started as a personal project when the official recommendation was still Vetur, and over time got adopted as the new official extension due to improved architecture and performance.</p>\n<p>As a project created to improve the quality of life for developers, we spent over two years before <a href=\"https://blog.vuejs.org/posts/volar-1.0.html\" rel=\"noreferrer\" target=\"_blank\">reaching 1.0</a>, and have been continuously shipp",
+    "ai_summary": "Volar 项目迎来新篇章，作为 Vue 官方 VSCode 扩展持续改进。",
+    "ai_tags": [
+      "Volar",
+      "Vue",
+      "VSCode"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "2022 Year In Review",
+    "link": "https://blog.vuejs.org/posts/2022-year-in-review",
+    "published_time": "2023-01-01 00:00:00",
+    "raw_content": "<p>Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023.</p>",
+    "ai_summary": "Vue社区回顾2022年并展望2023年。",
+    "ai_tags": [
+      "Vue",
+      "年度回顾"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "On Escape's Vue 2 to Svelte Migration",
+    "link": "https://blog.vuejs.org/posts/on-migration",
+    "published_time": "2022-12-05 00:00:00",
+    "raw_content": "<p>Recently, folks at Escape shared a <a href=\"https://escape.tech/blog/from-vue2-to-svelte/\" rel=\"noreferrer\" target=\"_blank\">blog post</a> talking about their migration from Vue 2 to Svelte, and compared Vue 3 with Svelte. We found that the article contained a number of inaccuracies. In this post, we will share some thoughts from our perspective and hope to clarify the potential misconceptions the post could give rise to.</p>",
+    "ai_summary": "针对Escape从Vue 2迁移到Svelte的文章，Vue团队指出其中不准确之处并澄清误解。",
+    "ai_tags": [
+      "Vue",
+      "Svelte",
+      "迁移"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Volar 1.0 \"Nika\" Released!",
+    "link": "https://blog.vuejs.org/posts/volar-1.0",
+    "published_time": "2022-10-10 00:00:00",
+    "raw_content": "<p>We are happy to announce that we have released v1.0 of Volar, the official IDE/TS tooling support for Vue! 🎉</p>\n<p>This major version ships with tons of improvements across the board. In addition to improving UX, performance, and package size, we also released Plugin API v1 and refactored the core code to be framework-agnostic.</p>\n<p>注：結尾附有中文版本 (There is Chinese version of this post at the end)。</p>",
+    "ai_summary": "Volar 1.0发布，带来大量改进，包括插件API v1和框架无关的核心重构。",
+    "ai_tags": [
+      "Volar",
+      "IDE工具",
+      "发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2.7 \"Naruto\" Released",
+    "link": "https://blog.vuejs.org/posts/vue-2-7-naruto",
+    "published_time": "2022-07-01 00:00:00",
+    "raw_content": "<p align=\"center\">\n  <img alt=\"naruto-vue-logo\" height=\"128px\" src=\"https://user-images.githubusercontent.com/499550/176823239-f59d75de-1d24-4b2d-b04b-fcc95db2903e.png\" width=\"300\" />\n</p>\n<p>Today we are happy to announce that Vue 2.7 &quot;Naruto&quot; has been released!</p>",
+    "ai_summary": "Vue 2.7 \"Naruto\"正式发布。",
+    "ai_tags": [
+      "Vue",
+      "发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 2.7 is Now in Beta",
+    "link": "https://blog.vuejs.org/posts/vue-2-7-beta",
+    "published_time": "2022-06-20 00:00:00",
+    "raw_content": "<p>We are happy to announce that Vue 2.7 is now in beta.</p>",
+    "ai_summary": "Vue 2.7进入Beta阶段。",
+    "ai_tags": [
+      "Vue",
+      "Beta"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 3 as the New Default",
+    "link": "https://blog.vuejs.org/posts/vue-3-as-the-new-default",
+    "published_time": "2022-01-20 00:00:00",
+    "raw_content": "<p>TL;DR: Vue 3 is now the new default version as of <strong>Monday, February 7, 2022</strong>!</p>\n<p>Make sure to read the <a href=\"https://blog.vuejs.org/posts/vue-3-as-the-new-default.html#potential-required-actions\">Potential Required Actions</a> section to see if you need to make certain changes before the switch to avoid breakage.</p>",
+    "ai_summary": "Vue 3自2022年2月7日起成为默认版本，提醒用户检查必要操作。",
+    "ai_tags": [
+      "Vue",
+      "默认版本"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "vue_blog",
+    "title": "Vue 3.2 Released!",
+    "link": "https://blog.vuejs.org/posts/vue-3-2",
+    "published_time": "2021-08-05 00:00:00",
+    "raw_content": "<p>We are excited to announce the release of Vue.js 3.2 &quot;Quintessential Quintuplets&quot;! This release includes many significant new features and performance improvements, and contains no breaking changes.</p>",
+    "ai_summary": "Vue 3.2发布，包含新特性和性能改进，无破坏性变更。",
+    "ai_tags": [
+      "Vue",
+      "发布"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "vue_blog",
+    "title": "Reflections for 2020-2021",
+    "link": "https://blog.vuejs.org/posts/hello-2021",
+    "published_time": "2021-01-11 00:00:00",
+    "raw_content": "<p>With a new year upon us, we also have a new blog! In this post, we would like to take a look back at some of the highlights from 2020, as well as some ideas we have for 2021.</p>",
+    "ai_summary": "Vue团队回顾2020年亮点并展望2021年。",
+    "ai_tags": [
+      "Vue",
+      "年度回顾"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "vue_blog",
+    "title": "Announcing Vue 3.0 \"One Piece\"",
+    "link": "https://blog.vuejs.org/posts/vue-3-one-piece",
+    "published_time": "2020-09-18 00:00:00",
+    "raw_content": "<p align=\"center\">\n  <img alt=\"one-piece-logo\" height=\"177px\" src=\"https://user-images.githubusercontent.com/499550/93624428-53932780-f9ae-11ea-8d16-af949e16a09f.png\" width=\"200\" />\n</p>\n<p>Today we are proud to announce the official release of Vue.js 3.0 &quot;One Piece&quot;. This new major version of the framework provides improved performance, smaller bundle sizes, better TypeScript integration, new APIs for tackling large scale use cases, and a solid foundation for long-term future iteratio",
+    "ai_summary": "Vue 3.0 \"One Piece\"正式发布，带来性能提升、更小体积、更好的TypeScript集成等。",
+    "ai_tags": [
+      "Vue",
+      "发布"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "cls",
+    "title": "三部门发文规范慈善组织募捐成本支出",
+    "link": "https://api3.cls.cn/share/article/2356435?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 04:04:11",
+    "raw_content": "【三部门发文规范慈善组织募捐成本支出】财联社4月27日电，民政部会同财政部、税务总局发布《关于慈善组织开展慈善活动年度支出、管理费用和募捐成本的规定》，明确慈善组织募捐成本定义，规定慈善组织的年度募捐成本不得高于前三年捐赠收入平均数的3%。规定自发布之日起施行。规定明确，慈善组织的募捐成本是指慈善组织基于慈善宗旨，在募集财产时发生的费用。规定要求，募捐活动中涉及本组织场地设备和工作人员的相关费用，不得计入募捐成本，明确慈善组织应当据实列支募捐成本。据介绍，设定募捐成本3%的上限，充分考虑了不同类型、不同规模慈善组织实际需要，遵循慈善法规定的募捐成本最必要原则，有利于引导慈善组织将所募资金更多用于受益人，充分、高效运用慈善财产。",
+    "ai_summary": "三部门发文规范慈善组织募捐成本，规定年度募捐成本不得高于前三年捐赠收入平均数的3%。",
+    "ai_tags": [
+      "慈善",
+      "募捐成本",
+      "政策"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "财联社4月27日午间新闻精选",
+    "link": "https://api3.cls.cn/share/article/2356434?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 04:01:45",
+    "raw_content": "【财联社4月27日午间新闻精选】\n1、截至午间收盘，沪指涨0.15%，深证成指涨0.52%，创业板指跌0.20%。恒生指数涨0.15%，恒生科技指数涨1.31%。\n2、国家统计局数据显示，1—3月份，全国规模以上工业企业实现利润总额16960.4亿元，同比增长15.5%。\n3、国家能源局在新闻发布会上介绍，将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务，健全完善氢能政策管理体系，持续深化技术产业创新，大力推动氢能高质量发展，有力支撑新型能源体系建设和未来产业培育。\n4、国家能源局数据显示，截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个，同比增长46.9%。\n5、据美国阿克西奥斯新闻网站26日报道，一名美国官员和两名知情人士表示，美国已收到伊朗通过巴基斯坦转交的谈判新方案。",
+    "ai_summary": "午间股市涨跌互现；1-3月规上工业企业利润同比增长15.5%；能源局将推动氢能产业发展；充电基础设施同比增长46.9%；美国收到伊朗通过巴基斯坦转交的谈判新方案。",
+    "ai_tags": [
+      "股市",
+      "经济数据",
+      "氢能",
+      "充电桩",
+      "伊朗谈判"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "财联社4月27日电，大和资本将特斯拉公司目标价从420美元下调至395美元。",
+    "link": "https://api3.cls.cn/share/article/2356432?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 04:01:29",
+    "raw_content": "财联社4月27日电，大和资本将特斯拉公司目标价从420美元下调至395美元。",
+    "ai_summary": "大和资本将特斯拉目标价从420美元下调至395美元。",
+    "ai_tags": [
+      "特斯拉",
+      "目标价下调"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "财联社4月27日电，港股午间收盘，恒生指数涨0.15%，恒生科技指数涨1.31%。",
+    "link": "https://api3.cls.cn/share/article/2356431?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 04:00:14",
+    "raw_content": "财联社4月27日电，港股午间收盘，恒生指数涨0.15%，恒生科技指数涨1.31%。",
+    "ai_summary": "港股午间收盘，恒生指数涨0.15%，恒生科技指数涨1.31%。",
+    "ai_tags": [
+      "港股",
+      "恒生指数",
+      "恒生科技指数"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "cls",
+    "title": "财联社4月27日电，SK海力士股价涨幅扩大至7%。",
+    "link": "https://api3.cls.cn/share/article/2356430?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:56:42",
+    "raw_content": "财联社4月27日电，SK海力士股价涨幅扩大至7%。",
+    "ai_summary": "SK海力士股价涨幅扩大至7%。",
+    "ai_tags": [
+      "SK海力士",
+      "股价上涨"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "cls",
+    "title": "扬杰科技：公司被列入欧盟制裁名单",
+    "link": "https://api3.cls.cn/share/article/2356429?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:56:22",
+    "raw_content": "【扬杰科技：公司被列入欧盟制裁名单】财联社4月27日电，扬杰科技4月27日午间公告，公司近日关注到，欧盟理事会于当地时间2026年4月23日通过第20轮对俄罗斯制裁方案。根据欧盟官方公布的文件，公司被列入欧盟制裁名单。公司主营功率半导体硅片、芯片及器件设计、制造、封装测试等，产品广泛应用于汽车电子、人工智能、清洁能源、5g通讯、智能安防、工业、消费类电子等民用场景。公司未参与任何军用产品的研发、设计与生产，未提供过任何军用规格产品。公司将积极应对，维护合法权益。",
+    "ai_summary": "扬杰科技被欧盟列入制裁名单，公司称未参与军用产品，将积极应对。",
+    "ai_tags": [
+      "扬杰科技",
+      "欧盟制裁",
+      "半导体"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "cls",
+    "title": "4月27日午间涨停分析",
+    "link": "https://api3.cls.cn/share/article/2356421?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:53:59",
+    "raw_content": "【4月27日午间涨停分析】财联社4月27日电，今日午盘全市场共56股涨停，连板股总数7只，9股封板未遂，封板率为86%（不含ST股、退市股）。焦点股方面，玻璃基板概念股沃格光电13天7板，电力股华电辽能11天6板，氦气概念股水发燃气6天5板。<br /><img src=\"https://image.cls.cn/images/20260427/ia1u4EL2o7_1000x16928.jpg\" /><img src=\"https://image.cls.cn/images/20260427/oY46JgBG01_1740x682.png\" />",
+    "ai_summary": "午盘全市场共56股涨停，连板股7只，封板率86%；沃格光电、华电辽能、水发燃气等表现强势。",
+    "ai_tags": [
+      "涨停分析",
+      "A股",
+      "连板股"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "离境退税 “即买即退” 实施一周年 退税人数及退税额快速增长",
+    "link": "https://api3.cls.cn/share/article/2356424?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:53:21",
+    "raw_content": "【离境退税 “即买即退” 实施一周年 退税人数及退税额快速增长】财联社4月27日电，为进一步提升境外旅客购物离境退税便利水平，优化境外旅客消费体验，2025年4月，我国在全国范围内全面推广离境退税“即买即退”服务措施。国家税务总局数据显示，离境退税“即买即退”措施实施一年来，全国办理人数同比增长12.96倍，退税销售额和退税额同比增长9.35倍，业务规模实现快速增长。",
+    "ai_summary": "离境退税“即买即退”实施一周年，办理人数同比增长12.96倍，退税额增长9.35倍。",
+    "ai_tags": [
+      "离境退税",
+      "即买即退",
+      "消费"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "伊朗官员：霍尔木兹通行费须以伊朗里亚尔结算",
+    "link": "https://api3.cls.cn/share/article/2356422?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:49:20",
+    "raw_content": "【伊朗官员：霍尔木兹通行费须以伊朗里亚尔结算】财联社4月27日电，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹在4月26日播出的采访中说，霍尔木兹海峡通行费必须以伊朗本国货币里亚尔结算，并且与以色列相关的船只和货物任何情况下都不允许通过。 (CCTV国际时讯)",
+    "ai_summary": "伊朗官员要求霍尔木兹海峡通行费以里亚尔结算，禁止与以色列相关的船只通过。",
+    "ai_tags": [
+      "伊朗",
+      "霍尔木兹海峡",
+      "地缘政治"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "财联社4月27日电，现货白银日内涨超1%，现报76.53美元/盎司。",
+    "link": "https://api3.cls.cn/share/article/2356420?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:47:00",
+    "raw_content": "财联社4月27日电，现货白银日内涨超1%，现报76.53美元/盎司。",
+    "ai_summary": "现货白银日内涨超1%，报76.53美元/盎司。",
+    "ai_tags": [
+      "白银",
+      "贵金属"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "cls",
+    "title": "国家能源局：将持续完善绿证价格形成机制 研究制定绿证价格指数并适时向社会公布",
+    "link": "https://api3.cls.cn/share/article/2356419?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:46:07",
+    "raw_content": "【国家能源局：将持续完善绿证价格形成机制 研究制定绿证价格指数并适时向社会公布】财联社4月27日电，国家能源局4月27日举行新闻发布会，国家能源局新能源司副司长潘慧敏表示，下一步，将重点开展以下工作：一是完善市场交易机制。持续完善绿证价格形成机制，研究制定绿证价格指数并适时向社会公布，稳定企业对绿证价格的预期。二是强化机制协同衔接。印发非化石能源电力消费核算指南，明确绿证纳入碳排放双控和碳排放核算的具体办法，让绿证成为行业企业降碳减排的基本核算工具。三是扩大绿证消费规模。建立可再生能源消费最低比重目标制度，引导更多重点用能行业发挥绿色电力消费“领头羊”作用。推广“绿车充绿电”、居民绿电零售套餐，营造全社会主动绿色消费良好氛围。四是构建认证机制和标准体系。",
+    "ai_summary": "国家能源局将完善绿证价格形成机制，研究制定绿证价格指数，扩大绿证消费规模。",
+    "ai_tags": [
+      "绿证",
+      "能源局",
+      "碳减排"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "国家能源局：一季度全国光伏累计发电量2759亿千瓦时 同比增长18.5%",
+    "link": "https://api3.cls.cn/share/article/2356412?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:43:31",
+    "raw_content": "【国家能源局：一季度全国光伏累计发电量2759亿千瓦时 同比增长18.5%】财联社4月27日电，国家能源局今日举行例行新闻发布会，国家能源局新能源司副司长潘慧敏介绍，今年一季度，全国光伏新增并网4119万千瓦，其中集中式光伏1962万千瓦，分布式光伏2157万千瓦。截至今年3月底，全国光伏发电装机容量达到12.4亿千瓦，同比增长31.2%，其中集中式光伏6.86亿千瓦，分布式光伏5.54亿千瓦。今年一季度，全国光伏累计发电量2759亿千瓦时，同比增长18.5%，全国光伏发电利用率90.6%。（财联社记者 郭松峤）",
+    "ai_summary": "国家能源局公布一季度光伏数据：新增并网4119万千瓦，累计装机12.4亿千瓦，发电量2759亿千瓦时，同比增长18.5%。",
+    "ai_tags": [
+      "光伏",
+      "能源",
+      "发电量"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "国家能源局：一季度全国风电累计发电量同比增长0.4%",
+    "link": "https://api3.cls.cn/share/article/2356411?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:43:13",
+    "raw_content": "【国家能源局：一季度全国风电累计发电量同比增长0.4%】财联社4月27日电，国家能源局新能源司副司长潘慧敏今日在发布会上介绍，今年一季度，全国风电新增并网容量1577万千瓦，其中陆上风电1555万千瓦，海上风电21万千瓦。从新增装机分布看，“三北”地区占全国风电新增装机的75%。截至今年3月底，全国风电累计并网容量达到6.55亿千瓦，同比增长22.4%，其中陆上风电6.08亿千瓦，海上风电4722万千瓦。今年一季度，全国风电累计发电量3047亿千瓦时，同比增长0.4%，全国风电平均利用率91.4%。（财联社记者 郭松峤）",
+    "ai_summary": "国家能源局公布一季度风电数据：新增并网1577万千瓦，累计装机6.55亿千瓦，发电量3047亿千瓦时，同比增长0.4%。",
+    "ai_tags": [
+      "风电",
+      "能源",
+      "发电量"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "国家能源局：一季度全国可再生能源新增装机5893万千瓦 占新增装机的70%",
+    "link": "https://api3.cls.cn/share/article/2356407?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:42:57",
+    "raw_content": "【国家能源局：一季度全国可再生能源新增装机5893万千瓦 占新增装机的70%】财联社4月27日电，国家能源局今日举行例行新闻发布会，国家能源局新能源司副司长潘慧敏介绍，今年一季度，全国可再生能源新增装机5893万千瓦，占新增装机的70%。其中，水电新增并网142万千瓦，风电新增并网1577万千瓦，光伏发电新增并网4119万千瓦，生物质发电新增并网35万千瓦，光热发电新增并网20万千瓦。截至今年3月底，全国可再生能源装机达到23.95亿千瓦，同比增长22%，约占我国总装机的60.4%，其中，水电装机4.50亿千瓦，风电装机6.55亿千瓦，光伏发电装机12.41亿千瓦，生物质发电装机0.48亿千瓦，光热发电装机202万千瓦。风电太阳能发电装机合计18.98亿千瓦，占全国电力总装机的47.9%。",
+    "ai_summary": "国家能源局：一季度可再生能源新增装机5893万千瓦，占总新增装机的70%，累计装机23.95亿千瓦。",
+    "ai_tags": [
+      "可再生能源",
+      "装机",
+      "能源"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "cls",
+    "title": "智度集团：陆宏达无刑事责任 公司经营正常",
+    "link": "https://api3.cls.cn/share/article/2356397?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:42:36",
+    "raw_content": "【智度集团：陆宏达无刑事责任 公司经营正常】财联社4月27日电，智度集团4月26日发布澄清说明称：网传公司执行董事陆宏达海外事件不实，其在相关事件中不存在任何刑事责任，目前公司各项经营活动均正常开展。小财注：陆宏达于4月20日辞去智度股份、国光电器两家公司董事长职务，辞职理由为身体原因、尚有其他重要事情需要处理。近期，有媒体曝光其在美国卷入相关诉讼。（财联社记者 付静）<br /><img src=\"https://image.cls.cn/images/20260427/do4T326h69_779x805.png\" />",
+    "ai_summary": "智度集团澄清：执行董事陆宏达在海外事件中无刑事责任，公司经营正常。此前其辞去两家公司董事长职务。",
+    "ai_tags": [
+      "智度集团",
+      "澄清",
+      "陆宏达"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "无界动力完成新一轮融资 天使轮累计融资超2亿美元",
+    "link": "https://api3.cls.cn/share/article/2356415?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:38:39",
+    "raw_content": "【无界动力完成新一轮融资 天使轮累计融资超2亿美元】财联社4月27日电，通用具身智能机器人公司无界动力宣布完成天使++轮融资，本轮由远景科技集团、北京市人工智能产业投资基金联合投资，红杉中国、线性资本、高瓴创投、BV百度风投、华业天成、钧山资本等多家老股东跟投。同时，天使+++轮融资接近完成，获得互联网产业资本、顶级美元和人民币资本的支持，天使轮累计融资超2亿美元。据无界动力介绍，与此同时，远景与无界动力签署超5亿元全球市场订单，面向欧洲、亚洲等全球多个国家地区进行应用部署。",
+    "ai_summary": "无界动力完成天使++轮融资，天使轮累计超2亿美元，并与远景签署超5亿元全球市场订单。",
+    "ai_tags": [
+      "融资",
+      "机器人",
+      "无界动力"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "“十五五”我国生态环境国家监测网点位将扩建至5万多个",
+    "link": "https://api3.cls.cn/share/article/2356413?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:37:45",
+    "raw_content": "【“十五五”我国生态环境国家监测网点位将扩建至5万多个】财联社4月27日电，在今天（27日）举行的4月例行新闻发布会上，生态环境部有关负责人介绍，“十五五”期间，我国将加快现代化生态环境监测体系建设，将国家监测网点位由现有的3.3万个扩容建设到5万多个，实现降碳、减污、扩绿领域全覆盖。",
+    "ai_summary": "生态环境部：十五五期间国家监测网点位将扩建至5万多个，实现降碳、减污、扩绿全覆盖。",
+    "ai_tags": [
+      "生态环境",
+      "监测",
+      "十五五"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "刘必安等十六人非法集资案一审宣判",
+    "link": "https://api3.cls.cn/share/article/2356405?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:35:07",
+    "raw_content": "【刘必安等十六人非法集资案一审宣判】财联社4月27日电，长沙市中级人民法院依法公开宣判被告人刘必安等十六人集资诈骗、非法吸收公众存款罪一案，对被告人刘必安以集资诈骗罪判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对其余十五名被告人分别以集资诈骗罪、非法吸收公众存款罪判处五年至十五年不等有期徒刑，并处罚金。\n\n经审理查明，2014年8月起，被告人刘必安等人在不具备吸收公众存款资格的情况下，以中战华信集团有限公司及多家关联公司名义，通过虚构投资项目、公开虚假宣传等方式，以还本付息、许诺高额回报为诱饵，向社会公众募集资金314亿余元。大部分集资款用于兑付到期本息、发放员工工资及提成、个人使用和挥霍等，造成集资参与人经济损失61亿余元。\n\n案发后，办案机关追缴部分资金、不动产、机动车、购买的公司股权等资产。现追赃挽损工作仍在进行中。追缴到案的资产将在判决生效后依法执行，按集资额比例返还集资参与人。\n\n法院认为，被告人刘必安等人以非法占有为目的，使用诈骗方法非法集资，数额巨大，造成集资参与人财产损失，严重扰乱国家金融管理秩序，应依法严惩。根据各被告人的犯罪事实、性质、情节和社会危害程度，",
+    "ai_summary": "刘必安等16人非法集资案一审宣判，主犯刘必安被判无期徒刑，涉案金额314亿余元，造成损失61亿余元。",
+    "ai_tags": [
+      "非法集资",
+      "判决",
+      "刘必安"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "cls",
+    "title": "1-3月我国对外承包工程业务完成营业额2593.5亿元人民币 同比增长5.7%",
+    "link": "https://api3.cls.cn/share/article/2356402?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:34:09",
+    "raw_content": "【1-3月我国对外承包工程业务完成营业额2593.5亿元人民币 同比增长5.7%】财联社4月27日电，据商务部统计，2026年1-3月，我国对外承包工程业务完成营业额2593.5亿元人民币，同比增长5.7%（以美元计为373.1亿美元, 增长9.2%），新签合同额3853亿元人民币，下降8.5%（以美元计为554.3亿美元, 下降5.5%）。",
+    "ai_summary": "1-3月我国对外承包工程完成营业额2593.5亿元，同比增长5.7%；新签合同额3853亿元，下降8.5%。",
+    "ai_tags": [
+      "对外承包",
+      "营业额",
+      "经济"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "cls",
+    "title": "1-3月我国企业在共建“一带一路”国家非金融类直接投资612.7亿元人民币 同比下降4%",
+    "link": "https://api3.cls.cn/share/article/2356399?os=web&sv=8.4.6&app=CailianpressWeb",
+    "published_time": "2026-04-27 03:32:48",
+    "raw_content": "【1-3月我国企业在共建“一带一路”国家非金融类直接投资612.7亿元人民币 同比下降4%】财联社4月27日电，据商务部统计，2026年1-3月，我国企业在共建“一带一路”国家非金融类直接投资612.7亿元人民币，同比下降4%（以美元计为88.2亿美元，下降0.9%）。对外承包工程方面，我国企业在共建“一带一路”国家新签承包工程合同额3485.1亿元人民币，同比增长2.4%（以美元计为501.5亿美元，增长5.8%）；完成营业额2186.9亿元人民币，增长10%（以美元计为314.7亿美元，增长13.6%）。",
+    "ai_summary": "1-3月我国在共建一带一路国家非金融类直接投资612.7亿元，同比下降4%；新签承包工程合同额增长2.4%。",
+    "ai_tags": [
+      "一带一路",
+      "投资",
+      "经济"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "我公司真的有古法编程程序员",
+    "link": "https://www.v2ex.com/t/1208753",
+    "published_time": "2026-04-27 02:50:57",
+    "raw_content": "mightofcode: <p>我建议他用 AI\n他说习惯了 AI 也有搞不定的时候\n我暗中观察确认他真的在古法编程\n而且还是全栈！</p>",
+    "ai_summary": "网友发现公司有程序员坚持古法编程，不使用AI，且为全栈。",
+    "ai_tags": [
+      "程序员",
+      "古法编程",
+      "AI"
+    ],
+    "ai_importance": 1
+  },
+  {
+    "category": "v2ex",
+    "title": "兄弟们,帮忙分析一下,是我的问题,还是这个女生有作的现象",
+    "link": "https://www.v2ex.com/t/1208736",
+    "published_time": "2026-04-27 02:08:07",
+    "raw_content": "hkiJava: 直接说结论：<br />早上我发信息：<br /><br />抱歉，昨天把天聊死了，如果你喜欢的话，以后可以一起去逛胖东来。<br /><br />故事背景是：<br />我堂弟五一要结婚，我需要从上海出发前往。对方就说是不是有胖东来，我说郑州店没开，对方就直接来了一句，到时候再回去一趟。<br />随后我本能的脱口而出：<br />没必要因为开业再去一趟，再说了，底层逻辑不就是超市吗，山姆又不是不可以逛。<br />结果如图，对方不乐意了，很明显早上卡着不回我消息了。<br />我跟对方吃过三次饭了，打算五一后表白，在一起试试看的，现在这么个情况，我对在一起有点没信心了（这是我单方面想法，不是我普信，毕竟吃了三次饭了）。<br />所以请大家说说看自己的看法，我不玻璃心，但请大家理性发言，peace. <a href=\"https://i.imgur.com/HQwnIPD.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"h",
+    "ai_summary": "用户因聊天中无意贬低对方提及的胖东来超市，导致女生冷淡回应，对关系发展失去信心，寻求网友分析。",
+    "ai_tags": [
+      "情感",
+      "社交",
+      "沟通"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "给你 1 个亿和让你带着现在的记忆回到童年 8 岁的时候，你选哪个",
+    "link": "https://www.v2ex.com/t/1208714",
+    "published_time": "2026-04-27 01:06:54",
+    "raw_content": "kevon4096: <p>如果有这么一个机会，给你 1 个亿和让你带着现在的记忆回到童年 8 岁的时候，你选哪个，反正我肯定是选回到童年 8 岁的时候，朋友说我傻，说那肯定选一个亿啊，你一辈子都赚不到那么多钱，我无言。。。</p>",
+    "ai_summary": "讨论选择1亿元现金还是带着记忆回到8岁，作者倾向后者，但朋友认为选钱更实际。",
+    "ai_tags": [
+      "人生选择",
+      "金钱",
+      "童年"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "和我妈每打一次电话都会低落很久",
+    "link": "https://www.v2ex.com/t/1208672",
+    "published_time": "2026-04-26 14:41:56",
+    "raw_content": "jvee: 每次跟我妈打完电话，我都特别累。刚开始还能正常聊几句，说着说着她就说起别人家出去旅游住什么酒店、坐飞机还是开车。我说这很正常啊，又不是有钱人才能出去玩。她马上就转到结婚上面去：你看人家结了婚生了孩子的，放假一家人出去玩，不比你自己一个人待着强？<br /><br />不管聊什么，最后都要绕到结婚上。一说不听，她就开始说自己晚上睡不着、浑身不舒服。<br /><br />我现在不想跟她分享我的生活了。我放假出去玩，她肯定说你一个人有什么意思，然后又是一顿说教。所以她现在问我在干嘛，我就说哪儿也没去，就在屋里待着。<br /><br />结果她就觉得我天天吃地沟油外卖，窝在出租屋里刷手机，或者打游戏混日子。其实我根本不玩游戏。<br /><br />每次打完这种电话，我情绪都会变得很低落。",
+    "ai_summary": "用户每次与母亲通话后情绪低落，因母亲总将话题引向结婚，并施加压力，导致用户不愿分享生活。",
+    "ai_tags": [
+      "家庭",
+      "情感",
+      "压力"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "v2ex",
+    "title": "关于视觉调教方面，国内安卓怎么和苹果差距这么多",
+    "link": "https://www.v2ex.com/t/1208666",
+    "published_time": "2026-04-26 13:59:43",
+    "raw_content": "conpress: <h2>PS：为了能找个替换当前苹果的方案，走遍各品牌手机旗舰店，看遍各种旗舰机型，然后发现接触了 IOS 的审美后，不知道为啥很难接受住国产的调教</h2>\n<p><strong>期间去看了荣耀，华为，小米，vivo ，oppo ，一加，三星等机型发现一个致命的令我很不爽的点，就是视觉方面的</strong></p>\n<pre><code>具体情况就是打开个常用的 APP ，譬如，今日头条，抖音，微博\n\n1.   很统一严重的情况就是对比度特别大，白色的字体亮的刺眼，刺眼到 UI 界面，字体边缘和图片感觉不是同一个维度的东西，很跳跃\n\n2.   然后字体布局有粗有大有小，整体比例调整就是没有 IOS 布局得那么和谐舒服\n\n3.   图片视频显示方面，像那种国产 2000 元近距离看的电视一样，说好听点是通透，不好听的就是像 AI 过的一样，边缘很锐利，然后又确实细腻的细节，完全和苹果不是一个档次\n</code></pre>\n<p><strong>查看期间，其实我也关闭掉很多关于手机加强图片视频效果的功能，包括只显示原色，以及更换系统字体大小等功能，但是还是发现解决",
+    "ai_summary": "用户对比苹果与国产安卓手机的视觉调教，认为国产手机在字体、对比度、图片显示等方面不如苹果舒适和谐。",
+    "ai_tags": [
+      "科技",
+      "手机",
+      "用户体验"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？",
+    "link": "https://www.v2ex.com/t/1208616",
+    "published_time": "2026-04-26 07:25:08",
+    "raw_content": "junwind: <p>先抛个砖：GLM5.1 &gt; deepseek v4 &gt; minimax2.7 ≥ mimo v2.5 ≈ kimi2.6</p>",
+    "ai_summary": "用户询问GLM5.1、Kimi2.6等AI模型在编程能力上的排名，并给出个人初步排序。",
+    "ai_tags": [
+      "AI",
+      "编程",
+      "模型对比"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "Mac mini 的话筒，求推荐",
+    "link": "https://www.v2ex.com/t/1208608",
+    "published_time": "2026-04-26 06:05:41",
+    "raw_content": "apollo007: <p>现在输入法已经习惯了用语音输入法了。总感觉在 Mac mini 上没办法用这个语音输入法很别扭，带着蓝牙耳机也有点麻烦，最好是就像 MacBook 那样子，直接可以用，就想给 Mac mini 配一个话筒，有合适的推荐吗</p>",
+    "ai_summary": "用户为Mac mini寻找合适的麦克风，以便使用语音输入法，希望像MacBook一样方便。",
+    "ai_tags": [
+      "硬件",
+      "Mac",
+      "语音输入"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "v2ex",
+    "title": "飞机上 Starlink 测速",
+    "link": "https://www.v2ex.com/t/1208600",
+    "published_time": "2026-04-26 05:33:10",
+    "raw_content": "ericls: <p>比上一代飞机上的 Wi-Fi 快多了，基本上和地面没有使用上的区别。（除了飞机上不能使用视屏通话）</p>\n<p><img alt=\"startlink.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img.imgdd.com/c4491142-9fc3-4e26-aea7-b5e47da0c362.png\" /></p>",
+    "ai_summary": "用户分享飞机上Starlink Wi-Fi测速体验，速度远超前代，几乎与地面无异，但视频通话仍受限。",
+    "ai_tags": [
+      "科技",
+      "网络",
+      "Starlink"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "v2ex",
+    "title": "Claude 新站开业 满血 Max 中转包月 1 元=1 刀， 限时注册送 5 美金额度 注册留 ID 再送 5 美金额度",
+    "link": "https://www.v2ex.com/t/1208588",
+    "published_time": "2026-04-26 04:21:09",
+    "raw_content": "l534891619: <p>拒绝 Kiro ，纯血 Max 号池供应 ，</p>\n<p>稳定供应 Claude Sonnet 4.6 / Opus 4.7  </p>\n<p>新用户注册送 $5 测试额度</p>\n<p>注册留 ID 再送 $5 额度</p>\n<p><a href=\"https://bestmodel.dev/\" rel=\"nofollow\">https://bestmodel.dev</a></p>\n<p>售后 QQ 群：1017575055 </p>\n<p>ID 查看方式：个人资料--&gt;客户 ID</p>\n<p>支持 OpenClaw OpenCode ClaudeCode Kiro  Curosr 等客户端接入 使用 /v1/messages 接口</p>",
+    "ai_summary": "广告推广Claude API中转服务，提供优惠价格和赠送额度，支持多种客户端接入。",
+    "ai_tags": [
+      "广告",
+      "AI",
+      "API"
+    ],
+    "ai_importance": 1
+  },
+  {
+    "category": "v2ex",
+    "title": "我用 Vibe Coding 撸了一个离线的自慰/性生活记录工具（送激活码）",
+    "link": "https://www.v2ex.com/t/1208587",
+    "published_time": "2026-04-26 04:18:23",
+    "raw_content": "aokirin: 一直想找个工具管理自己的配菜，看了下市面上的产品，要么就是记录戒撸的，要么就是记录经期顺便记录性生活的。只好自己动手了。<br /><br />支持「双人/单排」双模式记录。<br /><br />「配菜库」管理，支持导入 E 站/P 站等收藏链接。<br /><br />支持地图打卡、成就系统、详细的数据回顾与趋势分析。<br /><br />目前已上架 google play 和 app store<br /><br />App Store 地址： <a href=\"https://apps.apple.com/cn/app/%E4%BB%8A%E5%A4%A9%E4%BD%A0%E5%81%9A%E4%BA%86%E5%90%97/id6760549024\" rel=\"nofollow noopener\" target=\"_blank\">https://apps.apple.com/cn/app/%E4%BB%8A%E5%A4%A9%E4%BD%A0%E5%81%9A%E4%BA%86%E5%90%97/id6760549024</a><br /> Google",
+    "ai_summary": "用户开发了一款离线性生活记录工具，支持双人/单人模式、配菜库管理、地图打卡等功能，已上架应用商店。",
+    "ai_tags": [
+      "应用",
+      "工具",
+      "生活记录"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Our principles",
+    "link": "https://openai.com/index/our-principles",
+    "published_time": "2026-04-26 16:00:00",
+    "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "ai_summary": "OpenAI发布五项指导原则，确保AGI造福全人类。",
+    "ai_tags": [
+      "AI",
+      "OpenAI",
+      "原则"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "GPT-5.5 System Card",
+    "link": "https://openai.com/index/gpt-5-5-system-card",
+    "published_time": "2026-04-23 11:00:00",
+    "raw_content": "",
+    "ai_summary": "OpenAI发布了GPT-5.5系统卡，详细介绍了该模型的技术细节和安全评估。",
+    "ai_tags": [
+      "OpenAI",
+      "GPT-5.5",
+      "系统卡"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "Introducing GPT-5.5",
+    "link": "https://openai.com/index/introducing-gpt-5-5",
+    "published_time": "2026-04-23 11:00:00",
+    "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "ai_summary": "OpenAI推出GPT-5.5，号称最智能模型，速度更快、能力更强，专为编程、研究和数据分析等复杂任务设计。",
+    "ai_tags": [
+      "OpenAI",
+      "GPT-5.5",
+      "发布"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "Top 10 uses for Codex at work",
+    "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+    "ai_summary": "文章介绍了Codex在工作中的10个实用场景，包括自动化任务、创建交付物以及跨工具和文件处理输入输出。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "用例"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "How to get started with Codex",
+    "link": "https://openai.com/academy/codex-how-to-start",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+    "ai_summary": "指南讲解了如何开始使用Codex，包括设置项目、创建线程和完成首个任务的步骤。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "入门指南"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "What is Codex?",
+    "link": "https://openai.com/academy/what-is-codex",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "ai_summary": "文章解释了Codex如何超越聊天，通过自动化任务、连接工具并生成文档和仪表盘等实际输出。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "介绍"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Automations",
+    "link": "https://openai.com/academy/codex-automations",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+    "ai_summary": "教程介绍了如何使用Codex的自动化和触发器功能，无需手动操作即可创建报告、摘要和定期工作流。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "自动化"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Codex settings",
+    "link": "https://openai.com/academy/codex-settings",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+    "ai_summary": "指南说明了如何配置Codex设置，包括个性化、详细级别和权限，以顺利运行任务并自定义工作流。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "设置"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Working with Codex",
+    "link": "https://openai.com/academy/working-with-codex",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+    "ai_summary": "教程指导如何设置Codex工作区、创建线程和项目、管理文件并开始完成任务。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "工作区"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "Plugins and skills",
+    "link": "https://openai.com/academy/codex-plugins-and-skills",
+    "published_time": "2026-04-23 10:00:00",
+    "raw_content": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "ai_summary": "文章介绍了如何使用Codex插件和技能连接工具、访问数据并遵循可重复工作流来自动化任务。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "插件"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "openai",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "published_time": "2026-04-23 00:00:00",
+    "raw_content": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+    "ai_summary": "OpenAI发起GPT-5.5生物漏洞赏金计划，通过红队挑战寻找通用越狱方法以防范生物安全风险，最高奖励2.5万美元。",
+    "ai_tags": [
+      "OpenAI",
+      "GPT-5.5",
+      "漏洞赏金"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "published_time": "2026-04-22 15:00:00",
+    "raw_content": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "ai_summary": "OpenAI为美国认证医生、护士和药剂师免费提供ChatGPT，支持临床护理、文档和研究。",
+    "ai_tags": [
+      "OpenAI",
+      "医疗",
+      "免费"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "published_time": "2026-04-22 10:00:00",
+    "raw_content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "ai_summary": "深入探讨Codex代理循环，展示WebSocket和连接作用域缓存如何减少API开销并改善模型延迟。",
+    "ai_tags": [
+      "OpenAI",
+      "WebSocket",
+      "代理工作流"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Workspace agents",
+    "link": "https://openai.com/academy/workspace-agents",
+    "published_time": "2026-04-22 10:00:00",
+    "raw_content": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "ai_summary": "学习如何在ChatGPT中构建、使用和扩展工作区代理，以自动化重复工作流、连接工具并简化团队运营。",
+    "ai_tags": [
+      "OpenAI",
+      "工作区代理",
+      "自动化"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "published_time": "2026-04-22 10:00:00",
+    "raw_content": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "ai_summary": "ChatGPT中的工作区代理是基于Codex的代理，可自动化复杂工作流，在云端运行，帮助团队安全地跨工具扩展工作。",
+    "ai_tags": [
+      "OpenAI",
+      "工作区代理",
+      "Codex"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "published_time": "2026-04-22 00:00:00",
+    "raw_content": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "ai_summary": "OpenAI隐私过滤器是一个开放权重模型，用于检测和编辑文本中的个人身份信息（PII），具有最先进的准确性。",
+    "ai_tags": [
+      "OpenAI",
+      "隐私",
+      "PII"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "Introducing ChatGPT Images 2.0",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
+    "published_time": "2026-04-21 12:00:00",
+    "raw_content": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+    "ai_summary": "ChatGPT Images 2.0引入最先进的图像生成模型，改进了文本渲染、多语言支持和高级视觉推理。",
+    "ai_tags": [
+      "OpenAI",
+      "图像生成",
+      "多语言"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "openai",
+    "title": "Scaling Codex to enterprises worldwide",
+    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "published_time": "2026-04-21 00:00:00",
+    "raw_content": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "ai_summary": "OpenAI推出Codex Labs，与埃森哲、普华永道等合作，帮助企业部署和扩展Codex，周活跃用户达400万。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "企业合作"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "openai",
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "published_time": "2026-04-20 00:00:00",
+    "raw_content": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "ai_summary": "Hyatt在全球员工中部署ChatGPT Enterprise，使用GPT-5.4和Codex提高生产力、运营和宾客体验。",
+    "ai_tags": [
+      "OpenAI",
+      "企业",
+      "酒店"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "openai",
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "published_time": "2026-04-16 10:00:00",
+    "raw_content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "ai_summary": "更新后的Codex macOS和Windows应用增加了计算机使用、应用内浏览、图像生成、记忆和插件，加速开发者工作流。",
+    "ai_tags": [
+      "OpenAI",
+      "Codex",
+      "开发者工具"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "DeepSeek-V4-Pro 写代码到底行不行？我拿 GLM-5.1 跟它硬碰硬比了一轮",
+    "link": "https://juejin.cn/post/7632230684447211554",
+    "published_time": "2026-04-24 15:24:23",
+    "raw_content": "<p>大家好，我是孟健。</p>\n<p>DeepSeek-V4-Pro 发了，官方说代码能力大幅升级。这种话我听得多了，每次新模型发布都这么说。</p>\n<p>但我确实好奇：V4 在写代码这件事上，到底有没有追上 GLM-5.1？</p>\n<p>GLM-5.1 是我日常写代码的主力模型，用了几个月了，它什么水平我心里有数。所以这次我不跑 benchmark，不拼跑分，就拿我实际工作中的四个场景，让两个模型正面硬刚。</p>\n<p><strong>四个场景：源码分析、功能实现、大文件拆分、项目架构分析。</strong></p>\n<p>最后再算笔账，看看成本谁更划算。</p>\n<h2>场景一：项目分析，分析 Claude Code 源码</h2>\n<p>前段时间 Claude Code 源码泄露，我用 GLM-5.1 完整分析了一遍 Claude Code 源码，今天 DeepSeek-V4-Pro 发布，我同样也让它分析一遍源码看看。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6",
+    "ai_summary": "对比DeepSeek-V4-Pro和GLM-5.1在源码分析、功能实现、大文件拆分和项目架构分析四个场景的代码能力，并评估成本。",
+    "ai_tags": [
+      "DeepSeek",
+      "GLM",
+      "代码能力对比"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "为什么很多后台系统功能不少，看起来却还是很廉价？",
+    "link": "https://juejin.cn/post/7632135814106185770",
+    "published_time": "2026-04-24 08:34:44",
+    "raw_content": "<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e376230ef5d0461cb492d97c51462ea2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Ci56Oo5YWI55SfVFQ=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777624483&amp;x-signature=lmMaWPgWEHhaTA3g8Ph8cKUlH9I%3D\" /></p>\n<p>做后台管理系统这件事，前端同学应该都不陌生。</p>\n<p>菜单、权限、表格、表单、图表、用户、角色、日志、仪表盘……这些能力几乎每个后台项目都会有。</p>\n<p>但做得越多，我越发现一个很现实的问题：</p>\n<p><strong>很多后台系统功能其实不少，但打开第一眼，还是会让人觉得很“模板”、很普通，甚至有点廉价。</strong></p>\n<p>这不是说它不能用。</p>\n<p>相反，很多系统",
+    "ai_summary": "许多后台系统功能丰富但设计模板化，缺乏个性，导致视觉廉价感。",
+    "ai_tags": [
+      "后台系统",
+      "设计",
+      "用户体验"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "天下苦Token久矣，DeepSeekV4终于来了！",
+    "link": "https://juejin.cn/post/7631956346273087524",
+    "published_time": "2026-04-24 07:32:07",
+    "raw_content": "<p>“鸽王”DeepSeek V4 终于来了~!</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b5ce1087abc541fea6a41577f246603e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777620727&amp;x-signature=1MNaOlA7Ng2xISnhMzs%2FXN6mmRE%3D\" /></p>\n<p>虽然从物理时间上看，V3 到 V4 只用了一年多时间。 但是整个 AI 界已经天翻地覆了，从我们的心里感受来说，也是过了好久好久了。</p>\n<p>好不好的先不说，能更新，就是个好事情了。</p>\n<p><strong>最好是能把全球的 Token 价格打下来！</strong></p>\n<p>下面就赶紧来看一下，有哪些亮点吧！</p>\n<p>目前可以看到",
+    "ai_summary": "DeepSeek V4发布，期望降低Token价格，推动AI发展。",
+    "ai_tags": [
+      "DeepSeek",
+      "AI",
+      "Token"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "国产CodingPlan“玩不起”，玩GPT5.5去了！",
+    "link": "https://juejin.cn/post/7631832575604129811",
+    "published_time": "2026-04-24 03:51:27",
+    "raw_content": "<p>难受啊！</p>\n<p>最近国产的 CodingPlan 全面收拢，要么转 TokenPlan 了，要么转配额少得要命，动不动就是 200 元一个月。</p>\n<p><img alt=\"\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/384a3baead7446dc8d1a3630a94f830f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777607487&amp;x-signature=BY%2FZSKvsGvXvDl2LuVD1c3SB35c%3D\" /></p>\n<p>要知道 OpenAI 的 GPT5.5 + Codex，也才 20 美金，能力比你们强一个级别，价格也才 140 RMB 不到，配额还比你们多很多。</p>\n<p>你们说怎么选？</p>\n<p>我来给你们分析一下现状！</p>\n<p><img alt=",
+    "ai_summary": "国产CodingPlan涨价，用户转向更便宜的GPT5.5+Codex。",
+    "ai_tags": [
+      "CodingPlan",
+      "GPT5.5",
+      "价格"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "智谱CodingPlan老套餐绝版了，全网token收拢！",
+    "link": "https://juejin.cn/post/7631506248647917609",
+    "published_time": "2026-04-23 07:36:41",
+    "raw_content": "<p>CodingPlan 出现还没几个月，就快要消失了。</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d46d54ad361649e7a55294a76fd34bf9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777534600&amp;x-signature=wP8m88NebAP2f6AWVhVnuoeqtII%3D\" /></p>\n<p>各平台 Token 的配额是越来越少了！</p>\n<p>今天收到了智谱的通知：</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/80d411f69ef4440486a035ff52dca8a3~tplv-73owjymdk6-jj-mark-v1:",
+    "ai_summary": "智谱CodingPlan老套餐停售，各平台Token配额减少。",
+    "ai_tags": [
+      "智谱",
+      "CodingPlan",
+      "Token"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "2026年3月面20个前端",
+    "link": "https://juejin.cn/post/7631753968202022955",
+    "published_time": "2026-04-23 07:18:20",
+    "raw_content": "<h3>我面了二十个前端</h3>\n<p>3月，我参与了前端岗位的招聘工作。HR初筛了上百份简历后，递到我手中的还有30余份，前前后后面试了近二十场，最终才招到 2 位合适的伙伴入职。今天就和大家好好聊聊，也给正在求职的同行、负责招聘的伙伴，分享一点真实的观察。</p>\n<hr />\n<h4>一、面试者画像</h4>\n<p>面试者里，<strong>5到10年工作经验</strong>的伙伴占了大头，不再是以往刚入行一两年的新人。学历覆盖很广，其中一本、二本院校的伙伴居多，大家来自不同的行业，互联网、传统软件、研究所项目都有涉及，甚至有伙伴长期深耕地图、电子表格这类垂直领域，各自都有自己的积累。</p>\n<p>还有一个很明显的现象，就是大家的简历上，大多都标注了 <strong>AI相关的能力</strong>——基础一点的，会写掌握各类AI编程辅助工具；层次标注得高一些的，会写具备Agent开发能力。但实际深入追问后发现，这些AI相关的经历，大多是做过简单的文本问答类应用，本身技术含量并不高；还有更多伙伴，其实只负责了前端打字渲染的部分，对于Agent的核心流程、底层逻辑，根本没有清",
+    "ai_summary": "2026年3月前端面试观察：5-10年经验者居多，AI能力标注普遍但深度不足。",
+    "ai_tags": [
+      "前端面试",
+      "招聘",
+      "AI"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "为什么现在 RAG 越少越少提及了",
+    "link": "https://juejin.cn/post/7631495035477983242",
+    "published_time": "2026-04-23 01:58:36",
+    "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
+    "ai_summary": "RAG技术热度下降，作者分析原因并介绍自身项目。",
+    "ai_tags": [
+      "RAG",
+      "AI",
+      "技术趋势"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "稚晖君又开始摇人了，有点猛啊！",
+    "link": "https://juejin.cn/post/7631311804195471396",
+    "published_time": "2026-04-23 01:50:05",
+    "raw_content": "<p>前两天我们刚写了篇文章，梳理了一下机器人领域独角兽公司宇树科技的最新薪资和招人标准。</p>\n<p>今天这篇文章，我们再来盘点一下这个行业另外一家后起之秀，相信大家也能猜到。</p>\n<p>没错，那就是：<strong>智元机器人 AGIBOT</strong>。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/be88af8fbdef43c7b751b79d117d66ac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29kZVNoZWVw:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777514029&amp;x-signature=crD7Ozy2XDH9kt%2FX4Wh7WeeBmSk%3D\" /></p>\n<p>我详细横向比较了一下，我发现智元和宇树这两家公司无论是业务产品还是技术研发，还真是有不小的重叠。当然，业界也喜欢拿这两家领域内的先行者来作",
+    "ai_summary": "智元机器人（稚晖君）大规模招聘，与宇树科技竞争激烈。",
+    "ai_tags": [
+      "智元机器人",
+      "招聘",
+      "机器人"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "Vue & React 服务端渲染深度分析",
+    "link": "https://juejin.cn/post/7631404744758525998",
+    "published_time": "2026-04-22 11:45:45",
+    "raw_content": "<h2>引言：一个电商网站的性能问题</h2>\n<p>我之前公司的商品详情页是流量最大的页面——每天有超过 500 万用户通过这个页面了解商品、购买。我们的技术栈是 React ，开发了一个带有流畅动画、即时的交互反馈、丝滑的商品详情页。</p>\n<p><strong>但有一天，产品来了，给我看了一组令人不安的数据：</strong></p>\n<blockquote>\n<p>\"商品详情页的平均加载时间是 2.8 秒。在这 2.8 秒里，有 32% 的用户在页面完全加载前离开了。更糟的是，搜索带来的流量在过去一个季度下降了 18%——搜索引擎似乎不再喜欢我们的页面了。\"</p>\n</blockquote>\n<p>我开始调查原因。打开浏览器的开发者工具，看到了一个令人心碎的景象：当用户首次访问商品页时，浏览器收到的 HTML 几乎是一片空白——只有一个 <code>&lt;div id=\"root\"&gt;&lt;/div&gt;</code>。然后浏览器开始下载一个 2.5MB 的 JavaScript 文件，解析它，执行它，才能让页面\"长\"出内容来。在这整个过程中，用户看到的是白屏——",
+    "ai_summary": "深度分析Vue和React服务端渲染，解决电商网站性能问题。",
+    "ai_tags": [
+      "Vue",
+      "React",
+      "服务端渲染"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "uni-app 组件库 Wot UI 2.0 发布了，我们带来了这些改变！",
+    "link": "https://juejin.cn/post/7631138406542966830",
+    "published_time": "2026-04-22 04:49:15",
+    "raw_content": "<p>大家好，我是不如摸鱼去，好久不见。</p>\n<p>进入 2026 以来，大家可以感受到 wot-ui 的迭代速度明显放缓了，我们最近也接到了无数催更的消息。很多人以为我们是在偷懒或者放弃更新了，其实不是，我们是在偷偷写代码然后准备惊艳所有人！（其实是苦苦码了好几个月，来点点赞吧）</p>\n<p>接下来看看我们带来了哪些东西吧！</p>\n<h2>V2</h2>\n<p><img alt=\"\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/70ebf304425e4fde8afc34b572ffd934~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5LiN5aaC5pG46bG85Y67:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777438154&amp;x-signature=SZ1%2B1lLPlVhU6UJzY75NNhc6ZTc%3D\" /></p>\n<p>如今已经是 AI 编程时代了，Wo",
+    "ai_summary": "uni-app组件库Wot UI 2.0发布，带来多项改进。",
+    "ai_tags": [
+      "uni-app",
+      "Wot UI",
+      "组件库"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "Copilot 下架 opus ，Qwen 开始按量计费，GLM 限制非代码使用，Token都在涨价，人还比 Token 便宜吗？",
+    "link": "https://juejin.cn/post/7631027768982503478",
+    "published_time": "2026-04-22 00:46:47",
+    "raw_content": "<p>最近的 AI 浪潮有点有趣了，<strong>一边是各种宣发模型有多强，AI 工具有多好用，一边又因为算力不足，各种涨价或者变相涨价</strong>，比如钉钉 CEO 的最新发言里就说：「<em>只要被我看到这个文档是人写的，我肯定批评</em>」：</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5560624f070f4e9fafc15433656a93fc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777423606&amp;x-signature=SflUyS5oPVkBMW%2FMpX%2FV3pt9xy4%3D\" /></p>\n<p>但是回到阿里云的 Qwen 模型订阅，先是 Lite 下架不给续费，然后是 Lite 订阅不能续费，接着是 200/月的 Pro ",
+    "ai_summary": "AI工具涨价潮：Copilot下架opus，Qwen按量计费，GLM限制非代码使用。",
+    "ai_tags": [
+      "AI",
+      "涨价",
+      "Token"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "Opus 4.7 使用体验",
+    "link": "https://juejin.cn/post/7631008687278342190",
+    "published_time": "2026-04-21 10:26:29",
+    "raw_content": "<p>大家好，我是 <code>uni-app</code> 的核心开发 <code>笨笨狗吞噬者</code>，欢迎关注我的微信公众号 <code>前端笨笨狗</code>。</p>\n<h2>感想</h2>\n<p>不得不说，<code>ai</code> 发展的实在太快了，去年我入职 <code>uni-app</code>，一年中的大部分时间还是在手搓代码，就是网上说的 <code>古法编程</code>，一方面是对 <code>ai</code> 的能力仍有质疑，觉得对于框架维护，<code>ai</code> 不懂，另一方面是体验了一些模型，感觉能力不是很强。公司这边也是大力支持使用 <code>ai</code>，同事甚至一天提交了一百多个 <code>commit</code>。</p>\n<p>上周我在家用 <code>gpt-5.4</code> 让 <code>ai</code> 写了 <code>https://github.com/uni-toolkit/uni-toolkit/tree/main/packages/vite-plugin-component-ins",
+    "ai_summary": "uni-app核心开发者分享Opus 4.7使用体验，感叹AI发展迅速，从质疑到依赖AI编程，并开源了vite-plugin-component-ins工具。",
+    "ai_tags": [
+      "AI编程",
+      "uni-app",
+      "开发体验"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "为什么越来越多的大厂抛弃MCP，转向CLI？",
+    "link": "https://juejin.cn/post/7630841596041478171",
+    "published_time": "2026-04-21 02:16:26",
+    "raw_content": "<h2>前言</h2>\n<p>最近在AI圈，有一个话题引发了巨大的争论——“MCP已死，CLI称王”。</p>\n<p>从Perplexity CTO公开宣布放弃MCP，到Y Combinator CEO直言“MCP sucks”，再到飞书、钉钉、企业微信等大厂纷纷选择开源自家的CLI而非MCP，一场关于AI Agent如何与外部世界交互的范式转移正在发生。</p>\n<p>MCP是Anthropic在2024年底推出的协议，旨在解决AI模型与外部工具之间的沟通问题，一度被称为AI界的“Type-C接口”，月下载量一度超过9700万次。</p>\n<p>然而仅仅一年多后，这个曾经被誉为“行业希望”的协议，却正在被越来越多的人抛弃。</p>\n<p>今天这篇文章专门跟大家一起聊聊这个话题，希望对你会有所帮助。</p>\n<p>更多项目实战在Java突击队网：susan.net.cn</p>\n<h2>一、MCP的底层原理</h2>\n<p>在理解MCP的问题之前，我们先看看它的工作原理。</p>\n<p>MCP（Model Context Protocol）是一个<strong>客户端-服务器</str",
+    "ai_summary": "探讨AI圈热议话题：MCP协议被大厂抛弃，转向CLI。分析MCP的客户端-服务器原理及其局限性，指出CLI成为新趋势。",
+    "ai_tags": [
+      "MCP",
+      "CLI",
+      "AI Agent"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "Claude-4.7与KYC风暴-中国AI从业者何去何从",
+    "link": "https://juejin.cn/post/7630724767642533922",
+    "published_time": "2026-04-21 01:39:37",
+    "raw_content": "<h2>Claude 4.7来了，但中国用户可能再也用不到了</h2>\n<blockquote>\n<p>Anthropic在同一周干了两件事：发布了可能是目前最强的编程模型Claude Opus 4.7，同时启动了对中国用户的\"精准清场\"。作为一名每天深度依赖Claude工作的从业者，我想聊聊这一周的心情。</p>\n</blockquote>\n<p><img alt=\"在这里插入图片描述\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/69167fe0896246338ad582284743611e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YCU5by655qE55-z5aS0Xw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777340376&amp;x-signature=48%2BBy9pjUThyy6MmWXbUEfTtNPs%3D\" /></p>\n<p>@[toc]</p>\n<h3>",
+    "ai_summary": "Anthropic发布Claude Opus 4.7，同时对中国用户加强限制。中国AI从业者面临工具受限的困境，引发行业思考。",
+    "ai_tags": [
+      "Claude",
+      "AI限制",
+      "中国用户"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "juejin",
+    "title": "为什么我现在不安装 Hermes Agent",
+    "link": "https://juejin.cn/post/7630834546863620147",
+    "published_time": "2026-04-21 00:27:09",
+    "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
+    "ai_summary": "wangEditor作者双越解释为何不安装Hermes Agent，并介绍其正在开发的两个项目，邀请感兴趣者加入。",
+    "ai_tags": [
+      "Hermes Agent",
+      "前端开发",
+      "项目"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "juejin",
+    "title": "前端重生之 - 前端视角下的 Python",
+    "link": "https://juejin.cn/post/7630689270854713353",
+    "published_time": "2026-04-20 09:21:53",
+    "raw_content": "<p>以前我认为 JavaScript 就是编程世界的全部。从 jQuery 时代的 DOM 操作，到 React/Vue 的组件化革命，再到 TypeScript 的类型安全，见证了前端技术的每一次跃迁。然而，AI 时代来临，人人都在喊转 “全栈“，所以我也开始真正深入 Python 的生态系统，才发现这不仅是两门语言的对话，更是两种编程哲学、两种技术文化的碰撞与融合。这篇文章，是我从前端视角重新审视 Python 的记录，也是我对技术本质的一次探索，接下来我还将从前端视角看 Java、Go、C# 等不同的后端的语言，可能会有错误的地方，欢迎指正，也欢迎关注我，后期还将有分析其他语言的文章，奥利给！</p>\n<hr />\n<h2>从 JS 的异步到 Python 的同步</h2>\n<h3>1.1 事件循环的底层机制</h3>\n<p>前端对事件循环（Event Loop）的理解，往往始于浏览器中的 <code>setTimeout</code> 和 <code>Promise</code>。JavaScript 的单线程异步模型，是为了应对浏览器环境中用户交互、网络请求等 I/O 密集",
+    "ai_summary": "从前端开发者视角对比JavaScript与Python，探讨事件循环、异步同步等编程哲学差异，并预告后续将分析Java、Go等语言。",
+    "ai_tags": [
+      "前端",
+      "Python",
+      "编程对比"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "uni-app 全能日历组件，支持农历、酒店预订、打卡签到、价格日历多种场景",
+    "link": "https://juejin.cn/post/7630668808156839936",
+    "published_time": "2026-04-20 07:15:48",
+    "raw_content": "<h2>一、uView Pro 的 Calendar 组件</h2>\n<p>在 uni-app 开发中，日期选择是一个高频需求场景。无论是酒店预订的入住离店时间选择、电商平台的商品预约、还是日常应用的打卡签到，一个功能完善、体验优秀的日历组件都是必不可少的。</p>\n<p>uView Pro 作为 uni-app 生态中备受关注的 Vue3 组件库，其 <strong>Calendar 日历组件</strong> 经过了多个版本的迭代优化，从最初的基础日期选择，逐步演进为支持农历显示、打卡签到、节假日标记、自定义价格日历等丰富功能的综合型组件。</p>\n<p>本文将深入解析 uView Pro Calendar 组件的核心特性、实现原理以及实际应用场景，帮助你快速掌握这个强大的日期选择利器。</p>\n<h2>二、组件概览：功能特性总览</h2>\n<p><img alt=\"0.png\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/952153856f4b4e879b6fe121cf54d6f9~tplv-73owjy",
+    "ai_summary": "介绍uView Pro的Calendar日历组件，支持农历、酒店预订、打卡签到、价格日历等多种场景，是uni-app生态中功能丰富的日期选择工具。",
+    "ai_tags": [
+      "uni-app",
+      "日历组件",
+      "uView Pro"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "juejin",
+    "title": "管理后台框架 AI 时代的版本答案，Fantastic-admin 6.0 它来了！",
+    "link": "https://juejin.cn/post/7630298684078243891",
+    "published_time": "2026-04-20 02:24:49",
+    "raw_content": "<p>之前写了一篇《<a href=\"https://juejin.cn/post/7624882437116428303\" target=\"_blank\" title=\"https://juejin.cn/post/7624882437116428303\">AI 时代的管理后台框架，应该是什么样子？</a>》文章，我的一些见解得到了蛮多人的认同。</p>\n<p>如果说那篇文章是我对 AI 时代管理后台框架的全部理解，那这篇文章就是从理论到落地的一份完美答卷。</p>\n<p>那就少废话，直接看东西。</p>\n<blockquote>\n<p>文章内包含部分专业版特性。</p>\n</blockquote>\n<p><img alt=\"v6-released.png\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/17980fef945947fd82475f84c8c82124~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSG9vcmF5:q7",
+    "ai_summary": "Fantastic-admin 6.0发布，作为AI时代的管理后台框架，从理论到实践，提供了全新的解决方案。",
+    "ai_tags": [
+      "管理后台",
+      "AI",
+      "Fantastic-admin"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "Flutter 3.41.7 ，小版本但 iOS 大修复，看完只想说：这是人能写出来的 bug ？",
+    "link": "https://juejin.cn/post/7630020855679057935",
+    "published_time": "2026-04-20 00:19:46",
+    "raw_content": "<p>我已经忘了，这是我第几篇聊 <a href=\"https://juejin.cn/post/7542461507402924075\" target=\"_blank\" title=\"https://juejin.cn/post/7542461507402924075\">iOS 26 的 JIT 调试问题</a>，自从 iOS 26 正式禁止 Debug 时 <code>mprotect</code> 的 RX 权限之后，Flutter 的在 iOS 真机的 JIT 运行和 Hotload 就经历了各种骚操作，而后续各种各样的问题也接踵而来，而 3.41.7 恰好就解决了两个大问题：</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/54329164ff9247e6b4bb70d39e92c634~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp",
+    "ai_summary": "Flutter 3.41.7小版本更新，重点修复iOS 26的JIT调试问题，揭示了iOS平台上的复杂bug。",
+    "ai_tags": [
+      "Flutter",
+      "iOS",
+      "JIT调试"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "juejin",
+    "title": "CLI 是什么？为什么大厂突然集体卷命令行？",
+    "link": "https://juejin.cn/post/7629863917262471203",
+    "published_time": "2026-04-19 03:20:02",
+    "raw_content": "<p>大家好，我是程序员鱼皮。</p>\n<p>最近不知道大家有没有注意到，互联网大厂的风向又变了。</p>\n<p>Google 率先开源了 Workspace CLI，紧接着短短一周之内，飞书、钉钉、企业微信不约而同地在 GitHub 上开源了自己的 CLI 工具。</p>\n<p><img alt=\"\" src=\"https://pic.yupi.icu/1/image-20260407142441568.png\" /></p>\n<p>一时间，CLI 这个计算机世界里最古老的交互方式，突然又火了。</p>\n<p>奇了怪了，CLI 不就是黑不拉几的命令行窗口吗？都什么年代了，各大厂不去卷更漂亮的界面，反而集体开起了倒车？</p>\n<p><img alt=\"\" src=\"https://pic.yupi.icu/1/image-20260407144757172.png\" /></p>\n<p>这篇文章，我会依次分享：</p>\n<ul>\n<li>什么是 CLI？</li>\n<li>怎么用 CLI？</li>\n<li>为什么大厂都在卷 CLI？</li>\n<li>有哪些 CLI 开源项目？</",
+    "ai_summary": "解释CLI的概念和用法，分析大厂（Google、飞书、钉钉等）集体开源CLI工具的原因，认为CLI是AI时代的新趋势。",
+    "ai_tags": [
+      "CLI",
+      "大厂开源",
+      "AI趋势"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "和美国老友聊投资——从苹果、拼多多到泡泡玛特，我更确定什么才是好生意",
+    "link": "http://xueqiu.com/1574262287/385839597",
+    "published_time": "2026-04-26 11:08:06",
+    "raw_content": "",
+    "ai_summary": "作者与美国老友讨论投资，从苹果、拼多多到泡泡玛特，分享对好生意的理解。",
+    "ai_tags": [
+      "投资",
+      "苹果",
+      "拼多多",
+      "泡泡玛特"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "xueqiu",
+    "title": "当我们在说一个AI好用/不好用的时候，在说什么",
+    "link": "http://xueqiu.com/6623660105/385851739",
+    "published_time": "2026-04-26 10:48:54",
+    "raw_content": "",
+    "ai_summary": "探讨评价AI好用与否的标准，涉及用户体验、功能实用性等方面。",
+    "ai_tags": [
+      "AI",
+      "用户体验"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "硅光 vs EML＝铁锂 vs 三元锂；NPO vs CPO＝混动 vs 纯电",
+    "link": "http://xueqiu.com/5672579962/385840736",
+    "published_time": "2026-04-26 10:48:30",
+    "raw_content": "",
+    "ai_summary": "将硅光与EML、NPO与CPO分别类比为铁锂与三元锂、混动与纯电，讨论技术路线优劣。",
+    "ai_tags": [
+      "硅光",
+      "EML",
+      "NPO",
+      "CPO",
+      "技术对比"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "关于异环的一些个人观点",
+    "link": "http://xueqiu.com/6108306252/385808189",
+    "published_time": "2026-04-26 10:39:23",
+    "raw_content": "",
+    "ai_summary": "发表对异环（可能指某产品/概念）的个人观点，分析其特点或前景。",
+    "ai_tags": [
+      "异环",
+      "个人观点"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "xueqiu",
+    "title": "比暴跌更可怕的是：手里没“能扛命”的资产",
+    "link": "http://xueqiu.com/5632341672/385831835",
+    "published_time": "2026-04-26 05:26:46",
+    "raw_content": "",
+    "ai_summary": "强调在市场暴跌时，持有抗风险资产的重要性，避免无资产可扛。",
+    "ai_tags": [
+      "投资",
+      "风险",
+      "资产配置"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "转型价值投资正当时",
+    "link": "http://xueqiu.com/7708198303/385818352",
+    "published_time": "2026-04-26 05:26:39",
+    "raw_content": "",
+    "ai_summary": "认为当前是转向价值投资的好时机，倡导长期稳健投资策略。",
+    "ai_tags": [
+      "价值投资",
+      "投资策略"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "有色学习笔记（二）：兴业银锡",
+    "link": "http://xueqiu.com/5332385101/385793014",
+    "published_time": "2026-04-26 05:26:31",
+    "raw_content": "",
+    "ai_summary": "学习笔记第二部分，分析兴业银锡的基本面、行业地位及投资价值。",
+    "ai_tags": [
+      "有色",
+      "兴业银锡",
+      "学习笔记"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "陕西煤业一季度净利润分析和后续展望",
+    "link": "http://xueqiu.com/7123126150/385833069",
+    "published_time": "2026-04-26 05:26:22",
+    "raw_content": "",
+    "ai_summary": "分析陕西煤业一季度净利润情况，并对未来业绩进行展望。",
+    "ai_tags": [
+      "陕西煤业",
+      "净利润",
+      "展望"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "未来我国电力市场浅析",
+    "link": "http://xueqiu.com/9743713791/385714218",
+    "published_time": "2026-04-25 13:23:37",
+    "raw_content": "",
+    "ai_summary": "浅析中国未来电力市场的发展趋势、结构变化及影响因素。",
+    "ai_tags": [
+      "电力市场",
+      "趋势分析"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "茅台生意",
+    "link": "http://xueqiu.com/8315851674/385742807",
+    "published_time": "2026-04-25 13:23:32",
+    "raw_content": "",
+    "ai_summary": "讨论茅台生意的商业模式、盈利能力及投资价值。",
+    "ai_tags": [
+      "茅台",
+      "商业模式"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "非洲的电解铝",
+    "link": "http://xueqiu.com/3151137858/385735677",
+    "published_time": "2026-04-25 13:23:26",
+    "raw_content": "",
+    "ai_summary": "介绍非洲电解铝产业的发展现状、优势及挑战。",
+    "ai_tags": [
+      "非洲",
+      "电解铝"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "xueqiu",
+    "title": "三家养猪企业现金成本分析",
+    "link": "http://xueqiu.com/8418018079/385727795",
+    "published_time": "2026-04-25 13:23:20",
+    "raw_content": "",
+    "ai_summary": "分析三家养猪企业的现金成本，比较其成本控制能力。",
+    "ai_tags": [
+      "养猪",
+      "成本分析"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "我忍不住了，要说说茅台",
+    "link": "http://xueqiu.com/7579238876/385756701",
+    "published_time": "2026-04-25 11:42:03",
+    "raw_content": "",
+    "ai_summary": "作者表达对茅台股票的看法，可能涉及投资观点。",
+    "ai_tags": [
+      "茅台",
+      "投资"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "财富管理业务大放异彩，资本内生性进一步增强——宁波银行2026年一季报点评",
+    "link": "http://xueqiu.com/1821992043/385755278",
+    "published_time": "2026-04-25 11:41:45",
+    "raw_content": "",
+    "ai_summary": "点评宁波银行2026年一季报，财富管理业务表现突出，资本内生性增强。",
+    "ai_tags": [
+      "宁波银行",
+      "财报",
+      "财富管理"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "基础知识和逻辑科普",
+    "link": "http://xueqiu.com/6812363119/385759347",
+    "published_time": "2026-04-25 11:41:25",
+    "raw_content": "",
+    "ai_summary": "科普基础知识和逻辑，可能涉及投资或行业常识。",
+    "ai_tags": [
+      "科普",
+      "基础知识"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "xueqiu",
+    "title": "欧派的投资经历和反思",
+    "link": "http://xueqiu.com/1515879647/385769128",
+    "published_time": "2026-04-25 11:41:12",
+    "raw_content": "",
+    "ai_summary": "分享欧派的投资经历和反思，总结教训。",
+    "ai_tags": [
+      "投资经历",
+      "反思"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "汾酒的天花板",
+    "link": "http://xueqiu.com/7913104177/385269907",
+    "published_time": "2026-04-24 10:23:40",
+    "raw_content": "",
+    "ai_summary": "讨论汾酒的发展天花板，分析其增长潜力。",
+    "ai_tags": [
+      "汾酒",
+      "天花板"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "AI的闭环是靠应用商业化来完成",
+    "link": "http://xueqiu.com/2426670165/385614866",
+    "published_time": "2026-04-24 10:21:42",
+    "raw_content": "",
+    "ai_summary": "认为AI的闭环需要通过应用商业化来实现。",
+    "ai_tags": [
+      "AI",
+      "商业化"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "xueqiu",
+    "title": "如何看待能繁母猪效率",
+    "link": "http://xueqiu.com/1632625377/385587285",
+    "published_time": "2026-04-24 10:21:34",
+    "raw_content": "",
+    "ai_summary": "探讨如何评估能繁母猪的效率，涉及养猪行业指标。",
+    "ai_tags": [
+      "养猪",
+      "能繁母猪",
+      "效率"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "xueqiu",
+    "title": "索尔思单波 200G InP PIC 的低成本可能路线",
+    "link": "http://xueqiu.com/8755156034/385208967",
+    "published_time": "2026-04-24 10:21:24",
+    "raw_content": "",
+    "ai_summary": "分析索尔思单波200G InP PIC的低成本实现路径。",
+    "ai_tags": [
+      "光通信",
+      "PIC",
+      "低成本"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "易森动力与卓驭科技达成战略合作",
+    "link": "https://36kr.com/newsflashes/3784554297744644?f=rss",
+    "published_time": "2026-04-27 04:07:42",
+    "raw_content": "36氪获悉，在2026年（第十九届）北京国际汽车展览会上，易森动力无限（北京）科技有限公司与深圳市卓驭科技有限公司签署战略合作协议。双方共建全链路城配物流解决方案。据介绍，双方联合开发的无人物流装备将于7月开启试运营。",
+    "ai_summary": "易森动力与卓驭科技合作，共建全链路城配物流解决方案，无人物流装备7月试运营。",
+    "ai_tags": [
+      "合作",
+      "物流",
+      "无人驾驶"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "立讯精密旗下公司在山东成立新公司",
+    "link": "https://36kr.com/newsflashes/3784553337609216?f=rss",
+    "published_time": "2026-04-27 04:06:44",
+    "raw_content": "36氪获悉，爱企查App显示，近日，立讯精密工业（山东）有限公司成立，法定代表人为王军奕，注册资本5000万元人民币，经营范围包括电子元器件制造、汽车零部件及配件制造、电气设备销售等。股东信息显示，该公司由立讯精密旗下立讯精密工业（昆山）有限公司全资持股。",
+    "ai_summary": "立讯精密在山东成立全资子公司，注册资本5000万元，主营电子元器件、汽车零部件等。",
+    "ai_tags": [
+      "立讯精密",
+      "新公司",
+      "电子元器件",
+      "汽车零部件"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "恒指午间休盘涨0.15%，恒生科技指数涨1.31%",
+    "link": "https://36kr.com/newsflashes/3784548654030083?f=rss",
+    "published_time": "2026-04-27 04:01:58",
+    "raw_content": "36氪获悉，恒指午间休盘涨0.15%，恒生科技指数涨1.31%；半导体、汽车、硬件设备板块领涨，澜起科技、高伟电子涨超12%，中芯国际涨超8%，比亚迪股份涨超4%；软件服务、有色金属、医药生物板块走弱，智谱跌超3%，力勤资源、恒瑞医药跌超2%；南向资金净买入23.78亿港元。",
+    "ai_summary": "恒指午盘涨0.15%，恒生科技指数涨1.31%，半导体、汽车板块领涨，南向资金净买入23.78亿港元。",
+    "ai_tags": [
+      "港股",
+      "恒指",
+      "恒生科技指数",
+      "半导体",
+      "汽车"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "现货白银日内涨超1%",
+    "link": "https://36kr.com/newsflashes/3784534443924739?f=rss",
+    "published_time": "2026-04-27 03:47:31",
+    "raw_content": "36氪获悉，现货白银日内涨超1%，现报76.53美元/盎司。",
+    "ai_summary": "现货白银日内涨超1%，报76.53美元/盎司。",
+    "ai_tags": [
+      "现货白银",
+      "价格上涨"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "36kr",
+    "title": "麦德龙中国任命山姆会员店前高管文安德为执行主席",
+    "link": "https://36kr.com/newsflashes/3784532969856000?f=rss",
+    "published_time": "2026-04-27 03:46:01",
+    "raw_content": "自麦德龙中国获悉，其宣布一项新的人事任命：自2026年4月27日起，文安德（Andrew Miles）出任麦德龙商业集团执行主席，许少川担任公司首席执行官（CEO），蔡天乐（Tino Zeiske）出任顾问。文安德曾担任沃尔玛中国副首席执行官兼山姆会员商店总裁。（界面）",
+    "ai_summary": "麦德龙中国任命前山姆会员店高管文安德为执行主席，许少川任CEO，蔡天乐任顾问。",
+    "ai_tags": [
+      "麦德龙",
+      "人事任命",
+      "山姆会员店"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "贾国龙天边的焖面关联公司企业名称接连变更",
+    "link": "https://36kr.com/newsflashes/3784522732821511?f=rss",
+    "published_time": "2026-04-27 03:45:32",
+    "raw_content": "36氪获悉，爱企查App显示，近日，内蒙古喜悦奋斗餐饮有限责任公司发生工商变更，企业名称变更为内蒙古天边的焖面餐饮有限公司。该公司成立于2026年4月，法定代表人为秦勇军，注册资本100万元人民币，经营范围包括餐饮服务、食品经营管理、酒类经营等，由天边品牌管理（北京）有限公司、秦勇军共同持股。值得一提的是，此前，北京贾国龙空气馍餐饮管理有限公司发生工商变更，企业名称变更为天边品牌管理（北京）有限公司。",
+    "ai_summary": "贾国龙关联公司更名为天边的焖面，此前另一公司已更名为天边品牌管理。",
+    "ai_tags": [
+      "贾国龙",
+      "企业更名",
+      "天边的焖面"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "36kr",
+    "title": "中科创达推出滴水AIOS 2.1和Kanzi 4",
+    "link": "https://36kr.com/newsflashes/3784526119279619?f=rss",
+    "published_time": "2026-04-27 03:39:03",
+    "raw_content": "36氪获悉，4月26日，中科创达推出专为AIOS而生的新一代汽车人机交互（HMI）引擎Kanzi 4和滴水AIOS 2.1。该产品以超级融合AI智能体为核心，依托全新OpenClaw架构搭建AquaClaw汽车智能体技术底座，完成操作系统从内核到应用的全栈重构，实现智能座舱由“被动响应执行”向“主动全域智能”的进阶。",
+    "ai_summary": "中科创达推出滴水AIOS 2.1和Kanzi 4，实现智能座舱从被动响应向主动智能进阶。",
+    "ai_tags": [
+      "中科创达",
+      "AIOS",
+      "智能座舱",
+      "HMI"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "A股三大指数午间休盘涨跌不一，汽车股领涨",
+    "link": "https://36kr.com/newsflashes/3784519385095176?f=rss",
+    "published_time": "2026-04-27 03:32:12",
+    "raw_content": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.15%，深成指涨0.52%，创业板指跌0.2%；半导体、汽车、通信设备板块领涨，东芯股份涨超13%，北汽蓝谷、长飞光纤涨超5%，白酒、互联网、贵金属板块跌幅居前，贵州茅台跌超3%，首都在线跌超2%，紫金矿业跌超1%。",
+    "ai_summary": "A股午盘涨跌不一，沪指涨0.15%，半导体、汽车领涨，白酒、贵金属跌幅居前。",
+    "ai_tags": [
+      "A股",
+      "半导体",
+      "汽车",
+      "白酒"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+    "link": "https://36kr.com/newsflashes/3784514046926081?f=rss",
+    "published_time": "2026-04-27 03:26:46",
+    "raw_content": "知名分析师郭明錤发文称，OpenAI计划自研手机，正与联发科、高通合作开发手机处理器，预计2028年量产。唯有完全掌控系统与硬件，才能提供全面性的AI Agent（代理）服务。（财联社）",
+    "ai_summary": "郭明錤称OpenAI计划自研手机，正与联发科、高通合作开发处理器，预计2028年量产。",
+    "ai_tags": [
+      "OpenAI",
+      "自研手机",
+      "联发科",
+      "高通"
+    ],
+    "ai_importance": 5
+  },
+  {
+    "category": "36kr",
+    "title": "一季度保险业保费收入同比增长6.2%",
+    "link": "https://36kr.com/newsflashes/3784513118739464?f=rss",
+    "published_time": "2026-04-27 03:25:49",
+    "raw_content": "中国保险行业协会今天（4月27日）召开新闻发布会。相关负责人介绍，2026年一季度保险业实现保费收入2.31万亿元，同比增长6.2%；赔付支出0.89万亿元，同比增长7.5%。（央视新闻）",
+    "ai_summary": "一季度保险业保费收入2.31万亿元，同比增长6.2%，赔付支出增长7.5%。",
+    "ai_tags": [
+      "保险业",
+      "保费收入",
+      "同比增长"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "国家能源局：一季度氢能、煤制油气、新型储能等领域投资加快释放",
+    "link": "https://36kr.com/newsflashes/3784503813102596?f=rss",
+    "published_time": "2026-04-27 03:16:21",
+    "raw_content": "国家能源局4月27日举行新闻发布会，介绍2026年一季度全国能源形势及发展成效等。国家能源局发展规划司副司长邢翼腾介绍，能源重点项目加快建设。一季度能源投资保持较快增长，为全国固定资产投资转正提供有力支撑。电网保安全、扩投资作用不断彰显，氢能、煤制油气、新型储能等领域投资加快释放。民营企业深度参与能源领域国家科技项目，全国首个引入民营资本核电项目浙江三澳1号机组并网发电。（证券时报）",
+    "ai_summary": "国家能源局称一季度氢能、煤制油气、新型储能等领域投资加快释放。",
+    "ai_tags": [
+      "国家能源局",
+      "氢能",
+      "新型储能",
+      "投资"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "中赋科技：计划以10亿元对价收购军科正源87%股权",
+    "link": "https://36kr.com/newsflashes/3784501634407433?f=rss",
+    "published_time": "2026-04-27 03:14:08",
+    "raw_content": "36氪获悉，创业板公司中赋科技公告，计划以10亿元对价收购国家级专精特新小巨人企业军科正源87%股权，正式拿下国内生物样本分析领域头部CRO平台。本次整合后，中赋源创将快速构建“临床前+临床”一体化服务能力，为创新药企业提供端到端、全链条、数据统一的一站式解决方案。",
+    "ai_summary": "中赋科技计划以10亿元收购军科正源87%股权，整合后构建临床前+临床一体化CRO服务。",
+    "ai_tags": [
+      "收购",
+      "CRO",
+      "生物医药"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "国家能源局：一季度国内油气供应总体平稳有序",
+    "link": "https://36kr.com/newsflashes/3784501016402947?f=rss",
+    "published_time": "2026-04-27 03:13:30",
+    "raw_content": "国家能源局4月27日举行新闻发布会，介绍2026年一季度全国能源形势及发展成效等。国家能源局发展规划司副司长邢翼腾介绍，能源安全保障有力有效。妥善处理委内瑞拉危机、美以伊冲突对我国能源供应影响，一季度国内油气供应总体平稳有序，规上工业原油、天然气产量同比分别增长1.3%和3.0%；原煤生产在去年同期较高基数基础上保持平稳，规上工业原煤产量同比增长0.1%。电力领域安全生产形势稳定向好，高效完成各类自然灾害电力应急处置，圆满完成春节和两会保电工作。（证券时报）",
+    "ai_summary": "国家能源局称一季度国内油气供应平稳，原油产量增1.3%，天然气增3.0%，原煤产量微增0.1%。",
+    "ai_tags": [
+      "能源",
+      "油气",
+      "产量"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
+    "link": "https://36kr.com/p/3784491394784519?f=rss",
+    "published_time": "2026-04-27 03:05:52",
+    "raw_content": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260427/v2_91c1af849aa6449ca4fe893040a42664@5679941_oswg424392oswg902oswg2577_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>【点音Divoom桌搭全家桶评测视频】</p>\n  <p class=\"loading-entity\">&amp;amp;amp;nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260427/v2_567517d5dbb44ce0b2f9ebafb69e54f5@5679941_oswg513116oswg902oswg3695_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p cla",
+    "ai_summary": "2026春季「焦点」产品计划发布，12款产品入选，包括点音Divoom桌搭全家桶等。",
+    "ai_tags": [
+      "产品发布",
+      "消费电子"
+    ],
+    "ai_importance": 2
+  },
+  {
+    "category": "36kr",
+    "title": "灵光App将世界模型搬上移动端",
+    "link": "https://36kr.com/newsflashes/3784492331638022?f=rss",
+    "published_time": "2026-04-27 03:04:40",
+    "raw_content": "36氪获悉，蚂蚁灵光App今日上线“体验世界模型”功能。据其介绍这是业界首个可在移动端体验世界模型的AGI产品。用户只需上传一张图片，即可在手机上最长60秒探索3D世界，并且用手游操控视角，像玩游戏一样在里面走动探索，从触发指令到开始探索，仅需秒级。",
+    "ai_summary": "蚂蚁灵光App上线世界模型功能，用户上传图片即可在手机上探索3D世界，支持手游视角操控。",
+    "ai_tags": [
+      "AI",
+      "世界模型",
+      "移动端"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "沪深两市成交额突破1.5万亿",
+    "link": "https://36kr.com/newsflashes/3784483316505857?f=rss",
+    "published_time": "2026-04-27 02:55:30",
+    "raw_content": "36氪获悉，沪深两市成交额突破1.5万亿。",
+    "ai_summary": "沪深两市成交额突破1.5万亿。",
+    "ai_tags": [
+      "股市",
+      "成交额"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "商务部：一季度我国批发和零售业增加值同比增长4.1%",
+    "link": "https://36kr.com/newsflashes/3784479254453509?f=rss",
+    "published_time": "2026-04-27 02:51:22",
+    "raw_content": "36氪获悉，据商务部消息，一季度，我国批发和零售业增加值同比增长4.1%，我国批发和零售业发展开局良好。一季度，我国批发和零售业增加值3.5万亿元，同比增长4.1%，占GDP比重为10.5%。市场运行起步平稳，多数业态保持增长。从批发业看，一季度，商务部重点联系商品市场成交额同比增长8.6%，其中生产资料类、工业消费品类市场成交额同比分别增长16.1%、10.7%。从零售业看，一季度，商品零售额11.3万亿元，同比增长2.2%。",
+    "ai_summary": "一季度我国批发和零售业增加值同比增长4.1%，占GDP比重10.5%，商品零售额增2.2%。",
+    "ai_tags": [
+      "经济",
+      "批发零售",
+      "GDP"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "B站举办首届AI造物联赛，AI智能体搜索增长超500%",
+    "link": "https://36kr.com/newsflashes/3784476665617673?f=rss",
+    "published_time": "2026-04-27 02:48:44",
+    "raw_content": "36氪获悉，4月27日，哔哩哔哩对外宣布开启《硅碳合战·S1——首届bilibili AI造物联赛》，并开放报名通道。据披露，2026年， AI 泛智能体（AI Agent）、AI创业等关键词在B站的搜索量同比增长超500%。",
+    "ai_summary": "B站举办首届AI造物联赛，AI智能体搜索量同比增长超500%。",
+    "ai_tags": [
+      "AI",
+      "B站",
+      "竞赛"
+    ],
+    "ai_importance": 3
+  },
+  {
+    "category": "36kr",
+    "title": "国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%",
+    "link": "https://36kr.com/newsflashes/3784466482208006?f=rss",
+    "published_time": "2026-04-27 02:38:23",
+    "raw_content": "36氪获悉，国家能源局4月27日发布2026年3月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年3月底，我国电动汽车充电基础设施（枪）总数达到2148.1万个，同比增长46.9%。其中，公共充电设施（枪）486.3万个，同比增长28.1%，公共充电桩额定总功率达到2.34亿千瓦，平均功率约为48.06千瓦；私人充电设施（枪）1661.8万个，同比增长53.5%，私人充电设施报装用电容量达到1.47亿千伏安。",
+    "ai_summary": "截至3月底我国充电基础设施总数达2148.1万个，同比增长46.9%，公共桩增28.1%，私人桩增53.5%。",
+    "ai_tags": [
+      "充电桩",
+      "电动汽车",
+      "基础设施"
+    ],
+    "ai_importance": 4
+  },
+  {
+    "category": "36kr",
+    "title": "国家能源局：截至3月底我国电动汽车充电基础设施（枪）总数达到2148.1万个 同比增长46.9%",
+    "link": "https://36kr.com/newsflashes/3784466482027777?f=rss",
+    "published_time": "2026-04-27 02:38:23",
+    "raw_content": "36氪获悉，国家能源局4月27日发布2026年3月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年3月底，我国电动汽车充电基础设施（枪）总数达到2148.1万个，同比增长46.9%。其中，公共充电设施（枪）486.3万个，同比增长28.1%，公共充电桩额定总功率达到2.34亿千瓦，平均功率约为48.06千瓦；私人充电设施（枪）1661.8万个，同比增长53.5%，私人充电设施报装用电容量达到1.47亿千伏安。",
+    "ai_summary": "截至3月底我国充电基础设施总数达2148.1万个，同比增长46.9%，公共桩增28.1%，私人桩增53.5%。",
+    "ai_tags": [
+      "充电桩",
+      "电动汽车",
+      "基础设施"
+    ],
+    "ai_importance": 4
+  }
+]

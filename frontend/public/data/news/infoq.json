@@ -5,17 +5,77 @@
   "items": [
     {
       "category": "infoq",
+      "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
+      "link": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1",
+      "published_time": "2026-04-27 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/2c/225cf1c81c21c57e6e70e57be79c7b2c.jpg\" /></p><p>我得跟你们说句实话。六个月前，我还是 <a href=\"https://graphql.org/learn/federation/\">GraphQL Federation</a>\" 的布道者。我们花了六个月的时间，利用 <a href=\"https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation\">Apollo</a>\" 构建了一个联邦图，其中包含模式拼接、网关配置，以及一套复杂的 CI/CD 管道（每次提交都会重新生成类型）。纸上谈兵时，这套方案看起来很完美。但在生产环境中呢？每次部署都像是要发生一场灾难。</p><p>&nbsp;</p><p>转折点发生在周五下午的一次例行部署中。我们的产品团队更新了某项服务中的一个字段类型，模式重新生成成功，测试通过，于是我",
+      "ai_summary": "作者从GraphQL Federation转向tRPC，认为tRPC在生产环境中更稳定，部署更简单，避免了联邦图的复杂性。",
+      "ai_tags": [
+        "tRPC",
+        "GraphQL",
+        "API",
+        "TypeScript"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构",
+      "link": "https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p",
+      "published_time": "2026-04-27 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/8f/22e46c84e27507ee06763cda9c6f6d8f.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>阿里云智能集团高级技术专家刘少伟已确认出席 “<a href=\"ht",
+      "ai_summary": "阿里云高级技术专家刘少伟将出席AICon上海站，分享企业Agent自动化行动架构的构建经验。",
+      "ai_tags": [
+        "阿里云",
+        "Agent",
+        "AICon",
+        "自动化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "智能体工程的隐性技术债务",
+      "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
+      "published_time": "2026-04-27 03:02:04",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
+      "ai_summary": "文章探讨了智能体工程中的隐性技术债务，指出在本地构建智能体容易，但投入生产后可能面临数据、后果和工程化挑战。",
+      "ai_tags": [
+        "智能体",
+        "技术债务",
+        "工程化"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
+      "link": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW",
+      "published_time": "2026-04-27 02:43:39",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d5/f3/d5ccdbf9204fdeb7479e8bc2e18aacf3.jpg\" /></p><p>2026 年 4 月 23 日，OpenAI 做了两件事：发布了 GPT-5.5，并把价格翻了一倍。</p><p>&nbsp;</p><p>按常理，这应该是属于 OpenAI 的一天。全新预训练架构“Spud”的首个公开版本，SOTA 级的基准测试成绩，SemiAnalysis 在第一时间给出了“GPT-5.5 已经抵达前沿”的评价。但翻看定价页面，开发者很难不算账：每百万输出 token 收费 30 美元，比前代 GPT-5.4 贵了一倍，甚至比一贯以昂贵著称的 Claude Opus 4.7 还要贵出一截。</p><p>&nbsp;</p><p>而仅仅过了不到一天，4 月 24 日，DeepSeek 把 V4 的模型权重扔到了 HuggingFace 上。MIT 开源协议，100 万 token 上下文窗口，以及一个极其低廉的价格：输出 token 每百万 3.48 美",
+      "ai_summary": "OpenAI发布GPT-5.5并提价，DeepSeek随即开源V4模型，价格更低且性能更好，引发开发者关注。",
+      "ai_tags": [
+        "OpenAI",
+        "DeepSeek",
+        "模型对比",
+        "价格"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
       "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
       "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi",
       "published_time": "2026-04-26 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b4/de/b49a39374f474a853bfedd8eb69050de.jpg\" /></p><p>Anthropic为<a href=\"https://claude.com/product/claude-code\">Claude Code</a>\"推出了新的<a href=\"https://claude.com/blog/code-review\">Code Review</a>\"功能，新增了一个基于智能体的拉取请求（pull request）审查系统，可由多个AI审查器协同分析代码变更。该功能目前以研究预览形式向Team和Enterprise用户开放。</p><p>&nbsp;</p><p>该系统会在拉取请求创建后自动运行，并调度多个智能体并行检查变更。Anthropic表示，这些智能体会查找潜在的缺陷，并验证其发现以降低误报，按严重程度对问题排序，随后在拉取请求中发布汇总审查意见和行内评论。</p><p>&nbsp;</p><p>Anthropic称，分配的智能体数量",
-      "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，可自动分析拉取请求，降低误报并排序问题。",
+      "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，支持多AI审查器并行分析PR，降低误报并排序问题。",
       "ai_tags": [
-        "AI",
+        "Anthropic",
+        "Claude Code",
         "代码审查",
-        "Anthropic"
+        "AI"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "infoq",
@@ -23,25 +83,12 @@
       "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g",
       "published_time": "2026-04-25 06:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/fe/e5/fee173ae91702225580e11dcea8eyye5.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>Cortex Code 技能如何将 Snowflake 本体架构转变为可复用的对话式工作流——在单次会话中，从任意关系型模式生成完整的五层技术栈。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7c/7c12c3ad5f4780c4ae4e07cb0c27f67c.png\" /></p><p></p><h2>从概念到对话</h2><p></p><p></p><p>今年早些时候，我发表了一个由三部分",
-      "ai_summary": "Snowflake上的本体体系利用Cortex Code能力，从架构到部署实现可复用的对话式工作流。",
+      "ai_summary": "本文展示如何利用Snowflake Cortex Code技能将本体架构转化为可复用的对话式工作流，从模式生成完整技术栈。",
       "ai_tags": [
         "Snowflake",
         "本体",
-        "Cortex Code"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
-      "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh",
-      "published_time": "2026-04-25 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Cloudflare <a href=\"https://blog.cloudflare.com/enterprise-mcp/\">概要介绍</a>\"了一种参考架构，用于在企业范围内扩展 Model Context Protocol（MCP）部署，并将集中式治理、远程服务器基础设施和成本控制视为生产就绪型代理系统的关键要求。</p><p>&nbsp;</p><p>该公告发布之际，基于 MCP 的系统正面临着日益严格的审查。近期有研究<a href=\"https://www.veeam.com/blog/model-context-protocol-security-risks.html\">指出</a>\"，此类系统存在即时注入、供应链攻击以及服务器暴露或配置错误等风险，部分研究还证实，在 MCP 集成环境中存在任意代码执行和数据外泄的问题。</p><p>&nbsp;</p><p",
-      "ai_summary": "Cloudflare公布MCP架构方案，应对企业面临的安全与治理风险，强调集中治理和成本控制。",
-      "ai_tags": [
-        "MCP",
-        "安全",
-        "Cloudflare"
+        "Cortex Code",
+        "工作流"
       ],
       "ai_importance": 3
     },
@@ -51,9 +98,10 @@
       "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO",
       "published_time": "2026-04-25 13:04:45",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/77/2e/7740c8f0711c741e149bf2b5efdb2a2e.png\" /></p><p></p><p>整理｜华卫</p><p></p><p>4月24日，斑马智能在北京车展上发布车载Agent短剧产品“元神小剧”，并宣布该产品将登陆智能座舱，首发落地在比亚迪旗下新能源车型。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/db/db1a07cf698099aa68fd73bcd8ca72cc.png\" /></p><p></p><p>&nbsp;现场，比亚迪生态负责人王晨被聘任为“元神小剧首席体验官”，并围绕新能源汽车使用场景与内容消费节奏进行了分享。王晨表示，在充电效率持续提升的背景下，比亚迪已实现“5分钟充好，9分钟充饱，零下30度再多3分钟”。而这9分钟的碎片时间，恰好与短剧观看节奏完美契合，在斑马智能座舱内，用户利用充电时间可以刚好看完3集元神小剧，充电不再是出行的中断，而是沉浸式体",
-      "ai_summary": "斑马智能在北京车展发布车载Agent短剧产品“元神小剧”，将首发落地比亚迪车型，利用充电碎片时间观看。",
+      "ai_summary": "斑马智能在北京车展发布车载Agent短剧产品“元神小剧”，首发落地比亚迪车型，利用充电碎片时间观看。",
       "ai_tags": [
-        "智能座舱",
+        "斑马智能",
+        "车载Agent",
         "短剧",
         "比亚迪"
       ],
@@ -61,86 +109,46 @@
     },
     {
       "category": "infoq",
+      "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
+      "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh",
+      "published_time": "2026-04-25 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Cloudflare <a href=\"https://blog.cloudflare.com/enterprise-mcp/\">概要介绍</a>\"了一种参考架构，用于在企业范围内扩展 Model Context Protocol（MCP）部署，并将集中式治理、远程服务器基础设施和成本控制视为生产就绪型代理系统的关键要求。</p><p>&nbsp;</p><p>该公告发布之际，基于 MCP 的系统正面临着日益严格的审查。近期有研究<a href=\"https://www.veeam.com/blog/model-context-protocol-security-risks.html\">指出</a>\"，此类系统存在即时注入、供应链攻击以及服务器暴露或配置错误等风险，部分研究还证实，在 MCP 集成环境中存在任意代码执行和数据外泄的问题。</p><p>&nbsp;</p><p",
+      "ai_summary": "Cloudflare提出企业级MCP参考架构，强调集中治理、远程服务器和成本控制，以应对安全与治理风险。",
+      "ai_tags": [
+        "Cloudflare",
+        "MCP",
+        "安全",
+        "治理"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
       "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9",
       "published_time": "2026-04-25 08:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c7/yy/c798b24343a329a80f980a7369abfayy.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>请勿仅限于查询数据——让数据主动为你服务。本文提供一份实用指南，剖析一个简洁的 Snowflake 智能体架构设计，并通过逐步的代码实现，帮助你构建出第一个自治数据助手。</p><p></p><h3>前言</h3><p></p><p></p><p>多年来，构建智能数据系统往往意味着编写数以百计的模型、数据流水线、存储过程以及编排脚本。面对每一个新的业务问题，都需要开发新的转换逻辑、新的仪表盘或新的工作流。即使基于现代数据平台，开发模式本质上仍未改变：人工定义每一个步骤，",
-      "ai_summary": "Snowflake作为智能体运行时，从静态管道迈向自主数据系统，提供构建自治数据助手的实用指南。",
+      "ai_summary": "文章介绍如何将Snowflake作为智能体运行时，构建自治数据助手，从静态管道迈向自主数据系统。",
       "ai_tags": [
         "Snowflake",
         "智能体",
-        "数据系统"
+        "数据系统",
+        "自治"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
-      "link": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP",
-      "published_time": "2026-04-24 10:34:59",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b5/13/b524629c0a316197cd35yyacbfb39c13.png\" /></p><p>当你的公司开始记录你敲了哪个键、鼠标点了哪里，甚至不定期截下你的屏幕，你会怎么想？</p><p>&nbsp;</p><p>这正在 Meta 发生。据 Business Insider 获取的内部公告，Meta 已向美国员工下发通知，将在办公电脑上启用一款名为 Model Capability Initiative（MCI）的追踪软件，用于记录鼠标移动、点击以及键盘输入，然后把这些数据直接喂给公司的人工智能模型当训练素材。</p><p>&nbsp;</p><p>随后，一位 AI 研究科学家把这则备忘录转发到了自己团队的内部频道——Meta SuperIntelligence Labs，让同事们一起围观。</p><p>&nbsp;</p><p>备忘录解释称，这么做的目的是提升 AI 模型在那些至今还搞不定的人类操作上的能力，比如从下拉菜单中选择选项、使用键盘快捷键，以及在应用程",
-      "ai_summary": "Meta启用MCI追踪软件记录员工鼠标和键盘操作，用于训练AI模型，提升其在复杂操作上的能力。",
+      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2",
+      "published_time": "2026-04-24 11:18:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png\" /></p><p>作者 &nbsp;| 文朋</p><p></p><p>项目管理始终是企业提升生产效率的重要抓手。</p><p></p><p>但长期以来，大多数项目管理工具解决的，更多只是记录、同步与协同层面的表层问题：把需求记下来，把任务挂上去，把流程放进系统里。</p><p></p><p>一旦进入真实业务深水区，排期是否合理、依赖是否清晰、风险能否提前暴露，仍然高度依赖人的经验去判断、协调和补位。这也带来一个尴尬的现实：尽管工具迭代多年，企业项目交付效率始终没有实现质变。</p><p></p><p>随着 AI 浪潮到来，越来越多企业开始尝试把 AI 引入项目管理，用于写总结、做分析、辅助排期等单点提效。但如果 AI 与项目工具之间仍只是“外部协作”关系，停留在流程之外，就很难触及项目管理最核心的执行链路。</p><p></p><p>正如飞书项目负责人洪涛在飞书项目生态日上所说，未来的工作",
+      "ai_summary": "飞书项目通过开放架构实现AI友好，将AI融入项目管理核心执行链路，提升交付效率。",
       "ai_tags": [
-        "Meta",
-        "员工监控",
-        "AI训练"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "李志飞的“新实验”：当超级个体撞上真实组织",
-      "link": "https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j",
-      "published_time": "2026-04-24 09:20:26",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2a/e8/2af7e286ee4f2f6622d7bf8c738fd5e8.png\" /></p><p>2025 年端午节假期，李志飞把自己关在房间里，每天从早上9点干到凌晨1点。他用Cursor手搓了一个“AI时代的飞书”，十几万行代码，一天烧掉300美元的Token。三天后产品跑起来了，他的腰也坏了。</p><p></p><p>他把这段经历搬到公司的小型发布会，语气里难掩兴奋：“我们从一个有想法、有工程能力、但没有执行能力的团队，变成了一个超级个体。”那段时间他四处分享，在公司里讲，在湖畔大学讲，在朋友圈里讲。</p><p></p><p>“超级个体“成了AI圈最具诱惑力的叙事。几乎每位从业者，都被“一人顶一个团队”、“一夜重构产品”的故事撩拨过。</p><p></p><p>但这份狂热，只持续了一两个月。很快，李志飞发现了一个吊诡的事实：他自己确实变强了，但出门问问作为一家公司，却依然原地踏步。员工还是按旧方式开会、提需求、做文档、等排期、催研发。</p><p></p><p",
-      "ai_summary": "出门问问CEO李志飞用Cursor开发出“AI飞书”，但发现个人效率提升未带动公司整体进步，组织变革遇阻。",
-      "ai_tags": [
-        "超级个体",
-        "组织变革",
-        "AI开发"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd",
-      "published_time": "2026-04-24 10:51:20",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/6c/2d/6ce2fc07b456046a60327907cabe7a2d.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><h2>为何AI辅助开发需要遵循SDLC的严谨性</h2><p></p><p></p><p>SDLC（软件开发生命周期）是一套将需求转化为可运行软件的结构化流程，涵盖需求收集、方案设计、编码实施、测试及部署等环节。正是这套严谨的规范，防止大型项目因自身复杂性而走向崩溃。</p><p></p><p><a href=\"https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code-cli\">Snowflake Co",
-      "ai_summary": "Snowflake Cortex Code引入规范驱动开发，将SDLC方法论融入AI辅助工作流，确保大型项目开发严谨性。",
-      "ai_tags": [
-        "AI辅助开发",
-        "SDLC",
-        "Snowflake"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "银行业PDF表格提取方案重构：基于Java的分层方案",
-      "link": "https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx",
-      "published_time": "2026-04-24 04:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a8/ed/a8f26b558f07ebe8b1b8ce8d675bcfed.jpg\" /></p><p></p><h2>引言：金融服务领域的一个隐性难题</h2><p></p><p>在银行与金融科技领域，技术规划通常聚焦于 API、实时处理、云迁移及人工智能驱动的数据分析。然而，大量核心业务流程仍依赖企业系统中结构化程度最低的文件格式——PDF。银行对账单、交易报告、监管披露材料、开户资料以及客户上传文件不断以 PDF 的格式流入。这些文档需要为分析平台、风险模型、合规审核及客户视角分析提供数据支撑。</p><p></p><p>关键挑战在于 PDF 的结构。PDF 的设计初衷是保证视觉保真度，而非承载语义化数据。表格很少以标准表格对象的形式呈现，列靠间距来体现，行靠对齐来区分。页眉、页脚、免责声明、横幅等版式元素还经常会打断交易数据区域。这种情况在金融服务行业尤为突出，主要原因包括：对账单来自多家机构与供应商、模板会无预警发生变更、旧版对账单多为扫描图片，以及交易记录经常跨行",
-      "ai_summary": "银行业PDF表格提取面临结构难题，提出基于Java的分层方案以应对多来源、模板变更和扫描件等挑战。",
-      "ai_tags": [
-        "PDF提取",
-        "银行业",
-        "Java",
-        "分层方案"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "那些没空写的小需求，龙虾真能做吗？",
-      "link": "https://www.infoq.cn/article/WUXOyysFxiXtKcwgiafQ",
-      "published_time": "2026-04-24 08:55:02",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d6/b8/d6d0f06b48e3ff38ca43251be79ae1b8.jpg\" /></p><p>本次直播实测三款 AI 编程助手（火山引擎 ArkFlow、阿里云 QwenPop、博云 BoCloud）在研发场景中的落地能力。</p>",
-      "ai_summary": "直播实测三款AI编程助手（火山引擎ArkFlow、阿里云QwenPop、博云BoCloud）在研发场景中的落地能力。",
-      "ai_tags": [
-        "AI编程助手",
-        "实测",
-        "研发场景"
+        "飞书项目",
+        "AI",
+        "项目管理",
+        "开放"
       ],
       "ai_importance": 3
     }

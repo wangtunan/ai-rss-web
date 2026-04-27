@@ -5,17 +5,73 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "The West forgot how to make things, now it’s forgetting how to code",
-      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "published_time": "2026-04-26 06:24:42",
-      "raw_content": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 571</p>\n<p># Comments: 333</p>",
-      "ai_summary": "文章指出西方已忘记如何制造实物，如今又忘记如何编程，引发对技术能力衰退的讨论。",
+      "title": "Issue links now open in a popup",
+      "link": "https://github.com/orgs/community/discussions/192666",
+      "published_time": "2026-04-26 14:18:38",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/orgs/community/discussions/192666\">https://github.com/orgs/community/discussions/192666</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910546\">https://news.ycombinator.com/item?id=47910546</a></p>\n<p>Points: 233</p>\n<p># Comments: 124</p>",
+      "ai_summary": "GitHub更新了功能，现在问题链接会在弹出窗口中打开，改善用户体验。",
       "ai_tags": [
-        "技术",
-        "编程",
-        "制造业"
+        "GitHub",
+        "更新",
+        "用户体验"
       ],
       "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "Clay PCB Tutorial",
+      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "published_time": "2026-04-26 16:02:14",
+      "raw_content": "<p>Article URL: <a href=\"https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial\">https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911350\">https://news.ycombinator.com/item?id=47911350</a></p>\n<p>Points: 203</p>\n<p># Comments: 122</p>",
+      "ai_summary": "教程介绍如何使用粘土制作PCB电路板，提供了一种低成本的DIY方法。",
+      "ai_tags": [
+        "PCB",
+        "DIY",
+        "教程"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "Dillo Browser Release 3.3.0",
+      "link": "https://dillo-browser.org/release/3.3.0/",
+      "published_time": "2026-04-26 17:18:14",
+      "raw_content": "<p>Article URL: <a href=\"https://dillo-browser.org/release/3.3.0/\">https://dillo-browser.org/release/3.3.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911977\">https://news.ycombinator.com/item?id=47911977</a></p>\n<p>Points: 163</p>\n<p># Comments: 25</p>",
+      "ai_summary": "轻量级网页浏览器Dillo发布3.3.0版本，带来新功能和改进。",
+      "ai_tags": [
+        "浏览器",
+        "开源",
+        "Dillo"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "AI should elevate your thinking, not replace it",
+      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "published_time": "2026-04-26 20:03:12",
+      "raw_content": "<p>Article URL: <a href=\"https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/\">https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913650\">https://news.ycombinator.com/item?id=47913650</a></p>\n<p>Points: 316</p>\n<p># Comments: 263</p>",
+      "ai_summary": "文章主张AI应提升而非取代人类思考，强调人机协作的重要性。",
+      "ai_tags": [
+        "AI",
+        "思考",
+        "协作"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Statecharts: hierarchical state machines",
+      "link": "https://statecharts.dev/",
+      "published_time": "2026-04-26 09:32:22",
+      "raw_content": "<p>Article URL: <a href=\"https://statecharts.dev/\">https://statecharts.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908833\">https://news.ycombinator.com/item?id=47908833</a></p>\n<p>Points: 291</p>\n<p># Comments: 79</p>",
+      "ai_summary": "介绍状态图（Statecharts）作为分层状态机的概念，用于复杂系统建模。",
+      "ai_tags": [
+        "状态机",
+        "软件工程",
+        "设计模式"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
@@ -23,125 +79,69 @@
       "link": "https://news.ycombinator.com/item?id=47906253",
       "published_time": "2026-04-26 00:50:56",
       "raw_content": "<p>Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn't seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this",
-      "ai_summary": "用户反映iPhone每天自动安装Headspace应用，即使关闭自动下载，原因不明。",
+      "ai_summary": "用户反映 iPhone 每天自动安装 Headspace 应用，即使关闭自动下载，原因不明。",
       "ai_tags": [
         "iPhone",
-        "自动安装",
-        "应用"
+        "隐私",
+        "Bug"
       ],
       "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "EU Age Control: The trojan horse for digital IDs",
-      "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-      "published_time": "2026-04-26 03:44:28",
-      "raw_content": "<p><a href=\"https://web.archive.org/web/20260426040218/https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/\" rel=\"nofollow\">https://web.archive.org/web/20260426040218/https://juraj.bed...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907130\">https://news.ycombinator.com/item?id=47907130</a></p>\n<p>Points: 222</p>\n<p># Comments: 117</p>",
-      "ai_summary": "欧盟年龄验证系统可能成为数字身份证的突破口，引发隐私担忧。",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "published_time": "2026-04-26 20:41:06",
+      "raw_content": "<p>Article URL: <a href=\"https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d\">https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914165\">https://news.ycombinator.com/item?id=47914165</a></p>\n<p>Points: 496</p>\n<p># Comments: 269</p>",
+      "ai_summary": "作者以3万美元收购了社交网站Friendster，并分享了其后续计划。",
       "ai_tags": [
-        "欧盟",
-        "数字身份证",
-        "隐私"
+        "收购",
+        "社交网络",
+        "Friendster"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "published_time": "2026-04-26 20:18:37",
+      "raw_content": "<p>Article URL: <a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913855\">https://news.ycombinator.com/item?id=47913855</a></p>\n<p>Points: 176</p>\n<p># Comments: 46</p>",
+      "ai_summary": "SentinelOne实验室揭露了名为Fast16的高精度软件破坏活动，比Stuxnet早5年，与ShadowBrokers有关。",
+      "ai_tags": [
+        "网络安全",
+        "恶意软件",
+        "Stuxnet"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "published_time": "2026-04-26 00:12:47",
-      "raw_content": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 276</p>\n<p># Comments: 165</p>",
-      "ai_summary": "探讨阿尔茨海默病研究进展缓慢的原因，涉及科学和资金问题。",
+      "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
+      "link": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
+      "published_time": "2026-04-26 18:34:31",
+      "raw_content": "<p>Article URL: <a href=\"https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo\">https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47912645\">https://news.ycombinator.com/item?id=47912645</a></p>\n<p>Points: 211</p>\n<p># Comments: 321</p>",
+      "ai_summary": "Waymo表示无法避免使用自行车道，因为乘客希望在此上下车，引发争议。",
       "ai_tags": [
-        "阿尔茨海默病",
-        "研究进展",
-        "科学"
+        "自动驾驶",
+        "自行车道",
+        "Waymo"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "published_time": "2026-04-25 01:03:09",
-      "raw_content": "<p>Article URL: <a href=\"https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/\">https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47897681\">https://news.ycombinator.com/item?id=47897681</a></p>\n<p>Points: 296</p>\n<p># Comments: 147</p>",
-      "ai_summary": "纯文本已存在数十年，并将继续存在，强调其持久性和重要性。",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "published_time": "2026-04-26 13:58:13",
+      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/\">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910388\">https://news.ycombinator.com/item?id=47910388</a></p>\n<p>Points: 261</p>\n<p># Comments: 148</p>",
+      "ai_summary": "OpenAI 宣布不再使用 SWE-bench Verified 评估前沿编码能力，认为该基准已无法有效衡量模型性能。",
       "ai_tags": [
-        "技术",
-        "纯文本",
-        "历史"
+        "AI",
+        "基准测试",
+        "OpenAI"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
-      "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "published_time": "2026-04-25 15:59:15",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/niri-wm/niri/releases/tag/v26.04\">https://github.com/niri-wm/niri/releases/tag/v26.04</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902416\">https://news.ycombinator.com/item?id=47902416</a></p>\n<p>Points: 235</p>\n<p># Comments: 78</p>",
-      "ai_summary": "Niri 26.04发布，可滚动平铺Wayland合成器，提升窗口管理体验。",
-      "ai_tags": [
-        "Niri",
-        "Wayland",
-        "平铺"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "Turbo Vision 2.0 – a modern port",
-      "link": "https://github.com/magiblot/tvision",
-      "published_time": "2026-04-25 04:18:01",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/magiblot/tvision\">https://github.com/magiblot/tvision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47898597\">https://news.ycombinator.com/item?id=47898597</a></p>\n<p>Points: 195</p>\n<p># Comments: 56</p>",
-      "ai_summary": "Turbo Vision 2.0发布，这是一个现代移植版本。",
-      "ai_tags": [
-        "开源",
-        "软件",
-        "移植"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "USB Cheat Sheet (2022)",
-      "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "published_time": "2026-04-25 21:51:18",
-      "raw_content": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 368</p>\n<p># Comments: 66</p>",
-      "ai_summary": "USB速查表，涵盖USB标准、接口和协议等实用信息。",
-      "ai_tags": [
-        "USB",
-        "速查表",
-        "技术"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "published_time": "2026-04-25 05:56:12",
-      "raw_content": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47899053\">https://news.ycombinator.com/item?id=47899053</a></p>\n<p>Points: 583</p>\n<p># Comments: 348</p>",
-      "ai_summary": "新型10GbE USB适配器更小巧、散热更好且价格更低。",
-      "ai_tags": [
-        "硬件",
-        "网络",
-        "USB适配器"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "published_time": "2026-04-25 00:58:38",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md\">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47897647\">https://news.ycombinator.com/item?id=47897647</a></p>\n<p>Points: 358</p>\n<p># Comments: 50</p>",
-      "ai_summary": "用/dev/urandom替换IBM量子后端，讽刺量子计算炒作。",
-      "ai_tags": [
-        "量子计算",
-        "幽默",
-        "开源"
-      ],
-      "ai_importance": 3
+      "ai_importance": 4
     }
   ]
 }
