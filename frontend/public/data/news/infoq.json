@@ -5,16 +5,71 @@
   "items": [
     {
       "category": "infoq",
+      "title": "同一赛道，四种收费：Agent 控制层（Harness）开始分裂",
+      "link": "https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ",
+      "published_time": "2026-04-28 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/31/ae/31c061ff9b828236b724fc6d748af1ae.jpg\" /></p><p>本文最初发布于TheNewStack博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cb/cbc29b20401424591d8b7698702d51eb.png\" /></p><p></p><p>Adriandra Karuniawan为Unsplash+供图</p><p>&nbsp;</p><p>3月30日，Sycamore<a href=\"https://www.businesswire.com/news/home/20260330376116/en/Sycamore-Raises-$65M-to-Build-the-Trusted-Agent-Operating-System-for-the-Enterprise\">宣布</a>\"了6500万美元的种子轮融资，用于构建其创始人所说的自主企",
+      "ai_summary": "Agent控制层市场出现分化，Sycamore获6500万美元种子轮融资，用于构建企业自主Agent操作系统，不同厂商采用多种收费模式。",
+      "ai_tags": [
+        "Agent",
+        "控制层",
+        "融资"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "Agent 的“记忆断片”困局，该怎么破？",
+      "link": "https://www.infoq.cn/article/AetF3mwIAP5iljCD0iW7",
+      "published_time": "2026-04-28 01:17:42",
+      "raw_content": "<p><img src=\"https://media001.geekbang.org/402d1487421c71f180be6633b79f0102/snapshots/c85ea8be71ae45f6bc9fc38948ec50c8-00001.jpg\" /></p><p>从操作系统、中间件到终端应用方面，拆解Agent记忆断片难题，深聊记忆系统设计与工程化落地。</p>",
+      "ai_summary": "文章从操作系统、中间件到终端应用层面，拆解Agent记忆断片难题，探讨记忆系统设计与工程化落地。",
+      "ai_tags": [
+        "Agent",
+        "记忆系统",
+        "工程化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
+      "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33",
+      "published_time": "2026-04-28 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c2/86/c2a9f4488ff8d9b82ec16729b83cee86.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>EverMindCEO邓亚峰已确认出席 “<a href=\"http",
+      "ai_summary": "AICon上海大会将于6月26-27日举办，聚焦Agent从原型到量产的工程挑战、数据与记忆基础设施、安全可信等议题，邀请50+头部企业技术负责人分享经验。",
+      "ai_tags": [
+        "Agent",
+        "AICon",
+        "工程化"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
+      "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj",
+      "published_time": "2026-04-28 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/7d/a6/7d1dd23c638d56b5a4241a74795dbaa6.jpg\" /></p><p>Cloudflare 在其 <a href=\"https://www.cloudflare.com/agents-week/\">Agents Week</a>\" 活动中宣布，Sandboxes 和 Cloudflare Containers <a href=\"https://blog.cloudflare.com/sandbox-ga/\">正式上线</a>\"，为 AI 代理工作负载提供隔离的持久化 Linux 环境。</p><p></p><p>该服务于<a href=\"https://github.com/cloudflare/sandbox-sdk\">去年 6 月首次推出测试版</a>\"，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflar",
+      "ai_summary": "Cloudflare正式发布Sandboxes，为AI代理提供隔离的持久化Linux环境，新增安全凭证注入、PTY终端、持久化代码解释器、快照恢复等功能，采用Active CPU定价。",
+      "ai_tags": [
+        "Cloudflare",
+        "AI代理",
+        "隔离环境"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
       "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
       "link": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1",
       "published_time": "2026-04-27 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/2c/225cf1c81c21c57e6e70e57be79c7b2c.jpg\" /></p><p>我得跟你们说句实话。六个月前，我还是 <a href=\"https://graphql.org/learn/federation/\">GraphQL Federation</a>\" 的布道者。我们花了六个月的时间，利用 <a href=\"https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation\">Apollo</a>\" 构建了一个联邦图，其中包含模式拼接、网关配置，以及一套复杂的 CI/CD 管道（每次提交都会重新生成类型）。纸上谈兵时，这套方案看起来很完美。但在生产环境中呢？每次部署都像是要发生一场灾难。</p><p>&nbsp;</p><p>转折点发生在周五下午的一次例行部署中。我们的产品团队更新了某项服务中的一个字段类型，模式重新生成成功，测试通过，于是我",
-      "ai_summary": "作者从GraphQL Federation转向tRPC，分享在生产中遇到的部署灾难，认为tRPC是更稳定的TypeScript替代方案。",
+      "ai_summary": "作者从GraphQL Federation转向tRPC，认为tRPC在生产环境中更稳定，部署更简单。",
       "ai_tags": [
-        "tRPC",
+        "API",
         "GraphQL",
-        "Apollo Federation",
-        "TypeScript"
+        "tRPC"
       ],
       "ai_importance": 3
     },
@@ -26,10 +81,9 @@
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/8f/22e46c84e27507ee06763cda9c6f6d8f.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>阿里云智能集团高级技术专家刘少伟已确认出席 “<a href=\"ht",
       "ai_summary": "阿里云高级技术专家刘少伟将出席AICon上海站，分享企业Agent自动化行动架构的构建经验。",
       "ai_tags": [
-        "阿里云",
+        "AI",
         "Agent",
-        "AICon",
-        "自动化"
+        "会议"
       ],
       "ai_importance": 3
     },
@@ -39,10 +93,25 @@
       "link": "https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ",
       "published_time": "2026-04-27 04:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f3/bc/f34945df5dab0e5c97eb98a84d2f06bc.jpg\" /></p><p>Slack 对其通知系统进行了重构，引入<a href=\"https://slack.engineering/how-slack-rebuilt-notifications/\">统一架构以提升跨平台的一致性和用户可控性</a>\"。此次重设计旨在解决长期存在的问题，包括通知偏好设置碎片化以及行为不可预测，这些问题随着平台规模扩大，已经逐渐成为用户体验不佳和支持成本上升的重要来源。</p><p>&nbsp;</p><p>根据 Slack 工程团队的说法，与通知相关的问题一直是客户支持工单的主要来源之一。其根本原因在于其多套偏好模型的长期叠加，这些模型在语义上存在差异，导致桌面端与移动端之间的行为不一致。用户往往难以理解为何会收到某些通知，或者为何错过了其他通知。</p><p>&nbsp;</p><p>Slack 高级软件工程师 <a href=\"https://www.link",
-      "ai_summary": "Slack 重构通知系统，统一架构提升跨平台一致性和用户可控性，设置参与度提升5倍。",
+      "ai_summary": "Slack重构通知系统，采用统一架构提升跨平台一致性和用户可控性，解决偏好设置碎片化问题，设置参与度提升5倍。",
       "ai_tags": [
         "Slack",
-        "通知系统"
+        "通知系统",
+        "重构"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "智能体工程的隐性技术债务",
+      "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
+      "published_time": "2026-04-27 03:02:04",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
+      "ai_summary": "文章探讨智能体工程中的隐性技术债务，指出从原型到生产环境时可能出现的可靠性、可维护性问题。",
+      "ai_tags": [
+        "智能体",
+        "技术债务",
+        "工程化"
       ],
       "ai_importance": 3
     },
@@ -52,10 +121,11 @@
       "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE",
       "published_time": "2026-04-27 07:50:35",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/dc/fb/dcf6823f669c06685e95df92a95e9afb.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？</p><p></p><p>Snowflake 在亚太地区举办的「Data and AI Fast Track」系列深度分享或许能够提供一种思路和答案，为了帮助数据从业者在技术浪潮中重建坐标，我们特别选摘了系列直播内容的精华版，本文将探讨以下三个核心命题：</p><p>从一颗牛油果的成熟，看懂 AI 是如何从工具进化为执行者的；当 AI 算得比你快时，为什么",
-      "ai_summary": "探讨 AI 时代数据分析师应培养的核心能力，并提供行动路线图。",
+      "ai_summary": "探讨AI时代数据分析师的核心能力，引用Snowflake的分享，分析AI从工具进化为执行者的过程，以及数据从业者如何重建技能体系。",
       "ai_tags": [
+        "数据分析",
         "AI",
-        "数据分析"
+        "技能提升"
       ],
       "ai_importance": 3
     },
@@ -65,83 +135,13 @@
       "link": "https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6",
       "published_time": "2026-04-27 05:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/15/32/15d86013f2f252eaee32a4ed17501732.jpg\" /></p><p></p><h2>一度成立的假设，终被打破</h2><p></p><p>云架构师们所采用的故障模型广为人知且经过了实战检验：通过自动扩缩容来处理实例故障，以多可用区部署抵御数据中心级别的故障，而区域则处于架构顶层，作为故障爆炸半径的最终边界。这一模型诞生于以硬件故障、自然灾害和软件缺陷为主要威胁的时代，对这类威胁模型而言是合理的。区域在设计上相互独立，具有独立的供电、网络及物理基础设施。</p><p>&nbsp;</p><p>这一假设建立在一个前提之上，即云区域只会因技术原因发生故障，且故障模式均在云服务商的可恢复范围内。但这个前提正悄然崩塌，地缘政治事件并不遵循这一规律。当一国政府切断边境网络连接时，云区域不会以“优雅降级”的方式失效；当制裁迫使云服务商暂停对整个国家的服务时，服务也无法按可预期的时间线恢复。此外，当冲突危及物理基础设施或数据驻留法规突然导致跨境数据复制不再",
-      "ai_summary": "探讨地缘政治风险下云区域失效对高可用架构的挑战与重构。",
+      "ai_summary": "地缘政治事件打破传统云区域故障模型，文章探讨当云区域因政治原因失效时的高可用重构策略。",
       "ai_tags": [
-        "云计算",
-        "高可用"
+        "云架构",
+        "高可用",
+        "地缘政治"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
-      "link": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym",
-      "published_time": "2026-04-27 07:02:32",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>4 月 27 日，蚂蚁集团旗下全模态AI 助手灵光&nbsp;App&nbsp;上线“体验世界模型”功能。用户上传一张图片，即可在手机端生成一个60s的&nbsp;3D世界，以第一人称视角进入其中，像玩游戏一样在&nbsp;AI&nbsp;实时生成的场景中漫游。无需本地部署，无需复杂配置，打开App 即可体验。这是世界模型首次以移动端产品的形态，面向普通用户开放。</p><p>&nbsp;</p><p>支撑这一体验的核心，是蚂蚁灵波科技开源的世界模型LingBot-World-Fast。该模型在480P 分辨率下可实现16 fps 实时生成，端到端交互延迟控制在 1 秒以内，兼具通用性、长时序一致性与⾼动态场景表现能力。</p><p>&nbsp;</p><p>LingBot-World-Fast地址：https://github.com/robbyant/lingbot-w",
-      "ai_summary": "蚂蚁灵波开源世界模型LingBot-World-Fast，支持实时生成3D世界。",
-      "ai_tags": [
-        "AI",
-        "开源",
-        "世界模型"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "智能体工程的隐性技术债务",
-      "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
-      "published_time": "2026-04-27 03:02:04",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
-      "ai_summary": "本文探讨智能体从本地构建到生产部署后面临的技术债务问题，引用谷歌2015年相关研究，强调工程化挑战。",
-      "ai_tags": [
-        "智能体",
-        "技术债务",
-        "工程化"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地",
-      "link": "https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq",
-      "published_time": "2026-04-27 07:32:26",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c5/5f/c53b74fb32d7cb3a37e5a006b34yy15f.png\" /></p><p>4月26日，国产 GPU 创企摩尔线程（688795.SH）披露了2025年报及2026年一季报。根据公告，摩尔线程2025年实现营收15.05亿元，同比增长243.37%；毛利总额达到9.87亿元，较上年同期增长218.43%。2026年第一季度，摩尔线程实现营收7.38亿元，同比增长155.35%。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c2/c20a307860cbc208cd221c40cba87f88.png\" /></p><p></p><p>随着摩尔线程商业化进程提速，2025年业务保持高速增长，经营表现创历史新高。2022至2024年，摩尔线程营业收入复合增长率超200%；2025年实现营业收入15.05亿元，同比增长243.37%。凭借产品全功能技术优势与客户高度认可，毛利规模",
-      "ai_summary": "摩尔线程2025年营收15.05亿元，同比增长243%，研发占比超86%。",
-      "ai_tags": [
-        "GPU",
-        "财报"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
-      "link": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW",
-      "published_time": "2026-04-27 02:43:39",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d5/f3/d5ccdbf9204fdeb7479e8bc2e18aacf3.jpg\" /></p><p>2026 年 4 月 23 日，OpenAI 做了两件事：发布了 GPT-5.5，并把价格翻了一倍。</p><p>&nbsp;</p><p>按常理，这应该是属于 OpenAI 的一天。全新预训练架构“Spud”的首个公开版本，SOTA 级的基准测试成绩，SemiAnalysis 在第一时间给出了“GPT-5.5 已经抵达前沿”的评价。但翻看定价页面，开发者很难不算账：每百万输出 token 收费 30 美元，比前代 GPT-5.4 贵了一倍，甚至比一贯以昂贵著称的 Claude Opus 4.7 还要贵出一截。</p><p>&nbsp;</p><p>而仅仅过了不到一天，4 月 24 日，DeepSeek 把 V4 的模型权重扔到了 HuggingFace 上。MIT 开源协议，100 万 token 上下文窗口，以及一个极其低廉的价格：输出 token 每百万 3.48 美",
-      "ai_summary": "OpenAI发布GPT-5.5并提价，DeepSeek随即开源V4模型，价格更低且性能更优，引发开发者关注。",
-      "ai_tags": [
-        "OpenAI",
-        "DeepSeek",
-        "大模型",
-        "开源"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
-      "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi",
-      "published_time": "2026-04-26 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/b4/de/b49a39374f474a853bfedd8eb69050de.jpg\" /></p><p>Anthropic为<a href=\"https://claude.com/product/claude-code\">Claude Code</a>\"推出了新的<a href=\"https://claude.com/blog/code-review\">Code Review</a>\"功能，新增了一个基于智能体的拉取请求（pull request）审查系统，可由多个AI审查器协同分析代码变更。该功能目前以研究预览形式向Team和Enterprise用户开放。</p><p>&nbsp;</p><p>该系统会在拉取请求创建后自动运行，并调度多个智能体并行检查变更。Anthropic表示，这些智能体会查找潜在的缺陷，并验证其发现以降低误报，按严重程度对问题排序，随后在拉取请求中发布汇总审查意见和行内评论。</p><p>&nbsp;</p><p>Anthropic称，分配的智能体数量",
-      "ai_summary": "Anthropic为Claude Code推出基于智能体的代码审查功能，支持多AI审查器并行分析PR，降低误报。",
-      "ai_tags": [
-        "Anthropic",
-        "Claude Code",
-        "代码审查",
-        "AI"
-      ],
-      "ai_importance": 4
     }
   ]
 }

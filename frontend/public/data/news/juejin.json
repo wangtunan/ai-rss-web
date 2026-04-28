@@ -5,19 +5,17 @@
   "items": [
     {
       "category": "juejin",
-      "title": "DeepSeek-V4-Pro 写代码到底行不行？我拿 GLM-5.1 跟它硬碰硬比了一轮",
-      "link": "https://juejin.cn/post/7632230684447211554",
-      "published_time": "2026-04-24 15:24:23",
-      "raw_content": "<p>大家好，我是孟健。</p>\n<p>DeepSeek-V4-Pro 发了，官方说代码能力大幅升级。这种话我听得多了，每次新模型发布都这么说。</p>\n<p>但我确实好奇：V4 在写代码这件事上，到底有没有追上 GLM-5.1？</p>\n<p>GLM-5.1 是我日常写代码的主力模型，用了几个月了，它什么水平我心里有数。所以这次我不跑 benchmark，不拼跑分，就拿我实际工作中的四个场景，让两个模型正面硬刚。</p>\n<p><strong>四个场景：源码分析、功能实现、大文件拆分、项目架构分析。</strong></p>\n<p>最后再算笔账，看看成本谁更划算。</p>\n<h2>场景一：项目分析，分析 Claude Code 源码</h2>\n<p>前段时间 Claude Code 源码泄露，我用 GLM-5.1 完整分析了一遍 Claude Code 源码，今天 DeepSeek-V4-Pro 发布，我同样也让它分析一遍源码看看。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6",
-      "ai_summary": "作者对比DeepSeek-V4-Pro和GLM-5.1在代码编写上的表现，通过四个实际场景测试，并计算成本。",
+      "title": "做了 6 年前端，技术不差却拿不到 Offer？",
+      "link": "https://juejin.cn/post/7632998012273197094",
+      "published_time": "2026-04-27 03:19:16",
+      "raw_content": "<p>最近面了一个有着 6 年工作经验的前端候选人。</p>\n<p><img alt=\"2026年4月27日 11_05_32.png\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/620d9b5cccaf41269cfce390464d1588~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777864756&amp;x-signature=9Mu6x8TXBWKmYWk8Gd65O%2F3b%2B1A%3D\" /></p>\n<p>他的简历写得很漂亮：<strong>熟练掌握 React 19 核心特性，深入理解 Fiber 调度原理，精通 Webpack/Vite 工程化调优</strong> 。前半个小时的八股文环节，他答得滴水不漏。</p>\n<p>但在最后的工程场景定级环节，我给他写了不通过❌。</p>\n<p>因为我发现，他干",
+      "ai_summary": "一位6年前端面试者因缺乏工程实践能力被拒，反思技术深度与实战结合的重要性。",
       "ai_tags": [
-        "AI",
-        "代码",
-        "对比",
-        "DeepSeek",
-        "GLM"
+        "前端",
+        "面试",
+        "工程能力"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "juejin",
@@ -25,13 +23,41 @@
       "link": "https://juejin.cn/post/7632135814106185770",
       "published_time": "2026-04-24 08:34:44",
       "raw_content": "<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e376230ef5d0461cb492d97c51462ea2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Ci56Oo5YWI55SfVFQ=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777624483&amp;x-signature=lmMaWPgWEHhaTA3g8Ph8cKUlH9I%3D\" /></p>\n<p>做后台管理系统这件事，前端同学应该都不陌生。</p>\n<p>菜单、权限、表格、表单、图表、用户、角色、日志、仪表盘……这些能力几乎每个后台项目都会有。</p>\n<p>但做得越多，我越发现一个很现实的问题：</p>\n<p><strong>很多后台系统功能其实不少，但打开第一眼，还是会让人觉得很“模板”、很普通，甚至有点廉价。</strong></p>\n<p>这不是说它不能用。</p>\n<p>相反，很多系统",
-      "ai_summary": "探讨后台管理系统功能丰富但外观廉价的原因，指出模板化、普通设计的问题。",
+      "ai_summary": "许多后台系统功能丰富但界面廉价，原因在于设计模板化、缺乏细节打磨，导致用户体验不佳。",
       "ai_tags": [
-        "后台系统",
-        "设计",
-        "廉价感"
+        "后台管理",
+        "UI设计",
+        "用户体验"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "juejin",
+      "title": "DeepSeek-V4-Pro 写代码到底行不行？我拿 GLM-5.1 跟它硬碰硬比了一轮",
+      "link": "https://juejin.cn/post/7632230684447211554",
+      "published_time": "2026-04-24 15:24:23",
+      "raw_content": "<p>大家好，我是孟健。</p>\n<p>DeepSeek-V4-Pro 发了，官方说代码能力大幅升级。这种话我听得多了，每次新模型发布都这么说。</p>\n<p>但我确实好奇：V4 在写代码这件事上，到底有没有追上 GLM-5.1？</p>\n<p>GLM-5.1 是我日常写代码的主力模型，用了几个月了，它什么水平我心里有数。所以这次我不跑 benchmark，不拼跑分，就拿我实际工作中的四个场景，让两个模型正面硬刚。</p>\n<p><strong>四个场景：源码分析、功能实现、大文件拆分、项目架构分析。</strong></p>\n<p>最后再算笔账，看看成本谁更划算。</p>\n<h2>场景一：项目分析，分析 Claude Code 源码</h2>\n<p>前段时间 Claude Code 源码泄露，我用 GLM-5.1 完整分析了一遍 Claude Code 源码，今天 DeepSeek-V4-Pro 发布，我同样也让它分析一遍源码看看。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6",
+      "ai_summary": "对比DeepSeek-V4-Pro和GLM-5.1在代码编写上的实际表现，包括源码分析、功能实现等场景。",
+      "ai_tags": [
+        "AI",
+        "代码生成",
+        "模型对比"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "基于四层Skill体系的前端团队AI提效实践",
+      "link": "https://juejin.cn/post/7632121609760243748",
+      "published_time": "2026-04-24 08:40:56",
+      "raw_content": "<h2>我如何用 AI Skill 体系让前端团队提效 50%</h2>\n<blockquote>\n<p>不是让 AI 写更多代码，而是让 AI 懂你的项目规范、设计规范、编码风格。</p>\n</blockquote>\n<h3>目录</h3>\n<ul>\n<li><a href=\"https://juejin.cn/post/7632121609760243748#%E4%BB%8Eai-%E5%86%99%E4%BB%A3%E7%A0%81%E4%B8%8D%E9%9D%A0%E8%B0%B1%E8%AF%B4%E8%B5%B7\" title=\"#%E4%BB%8Eai-%E5%86%99%E4%BB%A3%E7%A0%81%E4%B8%8D%E9%9D%A0%E8%B0%B1%E8%AF%B4%E8%B5%B7\">从「AI 写代码不靠谱」说起</a></li>\n<li><a href=\"https://juejin.cn/post/7632121609760243748#%E6%88%91%E6%90%AD%E4%BA%86%E4%BB%80%E4%B9%88%E4%B8%80%E5",
+      "ai_summary": "介绍基于四层Skill体系的前端团队AI提效实践，使AI理解项目规范，提升效率50%。",
+      "ai_tags": [
+        "前端",
+        "AI",
+        "提效"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "juejin",
@@ -39,10 +65,10 @@
       "link": "https://juejin.cn/post/7631956346273087524",
       "published_time": "2026-04-24 07:32:07",
       "raw_content": "<p>“鸽王”DeepSeek V4 终于来了~!</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b5ce1087abc541fea6a41577f246603e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777620727&amp;x-signature=1MNaOlA7Ng2xISnhMzs%2FXN6mmRE%3D\" /></p>\n<p>虽然从物理时间上看，V3 到 V4 只用了一年多时间。 但是整个 AI 界已经天翻地覆了，从我们的心里感受来说，也是过了好久好久了。</p>\n<p>好不好的先不说，能更新，就是个好事情了。</p>\n<p><strong>最好是能把全球的 Token 价格打下来！</strong></p>\n<p>下面就赶紧来看一下，有哪些亮点吧！</p>\n<p>目前可以看到",
-      "ai_summary": "DeepSeek V4 发布，虽仅距 V3 一年多，但 AI 界已巨变，期望能降低全球 Token 价格。",
+      "ai_summary": "DeepSeek V4 发布，旨在降低 Token 价格，推动 AI 发展。",
       "ai_tags": [
-        "DeepSeek",
         "AI",
+        "DeepSeek",
         "Token"
       ],
       "ai_importance": 4
@@ -53,12 +79,11 @@
       "link": "https://juejin.cn/post/7631832575604129811",
       "published_time": "2026-04-24 03:51:27",
       "raw_content": "<p>难受啊！</p>\n<p>最近国产的 CodingPlan 全面收拢，要么转 TokenPlan 了，要么转配额少得要命，动不动就是 200 元一个月。</p>\n<p><img alt=\"\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/384a3baead7446dc8d1a3630a94f830f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777607487&amp;x-signature=BY%2FZSKvsGvXvDl2LuVD1c3SB35c%3D\" /></p>\n<p>要知道 OpenAI 的 GPT5.5 + Codex，也才 20 美金，能力比你们强一个级别，价格也才 140 RMB 不到，配额还比你们多很多。</p>\n<p>你们说怎么选？</p>\n<p>我来给你们分析一下现状！</p>\n<p><img alt=",
-      "ai_summary": "国产 CodingPlan 收紧免费额度，转向高额收费，而 OpenAI GPT5.5+Codex 仅20美元，性价比更高。",
+      "ai_summary": "国产 CodingPlan 收费上涨，用户转向 OpenAI 的 GPT5.5 + Codex，后者性价比更高。",
       "ai_tags": [
+        "AI编程",
         "CodingPlan",
-        "GPT5.5",
-        "AI",
-        "收费"
+        "GPT5.5"
       ],
       "ai_importance": 4
     },
@@ -68,14 +93,27 @@
       "link": "https://juejin.cn/post/7631745987393224745",
       "published_time": "2026-04-24 00:46:09",
       "raw_content": "<p><strong>我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一</strong>，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板：</p>\n<ul>\n<li>组件样式能力太依赖 modifier 和参数堆叠</li>\n<li>复杂自适应布局缺少真正的二维 Grid 和标准 FlexBox</li>\n<li>runtime 对高频随机结构编辑的底层支持不够理想</li>\n</ul>\n<p>虽然都是实验性质，但是也明确了 Jetpack Compose 接下来的方向，这也是为什么今年还没过，我就确定是最有意义的版本，因为这些 API 走到稳定，今年都够呛了：</p>\n<blockquote>\n<p><strong>Styles、MediaQuery、Grid、FlexBox 和新的 SlotTable 实现，都能看起来 Google 在把 Compose 从当前写法推向下一代写法</strong>。</p>\n</blockquote>\n<h2>Styles</h2>\n<p>首先就是 Jetpack Compose 1.11",
-      "ai_summary": "Jetpack Compose 1.11 发布，引入 Styles、MediaQuery、Grid、FlexBox 等实验性 API，补齐长期短板，推动下一代写法。",
+      "ai_summary": "Jetpack Compose 1.11 引入 Styles、MediaQuery、Grid、FlexBox 等实验性 API，补齐长期短板，推动下一代写法。",
       "ai_tags": [
         "Jetpack Compose",
         "Android",
-        "UI",
-        "更新"
+        "UI框架"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "2026年3月面20个前端",
+      "link": "https://juejin.cn/post/7631753968202022955",
+      "published_time": "2026-04-23 07:18:20",
+      "raw_content": "<h3>我面了二十个前端</h3>\n<p>3月，我参与了前端岗位的招聘工作。HR初筛了上百份简历后，递到我手中的还有30余份，前前后后面试了近二十场，最终才招到 2 位合适的伙伴入职。今天就和大家好好聊聊，也给正在求职的同行、负责招聘的伙伴，分享一点真实的观察。</p>\n<hr />\n<h4>一、面试者画像</h4>\n<p>面试者里，<strong>5到10年工作经验</strong>的伙伴占了大头，不再是以往刚入行一两年的新人。学历覆盖很广，其中一本、二本院校的伙伴居多，大家来自不同的行业，互联网、传统软件、研究所项目都有涉及，甚至有伙伴长期深耕地图、电子表格这类垂直领域，各自都有自己的积累。</p>\n<p>还有一个很明显的现象，就是大家的简历上，大多都标注了 <strong>AI相关的能力</strong>——基础一点的，会写掌握各类AI编程辅助工具；层次标注得高一些的，会写具备Agent开发能力。但实际深入追问后发现，这些AI相关的经历，大多是做过简单的文本问答类应用，本身技术含量并不高；还有更多伙伴，其实只负责了前端打字渲染的部分，对于Agent的核心流程、底层逻辑，根本没有清",
+      "ai_summary": "2026年3月前端招聘面试20人，仅录用2人。面试者多为5-10年经验，简历多标注AI能力但实际深度不足。",
+      "ai_tags": [
+        "前端招聘",
+        "面试",
+        "AI能力"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "juejin",
@@ -83,12 +121,11 @@
       "link": "https://juejin.cn/post/7631506248647917609",
       "published_time": "2026-04-23 07:36:41",
       "raw_content": "<p>CodingPlan 出现还没几个月，就快要消失了。</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d46d54ad361649e7a55294a76fd34bf9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777534600&amp;x-signature=wP8m88NebAP2f6AWVhVnuoeqtII%3D\" /></p>\n<p>各平台 Token 的配额是越来越少了！</p>\n<p>今天收到了智谱的通知：</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/80d411f69ef4440486a035ff52dca8a3~tplv-73owjymdk6-jj-mark-v1:",
-      "ai_summary": "智谱 CodingPlan 老套餐绝版，各平台 Token 配额减少，收到智谱通知调整。",
+      "ai_summary": "智谱 CodingPlan 老套餐绝版，各平台 Token 配额减少，引发用户不满。",
       "ai_tags": [
-        "智谱",
         "CodingPlan",
         "Token",
-        "调整"
+        "智谱"
       ],
       "ai_importance": 3
     },
@@ -98,58 +135,13 @@
       "link": "https://juejin.cn/post/7631495035477983242",
       "published_time": "2026-04-23 01:58:36",
       "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
-      "ai_summary": "探讨RAG技术提及减少的原因，作者为wangEditor创始人，正开发新项目。",
+      "ai_summary": "RAG 技术讨论热度下降，可能因实际应用效果有限或转向更先进的方法。",
       "ai_tags": [
         "RAG",
         "AI",
         "技术趋势"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "juejin",
-      "title": "2026年3月面20个前端",
-      "link": "https://juejin.cn/post/7631753968202022955",
-      "published_time": "2026-04-23 07:18:20",
-      "raw_content": "<h3>我面了二十个前端</h3>\n<p>3月，我参与了前端岗位的招聘工作。HR初筛了上百份简历后，递到我手中的还有30余份，前前后后面试了近二十场，最终才招到 2 位合适的伙伴入职。今天就和大家好好聊聊，也给正在求职的同行、负责招聘的伙伴，分享一点真实的观察。</p>\n<hr />\n<h4>一、面试者画像</h4>\n<p>面试者里，<strong>5到10年工作经验</strong>的伙伴占了大头，不再是以往刚入行一两年的新人。学历覆盖很广，其中一本、二本院校的伙伴居多，大家来自不同的行业，互联网、传统软件、研究所项目都有涉及，甚至有伙伴长期深耕地图、电子表格这类垂直领域，各自都有自己的积累。</p>\n<p>还有一个很明显的现象，就是大家的简历上，大多都标注了 <strong>AI相关的能力</strong>——基础一点的，会写掌握各类AI编程辅助工具；层次标注得高一些的，会写具备Agent开发能力。但实际深入追问后发现，这些AI相关的经历，大多是做过简单的文本问答类应用，本身技术含量并不高；还有更多伙伴，其实只负责了前端打字渲染的部分，对于Agent的核心流程、底层逻辑，根本没有清",
-      "ai_summary": "2026年3月前端面试20人，仅招2人。面试者多为5-10年经验，简历多标注AI能力但实际深度不足。",
-      "ai_tags": [
-        "前端",
-        "面试",
-        "招聘",
-        "AI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "juejin",
-      "title": "稚晖君又开始摇人了，有点猛啊！",
-      "link": "https://juejin.cn/post/7631311804195471396",
-      "published_time": "2026-04-23 01:50:05",
-      "raw_content": "<p>前两天我们刚写了篇文章，梳理了一下机器人领域独角兽公司宇树科技的最新薪资和招人标准。</p>\n<p>今天这篇文章，我们再来盘点一下这个行业另外一家后起之秀，相信大家也能猜到。</p>\n<p>没错，那就是：<strong>智元机器人 AGIBOT</strong>。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/be88af8fbdef43c7b751b79d117d66ac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29kZVNoZWVw:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777514029&amp;x-signature=crD7Ozy2XDH9kt%2FX4Wh7WeeBmSk%3D\" /></p>\n<p>我详细横向比较了一下，我发现智元和宇树这两家公司无论是业务产品还是技术研发，还真是有不小的重叠。当然，业界也喜欢拿这两家领域内的先行者来作",
-      "ai_summary": "智元机器人（AGIBOT）大量招聘，与宇树科技业务重叠，业界常将两者比较。",
-      "ai_tags": [
-        "智元机器人",
-        "招聘",
-        "机器人",
-        "宇树科技"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "juejin",
-      "title": "uni-app 组件库 Wot UI 2.0 发布了，我们带来了这些改变！",
-      "link": "https://juejin.cn/post/7631138406542966830",
-      "published_time": "2026-04-22 04:49:15",
-      "raw_content": "<p>大家好，我是不如摸鱼去，好久不见。</p>\n<p>进入 2026 以来，大家可以感受到 wot-ui 的迭代速度明显放缓了，我们最近也接到了无数催更的消息。很多人以为我们是在偷懒或者放弃更新了，其实不是，我们是在偷偷写代码然后准备惊艳所有人！（其实是苦苦码了好几个月，来点点赞吧）</p>\n<p>接下来看看我们带来了哪些东西吧！</p>\n<h2>V2</h2>\n<p><img alt=\"\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/70ebf304425e4fde8afc34b572ffd934~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5LiN5aaC5pG46bG85Y67:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777438154&amp;x-signature=SZ1%2B1lLPlVhU6UJzY75NNhc6ZTc%3D\" /></p>\n<p>如今已经是 AI 编程时代了，Wo",
-      "ai_summary": "uni-app组件库Wot UI 2.0发布，经过数月开发带来多项更新，适应AI编程时代。",
-      "ai_tags": [
-        "uni-app",
-        "Wot UI",
-        "组件库",
-        "更新"
-      ],
-      "ai_importance": 4
     }
   ]
 }

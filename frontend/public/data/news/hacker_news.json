@@ -5,141 +5,138 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "published_time": "2026-04-26 21:23:20",
-      "raw_content": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/\">https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914677\">https://news.ycombinator.com/item?id=47914677</a></p>\n<p>Points: 212</p>\n",
-      "ai_summary": "北美蝴蝶数量大幅下降，西部帝王蝶种群尤其令人担忧。",
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "link": "https://zsnes.com/",
+      "published_time": "2026-04-27 17:50:10",
+      "raw_content": "<p>Article URL: <a href=\"https://zsnes.com/\">https://zsnes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924877\">https://news.ycombinator.com/item?id=47924877</a></p>\n<p>Points: 252</p>\n<p># Comments: 69</p>",
+      "ai_summary": "Super ZSNES是一款GPU加速的SNES模拟器，在Hacker News上获得252分和69条评论。",
       "ai_tags": [
-        "生态",
-        "蝴蝶",
-        "北美"
+        "模拟器",
+        "GPU",
+        "SNES"
       ],
       "ai_importance": 2
     },
     {
       "category": "hacker_news",
-      "title": "Self-updating screenshots",
-      "link": "https://interblah.net/self-updating-screenshots",
-      "published_time": "2026-04-26 07:00:39",
-      "raw_content": "<p>Article URL: <a href=\"https://interblah.net/self-updating-screenshots\">https://interblah.net/self-updating-screenshots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908051\">https://news.ycombinator.com/item?id=47908051</a></p>\n<p>Points: 296</p>\n<p># Comments: 45</p>",
-      "ai_summary": "探讨自更新截图技术，使截图内容能随源数据自动刷新。",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "published_time": "2026-04-27 20:24:33",
+      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 380</p>\n<p># Comments: 256</p>",
+      "ai_summary": "一个关于颜色感知的互动网站，在Hacker News上获得380分和256条评论。",
       "ai_tags": [
-        "前端",
-        "截图",
-        "自动化"
+        "颜色",
+        "互动",
+        "Hacker News"
       ],
       "ai_importance": 2
     },
     {
       "category": "hacker_news",
-      "title": "Issue links now open in a popup",
-      "link": "https://github.com/orgs/community/discussions/192666",
-      "published_time": "2026-04-26 14:18:38",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/orgs/community/discussions/192666\">https://github.com/orgs/community/discussions/192666</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910546\">https://news.ycombinator.com/item?id=47910546</a></p>\n<p>Points: 235</p>\n<p># Comments: 125</p>",
-      "ai_summary": "GitHub的Issue链接现在会在弹出窗口中打开。",
+      "title": "To my students",
+      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "published_time": "2026-04-27 23:57:39",
+      "raw_content": "<p>Article URL: <a href=\"http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\">http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47928828\">https://news.ycombinator.com/item?id=47928828</a></p>\n<p>Points: 260</p>\n<p># Comments: 155</p>",
+      "ai_summary": "一篇面向学生的文章，在Hacker News上获得260分和155条评论。",
       "ai_tags": [
-        "GitHub",
-        "功能更新",
-        "用户体验"
+        "教育",
+        "Hacker News"
       ],
       "ai_importance": 2
     },
     {
       "category": "hacker_news",
-      "title": "Clay PCB Tutorial",
-      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "published_time": "2026-04-26 16:02:14",
-      "raw_content": "<p>Article URL: <a href=\"https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial\">https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911350\">https://news.ycombinator.com/item?id=47911350</a></p>\n<p>Points: 225</p>\n<p># Comments: 137</p>",
-      "ai_summary": "教程介绍如何制作粘土PCB电路板。",
+      "title": "Men who stare at walls",
+      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "published_time": "2026-04-27 11:08:26",
+      "raw_content": "<p>Article URL: <a href=\"https://www.alexselimov.com/posts/men_who_stare_at_walls/\">https://www.alexselimov.com/posts/men_who_stare_at_walls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920074\">https://news.ycombinator.com/item?id=47920074</a></p>\n<p>Points: 466</p>\n<p># Comments: 209</p>",
+      "ai_summary": "文章探讨“凝视墙壁的男人”现象，引发思考。",
       "ai_tags": [
-        "DIY",
-        "电子",
-        "教程"
+        "思考",
+        "心理"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "Dillo Browser Release 3.3.0",
-      "link": "https://dillo-browser.org/release/3.3.0/",
-      "published_time": "2026-04-26 17:18:14",
-      "raw_content": "<p>Article URL: <a href=\"https://dillo-browser.org/release/3.3.0/\">https://dillo-browser.org/release/3.3.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911977\">https://news.ycombinator.com/item?id=47911977</a></p>\n<p>Points: 176</p>\n<p># Comments: 29</p>",
-      "ai_summary": "轻量级浏览器Dillo发布3.3.0版本。",
+      "title": "Quarkdown – Markdown with Superpowers",
+      "link": "https://quarkdown.com/",
+      "published_time": "2026-04-27 08:54:57",
+      "raw_content": "<p>Article URL: <a href=\"https://quarkdown.com/\">https://quarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919240\">https://news.ycombinator.com/item?id=47919240</a></p>\n<p>Points: 271</p>\n<p># Comments: 98</p>",
+      "ai_summary": "Quarkdown 是一种增强型 Markdown，提供超能力，如交互式组件和动态内容，旨在提升文档编写体验。",
       "ai_tags": [
-        "软件",
-        "浏览器",
+        "Markdown",
+        "工具",
         "开源"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "AI should elevate your thinking, not replace it",
-      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "published_time": "2026-04-26 20:03:12",
-      "raw_content": "<p>Article URL: <a href=\"https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/\">https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913650\">https://news.ycombinator.com/item?id=47913650</a></p>\n<p>Points: 496</p>\n<p># Comments: 360</p>",
-      "ai_summary": "文章主张AI应提升而非取代人类思考能力。",
+      "title": "“Why not just use Lean?”",
+      "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "published_time": "2026-04-27 14:24:53",
+      "raw_content": "<p>Article URL: <a href=\"https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html\">https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922079\">https://news.ycombinator.com/item?id=47922079</a></p>\n<p>Points: 263</p>\n<p># Comments: 181</p>",
+      "ai_summary": "文章探讨为何不直接使用 Lean 定理证明器。",
       "ai_tags": [
-        "AI",
-        "思考",
-        "技术伦理"
+        "Lean",
+        "定理证明"
       ],
       "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "Statecharts: hierarchical state machines",
-      "link": "https://statecharts.dev/",
-      "published_time": "2026-04-26 09:32:22",
-      "raw_content": "<p>Article URL: <a href=\"https://statecharts.dev/\">https://statecharts.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908833\">https://news.ycombinator.com/item?id=47908833</a></p>\n<p>Points: 297</p>\n<p># Comments: 83</p>",
-      "ai_summary": "介绍状态图（Statecharts）作为分层状态机的概念，用于复杂系统建模。",
+      "title": "TurboQuant: A first-principles walkthrough",
+      "link": "https://arkaung.github.io/interactive-turboquant/",
+      "published_time": "2026-04-27 01:54:32",
+      "raw_content": "<p>Article URL: <a href=\"https://arkaung.github.io/interactive-turboquant/\">https://arkaung.github.io/interactive-turboquant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47916890\">https://news.ycombinator.com/item?id=47916890</a></p>\n<p>Points: 283</p>\n<p># Comments: 56</p>",
+      "ai_summary": "TurboQuant 是一个交互式教程，从第一性原理讲解量化交易，适合初学者学习。",
       "ai_tags": [
-        "状态机",
-        "软件工程",
-        "设计模式"
+        "量化交易",
+        "教程",
+        "交互式"
       ],
       "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
-      "link": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
-      "published_time": "2026-04-26 18:34:31",
-      "raw_content": "<p>Article URL: <a href=\"https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo\">https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47912645\">https://news.ycombinator.com/item?id=47912645</a></p>\n<p>Points: 228</p>\n<p># Comments: 359</p>",
-      "ai_summary": "Waymo称无法避免占用自行车道，因为乘客希望在此下车。",
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "published_time": "2026-04-27 15:12:41",
+      "raw_content": "<p>Article URL: <a href=\"https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\">https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922712\">https://news.ycombinator.com/item?id=47922712</a></p>\n<p>Points: 314</p>\n<p># Comments: 130</p>",
+      "ai_summary": "荷兰央行弃用 AWS，选择 Lidl 的欧洲云服务。",
       "ai_tags": [
-        "自动驾驶",
-        "交通",
-        "自行车道"
+        "云服务",
+        "AWS",
+        "Lidl",
+        "欧洲"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-      "link": "https://news.ycombinator.com/item?id=47906253",
-      "published_time": "2026-04-26 00:50:56",
-      "raw_content": "<p>Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn't seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this",
-      "ai_summary": "用户反映iPhone每天自动安装Headspace应用，即使关闭自动下载，原因不明。",
+      "title": "GitHub is having issues now",
+      "link": "https://www.githubstatus.com",
+      "published_time": "2026-04-27 17:42:19",
+      "raw_content": "<p>Article URL: <a href=\"https://www.githubstatus.com\">https://www.githubstatus.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924775\">https://news.ycombinator.com/item?id=47924775</a></p>\n<p>Points: 307</p>\n<p># Comments: 107</p>",
+      "ai_summary": "GitHub 当前出现服务问题，状态页面显示异常。",
       "ai_tags": [
-        "iPhone",
-        "隐私",
-        "Bug"
+        "GitHub",
+        "故障"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "published_time": "2026-04-26 20:18:37",
-      "raw_content": "<p>Article URL: <a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913855\">https://news.ycombinator.com/item?id=47913855</a></p>\n<p>Points: 257</p>\n<p># Comments: 54</p>",
-      "ai_summary": "Fast16被揭示为比震网病毒早5年的高精度软件破坏行动。",
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "published_time": "2026-04-27 10:56:34",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 398</p>\n<p># Comments: 213</p>",
+      "ai_summary": "PostgreSQL 备份工具 pgbackrest 宣布停止维护。",
       "ai_tags": [
-        "网络安全",
-        "恶意软件",
-        "历史"
+        "PostgreSQL",
+        "备份",
+        "停止维护"
       ],
       "ai_importance": 4
     }

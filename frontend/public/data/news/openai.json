@@ -5,17 +5,73 @@
   "items": [
     {
       "category": "openai",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published_time": "2026-04-27 14:00:00",
+      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "ai_summary": "OpenAI获得FedRAMP Moderate授权，ChatGPT Enterprise和API可用于美国联邦机构。",
+      "ai_tags": [
+        "OpenAI",
+        "FedRAMP",
+        "政府"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "An open-source spec for orchestration: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "published_time": "2026-04-27 00:00:00",
+      "raw_content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "ai_summary": "Symphony开源规范发布，利用Codex编排将问题追踪器转化为始终在线的代理系统，提升工程效率。",
+      "ai_tags": [
+        "Symphony",
+        "Codex",
+        "开源"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "Choco automates food distribution with AI agents",
+      "link": "https://openai.com/index/choco",
+      "published_time": "2026-04-27 00:00:00",
+      "raw_content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "ai_summary": "Choco利用OpenAI API实现食品配送自动化，提升生产力和增长。",
+      "ai_tags": [
+        "AI",
+        "食品配送",
+        "自动化"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published_time": "2026-04-27 06:00:00",
+      "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "ai_summary": "微软与OpenAI修订合作协议，简化条款并增加长期清晰度，支持AI创新。",
+      "ai_tags": [
+        "微软",
+        "OpenAI",
+        "合作"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "openai",
       "title": "Our principles",
       "link": "https://openai.com/index/our-principles",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "ai_summary": "OpenAI分享五项指导原则，确保AGI造福全人类。",
+      "ai_summary": "OpenAI分享确保AGI惠及全人类的五项指导原则。",
       "ai_tags": [
-        "OpenAI",
         "AGI",
-        "原则"
+        "原则",
+        "使命"
       ],
-      "ai_importance": 2
+      "ai_importance": 5
     },
     {
       "category": "openai",
@@ -23,7 +79,7 @@
       "link": "https://openai.com/academy/codex-settings",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "ai_summary": "学习如何配置Codex设置，包括个性化、详细级别和权限，以顺利运行任务并自定义工作流。",
+      "ai_summary": "配置Codex设置，包括个性化、详细级别和权限，以优化工作流。",
       "ai_tags": [
         "Codex",
         "设置",
@@ -33,15 +89,42 @@
     },
     {
       "category": "openai",
+      "title": "GPT-5.5 System Card",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "published_time": "2026-04-23 11:00:00",
+      "raw_content": "",
+      "ai_summary": "GPT-5.5系统卡发布，内容待补充。",
+      "ai_tags": [
+        "GPT-5.5",
+        "系统卡"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "openai",
       "title": "Working with Codex",
       "link": "https://openai.com/academy/working-with-codex",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "ai_summary": "学习如何设置Codex工作区、创建线程和项目、管理文件，并按照逐步指导开始完成任务。",
+      "ai_summary": "学习如何设置Codex工作区、创建线程和项目，并逐步完成任务。",
       "ai_tags": [
         "Codex",
-        "工作区",
-        "项目管理"
+        "教程",
+        "入门"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "openai",
+      "title": "Top 10 uses for Codex at work",
+      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "published_time": "2026-04-23 10:00:00",
+      "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "ai_summary": "探索Codex的10个实用用例，实现任务自动化和跨工具交付。",
+      "ai_tags": [
+        "Codex",
+        "用例",
+        "自动化"
       ],
       "ai_importance": 3
     },
@@ -51,99 +134,13 @@
       "link": "https://openai.com/academy/codex-plugins-and-skills",
       "published_time": "2026-04-23 10:00:00",
       "raw_content": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "ai_summary": "学习如何使用Codex插件和技能连接工具、访问数据并遵循可重复工作流，以自动化任务并改善结果。",
+      "ai_summary": "学习使用Codex插件和技能连接工具、访问数据并自动化重复工作流。",
       "ai_tags": [
         "Codex",
         "插件",
-        "技能",
-        "自动化"
+        "技能"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "openai",
-      "title": "How to get started with Codex",
-      "link": "https://openai.com/academy/codex-how-to-start",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "ai_summary": "了解如何通过设置项目、创建线程和完成首个任务来开始使用Codex，提供逐步指导。",
-      "ai_tags": [
-        "Codex",
-        "入门",
-        "项目设置"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "openai",
-      "title": "Automations",
-      "link": "https://openai.com/academy/codex-automations",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "ai_summary": "学习如何使用Codex中的计划和触发器自动化任务，无需手动操作即可创建报告、摘要和重复工作流。",
-      "ai_tags": [
-        "Codex",
-        "自动化",
-        "计划",
-        "触发器"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "openai",
-      "title": "What is Codex?",
-      "link": "https://openai.com/academy/what-is-codex",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "ai_summary": "了解Codex如何通过自动化任务、连接工具和生成文档、仪表板等实际输出来超越聊天功能。",
-      "ai_tags": [
-        "Codex",
-        "自动化",
-        "工具集成"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "openai",
-      "title": "Top 10 uses for Codex at work",
-      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "ai_summary": "探索10个实用的Codex用例，涵盖自动化任务、创建交付物以及跨工具、文件和工作流将实际输入转化为输出。",
-      "ai_tags": [
-        "Codex",
-        "用例",
-        "自动化"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "openai",
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "published_time": "2026-04-23 11:00:00",
-      "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "ai_summary": "OpenAI发布GPT-5.5，更智能、更快，擅长编码、研究、数据分析等复杂任务。",
-      "ai_tags": [
-        "OpenAI",
-        "GPT-5.5",
-        "AI模型"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "GPT-5.5 System Card",
-      "link": "https://openai.com/index/gpt-5-5-system-card",
-      "published_time": "2026-04-23 11:00:00",
-      "raw_content": "",
-      "ai_summary": "OpenAI发布了GPT-5.5系统卡，详细介绍了该模型的能力、安全评估和限制。",
-      "ai_tags": [
-        "GPT-5.5",
-        "系统卡",
-        "安全"
-      ],
-      "ai_importance": 5
     }
   ]
 }

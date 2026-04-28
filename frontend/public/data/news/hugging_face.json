@@ -5,17 +5,45 @@
   "items": [
     {
       "category": "hugging_face",
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "published_time": "2026-04-28 00:28:13",
+      "raw_content": "",
+      "ai_summary": "NVIDIA发布物理信息AI模型NV-Raw2Insights-US，用于自适应超声成像。",
+      "ai_tags": [
+        "AI",
+        "超声成像",
+        "物理信息"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "published_time": "2026-04-27 00:00:00",
+      "raw_content": "",
+      "ai_summary": "介绍如何使用OpenAI隐私过滤器构建可扩展的Web应用。",
+      "ai_tags": [
+        "OpenAI",
+        "隐私过滤",
+        "Web应用"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4 支持百万级 token 上下文，使智能体能够实际使用长上下文。",
+      "ai_summary": "DeepSeek-V4模型支持百万token上下文，可被智能体实际使用。",
       "ai_tags": [
         "DeepSeek",
-        "长上下文",
-        "智能体"
+        "大语言模型",
+        "长上下文"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "hugging_face",
@@ -23,7 +51,7 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何在 Chrome 扩展中使用 Transformers.js 进行浏览器端 AI 推理。",
+      "ai_summary": "教程：如何在Chrome扩展中使用Transformers.js。",
       "ai_tags": [
         "Transformers.js",
         "Chrome扩展",
@@ -33,30 +61,15 @@
     },
     {
       "category": "hugging_face",
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "link": "https://huggingface.co/blog/nvidia/gemma4",
-      "published_time": "2026-04-22 15:40:50",
-      "raw_content": "",
-      "ai_summary": "在 Jetson Orin Nano Super 上演示 Gemma 4 VLA 模型，展示边缘设备上的视觉-语言-动作能力。",
-      "ai_tags": [
-        "Gemma",
-        "Jetson",
-        "VLA",
-        "边缘AI"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published_time": "2026-04-21 10:09:58",
       "raw_content": "",
-      "ai_summary": "QIMMA 是一个以质量优先的阿拉伯语大语言模型排行榜，旨在推动阿拉伯语 AI 发展。",
+      "ai_summary": "发布QIMMA阿拉伯语LLM排行榜，注重质量优先。",
       "ai_tags": [
         "阿拉伯语",
-        "LLM排行榜",
-        "质量优先"
+        "LLM",
+        "排行榜"
       ],
       "ai_importance": 3
     },
@@ -66,11 +79,11 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨 AI 在网络安全中的未来，强调开放性和开源的重要性。",
+      "ai_summary": "探讨AI在网络安全中的未来，强调开放性的重要性。",
       "ai_tags": [
         "AI",
         "网络安全",
-        "开源"
+        "开放性"
       ],
       "ai_importance": 4
     },
@@ -80,26 +93,11 @@
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍一个将 Transformers 模型转换为 MLX 格式的 PR，方便在 Apple Silicon 上运行。",
+      "ai_summary": "介绍如何将Transformers模型转换为MLX格式，以便在Apple Silicon上高效运行。",
       "ai_tags": [
-        "Transformers",
+        "模型转换",
         "MLX",
         "Apple Silicon"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hugging_face",
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "使用 Sentence Transformers 训练和微调多模态嵌入与重排序模型。",
-      "ai_tags": [
-        "多模态",
-        "嵌入",
-        "重排序",
-        "Sentence Transformers"
       ],
       "ai_importance": 3
     },
@@ -109,7 +107,7 @@
       "link": "https://huggingface.co/blog/ecom-rlve",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "Ecom-RLVE 为电商对话智能体提供自适应可验证环境，提升交互可靠性。",
+      "ai_summary": "Ecom-RLVE：为电商对话智能体创建自适应可验证环境。",
       "ai_tags": [
         "电商",
         "对话智能体",
@@ -119,32 +117,32 @@
     },
     {
       "category": "hugging_face",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+      "ai_tags": [
+        "多模态",
+        "嵌入",
+        "重排序",
+        "Sentence Transformers"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
       "title": "Meet HoloTab by HCompany. Your AI browser companion.",
       "link": "https://huggingface.co/blog/Hcompany/holotab",
       "published_time": "2026-04-15 09:25:20",
       "raw_content": "",
-      "ai_summary": "HoloTab 是一款 AI 浏览器伴侣，提供智能辅助功能。",
+      "ai_summary": "介绍HoloTab，一个AI浏览器伴侣，提供智能辅助功能。",
       "ai_tags": [
-        "AI助手",
-        "浏览器扩展",
-        "HoloTab"
+        "AI",
+        "浏览器",
+        "伴侣"
       ],
       "ai_importance": 2
-    },
-    {
-      "category": "hugging_face",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "published_time": "2026-04-15 12:07:25",
-      "raw_content": "",
-      "ai_summary": "分析 VAKRA 基准测试，揭示智能体在推理、工具使用和失败模式方面的表现。",
-      "ai_tags": [
-        "智能体",
-        "推理",
-        "工具使用",
-        "基准测试"
-      ],
-      "ai_importance": 3
     }
   ]
 }

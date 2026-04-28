@@ -9,10 +9,24 @@
       "link": "http://xueqiu.com/8141527616/385907788",
       "published_time": "2026-04-27 10:11:57",
       "raw_content": "",
-      "ai_summary": "4月27日光通信行业更新。",
+      "ai_summary": "光通信行业最新动态更新。",
       "ai_tags": [
         "光通信",
-        "行业更新"
+        "行业"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "赛轮轮胎 DCF 估值 v1.0",
+      "link": "http://xueqiu.com/1918112928/385879003",
+      "published_time": "2026-04-27 10:11:46",
+      "raw_content": "",
+      "ai_summary": "赛轮轮胎的 DCF 估值模型 v1.0 版本。",
+      "ai_tags": [
+        "赛轮轮胎",
+        "DCF",
+        "估值"
       ],
       "ai_importance": 2
     },
@@ -22,11 +36,10 @@
       "link": "http://xueqiu.com/8106514687/385962327",
       "published_time": "2026-04-27 10:11:40",
       "raw_content": "",
-      "ai_summary": "川糖周掌门进行2026年第一季度财报交流问答。",
+      "ai_summary": "川糖周掌门在2026Q1财报交流中分享观点。",
       "ai_tags": [
-        "川糖",
-        "财报交流",
-        "Q&A"
+        "财报",
+        "交流"
       ],
       "ai_importance": 3
     },
@@ -36,11 +49,10 @@
       "link": "http://xueqiu.com/6843441724/385905490",
       "published_time": "2026-04-27 10:11:33",
       "raw_content": "",
-      "ai_summary": "探讨氧化镨钕价格是否存在80万元/吨的魔咒。",
+      "ai_summary": "探讨氧化镨钕是否存在80万元的价格魔咒。",
       "ai_tags": [
-        "氧化镨钕",
-        "价格",
-        "稀土"
+        "稀土",
+        "价格"
       ],
       "ai_importance": 3
     },
@@ -50,24 +62,10 @@
       "link": "http://xueqiu.com/6217310837/385965161",
       "published_time": "2026-04-27 10:11:52",
       "raw_content": "",
-      "ai_summary": "算力领域发生重大变化。",
+      "ai_summary": "算力领域发生重大变革。",
       "ai_tags": [
         "算力",
-        "行业变化"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "赛轮轮胎 DCF 估值 v1.0",
-      "link": "http://xueqiu.com/1918112928/385879003",
-      "published_time": "2026-04-27 10:11:46",
-      "raw_content": "",
-      "ai_summary": "赛轮轮胎的DCF估值模型v1.0发布，提供投资参考。",
-      "ai_tags": [
-        "赛轮轮胎",
-        "DCF估值",
-        "投资分析"
+        "变革"
       ],
       "ai_importance": 3
     },
@@ -77,11 +75,10 @@
       "link": "http://xueqiu.com/7280306436/385917649",
       "published_time": "2026-04-27 10:11:28",
       "raw_content": "",
-      "ai_summary": "回顾三次产业革命如何催生估值泡沫的历史。",
+      "ai_summary": "回顾三次产业革命如何催生估值泡沫。",
       "ai_tags": [
         "产业革命",
-        "估值泡沫",
-        "历史回顾"
+        "估值泡沫"
       ],
       "ai_importance": 4
     },
@@ -91,7 +88,7 @@
       "link": "http://xueqiu.com/1643044849/385931180",
       "published_time": "2026-04-27 10:11:21",
       "raw_content": "",
-      "ai_summary": "周记329：坚持低估买入解决投资问题，理性讨论茅台，分析永新股份年报。",
+      "ai_summary": "周记强调坚持低估买入解决投资问题，并讨论茅台和永新股份年报。",
       "ai_tags": [
         "投资策略",
         "茅台",
@@ -105,11 +102,10 @@
       "link": "http://xueqiu.com/1438190065/385916454",
       "published_time": "2026-04-27 10:11:14",
       "raw_content": "",
-      "ai_summary": "随想263：半导体行业正在突围中。",
+      "ai_summary": "讨论半导体行业在突围中的现状与前景。",
       "ai_tags": [
         "半导体",
-        "突围",
-        "行业分析"
+        "突围"
       ],
       "ai_importance": 4
     },
@@ -122,22 +118,22 @@
       "ai_summary": "发表关于异环的个人观点。",
       "ai_tags": [
         "异环",
-        "个人观点"
+        "观点"
       ],
       "ai_importance": 2
     },
     {
       "category": "xueqiu",
-      "title": "转型价值投资正当时",
-      "link": "http://xueqiu.com/7708198303/385818352",
-      "published_time": "2026-04-26 05:26:39",
+      "title": "有色学习笔记（二）：兴业银锡",
+      "link": "http://xueqiu.com/5332385101/385793014",
+      "published_time": "2026-04-26 05:26:31",
       "raw_content": "",
-      "ai_summary": "提倡在当前市场环境下转向价值投资策略。",
+      "ai_summary": "学习笔记，分析兴业银锡的有色金属行业情况。",
       "ai_tags": [
-        "价值投资",
-        "投资策略"
+        "有色金属",
+        "兴业银锡"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     }
   ]
 }
