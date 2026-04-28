@@ -1,0 +1,137 @@
+{
+  "total": 20,
+  "limit": 10,
+  "offset": 0,
+  "items": [
+    {
+      "category": "bbc_news",
+      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 14:32:20",
+      "raw_content": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
+      "ai_summary": "乌克兰第三次袭击俄罗斯炼油厂，引发居民疏散，克里姆林宫指责乌克兰破坏全球能源市场稳定。",
+      "ai_tags": [
+        "冲突",
+        "能源"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "United Arab Emirates to quit oil cartel Opec",
+      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 15:25:17",
+      "raw_content": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
+      "ai_summary": "阿联酋退出欧佩克，被视为对石油卡特尔的重创。",
+      "ai_tags": [
+        "能源",
+        "经济"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Sinner beats Norrie to equal historic winning run",
+      "link": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 13:20:21",
+      "raw_content": "World number one Jannik Sinner's brilliant form continues as he reaches the quarter-finals of the Madrid Open with a straight-set win over Britain's Cameron Norrie.",
+      "ai_summary": "世界排名第一的辛纳直落两盘击败英国选手诺里，晋级马德里公开赛八强，延续连胜纪录。",
+      "ai_tags": [
+        "网球",
+        "体育"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "'I lived all my dreams' - Stones to leave Man City",
+      "link": "https://www.bbc.com/sport/football/articles/clypwjeydnjo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 13:15:08",
+      "raw_content": "England defender John Stones says he \"lived all my dreams out\" at Manchester City after confirming he will leave at the end of the season.",
+      "ai_summary": "英格兰后卫斯通斯确认赛季末离开曼城，称已实现所有梦想。",
+      "ai_tags": [
+        "足球",
+        "转会"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "I made 'serious mistake' advising Starmer to appoint Mandelson, PM's ex-top adviser McSweeney says",
+      "link": "https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 14:11:14",
+      "raw_content": "Morgan McSweeney says the peer did not give the \"full truth\" about his relationship with Epstein.",
+      "ai_summary": "斯塔默前首席顾问承认建议任命曼德尔森是“严重错误”，称曼德尔森未完全坦白与爱泼斯坦的关系。",
+      "ai_tags": [
+        "政治",
+        "丑闻"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+      "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 15:38:09",
+      "raw_content": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+      "ai_summary": "山姆·奥特曼与前偶像埃隆·马斯克的激烈争斗将从社交媒体转向法庭。",
+      "ai_tags": [
+        "科技",
+        "法律"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 12:03:39",
+      "raw_content": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "ai_summary": "一艘与普京盟友有关的俄罗斯超级游艇无视封锁，驶过霍尔木兹海峡。",
+      "ai_tags": [
+        "政治",
+        "国际"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Three key statements Starmer made to MPs about Mandelson vetting",
+      "link": "https://www.bbc.com/news/articles/cj949mj41vlo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 12:01:47",
+      "raw_content": "BBC Verify looks into some of the statements the prime minister made about the appointment of Lord Mandelson as UK ambassador to the US.",
+      "ai_summary": "英国首相斯塔默就曼德尔森勋爵担任驻美大使的任命向议员发表三项关键声明。",
+      "ai_tags": [
+        "政治",
+        "外交"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Man City left frustrated by fixture pile-up",
+      "link": "https://www.bbc.com/sport/football/articles/cm2pn84y1r3o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 15:26:50",
+      "raw_content": "Manchester City face a fixture pile-up of four games in 11 days next month after the Premier League confirmed the rescheduled dates for two of their key matches in the race for the title.",
+      "ai_summary": "曼城因赛程调整面临下月11天内4场比赛的密集赛程。",
+      "ai_tags": [
+        "体育",
+        "足球"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "Brighton plan Europe's first purpose-built £80m women's football stadium",
+      "link": "https://www.bbc.com/sport/football/articles/ce8p01x34pyo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 12:00:08",
+      "raw_content": "Brighton and Hove Albion release plans for Europe's first purpose-built women's football stadium, which will cost £75-80m.",
+      "ai_summary": "布莱顿发布欧洲首座专用女足体育场计划，耗资7500-8000万英镑。",
+      "ai_tags": [
+        "足球",
+        "体育"
+      ],
+      "ai_importance": 3
+    }
+  ]
+}

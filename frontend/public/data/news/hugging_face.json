@@ -9,13 +9,13 @@
       "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
       "published_time": "2026-04-28 00:28:13",
       "raw_content": "",
-      "ai_summary": "NVIDIA 提出物理信息驱动的自适应超声成像 AI 模型 Raw2Insights-US，提升图像质量。",
+      "ai_summary": "NVIDIA提出基于物理信息的自适应超声成像AI方法。",
       "ai_tags": [
-        "AI",
-        "医疗影像",
-        "NVIDIA"
+        "超声成像",
+        "物理信息",
+        "AI"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -23,13 +23,13 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何使用 OpenAI 的隐私过滤器构建可扩展的 Web 应用，保障用户数据安全。",
+      "ai_summary": "介绍如何使用OpenAI的隐私过滤器构建可扩展的Web应用。",
       "ai_tags": [
-        "隐私",
-        "Web开发",
-        "OpenAI"
+        "OpenAI",
+        "隐私过滤",
+        "Web应用"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "hugging_face",
@@ -37,13 +37,13 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4 支持百万级 token 上下文，使智能体能够有效利用长文本。",
+      "ai_summary": "DeepSeek-V4模型支持百万token上下文，赋能AI代理。",
       "ai_tags": [
-        "大语言模型",
+        "DeepSeek",
         "长上下文",
-        "DeepSeek"
+        "AI代理"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -51,13 +51,12 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "教程：如何在 Chrome 扩展中使用 Transformers.js 运行机器学习模型。",
+      "ai_summary": "讲解如何在Chrome扩展中使用Transformers.js。",
       "ai_tags": [
-        "浏览器扩展",
         "Transformers.js",
-        "教程"
+        "Chrome扩展"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "hugging_face",
@@ -65,13 +64,13 @@
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published_time": "2026-04-21 10:09:58",
       "raw_content": "",
-      "ai_summary": "发布首个以质量优先的阿拉伯语大模型排行榜 QIMMA，推动阿拉伯语 AI 发展。",
+      "ai_summary": "推出质量优先的阿拉伯语LLM排行榜QIMMA。",
       "ai_tags": [
         "阿拉伯语",
-        "排行榜",
-        "LLM"
+        "LLM",
+        "排行榜"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -79,39 +78,11 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨 AI 在网络安全中的未来，强调开放性的重要性。",
+      "ai_summary": "探讨AI与网络安全未来，强调开源和开放的重要性。",
       "ai_tags": [
-        "网络安全",
         "AI",
+        "网络安全",
         "开放性"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "The PR you would have opened yourself",
-      "link": "https://huggingface.co/blog/transformers-to-mlx",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍如何将 Transformers 模型转换为 MLX 格式，简化部署流程。",
-      "ai_tags": [
-        "模型转换",
-        "MLX",
-        "Transformers"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "link": "https://huggingface.co/blog/ecom-rlve",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "提出 Ecom-RLVE，为电商对话智能体提供自适应可验证环境。",
-      "ai_tags": [
-        "电商",
-        "对话系统",
-        "强化学习"
       ],
       "ai_importance": 3
     },
@@ -121,25 +92,54 @@
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "使用 Sentence Transformers 训练和微调多模态嵌入与重排序模型。",
+      "ai_summary": "介绍如何使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
       "ai_tags": [
         "多模态",
         "嵌入",
+        "重排序",
         "Sentence Transformers"
       ],
       "ai_importance": 4
     },
     {
       "category": "hugging_face",
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "link": "https://huggingface.co/blog/Hcompany/holotab",
-      "published_time": "2026-04-15 09:25:20",
+      "title": "The PR you would have opened yourself",
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
+      "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "HCompany 推出 HoloTab，一款 AI 浏览器伴侣。",
+      "ai_summary": "探讨开发者本应主动提出的PR（Pull Request）的概念。",
       "ai_tags": [
-        "AI",
-        "浏览器",
-        "HCompany"
+        "开源",
+        "PR"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hugging_face",
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "link": "https://huggingface.co/blog/ecom-rlve",
+      "published_time": "2026-04-16 00:00:00",
+      "raw_content": "",
+      "ai_summary": "提出用于电商对话agent的自适应可验证环境Ecom-RLVE。",
+      "ai_tags": [
+        "电商",
+        "对话系统",
+        "强化学习"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hugging_face",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "published_time": "2026-04-15 12:07:25",
+      "raw_content": "",
+      "ai_summary": "深入分析VAKRA代理的推理、工具使用及失败模式。",
+      "ai_tags": [
+        "代理",
+        "推理",
+        "工具使用",
+        "失败模式"
       ],
       "ai_importance": 3
     }

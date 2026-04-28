@@ -1,281 +1,284 @@
-﻿{
-    "period":  "today",
-    "scope":  "all",
-    "total":  20,
-    "limit":  20,
-    "offset":  0,
-    "items":  [
-                  {
-                      "category":  "cls",
-                      "title":  "三房巷：股票将被实施退市风险警示及其他风险警示 4月30日起变更为*ST三房",
-                      "link":  "https://api3.cls.cn/share/article/2358396?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:26:20",
-                      "raw_content":  "【三房巷：股票将被实施退市风险警示及其他风险警示 4月30日起变更为*ST三房】财联社4月28日电，三房巷(600370.SH)公告称，因北京德皓国际会计师事务所对公司2025年财务报表出具无法表示意见的审计报告，公司股票将被实施退市风险警示；同时因内部控制被出具否定意见的审计报告，将被叠加实施其他风险警示。公司股票及可转债于4月29日停牌1天，自4月30日起复牌并实施风险警示，股票简称变更为“*ST三房”，日涨跌幅限制为5%。",
-                      "ai_summary":  "三房巷因2025年财报被出具无法表示意见及内控否定意见，股票将被实施退市风险警示及其他风险警示，4月30日起变更为*ST三房。",
-                      "ai_tags":  [
-                                      "退市风险警示",
-                                      "三房巷",
-                                      "审计意见"
-                                  ],
-                      "ai_importance":  5
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "2连板东方智造：4月30日起复牌并被实施退市风险警示 股票简称变更为“*ST东智”",
-                      "link":  "https://api3.cls.cn/share/article/2358371?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:13:26",
-                      "raw_content":  "【2连板东方智造：4月30日起复牌并被实施退市风险警示 股票简称变更为“*ST东智”】财联社4月28日电，东方智造(002175.SZ)公告称，公司2025年度经审计的利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值，且扣除后的营业收入低于3亿元，触及退市风险警示情形。公司股票将于4月29日停牌一天，4月30日起复牌并被实施退市风险警示，股票简称变更为“*ST东智”，日涨跌幅限制为5%。",
-                      "ai_summary":  "东方智造因触及退市风险警示，4月30日起复牌并变更为*ST东智。",
-                      "ai_tags":  [
-                                      "退市风险",
-                                      "ST"
-                                  ],
-                      "ai_importance":  5
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "我国自2026年5月1日起对所有非洲建交国实施零关税",
-                      "link":  "https://api3.cls.cn/share/article/2358366?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:13:13",
-                      "raw_content":  "【我国自2026年5月1日起对所有非洲建交国实施零关税】财联社4月28日电，国务院关税税则委员会发布公告，自2026年5月1日至2028年4月30日，对同中国建交的20个不属于最不发达国家的非洲国家以特惠税率形式实施零关税；其中关税配额产品仅将配额内关税税率降为零，配额外关税税率不变。2年实施期内，中方将继续推动与相关非洲国家商签共同发展经济伙伴关系协定。",
-                      "ai_summary":  "我国自2026年5月1日起对20个非洲建交国实施零关税，为期两年。",
-                      "ai_tags":  [
-                                      "关税",
-                                      "非洲",
-                                      "贸易政策"
-                                  ],
-                      "ai_importance":  5
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "西王食品：公司及实控人遭证监会立案调查",
-                      "link":  "https://api3.cls.cn/share/article/2358358?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:10:00",
-                      "raw_content":  "【西王食品：公司及实控人遭证监会立案调查】财联社4月28日电，西王食品(000639.SZ)公告称，公司及实际控制人王勇收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司及王勇进行立案调查。公司表示将积极配合调查，目前生产经营正常，本次立案不会对生产、经营和管理造成重大影响。",
-                      "ai_summary":  "西王食品及实控人因涉嫌信息披露违法违规被证监会立案调查。",
-                      "ai_tags":  [
-                                      "立案调查",
-                                      "信息披露"
-                                  ],
-                      "ai_importance":  5
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "工业富联：第一季度净利润105.95亿元，同比增长102.55%",
-                      "link":  "https://36kr.com/newsflashes/3786324824644617?f=rss",
-                      "published_time":  "2026-04-28 10:08:47",
-                      "raw_content":  "36氪获悉，工业富联发布2026年一季度业绩报告。报告显示，2026年第一季度营业收入2510.78亿元，同比增长56.52%。净利润105.95亿元，同比增长102.55%。受益于AI算力需求持续爆发，公司产品结构持续优化，主营业务经营效益实现稳步提升。",
-                      "ai_summary":  "工业富联一季度净利润105.95亿元，同比增长102.55%，受益于AI算力需求。",
-                      "ai_tags":  [
-                                      "业绩",
-                                      "AI"
-                                  ],
-                      "ai_importance":  5
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "商米科技-W香港IPO获得超2000倍超额认购",
-                      "link":  "https://api3.cls.cn/share/article/2358394?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:24:46",
-                      "raw_content":  "【商米科技-W香港IPO获得超2000倍超额认购】财联社4月28日电，利弗莫尔证券承销香港IPO新股商米科技-W公开发售据悉录得超2000倍超额认购，金额超2100亿港币，成为今年港股新股AI硬科技领域超购王。Millennium、Schonfeld、Orix、QRT、Marshall Wace、North Rock、Weiss、Jump Trading等全球知名长线基金积极参与。",
-                      "ai_summary":  "商米科技-W香港IPO获超2000倍超额认购，金额超2100亿港币，多家全球知名基金参与。",
-                      "ai_tags":  [
-                                      "商米科技",
-                                      "IPO",
-                                      "超额认购"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "美油期货时隔两周再次突破每桶100美元",
-                      "link":  "https://api3.cls.cn/share/article/2358392?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:23:14",
-                      "raw_content":  "【美油期货时隔两周再次突破每桶100美元】国际原油期货持续走高，WTI原油期货价格涨3.82%，报100.055美元/桶；布伦特原油期货价格涨3.01%，报104.752美元/桶。",
-                      "ai_summary":  "美油期货时隔两周再次突破每桶100美元，WTI和布伦特原油均大幅上涨。",
-                      "ai_tags":  [
-                                      "原油",
-                                      "油价",
-                                      "100美元"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "中国海油：第一季度净利润391.44亿元，同比增长7.1%",
-                      "link":  "https://36kr.com/newsflashes/3786338492341508?f=rss",
-                      "published_time":  "2026-04-28 10:22:41",
-                      "raw_content":  "36氪获悉，中国海油发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入1160.79亿元，同比增长8.6%；归属于母公司股东的净利润为391.44亿元，同比增长7.1%。业绩变动主要系实现油价与油气销量上升的影响。",
-                      "ai_summary":  "中国海油一季度净利润391.44亿元，同比增长7.1%，主要因油价和油气销量上升。",
-                      "ai_tags":  [
-                                      "业绩",
-                                      "石油"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "中国海油：第一季度净利润同比增长7.1%",
-                      "link":  "https://api3.cls.cn/share/article/2358388?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:19:57",
-                      "raw_content":  "【中国海油：第一季度净利润同比增长7.1%】财联社4月28日电，中国海油(600938.SH)公告称，2026年第一季度实现营业收入1160.79亿元，同比增长8.6%；归属于母公司股东的净利润为391.44亿元，同比增长7.1%。业绩变动主要系实现油价与油气销量上升的影响。小财注：公司Q1净利润391.44亿，2025年Q4净利润201.11亿，据此计算，Q1净利润环比增长94%。\u003cbr /\u003e\u003cimg src=\"https://img.cls.cn/fad/yeji/20260428/sh600938689910_info.jpg\" /\u003e",
-                      "ai_summary":  "中国海油一季度净利润同比增长7.1%，营收1160.79亿元，环比增长94%。",
-                      "ai_tags":  [
-                                      "中国海油",
-                                      "业绩",
-                                      "净利润增长"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "深圳华强：一季度净利润同比增长90% 存储类产品线出货额同比增幅约250%",
-                      "link":  "https://api3.cls.cn/share/article/2358386?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:17:39",
-                      "raw_content":  "【深圳华强：一季度净利润同比增长90% 存储类产品线出货额同比增幅约250%】财联社4月28日电，深圳华强(000062.SZ)公告称，2026年第一季度实现营业收入77.01亿元，同比增长47.28%；归属于上市公司股东的净利润为2.01亿元，同比增长90.28%。业绩变动主要系公司持续把握AI快速发展、存储需求增加等机遇，深化与上游厂商合作，推动电子元器件授权分销业务收入增长，其中存储类产品线出货额同比增幅约250%；同时，电子元器件长尾采购业务收入同比大幅增长，增幅超300%。小财注：公司Q1净利润2.01亿，2025年Q4净利润1.02亿，据此计算，Q1净利润环比增长97%。\u003cbr /\u003e\u003cimg src=\"https://img.cls.cn/fad/yeji/20260428/sz000062689891_info.jpg\" /\u003e",
-                      "ai_summary":  "深圳华强一季度净利润同比增长90%，存储类产品线出货额同比增幅约250%。",
-                      "ai_tags":  [
-                                      "深圳华强",
-                                      "业绩",
-                                      "存储类产品"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "北京君正：第一季度净利润同比增长332% 存储芯片和计算芯片产品线销售收入强劲增长",
-                      "link":  "https://api3.cls.cn/share/article/2358383?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:16:23",
-                      "raw_content":  "【北京君正：第一季度净利润同比增长332% 存储芯片和计算芯片产品线销售收入强劲增长】财联社4月28日电，北京君正(300223.SZ)公告称，2026年第一季度实现营业收入15.60亿元，同比增长47.12%；归属于上市公司股东的净利润为3.19亿元，同比增长331.61%。业绩变动主要系受益于存储大周期的推动，公司存储芯片和计算芯片产品线销售收入同比实现强劲增长，同时，模拟与互联芯片市场销售保持了平稳增长趋势，公司总体营业收入同比增长。小财注：公司Q1净利润3.19亿，2025年Q4净利润1.2亿，据此计算，Q1净利润环比增长164%。\u003cbr /\u003e\u003cimg src=\"https://img.cls.cn/fad/yeji/20260428/sz300223689857_info.jpg\" /\u003e",
-                      "ai_summary":  "北京君正2026年Q1净利润同比增长332%，存储和计算芯片销售收入强劲增长。",
-                      "ai_tags":  [
-                                      "业绩增长",
-                                      "存储芯片",
-                                      "计算芯片"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "中金黄金：第一季度净利润同比增长129% 主要受益于矿产金业务盈利能力提升",
-                      "link":  "https://api3.cls.cn/share/article/2358368?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:12:58",
-                      "raw_content":  "【中金黄金：第一季度净利润同比增长129% 主要受益于矿产金业务盈利能力提升】财联社4月28日电，中金黄金(600489.SH)公告称，2026年第一季度实现营业收入225.88亿元，同比增长52.01%；归属于上市公司股东的净利润为23.81亿元，同比增长129.23%。业绩变动主要系公司业绩增长主要受益于矿产金业务盈利能力的提升。报告期内，业绩提升一方面得益于销售均价同比上涨及销量保持稳定；另一方面，公司通过深化精益管理、加强成本管控，持续推进降本增效，进一步夯实了盈利基础。小财注：中金黄金2025年Q4净利12.55亿元，据此计算，2026年Q1净利环比增长89.72%。",
-                      "ai_summary":  "中金黄金2026年Q1净利润同比增长129%，受益于矿产金业务盈利能力提升。",
-                      "ai_tags":  [
-                                      "业绩增长",
-                                      "黄金"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "招商银行：一季度归母净利润同比增长1.52%，资产负债规模增长",
-                      "link":  "https://36kr.com/newsflashes/3786328607530241?f=rss",
-                      "published_time":  "2026-04-28 10:12:38",
-                      "raw_content":  "36氪获悉，招商银行发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入869.40亿元，同比增长3.81%；归属于本行股东的净利润为378.52亿元，同比增长1.52%。业绩变动主要系本集团各项业务稳健开展，资产负债规模稳步增长，经营效益稳中向好。",
-                      "ai_summary":  "招商银行一季度归母净利润378.52亿元，同比增长1.52%，资产负债规模增长。",
-                      "ai_tags":  [
-                                      "业绩",
-                                      "银行"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "cls",
-                      "title":  "日本麻疹病例数激增 接近过去10年最高水平",
-                      "link":  "https://api3.cls.cn/share/article/2358361?os=web\u0026sv=8.4.6\u0026app=CailianpressWeb",
-                      "published_time":  "2026-04-28 10:11:20",
-                      "raw_content":  "【日本麻疹病例数激增 接近过去10年最高水平】财联社4月28日电，日本国立健康危机管理研究机构4月28日发布的数据显示，截至4月19日，日本2026年累计报告362例麻疹病例，约为2025年同期的4.4倍，接近过去10年内的最高水平。由于可能出现感染扩大的风险，相关部门和机构呼吁民众提高警惕。麻疹潜伏期通常为10天至12天，最长可达21天，症状包括发热、上呼吸道炎症、咳嗽、结膜炎等，病情严重时可引发肺炎等并发症。 (央视新闻)",
-                      "ai_summary":  "日本2026年麻疹病例激增，接近过去10年最高水平，累计报告362例。",
-                      "ai_tags":  [
-                                      "麻疹",
-                                      "日本",
-                                      "疫情"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "西王食品：公司及实控人遭证监会立案调查",
-                      "link":  "https://36kr.com/newsflashes/3786326650395907?f=rss",
-                      "published_time":  "2026-04-28 10:10:38",
-                      "raw_content":  "36氪获悉，西王食品公告，公司及实际控制人王勇收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司及王勇进行立案调查。公司表示将积极配合调查，目前生产经营正常，本次立案不会对生产、经营和管理造成重大影响。",
-                      "ai_summary":  "西王食品及实控人因涉嫌信息披露违法违规被证监会立案调查。",
-                      "ai_tags":  [
-                                      "监管",
-                                      "食品"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
-                      "link":  "https://36kr.com/p/3786324189027332?f=rss",
-                      "published_time":  "2026-04-28 10:09:31",
-                      "raw_content":  "\u003ch2\u003e\u003cstrong\u003e大公司：\u003c/strong\u003e\u003c/h2\u003e\n  \u003cp\u003e\u003ca href=\"https://36kr.com/newsflashes/3786276284587265\" rel=\"noopener noreferrer\" target=\"_blank\"\u003e\u003cstrong\u003e拒买新闻就交税，澳洲拟向科技巨头征约2%营收税\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003cp\u003e澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。\u003c/p\u003e\n  \u003cp\u003e\u003ca href=\"https://36kr.com/newsflashes/3786261983255814\" rel=\"noopener noreferrer\" target=\"_blank\"\u003e\u003cstrong\u003e网信部门依法查处“剪映”App等生成合",
-                      "ai_summary":  "澳洲拟对科技巨头征营收税以补偿新闻机构；我国最大规模AI4S集群接入算力网等。",
-                      "ai_tags":  [
-                                      "政策",
-                                      "科技"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "*ST波导：4月30日起撤销退市风险警示，股票简称变更为波导股份",
-                      "link":  "https://36kr.com/newsflashes/3786312762858499?f=rss",
-                      "published_time":  "2026-04-28 09:56:31",
-                      "raw_content":  "36氪获悉，*ST波导公告，公司股票将于2026年4月29日停牌一天，自4月30日起复牌并撤销退市风险警示，证券简称由“*ST波导”变更为“波导股份”，日涨跌幅限制由5%变为10%。",
-                      "ai_summary":  "*ST波导将于4月30日起撤销退市风险警示，股票简称变更为波导股份，涨跌幅限制恢复至10%。",
-                      "ai_tags":  [
-                                      "股票",
-                                      "退市风险警示",
-                                      "波导股份"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "深圳市汇川技术股份有限公司向港交所提交上市申请书",
-                      "link":  "https://36kr.com/newsflashes/3786310001400840?f=rss",
-                      "published_time":  "2026-04-28 09:53:42",
-                      "raw_content":  "36氪获悉，据港交所文件，深圳市汇川技术股份有限公司向港交所提交上市申请书，联席保荐人为摩根士丹利、国泰君安国际、美银证券、中金公司。",
-                      "ai_summary":  "深圳市汇川技术股份有限公司向港交所提交上市申请书，联席保荐人为摩根士丹利、国泰君安国际等。",
-                      "ai_tags":  [
-                                      "IPO",
-                                      "港交所",
-                                      "汇川技术"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "36kr",
-                      "title":  "生益科技：第一季度净利润11.58亿元，同比增长105.47%",
-                      "link":  "https://36kr.com/newsflashes/3786297463971072?f=rss",
-                      "published_time":  "2026-04-28 09:40:57",
-                      "raw_content":  "36氪获悉，生益科技发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入81.41亿元，同比增长45.09%；归属于上市公司股东的净利润为11.58亿元，同比增长105.47%。公司积极调整产品销售结构，推动扩产产能释放，带动覆铜板销量等同比上升，覆铜板产品营业收入及毛利增加，推动盈利水平提升。",
-                      "ai_summary":  "生益科技一季度净利润11.58亿元，同比增长105.47%，受益于产品销售结构调整和产能释放。",
-                      "ai_tags":  [
-                                      "业绩报告",
-                                      "生益科技",
-                                      "净利润增长"
-                                  ],
-                      "ai_importance":  4
-                  },
-                  {
-                      "category":  "zaobao_china",
-                      "title":  "中国拟今年在伦敦第二次发行绿色主权债券",
-                      "link":  "https://www.zaobao.com/news/china/story20260428-8966491",
-                      "published_time":  "2026-04-28 09:26:52",
-                      "raw_content":  "\u003cfigure\u003e\u003cimg src=\"https://cassette.sphdigital.com.sg/image/zaobao/3dfaa4ae9b74924f17dd378d2500f9090ef078894b90fff6ec49467bdcc017c8\" /\u003e\u003cfigcaption\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cp\u003e知情人士透露，中国财政部考虑今年在伦敦再次发行绿色主权债券，以扩大中国在国际债务市场的影响力，并为气候行动筹集资金。\u003c/p\u003e\u003cp\u003e彭博社引述知情人士报道，中国财政部官员正与多家投资银行就相关潜在交易进行磋商，发行时间可能安排在今年下半年。目前讨论仍处于初步阶段，发行总规模、期限及结构等细节尚未敲定。\u003c/p\u003e\u003cp\u003e若此次发行落地，将是中国继去年4月首次在伦敦发行离岸人民币计价绿色主权债券后，再次重返伦敦市场。当时的发行规模为60亿元人民币（11亿新元），募集资金用于支持气候变化缓解、生物多样性保护及污染防治等项目。\u003c/p\u003e\u003cp\u003e中国财政部暂未立即回应置评请求。不过，财政部此前在一份报告中说，未来将继续发行绿色主权债券，吸引国际资本支",
-                      "ai_summary":  "中国财政部计划今年在伦敦再次发行绿色主权债券，以扩大国际债务市场影响力并筹集气候资金，发行时间可能在下半年，规模等细节尚未确定。",
-                      "ai_tags":  [
-                                      "绿色债券",
-                                      "伦敦",
-                                      "气候融资"
-                                  ],
-                      "ai_importance":  4
-                  }
-              ]
+{
+  "period": "today",
+  "scope": "all",
+  "total": 20,
+  "limit": 20,
+  "offset": 0,
+  "items": [
+    {
+      "category": "github",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "published_time": "2026-04-28 15:30:00",
+      "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "ai_summary": "GitHub在2小时内验证、修复并调查了一个关键的远程代码执行漏洞，确认未被利用。",
+      "ai_tags": [
+        "security",
+        "vulnerability",
+        "git",
+        "remote code execution"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "United Arab Emirates to quit oil cartel Opec",
+      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 15:25:17",
+      "raw_content": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
+      "ai_summary": "阿联酋退出欧佩克，被视为对石油卡特尔的重创。",
+      "ai_tags": [
+        "能源",
+        "经济"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "乌克兰议会批准延长国家战时状态90天",
+      "link": "https://api3.cls.cn/share/article/2358753?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:09:55",
+      "raw_content": "【乌克兰议会批准延长国家战时状态90天】财联社4月28日电，据乌克兰国际文传电讯社报道，乌最高拉达（议会）28日投票批准将国家战时状态和军事动员延长90天。27日，乌克兰总统泽连斯基向最高拉达递交了法令草案，提议将国家战时状态和军事动员从5月4日延长至8月2日，共90天。据报道，关于延长国家战时状态和军事动员的法令草案分别获得315名、304名议员支持，均高于通过所需的226票。这是自2022年2月俄乌冲突升级以来，乌最高拉达第19次批准延长相关法令。 (新华社)",
+      "ai_summary": "乌克兰议会批准将国家战时状态和军事动员延长90天至8月2日。",
+      "ai_tags": [
+        "乌克兰",
+        "战争",
+        "军事"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 14:32:20",
+      "raw_content": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
+      "ai_summary": "乌克兰第三次袭击俄罗斯炼油厂，引发居民疏散，克里姆林宫指责乌克兰破坏全球能源市场稳定。",
+      "ai_tags": [
+        "冲突",
+        "能源"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中美角力遇中东战火 中共政治局会议提AI与能源安全",
+      "link": "https://www.zaobao.com/news/china/story20260428-8967801",
+      "published_time": "2026-04-28 13:58:34",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/04f4c147b14d034864e158bac68e707b6c6b596715fb8c85db4eb142f1ab0822\" /><figcaption></figcaption></figure><div><div><p>面对中东战争和中美科技战两大外部环境不确定性，中共政治局会议星期二（4月28日）召开。会议强调，推动科技自立自强、产业链自主可控；全面实施“人工智能+”行动；提高能源资源安全保障水平。</p><p>受访学者从中共政治局会议对外公布的内容判断，中国正持续转向巩固内部可控因素，如扩大投资与内需及寻求产业链自主可控，以对冲外部环境冲击；考虑到中美领导人可能即将于约两周后，即5月中旬在北京会面，中国此时更需确保国内经济趋稳定。</p><p>中共政治局本次会议分析研究当前经济形势和经济工作，会议由中共总书记习近平主持。</p><p>根据新华社通稿，会议首先肯定中国经济“起步有力”，主要指标好于预期，同时坦承“面临一些困难和挑战”，经济持续稳",
+      "ai_summary": "中共政治局会议强调科技自立自强、人工智能+行动和提高能源资源安全保障水平，以对冲外部环境不确定性。",
+      "ai_tags": [
+        "政治局",
+        "人工智能",
+        "能源安全"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "洪礼和一审获刑20年 曾致航班延误并与乘客对骂",
+      "link": "https://www.zaobao.com/news/china/story20260428-8967256",
+      "published_time": "2026-04-28 11:16:56",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/08210846a9b2a1a3199f4a80812f951f9d8caf96637518218d3ec66f2231ed57\" /><figcaption></figcaption></figure><div><div><p>江西省人大常委会原中共党组副书记、副主任洪礼和受贿、滥用职权、洗钱案宣判，被告人洪礼和一审获刑20年，并处罚金750万元（人民币，下同，140万3700新元）。</p><p>据央视新闻报道，福建省福州市中级人民法院星期二（4月28日）一审公开宣判洪礼和受贿、滥用职权、洗钱案，对被告人洪礼和以受贿罪判处有期徒刑15年，并处罚金700万元，以滥用职权罪判处有期徒刑九年六个月，以洗钱罪判处有期徒刑三年六个月，并处罚金人民币50万元；数罪并罚，决定执行有期徒刑20年，并处罚金人民币750万元；对其犯罪所得财物及孳息依法予以追缴，上缴国库。</p><p>经审理查明，2000年至2024年，被告人洪礼和利用担任江西省新余市市长、市委书记，江西",
+      "ai_summary": "江西省人大常委会原副主任洪礼和因受贿、滥用职权、洗钱罪一审被判20年，并处罚金750万元。",
+      "ai_tags": [
+        "反腐",
+        "法律"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "比亚迪：一季度净利润40.8亿元，同比下降55.38%",
+      "link": "https://36kr.com/newsflashes/3786355448798213?f=rss",
+      "published_time": "2026-04-28 10:39:56",
+      "raw_content": "36氪获悉，比亚迪发布2026年一季度业绩报告。报告显示，一季度营业收入1502.25亿元，同比下降11.82%；归属于上市公司股东的净利润40.85亿元，同比大降55.38%；扣非净利润41.48亿元，同��下滑49.24%。第一季度基本每股收益0.4480元/股，同比下降56.89%；加权平均净资产收益率1.65%，同比下降2.72个百分点。",
+      "ai_summary": "比亚迪2026年一季度营收下降11.82%，净利润40.85亿元，同比大降55.38%，基本每股收益下降56.89%。",
+      "ai_tags": [
+        "比亚迪",
+        "一季度",
+        "净利润下降"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+      "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 15:38:09",
+      "raw_content": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+      "ai_summary": "山姆·奥特曼与前偶像埃隆·马斯克的激烈争斗将从社交媒体转向法庭。",
+      "ai_tags": [
+        "科技",
+        "法律"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "众合科技：2025年度净亏损6226.24万元",
+      "link": "https://api3.cls.cn/share/article/2358767?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:33:16",
+      "raw_content": "【众合科技：2025年度净亏损6226.24万元】财联社4月28日电，众合科技(000925.SZ)公告称，公司发布2025年年度报告，实现营业收入22.84亿元，同比增长12.88%；归属于上市公司股东的净利润为-6226.24万元，同比由盈转亏。公司拟以实施权益分派股权登记日登记的总股本扣除公司回购专用证券账户中的回购股份为基数，向全体股东每10股派发现金红利0.15元(含税)，不送红股，不以公积金转增股本。小财注：公司Q4净利润-0.16亿，Q3净利润0.2亿，据此计算，Q4净利润环比由盈转亏。第四季度净利润分析师一致预测是1.54亿，经计算Q4净利为-0.16亿，业绩低于预期。<br /><img src=\"https://img.cls.cn/fad/yeji/20260428/sz000925694568_info.jpg\" />",
+      "ai_summary": "众合科技2025年度净亏损6226万元，由盈转亏；营收增长12.88%至22.84亿元，拟每10股派0.15元。",
+      "ai_tags": [
+        "财报",
+        "亏损"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重",
+      "link": "https://api3.cls.cn/share/article/2358766?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:32:41",
+      "raw_content": "【摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重】财联社4月28日电，摩根大通CEO杰米·戴蒙再次警告称信贷市场的下行可能比预期更为严重，尽管他的公司和华尔街其他大行在近期公布了亮眼的财报，且贷款组合保持稳健。戴蒙周二在挪威央行投资管理公司会议上表示，私募信贷领域有超过1000家公司，这或许意味着当经济周期转变时，并非所有公司都能表现良好。戴蒙说：“有些公司可能很出色，但我保证并非所有1000家公司都如此。因此，在我看来，由于这一点以及承销标准，我们已经这么久没有经历信贷衰退了，所以一旦衰退来临，情况会比人们想象的更糟。”“情况不会很糟糕，只是比人们想象的私募信贷情况更糟，”他补充道。“顺便说一句，这种情况可能也适用于某些银行。”",
+      "ai_summary": "摩根大通CEO戴蒙警告私募信贷市场风险，认为潜在下行可能比预期更严重。",
+      "ai_tags": [
+        "金融市场",
+        "风险"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "奇瑞汽车2026年一季报：毛利大增25%盈利韧性强劲",
+      "link": "https://api3.cls.cn/share/article/2358763?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:27:44",
+      "raw_content": "【奇瑞汽车2026年一季报：毛利大增25%盈利韧性强劲】财联社4月28日电，奇瑞汽车（9973.HK）2026年一季度财报出炉，营收658.7亿元，毛利105.64亿元，同比大增24.9%，毛利率显著提升。归母净利润41.7亿元，盈利稳健。研发投入28.5亿元，同比增25.5%，财务费用大幅下降，现金流充裕，资产结构持续优化。",
+      "ai_summary": "奇瑞汽车2026年一季度毛利105.64亿元同比增24.9%，营收658.7亿元，研发投入增25.5%，盈利韧性强劲。",
+      "ai_tags": [
+        "财报",
+        "汽车"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "伊朗陆军发言人：战争尚未结束 军队严阵以待",
+      "link": "https://api3.cls.cn/share/article/2358757?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:12:45",
+      "raw_content": "【伊朗陆军发言人：战争尚未结束 军队严阵以待】财联社4月28日电，伊朗塔斯尼姆通讯社28日援引伊朗陆军发言人穆罕默德·阿克拉米尼亚的话报道说，军方认为目前局势仍处于战争状态，地面部队已在全国各地部署，严阵以待，应对威胁。他表示，伊方已完成目标清单与作战装备的全面更新，所有部队已作好充分准备，以应对敌方可能的军事袭击。 (新华社)",
+      "ai_summary": "伊朗陆军称战争尚未结束，军队严阵以待。",
+      "ai_tags": [
+        "伊朗",
+        "军事",
+        "中东"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "北约或推迟甚至取消峰会免与美摩擦",
+      "link": "https://api3.cls.cn/share/article/2358754?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:11:39",
+      "raw_content": "【北约或推迟甚至取消峰会免与美摩擦】财联社4月28日电，知情人士透露，出于希望减少与美国摩擦等原因，北约考虑推迟峰会举行的时间，甚至有意取消2028年、即特朗普总统任期最后一年的峰会。北约峰会的频率不固定，不过2021年以来基本上每年夏天举行一次，今年峰会计划于7月初在土耳其举行。 ( CCTV国际时讯)",
+      "ai_summary": "北约考虑推迟或取消2028年峰会以避免与美国摩擦。",
+      "ai_tags": [
+        "北约",
+        "美国",
+        "外交"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "卡塔尔外交部：反对将霍尔木兹海峡作为施压工具",
+      "link": "https://api3.cls.cn/share/article/2358745?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 15:03:05",
+      "raw_content": "【卡塔尔外交部：反对将霍尔木兹海峡作为施压工具】财联社4月28日电，卡塔尔外交部发言人安萨里28日说，卡塔尔坚决反对将霍尔木兹海峡作为施压工具。安萨里当天在记者会上表示，霍尔木兹海峡通行受阻将引发广泛的经济连锁反应，卡塔尔坚决反对任何妨碍船只通行的做法。任何干扰海上航运的行为都将对全球能源安全和供应链造成严重后果。安萨里还说，当前亟需加强全球协调，以保障能源供应畅通，卡塔尔支持一切旨在确保霍尔木兹海峡安全和重新开放的国际努力。 (央视新闻)",
+      "ai_summary": "卡塔尔反对将霍尔木兹海峡作为施压工具，呼吁保障能源供应畅通。",
+      "ai_tags": [
+        "卡塔尔",
+        "伊朗",
+        "能源",
+        "海峡"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
+      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
+      "published_time": "2026-04-28 14:58:24",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/mistral_ai_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.</p>\n<p>The article <a href=\"https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/\">Mistral ",
+      "ai_summary": "Mistral AI推出Workflows编排层，帮助企业将AI流程转化为生产就绪系统。",
+      "ai_tags": [
+        "Mistral AI",
+        "Workflows",
+        "企业AI",
+        "编排"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "港股IPO：北京戴纳实验科技股份有限公司递表港交所",
+      "link": "https://api3.cls.cn/share/article/2358740?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-28 14:57:14",
+      "raw_content": "【港股IPO：北京戴纳实验科技股份有限公司递表港交所】财联社4月28日电，利弗莫尔证券显示，北京戴纳实验科技股份有限公司向港交所提交上市申请书，联席保荐人为招银国际、国金证券（香港）。",
+      "ai_summary": "北京戴纳实验科技股份有限公司向港交所提交上市申请书，联席保荐人为招银国际和国金证券（香港）。",
+      "ai_tags": [
+        "港股",
+        "IPO",
+        "戴纳实验"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
+      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+      "published_time": "2026-04-28 14:40:42",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1065\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1902\" /></p>\n<p>        Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/\">Meta scrambles to unwind Manus deal as Beijing&#039;s deadl",
+      "ai_summary": "Meta积极准备解除Manus收购交易，因北京方面截止日期临近。",
+      "ai_tags": [
+        "Meta",
+        "Manus",
+        "收购",
+        "中国监管"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "I made 'serious mistake' advising Starmer to appoint Mandelson, PM's ex-top adviser McSweeney says",
+      "link": "https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 14:11:14",
+      "raw_content": "Morgan McSweeney says the peer did not give the \"full truth\" about his relationship with Epstein.",
+      "ai_summary": "斯塔默前首席顾问承认建议任命曼德尔森是“严重错误”，称曼德尔森未完全坦白与爱泼斯坦的关系。",
+      "ai_tags": [
+        "政治",
+        "丑闻"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "zaobao_china",
+      "title": "解放军宣布在南中国海巡航",
+      "link": "https://www.zaobao.com/news/china/story20260428-8967904",
+      "published_time": "2026-04-28 13:25:02",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国军方宣布，星期二（4月28日）在南中国海进行巡航，并批评菲律宾拉拢域外国家组织联合巡航，搅局南中国海，破坏地区和平稳定。</p><p>中国人民解放军南部战区在微信公众号公布，南部战区海军星期二在南中国海海域进行例行巡航。</p><p>南部战区新闻发言人翟士臣海军大校强调，战区部队将坚决捍卫国家领土主权和海洋权益，坚定维护地区和平稳定。</p><p>美国与菲律宾上周启动“肩并肩”年度大规模联合军事演习，日本也首次大规模参与军演。军演上星期一（4月20日）在菲律宾首都马尼拉启动，演习为期19天，逾1万7000名军人参与。</p>\n    \n  </div></div>",
+      "ai_summary": "解放军南部战区在南中国海巡航，批评菲律宾拉拢域外国家联合军演破坏和平。",
+      "ai_tags": [
+        "南中国海",
+        "解放军",
+        "巡航"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Sinner beats Norrie to equal historic winning run",
+      "link": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 13:20:21",
+      "raw_content": "World number one Jannik Sinner's brilliant form continues as he reaches the quarter-finals of the Madrid Open with a straight-set win over Britain's Cameron Norrie.",
+      "ai_summary": "世界排名第一的辛纳直落两盘击败英国选手诺里，晋级马德里公开赛八强，延续连胜纪录。",
+      "ai_tags": [
+        "网球",
+        "体育"
+      ],
+      "ai_importance": 4
+    }
+  ]
 }

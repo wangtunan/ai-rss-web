@@ -5,72 +5,14 @@
   "items": [
     {
       "category": "xueqiu",
-      "title": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
-      "link": "http://xueqiu.com/4118099716/386161928",
-      "published_time": "2026-04-28 09:25:52",
+      "title": "关于此次中东冲突对中国煤炭价格的影响，需要分两种情景推演。",
+      "link": "http://xueqiu.com/1437248694/386225632",
+      "published_time": "2026-04-28 09:25:15",
       "raw_content": "",
-      "ai_summary": "曹操出行认为其全要素闭环生态相比Waymo和特斯拉更接近Robotaxi的最终形态。",
+      "ai_summary": "分析中东冲突对中国煤炭价格的两种情景影响。",
       "ai_tags": [
-        "曹操出行",
-        "Robotaxi",
-        "Waymo",
-        "特斯拉"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "追光的人很可能最终会光着站在那里",
-      "link": "http://xueqiu.com/2657407918/386151682",
-      "published_time": "2026-04-28 09:25:23",
-      "raw_content": "",
-      "ai_summary": "追光者可能最终一无所获，警示投资风险",
-      "ai_tags": [
-        "投资",
-        "风险",
-        "警示"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "一季报冲击面临尾声",
-      "link": "http://xueqiu.com/2426670165/386254181",
-      "published_time": "2026-04-28 09:25:43",
-      "raw_content": "",
-      "ai_summary": "一季报冲击接近尾声，市场情绪或逐步稳定",
-      "ai_tags": [
-        "一季报",
-        "市场",
-        "冲击"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "五粮液跌破百元有感",
-      "link": "http://xueqiu.com/1327911751/386207222",
-      "published_time": "2026-04-28 09:25:38",
-      "raw_content": "",
-      "ai_summary": "五粮液股价跌破百元，引发市场感慨",
-      "ai_tags": [
-        "五粮液",
-        "股价",
-        "白酒"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "未来三年赣锋锂业的矿端产能",
-      "link": "http://xueqiu.com/8732389555/386153312",
-      "published_time": "2026-04-28 09:25:48",
-      "raw_content": "",
-      "ai_summary": "赣锋锂业未来三年矿端产能规划分析",
-      "ai_tags": [
-        "赣锋锂业",
-        "产能",
-        "锂矿"
+        "中东冲突",
+        "煤炭价格"
       ],
       "ai_importance": 4
     },
@@ -80,13 +22,12 @@
       "link": "http://xueqiu.com/5742069252/386155822",
       "published_time": "2026-04-28 09:25:32",
       "raw_content": "",
-      "ai_summary": "时隔两年，药明康德估值面临重新评估",
+      "ai_summary": "讨论药明康德当前估值是否合理。",
       "ai_tags": [
         "药明康德",
-        "估值",
-        "医药"
+        "估值"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -94,54 +35,109 @@
       "link": "http://xueqiu.com/4790816824/386151674",
       "published_time": "2026-04-28 09:25:09",
       "raw_content": "",
-      "ai_summary": "1.6T光模块产业链调研纪要，关注技术进展",
+      "ai_summary": "光模块产业链调研，聚焦1.6T技术进展。",
       "ai_tags": [
         "光模块",
         "1.6T",
         "产业链"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
-      "title": "关于此次中东冲突对中国煤炭价格的影响，需要分两种情景推演。",
-      "link": "http://xueqiu.com/1437248694/386225632",
-      "published_time": "2026-04-28 09:25:15",
+      "title": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
+      "link": "http://xueqiu.com/4118099716/386161928",
+      "published_time": "2026-04-28 09:25:52",
       "raw_content": "",
-      "ai_summary": "中东冲突对煤炭价格的影响需分两种情景推演",
+      "ai_summary": "曹操出行被认为比Waymo和特斯拉更接近Robotaxi终局，因其拥有全要素闭环生态。",
       "ai_tags": [
-        "中东冲突",
-        "煤炭",
-        "价格"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
-      "title": "4.27光通信行业更新",
-      "link": "http://xueqiu.com/8141527616/385907788",
-      "published_time": "2026-04-27 10:11:57",
-      "raw_content": "",
-      "ai_summary": "4月27日光通信行业更新动态",
-      "ai_tags": [
-        "光通信",
-        "行业",
-        "更新"
+        "曹操出行",
+        "Robotaxi",
+        "Waymo",
+        "特斯拉"
       ],
       "ai_importance": 3
     },
     {
       "category": "xueqiu",
-      "title": "川糖周掌门Q&A —— 2026Q1财报交流",
-      "link": "http://xueqiu.com/8106514687/385962327",
-      "published_time": "2026-04-27 10:11:40",
+      "title": "追光的人很可能最终会光着站在那里",
+      "link": "http://xueqiu.com/2657407918/386151682",
+      "published_time": "2026-04-28 09:25:23",
       "raw_content": "",
-      "ai_summary": "川糖周掌门在2026Q1财报交流中分享观点。",
+      "ai_summary": "对追高行为的警示，暗示追逐热门可能最终亏损。",
       "ai_tags": [
-        "财报",
-        "交流"
+        "投资",
+        "风险"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "未来三年赣锋锂业的矿端产能",
+      "link": "http://xueqiu.com/8732389555/386153312",
+      "published_time": "2026-04-28 09:25:48",
+      "raw_content": "",
+      "ai_summary": "探讨未来三年赣锋锂业的矿端产能情况。",
+      "ai_tags": [
+        "赣锋锂业",
+        "锂矿",
+        "产能"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "一季报冲击面临尾声",
+      "link": "http://xueqiu.com/2426670165/386254181",
+      "published_time": "2026-04-28 09:25:43",
+      "raw_content": "",
+      "ai_summary": "一季报冲击接近尾声，市场影响或将减弱。",
+      "ai_tags": [
+        "一季报",
+        "市场",
+        "冲击"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "五粮液跌破百元有感",
+      "link": "http://xueqiu.com/1327911751/386207222",
+      "published_time": "2026-04-28 09:25:38",
+      "raw_content": "",
+      "ai_summary": "对五粮液股价跌破百元表达感慨和思考。",
+      "ai_tags": [
+        "五粮液",
+        "股价",
+        "百元"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "历史回顾：三次产业革命如何催生估值泡沫",
+      "link": "http://xueqiu.com/7280306436/385917649",
+      "published_time": "2026-04-27 10:11:28",
+      "raw_content": "",
+      "ai_summary": "回顾三次产业革命中估值泡沫的形成过程。",
+      "ai_tags": [
+        "产业革命",
+        "估值泡沫"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "算力大变局",
+      "link": "http://xueqiu.com/6217310837/385965161",
+      "published_time": "2026-04-27 10:11:52",
+      "raw_content": "",
+      "ai_summary": "算力领域发生重大变化。",
+      "ai_tags": [
+        "算力",
+        "变局"
+      ],
+      "ai_importance": 4
     }
   ]
 }
