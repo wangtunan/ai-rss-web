@@ -1,11 +1,34 @@
-from fastapi import APIRouter, Query
-from datetime import datetime, date
+from fastapi import APIRouter, HTTPException, Query
+from datetime import datetime, date, timedelta
 
 from app.db.session import SessionLocal
-from app.repositories.news_repository import list_news_items
+from app.repositories.news_repository import list_curated_news_items, list_news_items
 from app.utils.news import serialize_news_row
 
 router = APIRouter(prefix="/api/v1/news", tags=["news"])
+
+CURATED_SCOPES = {
+    "all": None,
+    "ai": [
+        "openai",
+        "google_ai",
+        "hugging_face",
+        "mit_technology_ai",
+        "the_decoder",
+        "venturebeat_ai",
+        "hacker_news",
+    ],
+    "tech": [
+        "github",
+        "vue_blog",
+        "javascript_weekly",
+        "stackoverflow_blog",
+        "infoq",
+        "juejin",
+    ],
+    "finance": ["xueqiu", "cls", "36kr"],
+    "news": ["bbc_news", "zaobao_china", "wsj", "ft_chinese", "36kr", "infoq"],
+}
 
 @router.get("")
 def get_news(limit: int = Query(default=100, ge=1, le=500)) -> dict:
@@ -23,6 +46,42 @@ def get_news(limit: int = Query(default=100, ge=1, le=500)) -> dict:
         "last_updated": now_label,
         "items": items
     } 
+
+@router.get("/curated")
+def get_curated_news(
+    period: str = Query(default="today", pattern="^(today|week)$"),
+    scope: str = Query(default="all"),
+    limit: int = Query(default=20, ge=1, le=100),
+    offset: int = Query(default=0, ge=0),
+) -> dict:
+    if scope not in CURATED_SCOPES:
+        raise HTTPException(status_code=400, detail="Unsupported curated scope")
+
+    today = date.today()
+    start_date = today if period == "today" else today - timedelta(days=6)
+    session = SessionLocal()
+
+    try:
+        rows, total = list_curated_news_items(
+            session,
+            categories=CURATED_SCOPES[scope],
+            start_date=start_date,
+            end_date=today,
+            limit=limit,
+            offset=offset,
+        )
+        items = [serialize_news_row(row) for row in rows]
+    finally:
+        session.close()
+
+    return {
+        "period": period,
+        "scope": scope,
+        "total": total,
+        "limit": limit,
+        "offset": offset,
+        "items": items,
+    }
 
 @router.get("/list")
 def get_news_list(

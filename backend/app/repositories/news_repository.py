@@ -95,3 +95,46 @@ def list_news_items(
     )
 
     return items, total
+
+
+def list_curated_news_items(
+    session: Session,
+    *,
+    categories: list[str] | None = None,
+    start_date: date | None = None,
+    end_date: date | None = None,
+    limit: int = 20,
+    offset: int = 0,
+) -> tuple[list[NewsItem], int]:
+    """
+    List the highest AI-rated items inside a scoped time window.
+    """
+
+    safe_limit = max(1, min(limit, 100))
+    safe_offset = max(0, offset)
+    query = session.query(NewsItem)
+    date_key = func.substr(NewsItem.published_time, 1, 10)
+
+    if categories:
+        query = query.filter(NewsItem.category.in_(categories))
+
+    if start_date:
+        query = query.filter(date_key >= start_date.isoformat())
+
+    if end_date:
+        query = query.filter(date_key <= end_date.isoformat())
+
+    total = query.count()
+
+    items = (
+        query.order_by(
+            desc(NewsItem.ai_importance),
+            desc(date_key),
+            desc(NewsItem.id),
+        )
+        .offset(safe_offset)
+        .limit(safe_limit)
+        .all()
+    )
+
+    return items, total

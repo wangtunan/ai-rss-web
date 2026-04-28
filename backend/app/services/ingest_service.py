@@ -1,6 +1,6 @@
 import json
 
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from sqlalchemy.orm import Session
 from time import perf_counter
@@ -11,6 +11,11 @@ from app.services.feed_service import parse_feeds
 from app.services.raw_backup_service import backup_entries, is_raw_backup_enabled
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
+
+CURATED_STATIC_LIMITS = {
+    "today": 20,
+    "week": 20,
+}
 
 
 def _project_root() -> Path:
@@ -72,11 +77,46 @@ def _write_json(output_path: Path, payload: dict) -> None:
         file.write("\n")
 
 
+def _parse_item_date(item: dict) -> date | None:
+    published_time = item.get("published_time") or ""
+    date_text = published_time[:10]
+    try:
+        return datetime.strptime(date_text, "%Y-%m-%d").date()
+    except ValueError:
+        return None
+
+
+def _curated_sort_key(item: dict) -> tuple[int, str, str]:
+    try:
+        importance = int(item.get("ai_importance", 3))
+    except (TypeError, ValueError):
+        importance = 3
+    published_time = item.get("published_time") or ""
+    link = (item.get("link") or "").strip()
+    return (importance, published_time, link)
+
+
+def _select_curated_items(items: list[dict], period: str, limit: int, now: datetime) -> list[dict]:
+    today = now.date()
+    start_date = today if period == "today" else today - timedelta(days=6)
+
+    period_items = [
+        item
+        for item in items
+        if (item_date := _parse_item_date(item)) is not None and start_date <= item_date <= today
+    ]
+
+    if not period_items:
+        period_items = items
+
+    return sorted(period_items, key=_curated_sort_key, reverse=True)[:limit]
+
+
 def _export_summarized_news_json(summarized_entries: list[dict], sources: list[dict], limit: int = 500) -> tuple[Path, int]:
     """
     将摘要数据导出给前端静态模式读取。
     """
-    updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    updated_at = datetime.now()
     def _sort_key(item: dict) -> tuple[str, int, str]:
         published_raw = item.get("published_time") or ""
         published = published_raw[:10] if len(published_raw) >= 10 else published_raw
@@ -85,7 +125,7 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
         except (TypeError, ValueError):
             importance = 3
         link = (item.get("link") or "").strip()
-        return (published, -importance, link)
+        return (published, importance, link)
 
     sorted_items = sorted(
         summarized_entries,
@@ -123,6 +163,20 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
                 "limit": 10,
                 "offset": 0,
                 "items": category_items[:10],
+            },
+        )
+
+    for period, curated_limit in CURATED_STATIC_LIMITS.items():
+        curated_items = _select_curated_items(sorted_items, period, curated_limit, updated_at)
+        _write_json(
+            category_dir / f"curated-{period}.json",
+            {
+                "period": period,
+                "scope": "all",
+                "total": len(curated_items),
+                "limit": curated_limit,
+                "offset": 0,
+                "items": curated_items,
             },
         )
 
