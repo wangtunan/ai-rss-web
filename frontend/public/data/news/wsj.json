@@ -1,6 +1,147 @@
 {
-  "total": 0,
+  "total": 20,
   "limit": 10,
   "offset": 0,
-  "items": []
+  "items": [
+    {
+      "category": "wsj",
+      "title": "香港经济第二季度加速增长，但仍有疲软领域",
+      "link": "https://cn.wsj.com/amp/articles/hongkong-s-economic-growth-beats-expectations-but-weak-spots-remain-0b78ac02",
+      "published_time": "2024-08-01 00:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"574\" src=\"https://images.wsj.net/im-955623?width=860&amp;height=574\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p> 图片来源：CHAN LONG HEI/BLOOMBERG NEWS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually",
+      "ai_summary": "香港经济第二季度加速增长，但部分领域仍显疲软。",
+      "ai_tags": [
+        "香港经济",
+        "增长",
+        "疲软"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "wsj",
+      "title": "该不该以乐观视角看待瑞幸咖啡黯淡的财报？",
+      "link": "https://cn.wsj.com/amp/articles/chinasstarbucks-gets-bitter-reaction-to-weak-results-2868b431",
+      "published_time": "2024-08-01 01:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"573\" src=\"https://images.wsj.net/im-274474?width=860&amp;height=573\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>图为上海的一家瑞幸咖啡店。</p>\n    <p> 图片来源：TPG/ZUMA PRESS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!--",
+      "ai_summary": "瑞幸咖啡财报表现黯淡，但市场对其前景存在乐观与悲观的不同看法。",
+      "ai_tags": [
+        "瑞幸咖啡",
+        "财报",
+        "市场观点"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "wsj",
+      "title": "波音新帅能否带领公司成功逆袭？",
+      "link": "https://cn.wsj.com/amp/articles/boeings-new-pilot-has-the-turnaround-job-of-the-decade-b7aa2760",
+      "published_time": "2024-08-01 04:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"573\" src=\"https://images.wsj.net/im-985590?width=860&amp;height=573\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>波音公司第二财季亏损超过预期。</p>\n    <p> 图片来源：jason redmond/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n",
+      "ai_summary": "波音新帅能否带领公司成功逆袭？",
+      "ai_tags": [
+        "波音",
+        "新帅",
+        "逆袭"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "wsj",
+      "title": "阿克曼缩小筹资规模后撤回投资基金的IPO",
+      "link": "https://cn.wsj.com/amp/articles/%E9%98%BF%E5%85%8B%E6%9B%BC%E7%BC%A9%E5%B0%8F%E7%AD%B9%E8%B5%84%E8%A7%84%E6%A8%A1%E5%90%8E%E6%92%A4%E5%9B%9E%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91%E7%9A%84ipo-1681bc4e",
+      "published_time": "2024-08-01 00:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"467\" src=\"https://images.wsj.net/im-986546?width=700&amp;height=467\" width=\"700\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>比尔·阿克曼</p>\n    <p> 图片来源：Jeenah Moon/Bloomberg News</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         ",
+      "ai_summary": "阿克曼在缩小筹资规模后，撤回投资基金的IPO。",
+      "ai_tags": [
+        "阿克曼",
+        "IPO",
+        "筹资"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "wsj",
+      "title": "什么能帮穷孩子改变命运？经济学家给出一个意想不到的答案",
+      "link": "https://cn.wsj.com/amp/articles/%E4%BB%80%E4%B9%88%E8%83%BD%E5%B8%AE%E7%A9%B7%E5%AD%A9%E5%AD%90%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%BB%99%E5%87%BA%E4%B8%80%E4%B8%AA%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E7%AD%94%E6%A1%88-75c2e1c5",
+      "published_time": "2024-08-01 02:33:03",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/justin-lahart\" rel=\"author\">Justin Lahart</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日09:50 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n      \t\t\t\t</div>\n      \t\t\t\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we know what this card will be we can cha",
+      "ai_summary": "经济学家给出一个意想不到的答案：什么能帮穷孩子改变命运？",
+      "ai_tags": [
+        "贫困",
+        "教育",
+        "经济学"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "wsj",
+      "title": "特朗普攻击哈里斯的身份，称不知道她是黑人",
+      "link": "https://cn.wsj.com/amp/articles/trump-attacks-harriss-identity-saying-he-didnt-know-she-was-black-989cbd46",
+      "published_time": "2024-08-01 00:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n      \n          <div>\n      <div>\n    <div>\n         <h4>\n        \n        </h4>\n  </div>\n  </div>\n  \n      <p>\n        封面图片来源：Kamil Krzaczynski/AFP/Getty Images\n        <span>\n        \n        The Wall Street Journal Interactive Edition\n        </span>\n      </p>\n</div>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we kn",
+      "ai_summary": "特朗普攻击哈里斯的种族身份，声称不知道她是黑人，引发争议。",
+      "ai_tags": [
+        "特朗普",
+        "哈里斯",
+        "种族身份"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "wsj",
+      "title": "《华尔街日报》对特斯拉涉Autopilot事故风险的调查发现了什么？",
+      "link": "https://cn.wsj.com/amp/articles/tesla-autopilot-crash-investigation-cdb0173c",
+      "published_time": "2024-08-01 04:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          inline\n\">\n      \n      \n          <div>\n      <div>\n    <div>\n         <h4>\n        \n        </h4>\n  </div>\n  </div>\n  \n      <p>\n        特斯拉的Autopilot自动辅助驾驶技术主要基于摄像头进行感知，在业内可谓独树一帜，不少人长期担心其可靠性。《华尔街日报》搜集了200多起涉特斯拉Autopilot撞车事故的信息，相关视频和数据显示，上述担忧正在道路上显现，技术缺陷正给公众带来风险。封面图片制作：Ryan Trefes\n        <span>\n        \n        The Wall Street Journal Interactive Edition\n        </span>\n      </p>\n</div>\n\n      \n      \n      \n   ",
+      "ai_summary": "《华尔街日报》调查发现特斯拉Autopilot技术缺陷带来风险。",
+      "ai_tags": [
+        "特斯拉",
+        "Autopilot",
+        "事故"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "wsj",
+      "title": "Meta人工智能投入飙升，数字广告收入增长",
+      "link": "https://cn.wsj.com/amp/articles/meta-platforms-q2-earnings-report-2024-12fe196e",
+      "published_time": "2024-08-01 00:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"566\" src=\"https://images.wsj.net/im-985050?width=860&amp;height=566\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p>Meta的Reality Labs硬件部门是Quest VR头戴式设备的生产商，但该部门仍然处于亏损状态。</p>\n    <p> 图片来源：ronny hartmann/Agence France-Presse/Getty Images</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n   ",
+      "ai_summary": "Meta加大人工智能投入，数字广告收入增长，但硬件部门仍亏损。",
+      "ai_tags": [
+        "Meta",
+        "人工智能",
+        "数字广告"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "wsj",
+      "title": "阿里巴巴将推出AI采购引擎吸引海外商家",
+      "link": "https://cn.wsj.com/amp/articles/alibabato-debut-ai-sourcing-engine-to-draw-overseas-merchants-c797eec6",
+      "published_time": "2024-08-01 00:33:02",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n    <div>\n      <div class=\"media-object scope-\n          header\n\">\n      \n          <figure>\n    \n      \n      <div>\n        <img alt=\"\" height=\"574\" src=\"https://images.wsj.net/im-849752?width=860&amp;height=574\" width=\"860\" />\n        \n      </div>\n    \n      <figcaption>\n        <p> 图片来源：ALY SONG/REUTERS</p>\n  </figcaption>\n</figure>\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n          <!-- eventually when we kno",
+      "ai_summary": "阿里巴巴将推出AI采购引擎，旨在吸引海外商家。",
+      "ai_tags": [
+        "阿里巴巴",
+        "AI",
+        "采购引擎"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "wsj",
+      "title": "9月降息对美联储来说是政治上的“两难”",
+      "link": "https://cn.wsj.com/amp/articles/9%E6%9C%88%E9%99%8D%E6%81%AF%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E6%9D%A5%E8%AF%B4%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B8%8A%E7%9A%84-%E4%B8%A4%E9%9A%BE-d44c9e50",
+      "published_time": "2024-08-01 05:33:03",
+      "raw_content": "<div>\n\n  \n\n</div>\n<div>\n</div>\n<div>\n\n<div>\n\n  <div>\n  \n  \n      <p> </p>\n              <p><span>\n                <a href=\"https://www.wsj.com/news/author/nick-timiraos\" rel=\"author\">Nick Timiraos</a>\n              </span></p>\n\n  </div>\n    <time>\n      2024年8月1日12:08 CST\n    </time>\n</div>\n\n<div>\n  <div>\n    \n    \n  </div>\n</div>\n\n\n\n\n  </div>\n  \n      <p>\n        美联储主席鲍威尔在美联储议息会议后召开的新闻发布会上说，利率目前将保持稳定，但降息“最快可能在9月份的下次会议上提出”。封面图片来源：Al Drago/Bloomberg\n        <span>\n        \n        The Wall Street",
+      "ai_summary": "9月降息对美联储来说是政治上的“两难”。",
+      "ai_tags": [
+        "美联储",
+        "降息",
+        "政治"
+      ],
+      "ai_importance": 4
+    }
+  ]
 }
