@@ -1,4 +1,4 @@
-import type { NewsListResponse, NewsListRequest } from '@/types/news'
+import type { CuratedNewsRequest, CuratedNewsResponse, NewsListResponse, NewsListRequest } from '@/types/news'
 import { fetchJson } from './json'
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? ''
@@ -30,4 +30,20 @@ export const fetchNewsListPayload = async (params: NewsListRequest): Promise<New
 
   const url = `${API_BASE_URL}/api/v1/news/list?${queryParams.toString()}`
   return fetchJson<NewsListResponse>(url)
+}
+
+export const fetchCuratedNewsPayload = async (params: CuratedNewsRequest): Promise<CuratedNewsResponse> => {
+  if (isStaticMode()) {
+    const url = `${STATIC_NEWS_LIST_BASE_URL}/curated-${params.period}.json`
+    return fetchJson<CuratedNewsResponse>(url)
+  }
+
+  const queryParams = new URLSearchParams()
+  queryParams.set('period', params.period)
+  queryParams.set('scope', params.scope ?? 'all')
+  queryParams.set('limit', String(params.limit ?? 20))
+  queryParams.set('offset', String(params.offset ?? 0))
+
+  const url = `${API_BASE_URL}/api/v1/news/curated?${queryParams.toString()}`
+  return fetchJson<CuratedNewsResponse>(url)
 }

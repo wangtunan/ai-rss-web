@@ -1,0 +1,26 @@
+.rating-stars {
+  --rating-star: #f6c343;
+  --rating-star-muted: color-mix(in oklab, var(--text-soft), transparent 36%);
+
+  display: inline-flex;
+  align-items: center;
+  gap: 0.12rem;
+  white-space: nowrap;
+
+  &__icon {
+    width: 0.76rem;
+    height: 0.76rem;
+    fill: transparent;
+    stroke: var(--rating-star-muted);
+    stroke-width: 1.6;
+    transition:
+      fill 0.18s ease,
+      stroke 0.18s ease,
+      transform 0.18s ease;
+  }
+
+  &__icon--filled {
+    fill: var(--rating-star);
+    stroke: var(--rating-star);
+  }
+}

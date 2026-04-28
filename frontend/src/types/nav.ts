@@ -5,6 +5,7 @@ export enum NavType {
   Blog = 'blog',
   Finance = 'finance',
   Default = 'default',
+  Selected = 'selected',
 }
 
 export interface NavItem {
