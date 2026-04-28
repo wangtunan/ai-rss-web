@@ -1,46 +1,46 @@
 {
-  "total": 8,
+  "total": 10,
   "limit": 10,
   "offset": 0,
   "items": [
+    {
+      "category": "v2ex",
+      "title": "兄弟们平常都用什么浏览器？",
+      "link": "https://www.v2ex.com/t/1209014",
+      "published_time": "2026-04-28 01:44:40",
+      "raw_content": "Lantang: Chrome 这几天突然变得好卡，不知道咋回事",
+      "ai_summary": "用户抱怨Chrome浏览器突然变卡，询问大家常用浏览器。",
+      "ai_tags": [
+        "浏览器",
+        "Chrome",
+        "卡顿"
+      ],
+      "ai_importance": 1
+    },
     {
       "category": "v2ex",
       "title": "怎么办兄弟们，我不想和你们失联！",
       "link": "https://www.v2ex.com/t/1208986",
       "published_time": "2026-04-28 00:19:33",
       "raw_content": "nizhong044: <a href=\"https://i.imgur.com/zPpIcke.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/zPpIcke.jpeg\" /></a>",
-      "ai_summary": "用户发帖表达担忧失联的情绪，附图片链接。",
+      "ai_summary": "用户发帖表达不想与大家失联，附图片链接。",
       "ai_tags": [
-        "情感",
-        "失联"
+        "失联",
+        "情感"
       ],
       "ai_importance": 1
     },
     {
       "category": "v2ex",
-      "title": "Termina.Pub 中转站 可开发票，欢迎企业合作，限时开启 claude-free 渠道，回帖留 id 送 10 刀额度",
-      "link": "https://www.v2ex.com/t/1208985",
-      "published_time": "2026-04-28 00:05:53",
-      "raw_content": "v2exgo: <p>在 V 站宣传有一段时间了，积累不了少客户，有些朋友用的不开心走了，有的朋友退款了，但是老板还在，老板又回来给 v 友发福利了</p>\n<p>claude-free 渠道 限时开启，避免滥用，只要 5 分一刀</p>\n<p><strong>官网地址</strong></p>\n<p><a href=\"https://terminal.pub/register\" rel=\"nofollow\">https://terminal.pub/register</a></p>\n<ul>\n<li>充值 1 人民币=1 美金, 套餐可以 0.9 人民币=1 美金</li>\n</ul>\n<h2>活动规则</h2>\n<p>老规矩，回帖发自己 id 每个人送 10 刀，仅限前 150 位\n<img alt=\"图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0oWfkP0.png\" /></p>\n<p>我去吃个早餐 <strong>如果回来自动化程序没拉闸，可能送到 300 位</strong></p",
-      "ai_summary": "Termina.Pub 中转站推广，回帖送10刀额度，支持开发票，限时开启claude-free渠道。",
+      "title": "境外势力资助躺平网红，真是把我逗笑了",
+      "link": "https://www.v2ex.com/t/1209111",
+      "published_time": "2026-04-28 07:00:04",
+      "raw_content": "kongg: <p>国安部，感觉之前在老百信心中多威严高高在上\n现在怎么小作文一发，一股今日头条上网络自媒体的味</p>",
+      "ai_summary": "用户对国安部发布类似自媒体风格的小作文表示讽刺，认为其失去了以往的威严。",
       "ai_tags": [
-        "推广",
-        "API",
-        "Claude"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "本科毕业又能读大专了，全国多地鼓励进大专院校进修，你怎么看？",
-      "link": "https://www.v2ex.com/t/1208997",
-      "published_time": "2026-04-28 01:17:01",
-      "raw_content": "mode171: <p>本科毕业读大专，回炉重造。</p>",
-      "ai_summary": "全国多地鼓励本科毕业生读大专进修，引发讨论。",
-      "ai_tags": [
-        "教育",
-        "大专",
-        "本科"
+        "国安部",
+        "自媒体",
+        "讽刺"
       ],
       "ai_importance": 2
     },
@@ -50,13 +50,55 @@
       "link": "https://www.v2ex.com/t/1208994",
       "published_time": "2026-04-28 01:04:31",
       "raw_content": "gotOwt: 坐标上海，发现附近 4km 内没有塔斯汀店。。<br />感觉是个机遇，这边人很多。。<br />有说法吗？<br />---<br />一直都是程序员，没干过餐饮。。<br />想看看大家的想法。",
-      "ai_summary": "上海程序员发现附近无塔斯汀门店，考虑跨界开餐饮店，征求建议。",
+      "ai_summary": "程序员考虑在上海开塔斯汀店，因附近4km内无店，认为有机遇，但无餐饮经验。",
       "ai_tags": [
         "创业",
-        "餐饮",
-        "塔斯汀"
+        "塔斯汀",
+        "餐饮"
       ],
       "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "Termina.Pub 中转站 可开发票，欢迎企业合作，限时开启 claude-free 渠道，回帖留 id 送 10 刀额度",
+      "link": "https://www.v2ex.com/t/1208985",
+      "published_time": "2026-04-28 00:05:53",
+      "raw_content": "v2exgo: <p>在 V 站宣传有一段时间了，积累不了少客户，有些朋友用的不开心走了，有的朋友退款了，但是老板还在，老板又回来给 v 友发福利了</p>\n<p>claude-free 渠道 限时开启，避免滥用，只要 5 分一刀</p>\n<p><strong>官网地址</strong></p>\n<p><a href=\"https://terminal.pub/register\" rel=\"nofollow\">https://terminal.pub/register</a></p>\n<ul>\n<li>充值 1 人民币=1 美金, 套餐可以 0.9 人民币=1 美金</li>\n</ul>\n<h2>活动规则</h2>\n<p>老规矩，回帖发自己 id 每个人送 10 刀，仅限前 150 位\n<img alt=\"图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0oWfkP0.png\" /></p>\n<p>我去吃个早餐 <strong>如果回来自动化程序没拉闸，可能送到 300 位</strong></p",
+      "ai_summary": "Termina.Pub中转站推广，限时开启claude-free渠道，回帖送10刀额度。",
+      "ai_tags": [
+        "推广",
+        "中转站",
+        "Claude"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "Xiaomi MiMo Token 激励计划",
+      "link": "https://www.v2ex.com/t/1209013",
+      "published_time": "2026-04-28 01:44:10",
+      "raw_content": "leave8080: 邀请你参加 Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划，100T Credits 面向全球用户限时发放中... <a href=\"https://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://100t.xiaomimimo.com/</a><br /><br />创造者百万亿 Token 激励计划<br />Xiaomi MiMo 将面向全球 AI 用户进行免费 Token 发放，我们将在 30 天内发放总计 100 万亿（ 100T ） Token 权益，赠完即止。<br />活动时间：北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00<br />参与地址：<a href=\"http://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">100t.xiaomimimo.com</a>",
+      "ai_summary": "Xiaomi MiMo推出百万亿Token激励计划，面向全球用户免费发放100T Credits。",
+      "ai_tags": [
+        "Xiaomi",
+        "Token",
+        "激励计划"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？",
+      "link": "https://www.v2ex.com/t/1209036",
+      "published_time": "2026-04-28 03:13:54",
+      "raw_content": "shibow: <p>最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。</p>\n<p>比如：</p>\n<p>AI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程</p>\n<p>甚至有些文章给人的感觉是：</p>\n<p>人只需要把需求说清楚，剩下的事情 AI 自己就能完成。</p>\n<p>说实话，看多了之后，我开始有点焦虑了。</p>\n<p>先说一下我的背景：</p>\n<p>我是一个前端开发工程师，\n使用 AI 辅助开发大概有 一年半左右 了。</p>\n<p>平时主要工具是：</p>\n<p>Claude\nGPT\nCursor\nWindsurf</p>\n<p>基本每天都在用，也算是比较重度用户。</p>\n<p>但我目前真实的工作方式，其实还是：</p>\n<p>人主导开发 + AI 辅助\n主要是对话模式</p>\n<p>比如：</p>\n<p>写代码的时候遇到问题就问 AI\n让 AI 帮我优化一段逻辑\n让 AI 帮我 review 一段代码\n或者生成一些基础结构</p>\n<p>整体",
+      "ai_summary": "前端开发者因看到AI Agent自动开发文章而感到焦虑，自己仍停留在人主导+AI辅助的对话模式。",
+      "ai_tags": [
+        "AI",
+        "Agent",
+        "开发焦虑"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "v2ex",
@@ -64,12 +106,25 @@
       "link": "https://www.v2ex.com/t/1209005",
       "published_time": "2026-04-28 01:35:18",
       "raw_content": "xujdan: <h3>现状</h3>\n<p>坐标深圳，3 年多的嵌入式软件开发工作经验，年前 1 月底被动离职（部门解散了，算是好聚好散吧），然后投了下简历面了 2 家试试水（因为很久没面试了），没后续就回老家一直呆到春节后又开始投。其实那段时间还不算很认真找，2 月底回深后才算，期间也参加了几家面试，线上线下都有。一直到现在 boss 累计沟通 1000+、投出 200+，线上线下面试累计 20+吧，但 offer 依旧为 0 。期间也不断改过简历，复习八股（但天杀的嵌入式太广了，总能问到想不起来的）。有几家面了感觉还行，后面依旧没后续，自己追问结果都是不合适。有一家大公司两面下来都不错，结果不知道为啥依旧不行（不知道是不是最后一面问我加班介不介意，我说研发加班正常的说了很多反而给面试官有种抵触加班的印象？）。\n找工作这段时间也感觉出来嵌入式越来越卷了，一个岗位可以上百人沟通过，大部分都要求要有 rtos 经验或者垂直经验。我都开始质疑自己是不是得转行不做开发了，毕竟这三年貌似下班后都没怎么主动学习了，都是靠工作上的积累，但工作上大部分时候也是做产品业务功能。</p>\n<h3>打算",
-      "ai_summary": "深圳嵌入式软件开发工程师求职两个多月，沟通1000+、面试20+，仍未获offer，感叹行业内卷。",
+      "ai_summary": "嵌入式软件工程师在深圳找工作两个多月，投200+简历、面试20+次仍未获offer，感叹行业越来越卷。",
       "ai_tags": [
-        "求职",
+        "找工作",
         "嵌入式",
-        "深圳",
         "内卷"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "买 mac 还是转 Linux 系统",
+      "link": "https://www.v2ex.com/t/1208943",
+      "published_time": "2026-04-27 13:40:21",
+      "raw_content": "fightingCode948: <p>CPU                                          </p>\n<ul>\n<li>Intel Core i7-8550U @ 1.80GHz （睿频 4.0GHz ）                                </li>\n<li>4 核 8 线程, 8MB L3 缓存                                                    </li>\n</ul>\n<p>内存                                                                          </p>\n<ul>\n<li>16GB DDR4 （已用 4.4GB ，可用 11GB ）                                          </li>\n<li>7.7GB Swap                                                                  </l",
+      "ai_summary": "用户纠结买Mac还是转Linux系统，现有配置为i7-8550U、16GB内存。",
+      "ai_tags": [
+        "Mac",
+        "Linux",
+        "系统选择"
       ],
       "ai_importance": 3
     },
@@ -79,41 +134,13 @@
       "link": "https://www.v2ex.com/t/1208909",
       "published_time": "2026-04-27 10:49:52",
       "raw_content": "terry2048: 1. 办公电脑为 window11 ，上面装有公司的 EDR<br />2. 办公电脑访问的公司的网络<br /><br />有办法绕过公司的检测么？各位大神出出招",
-      "ai_summary": "用户询问在装有公司EDR的Windows11电脑上，如何绕过公司网络检测访问境外网站。",
+      "ai_summary": "公司严查访问境外网络，用户寻求绕过检测的方法。",
       "ai_tags": [
-        "网络访问",
-        "公司监控",
+        "公司网络",
+        "翻墙",
         "绕过检测"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "[求助] 怎么把 NFC 门禁卡录入 iPhone 手机",
-      "link": "https://www.v2ex.com/t/1208856",
-      "published_time": "2026-04-27 07:55:51",
-      "raw_content": "Tiger1994: <ol>\n<li>手上有一张 NFC 门禁卡</li>\n<li>手持一部 iphone 17 手机，IOS 26.4 系统</li>\n<li>物业他们不同意把 NFC 录入我手机</li>\n</ol>\n<p>求助如何把 NFC 门禁卡的信息录入手机里，实现手机 NFC 把门禁刷开？</p>",
-      "ai_summary": "用户求助如何将NFC门禁卡信息录入iPhone，物业不同意，希望实现手机刷门禁。",
-      "ai_tags": [
-        "NFC",
-        "门禁卡",
-        "iPhone"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "对象躺得太平了怎么办？",
-      "link": "https://www.v2ex.com/t/1208836",
-      "published_time": "2026-04-27 07:00:31",
-      "raw_content": "bearbest: 工作上八九年没什么变化。<br /><br />生活上没什么兴趣爱好。<br /><br />每天下班或是周末就是躺着刷视频看直播玩游戏。<br /><br />好像完全没有努力让两个人的生活变得更好的想法，过一天算一天，每天得过且过。<br /><br />两人也聊过相关话题，聊得时候发现自己都清楚这些问题，但是聊完之后就像从来没聊过一样……<br /><br />我想一起培养点两个人共同的兴趣爱好，比如游泳、潜水、甚至旅游，都没兴趣。<br /><br />出去玩也喜欢躺在酒店里……<br /><br />问：有什么感兴趣的吗？答曰：我也不知道对啥感兴趣<br /><br />有什么办法改善吗？我们的感情还是很好的，就是感觉有点玩不到一起去。<br /><br />不想变成完成任务的队友搭子，更希望是彼此搀扶前进的爱人。🙏",
-      "ai_summary": "用户抱怨伴侣工作生活缺乏进取心，无兴趣爱好，两人难以共同进步，寻求改善方法。",
-      "ai_tags": [
-        "伴侣关系",
-        "生活态度",
-        "兴趣爱好"
-      ],
-      "ai_importance": 4
     }
   ]
 }

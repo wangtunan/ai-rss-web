@@ -23,7 +23,7 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "published_time": "2026-04-24 19:00:00",
       "raw_content": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
-      "ai_summary": "Google Gemini提供8个整理空间和生活的技巧，包括使用Gemini Live等功能。",
+      "ai_summary": "Google Gemini提供8个整理空间与生活的实用技巧，包括使用Gemini Live等功能。",
       "ai_tags": [
         "Gemini",
         "生活技巧",
@@ -37,7 +37,7 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "published_time": "2026-04-23 09:00:00",
       "raw_content": "Aerial image of the data center",
-      "ai_summary": "Google在奥地利阿尔卑斯地区投资建设首个数据中心。",
+      "ai_summary": "Google在奥地利阿尔卑斯地区投资建设首个数据中心，提升欧洲基础设施。",
       "ai_tags": [
         "Google",
         "数据中心",
@@ -51,7 +51,7 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
       "published_time": "2026-04-23 12:00:00",
       "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "ai_summary": "新视频介绍Google TPU如何支持日益增长的AI工作负载。",
+      "ai_summary": "Google发布新视频，介绍其TPU如何支持日益增长的AI工作负载。",
       "ai_tags": [
         "TPU",
         "AI",
@@ -65,7 +65,7 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "published_time": "2026-04-22 12:00:00",
       "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "ai_summary": "Google推出两款专为智能体时代设计的第八代TPU芯片。",
+      "ai_summary": "Google推出两款专为智能体时代设计的第八代TPU芯片，将推动AI未来发展。",
       "ai_tags": [
         "TPU",
         "AI芯片",
@@ -79,11 +79,11 @@
       "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
       "published_time": "2026-04-21 14:30:00",
       "raw_content": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-      "ai_summary": "Google Ads Advisor新增三项功能，使广告更安全、更快速。",
+      "ai_summary": "Google Ads Advisor推出三项新功能，使Google Ads更安全、更快速，预告2026年5月活动。",
       "ai_tags": [
         "Google Ads",
-        "广告安全",
-        "AI"
+        "安全",
+        "广告"
       ],
       "ai_importance": 3
     },
@@ -93,11 +93,25 @@
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "published_time": "2026-04-17 14:00:00",
       "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "ai_summary": "Google提供7种利用AI工具（如搜索）实现夏季智能旅行的方法。",
+      "ai_summary": "Google提供7种夏季智能旅行方式，借助搜索和AI工具提升旅行体验。",
       "ai_tags": [
         "旅行",
         "Google搜索",
         "AI"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "google_ai",
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "published_time": "2026-04-16 16:00:00",
+      "raw_content": "Example images made with Personal Intelligence",
+      "ai_summary": "Gemini应用新增个性化图像生成功能，用户可创建定制化图片。",
+      "ai_tags": [
+        "Gemini",
+        "图像生成",
+        "个性化"
       ],
       "ai_importance": 3
     },
@@ -111,21 +125,7 @@
       "ai_tags": [
         "Chrome",
         "AI模式",
-        "搜索"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "google_ai",
-      "title": "New ways to create personalized images in the Gemini app",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "published_time": "2026-04-16 16:00:00",
-      "raw_content": "Example images made with Personal Intelligence",
-      "ai_summary": "Gemini应用新增个性化图像生成功能，利用个人智能技术。",
-      "ai_tags": [
-        "Gemini",
-        "图像生成",
-        "个性化"
+        "浏览"
       ],
       "ai_importance": 4
     },
@@ -135,11 +135,11 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
       "published_time": "2026-04-15 15:00:00",
       "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-      "ai_summary": "Google发布Gemini 3.1 Flash TTS，新一代富有表现力的AI语音技术。",
+      "ai_summary": "Google发布Gemini 3.1 Flash TTS，新一代表达性AI语音技术。",
       "ai_tags": [
         "Gemini",
         "TTS",
-        "AI语音"
+        "语音合成"
       ],
       "ai_importance": 4
     }

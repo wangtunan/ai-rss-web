@@ -5,15 +5,43 @@
   "items": [
     {
       "category": "infoq",
+      "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
+      "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33",
+      "published_time": "2026-04-28 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c2/86/c2a9f4488ff8d9b82ec16729b83cee86.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>EverMindCEO邓亚峰已确认出席 “<a href=\"http",
+      "ai_summary": "AICon上海大会将探讨Agent从Demo到工程化的挑战，包括长期记忆系统EverOS的自我演进。",
+      "ai_tags": [
+        "Agent",
+        "AI大会",
+        "工程化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
       "title": "同一赛道，四种收费：Agent 控制层（Harness）开始分裂",
       "link": "https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ",
       "published_time": "2026-04-28 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/31/ae/31c061ff9b828236b724fc6d748af1ae.jpg\" /></p><p>本文最初发布于TheNewStack博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cb/cbc29b20401424591d8b7698702d51eb.png\" /></p><p></p><p>Adriandra Karuniawan为Unsplash+供图</p><p>&nbsp;</p><p>3月30日，Sycamore<a href=\"https://www.businesswire.com/news/home/20260330376116/en/Sycamore-Raises-$65M-to-Build-the-Trusted-Agent-Operating-System-for-the-Enterprise\">宣布</a>\"了6500万美元的种子轮融资，用于构建其创始人所说的自主企",
-      "ai_summary": "Agent控制层市场出现分化，Sycamore获6500万美元种子轮融资，用于构建企业自主Agent操作系统，不同厂商采用多种收费模式。",
+      "ai_summary": "Agent控制层（Harness）出现分裂，不同厂商采用四种收费模式，Sycamore获6500万美元种子轮融资。",
       "ai_tags": [
         "Agent",
         "控制层",
-        "融资"
+        "收费模式"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "可观测性和遥测技术如何提升软件工程实践",
+      "link": "https://www.infoq.cn/article/JwQTmFXTEkBpJlXL16PV",
+      "published_time": "2026-04-28 05:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ec/eb/ec8cfda103a8c67ea80d0299a7ddf6eb.jpg\" /></p><p>在哥本哈根 GOTO 大会上，Martin Thwaites 在题为“<a href=\"https://gotocph.com/2025/sessions/3742/observability-and-the-art-of-software-engineering\">可观测性与软件工程艺术</a>\"”的演讲中提到，可观测性必须随着无服务器事件驱动架构一同演进。OpenTelemetry 能够使遥测数据与供应商解耦，让开发者能够生成一致且高质量的数据，从而准确反映系统的实际行为。统一的术语体系和优质的遥测数据不仅能加快调试速度，还能提升系统的可靠性、运行速度以及开发人员的生产力。</p><p></p><p>现代可观测性与“现代”系统、“现代”开发流程以及“现代”架构的定义紧密相连。Thwaites 解释说，这实际上意味着，自单体应用和服务器时代以来，我们设计、构建以及维护系统",
+      "ai_summary": "Martin Thwaites指出可观测性需随无服务器事件驱动架构演进，OpenTelemetry可解耦遥测数据，提升调试速度和系统可靠性。",
+      "ai_tags": [
+        "可观测性",
+        "OpenTelemetry",
+        "软件工程"
       ],
       "ai_importance": 3
     },
@@ -23,7 +51,7 @@
       "link": "https://www.infoq.cn/article/AetF3mwIAP5iljCD0iW7",
       "published_time": "2026-04-28 01:17:42",
       "raw_content": "<p><img src=\"https://media001.geekbang.org/402d1487421c71f180be6633b79f0102/snapshots/c85ea8be71ae45f6bc9fc38948ec50c8-00001.jpg\" /></p><p>从操作系统、中间件到终端应用方面，拆解Agent记忆断片难题，深聊记忆系统设计与工程化落地。</p>",
-      "ai_summary": "文章从操作系统、中间件到终端应用层面，拆解Agent记忆断片难题，探讨记忆系统设计与工程化落地。",
+      "ai_summary": "探讨Agent记忆断片难题，从操作系统、中间件到终端应用拆解记忆系统设计与工程化落地。",
       "ai_tags": [
         "Agent",
         "记忆系统",
@@ -33,15 +61,72 @@
     },
     {
       "category": "infoq",
-      "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
-      "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33",
-      "published_time": "2026-04-28 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c2/86/c2a9f4488ff8d9b82ec16729b83cee86.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>EverMindCEO邓亚峰已确认出席 “<a href=\"http",
-      "ai_summary": "AICon上海大会将于6月26-27日举办，聚焦Agent从原型到量产的工程挑战、数据与记忆基础设施、安全可信等议题，邀请50+头部企业技术负责人分享经验。",
+      "title": "ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search",
+      "link": "https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW",
+      "published_time": "2026-04-28 06:26:41",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d2/bb/d2b5a42ba2bbfd8405957ee11040aebb.png\" /></p><p>要点速览</p><p></p><p>我们重新设计了 ClickHouse 全文索引 (full-text index)，使其能够在对象存储 (object storage) 上高效运行。</p><p></p><p>新的布局 (layout) 倾向于顺序访问 (sequential access)，并且无需读取被索引的文本列，即可直接从索引中响应大量查询。</p><p></p><p>本文将深入探讨这一新设计，内容由负责构建该设计的工程师们撰写。</p><p></p><h2>重新思考对象存储的全文搜索</h2><p></p><p></p><p>ClickHouse 中的全文搜索 (full-text search) 经历了多次迭代，旨在将快速、原生的文本索引能力引入 列式分析数据库 (columnar analytical database)。每一次迭代都显著提升了其性能、可用",
+      "ai_summary": "ClickHouse重构全文索引，使其在对象存储上高效运行，支持顺序访问并直接从索引响应查询。",
       "ai_tags": [
-        "Agent",
-        "AICon",
-        "工程化"
+        "ClickHouse",
+        "全文索引",
+        "对象存储"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "openJiuwen社区首发Team Skills，定义Coordination Engineering新范式",
+      "link": "https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr",
+      "published_time": "2026-04-28 08:29:35",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/38/26/381d16d7613f4760d6cb36e3f7c51f26.png\" /></p><p>Agent 应该如何协作？除了任务编排，一个理想的 Multi-Agent 系统还需要什么？</p><p></p><p>今天，大多数多智能体系统给出的答案，仍然是任务编排：由开发者预先设计好角色、流程和交接方式，一个 Agent 拆解任务，一组 Agent 生成内容，另一组 Agent 审阅、测试和修改。任务被分发出去，结果被收回来，再通过 review、反馈和重试进入下一轮循环。</p><p></p><p>这套方式解决了多 Agent 协作的第一层问题，即多个 Agent 如何围绕同一个任务分工交付，并通过审核、测试和反馈确保结果正确。</p><p></p><p>但它也带来了新的限制。由于角色和流程大多由人工提前固定，系统的灵活性并不高：任务一旦超出预设流程，就需要人类重新拆解和调整；某个关键 Agent 失败，后续链路可能被迫中断；一次任务中形成的有效分工、审核标准和修",
+      "ai_summary": "openJiuwen社区发布Team Skills，定义协调工程新范式，解决多Agent协作中的灵活性问题。",
+      "ai_tags": [
+        "openJiuwen",
+        "Team Skills",
+        "协调工程",
+        "多Agent"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
+      "link": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN",
+      "published_time": "2026-04-28 07:36:43",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/9b/ed56932005cc33f499bc1b223b5dd79b.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>我们正身处数据专业人员的一个非凡时代。有史以来，真正的自助式分析终于触手可及——业务用户只需使用自然语言提问，即可直接从数据中获得准确、且受监管的答案。无需手动编写 SQL，无需反复点选筛选器，更不必面对积压已久的仪表板需求。这一切，仅需一个能够理解上下文、跨数据源进行推理并即时交付洞见的智能体即可实现。</p><p></p><p>生成式AI已让这一愿景成为现实，但其成功与否，取决于数据团队如何设计这些智能体的架构。速度、准确性与安全性，是不可妥协的底线。而 Snowf",
+      "ai_summary": "Snowflake Cortex Agents 通过自然语言查询实现自助式分析，无需手动编写SQL，强调速度、准确性与安全性。",
+      "ai_tags": [
+        "Snowflake",
+        "AI",
+        "数据分析"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB",
+      "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG",
+      "published_time": "2026-04-28 04:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/67/bf/6702478b6b677370f2076e0ed4c457bf.jpg\" /></p><p>Dropbox 工程师通过解决 Git 存储和增量压缩模型的低效问题，<a href=\"https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity\">将后端单体库的大小从 87GB 缩减至 20GB</a>\"，从而提升了开发人员的工作效率和持续集成性能。该存储库是 Dropbox 各团队后端服务和共享库的中央集成点。这一举措的实施源于该存储库在扩展方面面临的挑战。</p><p></p><p>随着单体库（monorepo）规模的不断扩大，工程团队开始遇到克隆操作缓慢的问题，有时甚至需要超过一个小时才能完成；此外，由于反复获取和构建带来的开销，持续集成（CI）管道的性能也随之下降。规模的扩大还增加了触及存储库托管限制的风险。根据 Dropbox 工程团队",
+      "ai_summary": "Dropbox与GitHub合作，通过解决Git存储低效问题，将单体库从87GB缩减至20GB，提升开发效率和CI性能。",
+      "ai_tags": [
+        "Dropbox",
+        "Git",
+        "单体库"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理",
+      "link": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8",
+      "published_time": "2026-04-28 07:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/8f/4a/8f584ba218fc8c36778398d973e33e4a.jpg\" /></p><p>在巴塞罗那举行的 GrafanaCON 2026 大会上，Grafana Labs 发布了 <a href=\"https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v13-0/\">Grafana 13</a>\"。该版本在数据采集层采用了基于 Loki Kafka 的新架构，并在 Grafana Cloud 中引入了 AI 可观测性功能，用于实时监控和评估 AI 系统。特别值得一提的是，大会还发布了一款名为 <a href=\"https://grafana.com/docs/grafana-cloud/as-code/observability-as-code/grafana-cli/gcx/\">GCX</a>\" 的新命令行工具（CLI），旨在将 Grafana Cloud 数据呈现于代理开发环境中。</p",
+      "ai_summary": "Grafana 13 发布，采用基于Kafka的新架构，引入AI可观测性功能，并推出GCX命令行工具用于代理开发环境。",
+      "ai_tags": [
+        "Grafana",
+        "Kafka",
+        "可观测性"
       ],
       "ai_importance": 4
     },
@@ -49,99 +134,15 @@
       "category": "infoq",
       "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
       "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj",
-      "published_time": "2026-04-28 02:00:00",
+      "published_time": "2026-04-28 03:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/7d/a6/7d1dd23c638d56b5a4241a74795dbaa6.jpg\" /></p><p>Cloudflare 在其 <a href=\"https://www.cloudflare.com/agents-week/\">Agents Week</a>\" 活动中宣布，Sandboxes 和 Cloudflare Containers <a href=\"https://blog.cloudflare.com/sandbox-ga/\">正式上线</a>\"，为 AI 代理工作负载提供隔离的持久化 Linux 环境。</p><p></p><p>该服务于<a href=\"https://github.com/cloudflare/sandbox-sdk\">去年 6 月首次推出测试版</a>\"，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflar",
-      "ai_summary": "Cloudflare正式发布Sandboxes，为AI代理提供隔离的持久化Linux环境，新增安全凭证注入、PTY终端、持久化代码解释器、快照恢复等功能，采用Active CPU定价。",
+      "ai_summary": "Cloudflare Sandboxes正式发布，为AI代理提供隔离的持久化Linux环境，支持安全凭证注入、PTY终端等功能。",
       "ai_tags": [
         "Cloudflare",
         "AI代理",
-        "隔离环境"
+        "沙箱"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
-      "link": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1",
-      "published_time": "2026-04-27 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/2c/225cf1c81c21c57e6e70e57be79c7b2c.jpg\" /></p><p>我得跟你们说句实话。六个月前，我还是 <a href=\"https://graphql.org/learn/federation/\">GraphQL Federation</a>\" 的布道者。我们花了六个月的时间，利用 <a href=\"https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation\">Apollo</a>\" 构建了一个联邦图，其中包含模式拼接、网关配置，以及一套复杂的 CI/CD 管道（每次提交都会重新生成类型）。纸上谈兵时，这套方案看起来很完美。但在生产环境中呢？每次部署都像是要发生一场灾难。</p><p>&nbsp;</p><p>转折点发生在周五下午的一次例行部署中。我们的产品团队更新了某项服务中的一个字段类型，模式重新生成成功，测试通过，于是我",
-      "ai_summary": "作者从GraphQL Federation转向tRPC，认为tRPC在生产环境中更稳定，部署更简单。",
-      "ai_tags": [
-        "API",
-        "GraphQL",
-        "tRPC"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构",
-      "link": "https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p",
-      "published_time": "2026-04-27 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/22/8f/22e46c84e27507ee06763cda9c6f6d8f.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>阿里云智能集团高级技术专家刘少伟已确认出席 “<a href=\"ht",
-      "ai_summary": "阿里云高级技术专家刘少伟将出席AICon上海站，分享企业Agent自动化行动架构的构建经验。",
-      "ai_tags": [
-        "AI",
-        "Agent",
-        "会议"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Slack 重构通知系统，设置参与度提升 5 倍",
-      "link": "https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ",
-      "published_time": "2026-04-27 04:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f3/bc/f34945df5dab0e5c97eb98a84d2f06bc.jpg\" /></p><p>Slack 对其通知系统进行了重构，引入<a href=\"https://slack.engineering/how-slack-rebuilt-notifications/\">统一架构以提升跨平台的一致性和用户可控性</a>\"。此次重设计旨在解决长期存在的问题，包括通知偏好设置碎片化以及行为不可预测，这些问题随着平台规模扩大，已经逐渐成为用户体验不佳和支持成本上升的重要来源。</p><p>&nbsp;</p><p>根据 Slack 工程团队的说法，与通知相关的问题一直是客户支持工单的主要来源之一。其根本原因在于其多套偏好模型的长期叠加，这些模型在语义上存在差异，导致桌面端与移动端之间的行为不一致。用户往往难以理解为何会收到某些通知，或者为何错过了其他通知。</p><p>&nbsp;</p><p>Slack 高级软件工程师 <a href=\"https://www.link",
-      "ai_summary": "Slack重构通知系统，采用统一架构提升跨平台一致性和用户可控性，解决偏好设置碎片化问题，设置参与度提升5倍。",
-      "ai_tags": [
-        "Slack",
-        "通知系统",
-        "重构"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "智能体工程的隐性技术债务",
-      "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3",
-      "published_time": "2026-04-27 03:02:04",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/1f/1b/1f166bcf4d380708ee12c70e250a361b.jpg\" /></p><p>本文最初发布于THENEWSTACK博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/6324a7480b524cc655636671ea88fcee.png\" /></p><p></p><p>Milhad为Unsplash+供稿</p><p>&nbsp;</p><p>如今，任何人都可以很容易地在本地构建一个智能体。通过一些LLM调用、提示和几个工具定义，这个智能体就能在几分钟内为他们完成实际的工作。但是，当这个智能体投入生产并被整个工程部门使用，涉及到真实的数据和实际的后果时，会发生什么呢？</p><p>&nbsp;</p><p>2015年，谷歌发表了“<a href=\"https://proceedings.neurips.cc/paper_files/paper/2015/file/8",
-      "ai_summary": "文章探讨智能体工程中的隐性技术债务，指出从原型到生产环境时可能出现的可靠性、可维护性问题。",
-      "ai_tags": [
-        "智能体",
-        "技术债务",
-        "工程化"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
-      "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE",
-      "published_time": "2026-04-27 07:50:35",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/dc/fb/dcf6823f669c06685e95df92a95e9afb.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？</p><p></p><p>Snowflake 在亚太地区举办的「Data and AI Fast Track」系列深度分享或许能够提供一种思路和答案，为了帮助数据从业者在技术浪潮中重建坐标，我们特别选摘了系列直播内容的精华版，本文将探讨以下三个核心命题：</p><p>从一颗牛油果的成熟，看懂 AI 是如何从工具进化为执行者的；当 AI 算得比你快时，为什么",
-      "ai_summary": "探讨AI时代数据分析师的核心能力，引用Snowflake的分享，分析AI从工具进化为执行者的过程，以及数据从业者如何重建技能体系。",
-      "ai_tags": [
-        "数据分析",
-        "AI",
-        "技能提升"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "当云区域失效：地缘动荡环境下的高可用重构",
-      "link": "https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6",
-      "published_time": "2026-04-27 05:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/15/32/15d86013f2f252eaee32a4ed17501732.jpg\" /></p><p></p><h2>一度成立的假设，终被打破</h2><p></p><p>云架构师们所采用的故障模型广为人知且经过了实战检验：通过自动扩缩容来处理实例故障，以多可用区部署抵御数据中心级别的故障，而区域则处于架构顶层，作为故障爆炸半径的最终边界。这一模型诞生于以硬件故障、自然灾害和软件缺陷为主要威胁的时代，对这类威胁模型而言是合理的。区域在设计上相互独立，具有独立的供电、网络及物理基础设施。</p><p>&nbsp;</p><p>这一假设建立在一个前提之上，即云区域只会因技术原因发生故障，且故障模式均在云服务商的可恢复范围内。但这个前提正悄然崩塌，地缘政治事件并不遵循这一规律。当一国政府切断边境网络连接时，云区域不会以“优雅降级”的方式失效；当制裁迫使云服务商暂停对整个国家的服务时，服务也无法按可预期的时间线恢复。此外，当冲突危及物理基础设施或数据驻留法规突然导致跨境数据复制不再",
-      "ai_summary": "地缘政治事件打破传统云区域故障模型，文章探讨当云区域因政治原因失效时的高可用重构策略。",
-      "ai_tags": [
-        "云架构",
-        "高可用",
-        "地缘政治"
-      ],
-      "ai_importance": 3
     }
   ]
 }

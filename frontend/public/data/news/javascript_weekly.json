@@ -9,11 +9,11 @@
       "link": "https://javascriptweekly.com/issues/782",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​782 — April 21, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/184040/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "HyperFrames允许使用HTML和JavaScript创建视频，为前端开发者提供新的视频制作方式。",
+      "ai_summary": "HyperFrames允许使用HTML和JavaScript创建视频。",
       "ai_tags": [
-        "HTML",
         "JavaScript",
-        "视频制作"
+        "视频",
+        "HyperFrames"
       ],
       "ai_importance": 2
     },
@@ -23,7 +23,7 @@
       "link": "https://javascriptweekly.com/issues/781",
       "published_time": "2026-04-14 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​781 — April 14, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183753/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "MDN在前端重构中放弃React，改用Web组件，以提升性能和可维护性。",
+      "ai_summary": "MDN在前端重构中放弃React，改用Web组件。",
       "ai_tags": [
         "MDN",
         "React",
@@ -37,7 +37,7 @@
       "link": "https://javascriptweekly.com/issues/780",
       "published_time": "2026-04-07 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​780 — April 7, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183301/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScript",
-      "ai_summary": "文章总结了2026年JavaScript生态的关键趋势和变化，帮助开发者把握方向。",
+      "ai_summary": "2026年JavaScript发展动态概览。",
       "ai_tags": [
         "JavaScript",
         "2026",
@@ -51,7 +51,7 @@
       "link": "https://javascriptweekly.com/issues/779",
       "published_time": "2026-03-31 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​779 — March 31, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183032/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "npm供应链遭遇重大攻击，通过Axios库传播恶意软件，影响广泛。",
+      "ai_summary": "npm供应链遭遇重大攻击，涉及Axios库。",
       "ai_tags": [
         "npm",
         "供应链攻击",

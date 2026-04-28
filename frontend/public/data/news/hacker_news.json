@@ -8,52 +8,40 @@
       "title": "Super ZSNES – GPU Powered SNES Emulator",
       "link": "https://zsnes.com/",
       "published_time": "2026-04-27 17:50:10",
-      "raw_content": "<p>Article URL: <a href=\"https://zsnes.com/\">https://zsnes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924877\">https://news.ycombinator.com/item?id=47924877</a></p>\n<p>Points: 252</p>\n<p># Comments: 69</p>",
-      "ai_summary": "Super ZSNES是一款GPU加速的SNES模拟器，在Hacker News上获得252分和69条评论。",
+      "raw_content": "<p>Article URL: <a href=\"https://zsnes.com/\">https://zsnes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924877\">https://news.ycombinator.com/item?id=47924877</a></p>\n<p>Points: 293</p>\n<p># Comments: 90</p>",
+      "ai_summary": "Super ZSNES是一个利用GPU加速的SNES模拟器，性能提升显著，获得293分和90条评论。",
       "ai_tags": [
         "模拟器",
         "GPU",
-        "SNES"
+        "游戏"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "Is my blue your blue?",
-      "link": "https://ismy.blue/",
-      "published_time": "2026-04-27 20:24:33",
-      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 380</p>\n<p># Comments: 256</p>",
-      "ai_summary": "一个关于颜色感知的互动网站，在Hacker News上获得380分和256条评论。",
-      "ai_tags": [
-        "颜色",
-        "互动",
-        "Hacker News"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "To my students",
-      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-      "published_time": "2026-04-27 23:57:39",
-      "raw_content": "<p>Article URL: <a href=\"http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\">http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47928828\">https://news.ycombinator.com/item?id=47928828</a></p>\n<p>Points: 260</p>\n<p># Comments: 155</p>",
-      "ai_summary": "一篇面向学生的文章，在Hacker News上获得260分和155条评论。",
-      "ai_tags": [
-        "教育",
-        "Hacker News"
-      ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
       "title": "Men who stare at walls",
       "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
       "published_time": "2026-04-27 11:08:26",
-      "raw_content": "<p>Article URL: <a href=\"https://www.alexselimov.com/posts/men_who_stare_at_walls/\">https://www.alexselimov.com/posts/men_who_stare_at_walls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920074\">https://news.ycombinator.com/item?id=47920074</a></p>\n<p>Points: 466</p>\n<p># Comments: 209</p>",
-      "ai_summary": "文章探讨“凝视墙壁的男人”现象，引发思考。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.alexselimov.com/posts/men_who_stare_at_walls/\">https://www.alexselimov.com/posts/men_who_stare_at_walls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920074\">https://news.ycombinator.com/item?id=47920074</a></p>\n<p>Points: 582</p>\n<p># Comments: 263</p>",
+      "ai_summary": "探讨人们长时间凝视墙壁的心理现象及其背后的意义。",
       "ai_tags": [
-        "思考",
-        "心理"
+        "心理学",
+        "行为",
+        "思考"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "published_time": "2026-04-27 21:55:48",
+      "raw_content": "<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 365</p>\n<p># Comments: 126</p>",
+      "ai_summary": "Talkie是一个13B参数的复古语言模型，灵感来自1930年代风格，已在Hacker News上获得365分和126条评论。",
+      "ai_tags": [
+        "AI",
+        "语言模型",
+        "复古"
       ],
       "ai_importance": 3
     },
@@ -62,8 +50,8 @@
       "title": "Quarkdown – Markdown with Superpowers",
       "link": "https://quarkdown.com/",
       "published_time": "2026-04-27 08:54:57",
-      "raw_content": "<p>Article URL: <a href=\"https://quarkdown.com/\">https://quarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919240\">https://news.ycombinator.com/item?id=47919240</a></p>\n<p>Points: 271</p>\n<p># Comments: 98</p>",
-      "ai_summary": "Quarkdown 是一种增强型 Markdown，提供超能力，如交互式组件和动态内容，旨在提升文档编写体验。",
+      "raw_content": "<p>Article URL: <a href=\"https://quarkdown.com/\">https://quarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919240\">https://news.ycombinator.com/item?id=47919240</a></p>\n<p>Points: 309</p>\n<p># Comments: 117</p>",
+      "ai_summary": "Quarkdown发布，一个增强型Markdown工具，提供更多功能。",
       "ai_tags": [
         "Markdown",
         "工具",
@@ -76,11 +64,12 @@
       "title": "“Why not just use Lean?”",
       "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
       "published_time": "2026-04-27 14:24:53",
-      "raw_content": "<p>Article URL: <a href=\"https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html\">https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922079\">https://news.ycombinator.com/item?id=47922079</a></p>\n<p>Points: 263</p>\n<p># Comments: 181</p>",
-      "ai_summary": "文章探讨为何不直接使用 Lean 定理证明器。",
+      "raw_content": "<p>Article URL: <a href=\"https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html\">https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922079\">https://news.ycombinator.com/item?id=47922079</a></p>\n<p>Points: 283</p>\n<p># Comments: 194</p>",
+      "ai_summary": "一篇博客文章探讨为何不直接使用Lean证明助手，引发对形式化验证工具的讨论，获得283分和194条评论。",
       "ai_tags": [
         "Lean",
-        "定理证明"
+        "形式化验证",
+        "编程"
       ],
       "ai_importance": 3
     },
@@ -89,8 +78,8 @@
       "title": "TurboQuant: A first-principles walkthrough",
       "link": "https://arkaung.github.io/interactive-turboquant/",
       "published_time": "2026-04-27 01:54:32",
-      "raw_content": "<p>Article URL: <a href=\"https://arkaung.github.io/interactive-turboquant/\">https://arkaung.github.io/interactive-turboquant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47916890\">https://news.ycombinator.com/item?id=47916890</a></p>\n<p>Points: 283</p>\n<p># Comments: 56</p>",
-      "ai_summary": "TurboQuant 是一个交互式教程，从第一性原理讲解量化交易，适合初学者学习。",
+      "raw_content": "<p>Article URL: <a href=\"https://arkaung.github.io/interactive-turboquant/\">https://arkaung.github.io/interactive-turboquant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47916890\">https://news.ycombinator.com/item?id=47916890</a></p>\n<p>Points: 287</p>\n<p># Comments: 58</p>",
+      "ai_summary": "TurboQuant交互式教程，从第一性原理讲解量化交易。",
       "ai_tags": [
         "量化交易",
         "教程",
@@ -103,12 +92,11 @@
       "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
       "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
       "published_time": "2026-04-27 15:12:41",
-      "raw_content": "<p>Article URL: <a href=\"https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\">https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922712\">https://news.ycombinator.com/item?id=47922712</a></p>\n<p>Points: 314</p>\n<p># Comments: 130</p>",
-      "ai_summary": "荷兰央行弃用 AWS，选择 Lidl 的欧洲云服务。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\">https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922712\">https://news.ycombinator.com/item?id=47922712</a></p>\n<p>Points: 333</p>\n<p># Comments: 140</p>",
+      "ai_summary": "荷兰央行放弃AWS，选择Lidl的欧洲云服务，引发对云服务选择的讨论，获得333分和140条评论。",
       "ai_tags": [
         "云服务",
         "AWS",
-        "Lidl",
         "欧洲"
       ],
       "ai_importance": 4
@@ -118,11 +106,26 @@
       "title": "GitHub is having issues now",
       "link": "https://www.githubstatus.com",
       "published_time": "2026-04-27 17:42:19",
-      "raw_content": "<p>Article URL: <a href=\"https://www.githubstatus.com\">https://www.githubstatus.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924775\">https://news.ycombinator.com/item?id=47924775</a></p>\n<p>Points: 307</p>\n<p># Comments: 107</p>",
-      "ai_summary": "GitHub 当前出现服务问题，状态页面显示异常。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.githubstatus.com\">https://www.githubstatus.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924775\">https://news.ycombinator.com/item?id=47924775</a></p>\n<p>Points: 318</p>\n<p># Comments: 116</p>",
+      "ai_summary": "GitHub当前出现服务问题，状态页面显示异常，用户讨论热烈，获得318分和116条评论。",
       "ai_tags": [
         "GitHub",
-        "故障"
+        "故障",
+        "服务"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "published_time": "2026-04-27 20:24:33",
+      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 535</p>\n<p># Comments: 369</p>",
+      "ai_summary": "一个互动网站探讨颜色感知的个体差异，引发关于主观体验的讨论，获得535分和369条评论。",
+      "ai_tags": [
+        "颜色",
+        "感知",
+        "互动"
       ],
       "ai_importance": 4
     },
@@ -131,12 +134,13 @@
       "title": "Pgbackrest is no longer being maintained",
       "link": "https://github.com/pgbackrest/pgbackrest",
       "published_time": "2026-04-27 10:56:34",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 398</p>\n<p># Comments: 213</p>",
-      "ai_summary": "PostgreSQL 备份工具 pgbackrest 宣布停止维护。",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 424</p>\n<p># Comments: 221</p>",
+      "ai_summary": "PostgreSQL备份工具pgbackrest宣布停止维护，引发社区关注。",
       "ai_tags": [
         "PostgreSQL",
         "备份",
-        "停止维护"
+        "开源",
+        "维护停止"
       ],
       "ai_importance": 4
     }
