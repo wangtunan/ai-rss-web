@@ -9,11 +9,12 @@
       "link": "https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW",
       "published_time": "2026-04-28 06:26:41",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d2/bb/d2b5a42ba2bbfd8405957ee11040aebb.png\" /></p><p>要点速览</p><p></p><p>我们重新设计了 ClickHouse 全文索引 (full-text index)，使其能够在对象存储 (object storage) 上高效运行。</p><p></p><p>新的布局 (layout) 倾向于顺序访问 (sequential access)，并且无需读取被索引的文本列，即可直接从索引中响应大量查询。</p><p></p><p>本文将深入探讨这一新设计，内容由负责构建该设计的工程师们撰写。</p><p></p><h2>重新思考对象存储的全文搜索</h2><p></p><p></p><p>ClickHouse 中的全文搜索 (full-text search) 经历了多次迭代，旨在将快速、原生的文本索引能力引入 列式分析数据库 (columnar analytical database)。每一次迭代都显著提升了其性能、可用",
-      "ai_summary": "ClickHouse重新设计了全文索引，使其在对象存储上高效运行，通过顺序访问布局减少读取开销。",
+      "ai_summary": "ClickHouse重新设计全文索引，使其能在对象存储上高效运行，新布局支持顺序访问且无需读取被索引列即可响应查询。",
       "ai_tags": [
         "ClickHouse",
         "全文索引",
-        "对象存储"
+        "对象存储",
+        "性能优化"
       ],
       "ai_importance": 4
     },
@@ -23,11 +24,12 @@
       "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG",
       "published_time": "2026-04-28 04:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/67/bf/6702478b6b677370f2076e0ed4c457bf.jpg\" /></p><p>Dropbox 工程师通过解决 Git 存储和增量压缩模型的低效问题，<a href=\"https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity\">将后端单体库的大小从 87GB 缩减至 20GB</a>\"，从而提升了开发人员的工作效率和持续集成性能。该存储库是 Dropbox 各团队后端服务和共享库的中央集成点。这一举措的实施源于该存储库在扩展方面面临的挑战。</p><p></p><p>随着单体库（monorepo）规模的不断扩大，工程团队开始遇到克隆操作缓慢的问题，有时甚至需要超过一个小时才能完成；此外，由于反复获取和构建带来的开销，持续集成（CI）管道的性能也随之下降。规模的扩大还增加了触及存储库托管限制的风险。根据 Dropbox 工程团队",
-      "ai_summary": "Dropbox通过优化Git存储和增量压缩模型，将后端单体库从87GB缩减至20GB，提升开发效率和CI性能。",
+      "ai_summary": "Dropbox通过解决Git存储问题，将后端单体库从87GB缩减至20GB，提升了开发效率和CI性能。",
       "ai_tags": [
         "Dropbox",
         "单体库",
-        "Git优化"
+        "Git",
+        "性能优化"
       ],
       "ai_importance": 4
     },
@@ -37,13 +39,44 @@
       "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj",
       "published_time": "2026-04-28 03:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/7d/a6/7d1dd23c638d56b5a4241a74795dbaa6.jpg\" /></p><p>Cloudflare 在其 <a href=\"https://www.cloudflare.com/agents-week/\">Agents Week</a>\" 活动中宣布，Sandboxes 和 Cloudflare Containers <a href=\"https://blog.cloudflare.com/sandbox-ga/\">正式上线</a>\"，为 AI 代理工作负载提供隔离的持久化 Linux 环境。</p><p></p><p>该服务于<a href=\"https://github.com/cloudflare/sandbox-sdk\">去年 6 月首次推出测试版</a>\"，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflar",
-      "ai_summary": "Cloudflare正式发布Sandboxes和Containers，为AI代理提供持久化隔离Linux环境，支持安全凭证注入和会话恢复。",
+      "ai_summary": "Cloudflare正式发布Sandboxes，为AI代理提供持久化隔离Linux环境，新增安全凭证注入、PTY终端支持等功能。",
       "ai_tags": [
         "Cloudflare",
         "Sandboxes",
-        "AI代理"
+        "AI代理",
+        "隔离环境"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "openJiuwen社区首发Team Skills，定义Coordination Engineering新范式",
+      "link": "https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr",
+      "published_time": "2026-04-28 08:29:35",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/38/26/381d16d7613f4760d6cb36e3f7c51f26.png\" /></p><p>Agent 应该如何协作？除了任务编排，一个理想的 Multi-Agent 系统还需要什么？</p><p></p><p>今天，大多数多智能体系统给出的答案，仍然是任务编排：由开发者预先设计好角色、流程和交接方式，一个 Agent 拆解任务，一组 Agent 生成内容，另一组 Agent 审阅、测试和修改。任务被分发出去，结果被收回来，再通过 review、反馈和重试进入下一轮循环。</p><p></p><p>这套方式解决了多 Agent 协作的第一层问题，即多个 Agent 如何围绕同一个任务分工交付，并通过审核、测试和反馈确保结果正确。</p><p></p><p>但它也带来了新的限制。由于角色和流程大多由人工提前固定，系统的灵活性并不高：任务一旦超出预设流程，就需要人类重新拆解和调整；某个关键 Agent 失败，后续链路可能被迫中断；一次任务中形成的有效分工、审核标准和修",
+      "ai_summary": "openJiuwen社区首发Team Skills，定义协作工程新范式，解决多智能体系统灵活性不足的问题。",
+      "ai_tags": [
+        "多智能体",
+        "协作",
+        "openJiuwen",
+        "Team Skills"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
+      "link": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN",
+      "published_time": "2026-04-28 07:36:43",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/9b/ed56932005cc33f499bc1b223b5dd79b.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>我们正身处数据专业人员的一个非凡时代。有史以来，真正的自助式分析终于触手可及——业务用户只需使用自然语言提问，即可直接从数据中获得准确、且受监管的答案。无需手动编写 SQL，无需反复点选筛选器，更不必面对积压已久的仪表板需求。这一切，仅需一个能够理解上下文、跨数据源进行推理并即时交付洞见的智能体即可实现。</p><p></p><p>生成式AI已让这一愿景成为现实，但其成功与否，取决于数据团队如何设计这些智能体的架构。速度、准确性与安全性，是不可妥协的底线。而 Snowf",
+      "ai_summary": "Snowflake Cortex Agents利用自然语言实现自助式分析，让业务用户直接从数据获得准确答案。",
+      "ai_tags": [
+        "Snowflake",
+        "Cortex Agents",
+        "自然语言",
+        "数据分析"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "infoq",
@@ -51,10 +84,11 @@
       "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33",
       "published_time": "2026-04-28 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c2/86/c2a9f4488ff8d9b82ec16729b83cee86.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>EverMindCEO邓亚峰已确认出席 “<a href=\"http",
-      "ai_summary": "AICon上海将聚焦Agent从Demo到工程化的挑战，EverOS长期记忆系统助力Agent自我演进。",
+      "ai_summary": "AICon上海大会将探讨Agent从Demo到工程化的挑战，包括长期记忆系统EverOS的自我演进等议题。",
       "ai_tags": [
         "Agent",
         "长期记忆",
+        "工程化",
         "AICon"
       ],
       "ai_importance": 3
@@ -65,11 +99,12 @@
       "link": "https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ",
       "published_time": "2026-04-28 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/31/ae/31c061ff9b828236b724fc6d748af1ae.jpg\" /></p><p>本文最初发布于TheNewStack博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cb/cbc29b20401424591d8b7698702d51eb.png\" /></p><p></p><p>Adriandra Karuniawan为Unsplash+供图</p><p>&nbsp;</p><p>3月30日，Sycamore<a href=\"https://www.businesswire.com/news/home/20260330376116/en/Sycamore-Raises-$65M-to-Build-the-Trusted-Agent-Operating-System-for-the-Enterprise\">宣布</a>\"了6500万美元的种子轮融资，用于构建其创始人所说的自主企",
-      "ai_summary": "Agent控制层市场出现多种收费模式，Sycamore获6500万美元融资构建企业级Agent操作系统。",
+      "ai_summary": "Agent控制层（Harness）出现四种收费模式，Sycamore获6500万美元种子轮融资，用于构建企业自主Agent操作系统。",
       "ai_tags": [
         "Agent",
         "控制层",
-        "收费模式"
+        "收费模式",
+        "融资"
       ],
       "ai_importance": 3
     },
@@ -79,12 +114,12 @@
       "link": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8",
       "published_time": "2026-04-28 07:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/8f/4a/8f584ba218fc8c36778398d973e33e4a.jpg\" /></p><p>在巴塞罗那举行的 GrafanaCON 2026 大会上，Grafana Labs 发布了 <a href=\"https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v13-0/\">Grafana 13</a>\"。该版本在数据采集层采用了基于 Loki Kafka 的新架构，并在 Grafana Cloud 中引入了 AI 可观测性功能，用于实时监控和评估 AI 系统。特别值得一提的是，大会还发布了一款名为 <a href=\"https://grafana.com/docs/grafana-cloud/as-code/observability-as-code/grafana-cli/gcx/\">GCX</a>\" 的新命令行工具（CLI），旨在将 Grafana Cloud 数据呈现于代理开发环境中。</p",
-      "ai_summary": "Grafana Labs发布Grafana 13，采用Kafka重构Loki架构，并推出CLI工具GCX，用于可观测性与编码代理。",
+      "ai_summary": "Grafana Labs发布Grafana 13，采用基于Kafka的新架构，引入AI可观测性功能，并推出CLI工具GCX。",
       "ai_tags": [
         "Grafana",
-        "Loki",
         "Kafka",
-        "GCX"
+        "可观测性",
+        "AI"
       ],
       "ai_importance": 3
     },
@@ -94,11 +129,12 @@
       "link": "https://www.infoq.cn/article/JwQTmFXTEkBpJlXL16PV",
       "published_time": "2026-04-28 05:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ec/eb/ec8cfda103a8c67ea80d0299a7ddf6eb.jpg\" /></p><p>在哥本哈根 GOTO 大会上，Martin Thwaites 在题为“<a href=\"https://gotocph.com/2025/sessions/3742/observability-and-the-art-of-software-engineering\">可观测性与软件工程艺术</a>\"”的演讲中提到，可观测性必须随着无服务器事件驱动架构一同演进。OpenTelemetry 能够使遥测数据与供应商解耦，让开发者能够生成一致且高质量的数据，从而准确反映系统的实际行为。统一的术语体系和优质的遥测数据不仅能加快调试速度，还能提升系统的可靠性、运行速度以及开发人员的生产力。</p><p></p><p>现代可观测性与“现代”系统、“现代”开发流程以及“现代”架构的定义紧密相连。Thwaites 解释说，这实际上意味着，自单体应用和服务器时代以来，我们设计、构建以及维护系统",
-      "ai_summary": "可观测性需随无服务器事件驱动架构演进，OpenTelemetry使遥测数据与供应商解耦，提升调试速度和系统可靠性。",
+      "ai_summary": "Martin Thwaites在GOTO大会上强调可观测性需随无服务器事件驱动架构演进，OpenTelemetry可生成一致高质量的遥测数据，提升调试速度和系统可靠性。",
       "ai_tags": [
         "可观测性",
+        "OpenTelemetry",
         "遥测",
-        "OpenTelemetry"
+        "软件工程"
       ],
       "ai_importance": 3
     },
@@ -108,41 +144,14 @@
       "link": "https://www.infoq.cn/article/AetF3mwIAP5iljCD0iW7",
       "published_time": "2026-04-28 01:17:42",
       "raw_content": "<p><img src=\"https://media001.geekbang.org/402d1487421c71f180be6633b79f0102/snapshots/c85ea8be71ae45f6bc9fc38948ec50c8-00001.jpg\" /></p><p>从操作系统、中间件到终端应用方面，拆解Agent记忆断片难题，深聊记忆系统设计与工程化落地。</p>",
-      "ai_summary": "从系统到应用层面分析Agent记忆断片问题，探讨记忆系统设计与工程化落地。",
+      "ai_summary": "文章拆解Agent记忆断片难题，从系统到应用层探讨记忆系统设计与工程化落地。",
       "ai_tags": [
         "Agent",
         "记忆",
-        "工程化"
+        "工程化",
+        "系统设计"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Cortex Code 入门指南：面向数据工程师的实践路径 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/j5GzrA50oPkKBXLvcjBp",
-      "published_time": "2026-04-28 10:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c8/4c/c89e813198f5fbf840c223243142fa4c.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>上个月，我发现自己需要在四个不同工具之间来回切换，才能调试一个无法正常运行的dbt 模型：用 Snowsight 探索 SQL、在 VS Code 中修改代码、在终端执行 dbt 命令，还得同时查阅文档确认语法。当 Cortex Code 进入公开预览阶段后，我意识到可以将这套流程中的大部分工作收拢到一个对话式交互界面中。本指南将帮助你在自己的环境中完成 Cortex Code 的部署。</p><p></p><h3>你将了解以下内容：</h3><p></p><p></p",
-      "ai_summary": "Cortex Code入门指南：面向数据工程师的实践路径，介绍如何通过对话式界面简化工作流程。",
-      "ai_tags": [
-        "Cortex Code",
-        "data engineer",
-        "guide"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "infoq",
-      "title": "openJiuwen社区首发Team Skills，定义Coordination Engineering新范式",
-      "link": "https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr",
-      "published_time": "2026-04-28 08:29:35",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/38/26/381d16d7613f4760d6cb36e3f7c51f26.png\" /></p><p>Agent 应该如何协作？除了任务编排，一个理想的 Multi-Agent 系统还需要什么？</p><p></p><p>今天，大多数多智能体系统给出的答案，仍然是任务编排：由开发者预先设计好角色、流程和交接方式，一个 Agent 拆解任务，一组 Agent 生成内容，另一组 Agent 审阅、测试和修改。任务被分发出去，结果被收回来，再通过 review、反馈和重试进入下一轮循环。</p><p></p><p>这套方式解决了多 Agent 协作的第一层问题，即多个 Agent 如何围绕同一个任务分工交付，并通过审核、测试和反馈确保结果正确。</p><p></p><p>但它也带来了新的限制。由于角色和流程大多由人工提前固定，系统的灵活性并不高：任务一旦超出预设流程，就需要人类重新拆解和调整；某个关键 Agent 失败，后续链路可能被迫中断；一次任务中形成的有效分工、审核标准和修",
-      "ai_summary": "openJiuwen社区首发Team Skills，定义协作工程新范式，解决多智能体系统的灵活性问题。",
-      "ai_tags": [
-        "openJiuwen",
-        "Team Skills",
-        "coordination engineering"
-      ],
-      "ai_importance": 2
     }
   ]
 }

@@ -9,11 +9,11 @@
       "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
       "published_time": "2026-04-28 00:28:13",
       "raw_content": "",
-      "ai_summary": "NVIDIA提出基于物理信息的自适应超声成像AI方法。",
+      "ai_summary": "NVIDIA发布基于物理信息的AI技术，实现自适应超声成像。",
       "ai_tags": [
-        "超声成像",
-        "物理信息",
-        "AI"
+        "AI",
+        "医疗影像",
+        "NVIDIA"
       ],
       "ai_importance": 3
     },
@@ -23,11 +23,12 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何使用OpenAI的隐私过滤器构建可扩展的Web应用。",
+      "ai_summary": "介绍如何使用OpenAI隐私过滤器构建可扩展的网络应用。",
       "ai_tags": [
-        "OpenAI",
-        "隐私过滤",
-        "Web应用"
+        "AI",
+        "隐私",
+        "Web应用",
+        "OpenAI"
       ],
       "ai_importance": 2
     },
@@ -37,11 +38,11 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4模型支持百万token上下文，赋能AI代理。",
+      "ai_summary": "DeepSeek-V4模型支持百万token上下文，可被代理实际使用。",
       "ai_tags": [
-        "DeepSeek",
-        "长上下文",
-        "AI代理"
+        "AI",
+        "大模型",
+        "DeepSeek"
       ],
       "ai_importance": 4
     },
@@ -51,24 +52,11 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "讲解如何在Chrome扩展中使用Transformers.js。",
+      "ai_summary": "介绍如何在Chrome扩展中使用Transformers.js的方法。",
       "ai_tags": [
         "Transformers.js",
-        "Chrome扩展"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hugging_face",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "published_time": "2026-04-21 10:09:58",
-      "raw_content": "",
-      "ai_summary": "推出质量优先的阿拉伯语LLM排行榜QIMMA。",
-      "ai_tags": [
-        "阿拉伯语",
-        "LLM",
-        "排行榜"
+        "Chrome扩展",
+        "教程"
       ],
       "ai_importance": 3
     },
@@ -78,11 +66,25 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨AI与网络安全未来，强调开源和开放的重要性。",
+      "ai_summary": "探讨AI与网络安全未来，强调开放性的重要性。",
       "ai_tags": [
         "AI",
         "网络安全",
         "开放性"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published_time": "2026-04-21 10:09:58",
+      "raw_content": "",
+      "ai_summary": "发布阿拉伯语大模型质量排行榜QIMMA，以质量优先。",
+      "ai_tags": [
+        "阿拉伯语",
+        "大语言模型",
+        "排行榜"
       ],
       "ai_importance": 3
     },
@@ -92,14 +94,14 @@
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
       "ai_tags": [
         "多模态",
         "嵌入",
         "重排序",
         "Sentence Transformers"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -107,10 +109,11 @@
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨开发者本应主动提出的PR（Pull Request）的概念。",
+      "ai_summary": "介绍将Transformers模型迁移到MLX的PR指南。",
       "ai_tags": [
-        "开源",
-        "PR"
+        "Transformers",
+        "MLX",
+        "移植"
       ],
       "ai_importance": 2
     },
@@ -120,10 +123,10 @@
       "link": "https://huggingface.co/blog/ecom-rlve",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "提出用于电商对话agent的自适应可验证环境Ecom-RLVE。",
+      "ai_summary": "为电商对话代理设计自适应可验证环境Ecom-RLVE。",
       "ai_tags": [
         "电商",
-        "对话系统",
+        "对话代理",
         "强化学习"
       ],
       "ai_importance": 2
@@ -134,12 +137,12 @@
       "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "published_time": "2026-04-15 12:07:25",
       "raw_content": "",
-      "ai_summary": "深入分析VAKRA代理的推理、工具使用及失败模式。",
+      "ai_summary": "分析VAKRA基准中代理的推理、工具使用及失败模式。",
       "ai_tags": [
+        "VAKRA",
         "代理",
         "推理",
-        "工具使用",
-        "失败模式"
+        "基准"
       ],
       "ai_importance": 3
     }

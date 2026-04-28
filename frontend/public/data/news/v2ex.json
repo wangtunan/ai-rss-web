@@ -5,44 +5,32 @@
   "items": [
     {
       "category": "v2ex",
-      "title": "现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？",
-      "link": "https://www.v2ex.com/t/1209036",
-      "published_time": "2026-04-28 03:13:54",
-      "raw_content": "shibow: <p>最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。</p>\n<p>比如：</p>\n<p>AI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程</p>\n<p>甚至有些文章给人的感觉是：</p>\n<p>人只需要把需求说清楚，剩下的事情 AI 自己就能完成。</p>\n<p>说实话，看多了之后，我开始有点焦虑了。</p>\n<p>先说一下我的背景：</p>\n<p>我是一个前端开发工程师，\n使用 AI 辅助开发大概有 一年半左右 了。</p>\n<p>平时主要工具是：</p>\n<p>Claude\nGPT\nCursor\nWindsurf</p>\n<p>基本每天都在用，也算是比较重度用户。</p>\n<p>但我目前真实的工作方式，其实还是：</p>\n<p>人主导开发 + AI 辅助\n主要是对话模式</p>\n<p>比如：</p>\n<p>写代码的时候遇到问题就问 AI\n让 AI 帮我优化一段逻辑\n让 AI 帮我 review 一段代码\n或者生成一些基础结构</p>\n<p>整体",
-      "ai_summary": "前端开发者对AI Agent自动开发趋势感到焦虑，目前仍依赖人主导+对话模式。",
-      "ai_tags": [
-        "AI开发",
-        "焦虑",
-        "工作模式"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "找工作找了两个多月越找越烦",
-      "link": "https://www.v2ex.com/t/1209005",
-      "published_time": "2026-04-28 01:35:18",
-      "raw_content": "xujdan: <h3>现状</h3>\n<p>坐标深圳，3 年多的嵌入式软件开发工作经验，年前 1 月底被动离职（部门解散了，算是好聚好散吧），然后投了下简历面了 2 家试试水（因为很久没面试了），没后续就回老家一直呆到春节后又开始投。其实那段时间还不算很认真找，2 月底回深后才算，期间也参加了几家面试，线上线下都有。一直到现在 boss 累计沟通 1000+、投出 200+，线上线下面试累计 20+吧，但 offer 依旧为 0 。期间也不断改过简历，复习八股（但天杀的嵌入式太广了，总能问到想不起来的）。有几家面了感觉还行，后面依旧没后续，自己追问结果都是不合适。有一家大公司两面下来都不错，结果不知道为啥依旧不行（不知道是不是最后一面问我加班介不介意，我说研发加班正常的说了很多反而给面试官有种抵触加班的印象？）。\n找工作这段时间也感觉出来嵌入式越来越卷了，一个岗位可以上百人沟通过，大部分都要求要有 rtos 经验或者垂直经验。我都开始质疑自己是不是得转行不做开发了，毕竟这三年貌似下班后都没怎么主动学习了，都是靠工作上的积累，但工作上大部分时候也是做产品业务功能。</p>\n<h3>打算",
-      "ai_summary": "嵌入式工程师求职两个多月，面试20多次无果，感叹行业竞争激烈。",
-      "ai_tags": [
-        "找工作",
-        "嵌入式",
-        "职场"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
       "title": "本科毕业又能读大专了，全国多地鼓励进大专院校进修，你怎么看？",
       "link": "https://www.v2ex.com/t/1208997",
       "published_time": "2026-04-28 01:17:01",
       "raw_content": "mode171: <p>本科毕业读大专，回炉重造。</p>",
-      "ai_summary": "全国多地鼓励本科毕业生进入大专院校进修，引发社会讨论。",
+      "ai_summary": "全国多地鼓励本科毕业生进入大专院校进修，引发讨论。",
       "ai_tags": [
         "教育",
-        "大专进修"
+        "大专",
+        "本科",
+        "进修"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？",
+      "link": "https://www.v2ex.com/t/1209036",
+      "published_time": "2026-04-28 03:13:54",
+      "raw_content": "shibow: <p>最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。</p>\n<p>比如：</p>\n<p>AI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程</p>\n<p>甚至有些文章给人的感觉是：</p>\n<p>人只需要把需求说清楚，剩下的事情 AI 自己就能完成。</p>\n<p>说实话，看多了之后，我开始有点焦虑了。</p>\n<p>先说一下我的背景：</p>\n<p>我是一个前端开发工程师，\n使用 AI 辅助开发大概有 一年半左右 了。</p>\n<p>平时主要工具是：</p>\n<p>Claude\nGPT\nCursor\nWindsurf</p>\n<p>基本每天都在用，也算是比较重度用户。</p>\n<p>但我目前真实的工作方式，其实还是：</p>\n<p>人主导开发 + AI 辅助\n主要是对话模式</p>\n<p>比如：</p>\n<p>写代码的时候遇到问题就问 AI\n让 AI 帮我优化一段逻辑\n让 AI 帮我 review 一段代码\n或者生成一些基础结构</p>\n<p>整体",
+      "ai_summary": "开发者对AI Agent自动开发趋势感到焦虑，但仍主要使用对话模式辅助编程。",
+      "ai_tags": [
+        "AI开发",
+        "焦虑",
+        "工具对比"
+      ],
+      "ai_importance": 2
     },
     {
       "category": "v2ex",
@@ -50,11 +38,25 @@
       "link": "https://www.v2ex.com/t/1209013",
       "published_time": "2026-04-28 01:44:10",
       "raw_content": "leave8080: 邀请你参加 Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划，100T Credits 面向全球用户限时发放中... <a href=\"https://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://100t.xiaomimimo.com/</a><br /><br />创造者百万亿 Token 激励计划<br />Xiaomi MiMo 将面向全球 AI 用户进行免费 Token 发放，我们将在 30 天内发放总计 100 万亿（ 100T ） Token 权益，赠完即止。<br />活动时间：北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00<br />参与地址：<a href=\"http://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">100t.xiaomimimo.com</a>",
-      "ai_summary": "介绍小米MiMo Token激励计划，免费发放100T Token。",
+      "ai_summary": "小米MiMo推出Token激励计划，限时发放100万亿Token。",
       "ai_tags": [
         "小米",
-        "AI",
-        "Token"
+        "加密货币",
+        "激励计划"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "找工作找了两个多月越找越烦",
+      "link": "https://www.v2ex.com/t/1209005",
+      "published_time": "2026-04-28 01:35:18",
+      "raw_content": "xujdan: <h3>现状</h3>\n<p>坐标深圳，3 年多的嵌入式软件开发工作经验，年前 1 月底被动离职（部门解散了，算是好聚好散吧），然后投了下简历面了 2 家试试水（因为很久没面试了），没后续就回老家一直呆到春节后又开始投。其实那段时间还不算很认真找，2 月底回深后才算，期间也参加了几家面试，线上线下都有。一直到现在 boss 累计沟通 1000+、投出 200+，线上线下面试累计 20+吧，但 offer 依旧为 0 。期间也不断改过简历，复习八股（但天杀的嵌入式太广了，总能问到想不起来的）。有几家面了感觉还行，后面依旧没后续，自己追问结果都是不合适。有一家大公司两面下来都不错，结果不知道为啥依旧不行（不知道是不是最后一面问我加班介不介意，我说研发加班正常的说了很多反而给面试官有种抵触加班的印象？）。\n找工作这段时间也感觉出来嵌入式越来越卷了，一个岗位可以上百人沟通过，大部分都要求要有 rtos 经验或者垂直经验。我都开始质疑自己是不是得转行不做开发了，毕竟这三年貌似下班后都没怎么主动学习了，都是靠工作上的积累，但工作上大部分时候也是做产品业务功能。</p>\n<h3>打算",
+      "ai_summary": "嵌入式软件工程师求职两个多月未果，对行业竞争和自身能力产生怀疑。",
+      "ai_tags": [
+        "求职",
+        "嵌入式",
+        "焦虑"
       ],
       "ai_importance": 2
     },
@@ -64,10 +66,27 @@
       "link": "https://www.v2ex.com/t/1208994",
       "published_time": "2026-04-28 01:04:31",
       "raw_content": "gotOwt: 坐标上海，发现附近 4km 内没有塔斯汀店。。<br />感觉是个机遇，这边人很多。。<br />有说法吗？<br />---<br />一直都是程序员，没干过餐饮。。<br />想看看大家的想法。",
-      "ai_summary": "上海居民发现附近缺乏塔斯汀汉堡店，认为该区域有餐饮创业机遇。",
+      "ai_summary": "上海程序员发现附近无塔斯汀店，认为存在商机，咨询开塔斯汀经验。",
       "ai_tags": [
+        "餐饮",
         "创业",
-        "餐饮"
+        "塔斯汀",
+        "上海"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "Termina.Pub 中转站 可开发票，欢迎企业合作，限时开启 claude-free 渠道，回帖留 id 送 10 刀额度",
+      "link": "https://www.v2ex.com/t/1208985",
+      "published_time": "2026-04-28 00:05:53",
+      "raw_content": "v2exgo: <p>在 V 站宣传有一段时间了，积累不了少客户，有些朋友用的不开心走了，有的朋友退款了，但是老板还在，老板又回来给 v 友发福利了</p>\n<p>claude-free 渠道 限时开启，避免滥用，只要 5 分一刀</p>\n<p><strong>官网地址</strong></p>\n<p><a href=\"https://terminal.pub/register\" rel=\"nofollow\">https://terminal.pub/register</a></p>\n<ul>\n<li>充值 1 人民币=1 美金, 套餐可以 0.9 人民币=1 美金</li>\n</ul>\n<h2>活动规则</h2>\n<p>老规矩，回帖发自己 id 每个人送 10 刀，仅限前 150 位\n<img alt=\"图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0oWfkP0.png\" /></p>\n<p>我去吃个早餐 <strong>如果回来自动化程序没拉闸，可能送到 300 位</strong></p",
+      "ai_summary": "Termina.Pub提供API中转服务，限时开启Claude免费渠道，回帖送10美元额度。",
+      "ai_tags": [
+        "API",
+        "Claude",
+        "促销",
+        "中转站"
       ],
       "ai_importance": 2
     },
@@ -77,23 +96,11 @@
       "link": "https://www.v2ex.com/t/1209014",
       "published_time": "2026-04-28 01:44:40",
       "raw_content": "Lantang: Chrome 这几天突然变得好卡，不知道咋回事",
-      "ai_summary": "用户抱怨Chrome卡顿，询问常用浏览器推荐。",
+      "ai_summary": "用户反映Chrome浏览器突然变卡，寻求替代浏览器推荐。",
       "ai_tags": [
         "浏览器",
-        "Chrome"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "Termina.Pub 中转站 可开发票，欢迎企业合作，限时开启 claude-free 渠道，回帖留 id 送 10 刀额度",
-      "link": "https://www.v2ex.com/t/1208985",
-      "published_time": "2026-04-28 00:05:53",
-      "raw_content": "v2exgo: <p>在 V 站宣传有一段时间了，积累不了少客户，有些朋友用的不开心走了，有的朋友退款了，但是老板还在，老板又回来给 v 友发福利了</p>\n<p>claude-free 渠道 限时开启，避免滥用，只要 5 分一刀</p>\n<p><strong>官网地址</strong></p>\n<p><a href=\"https://terminal.pub/register\" rel=\"nofollow\">https://terminal.pub/register</a></p>\n<ul>\n<li>充值 1 人民币=1 美金, 套餐可以 0.9 人民币=1 美金</li>\n</ul>\n<h2>活动规则</h2>\n<p>老规矩，回帖发自己 id 每个人送 10 刀，仅限前 150 位\n<img alt=\"图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0oWfkP0.png\" /></p>\n<p>我去吃个早餐 <strong>如果回来自动化程序没拉闸，可能送到 300 位</strong></p",
-      "ai_summary": "Termina.Pub中转站限时开启Claude-free渠道，回帖送10美元额度，支持企业合作开发票。",
-      "ai_tags": [
-        "广告",
-        "API服务"
+        "Chrome",
+        "卡顿"
       ],
       "ai_importance": 1
     }

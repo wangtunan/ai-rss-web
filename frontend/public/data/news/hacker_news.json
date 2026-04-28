@@ -9,11 +9,11 @@
       "link": "https://gtfobins.org/",
       "published_time": "2026-04-28 06:27:39",
       "raw_content": "<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 313</p>\n<p># Comments: 77</p>",
-      "ai_summary": "GTFOBins是一个收集Unix二进制文件用于权限提升的网站。",
+      "ai_summary": "GTFOBins是Unix二进制文件列表，用于绕过本地安全限制。",
       "ai_tags": [
         "GTFOBins",
-        "Unix binaries",
-        "privilege escalation"
+        "安全",
+        "Unix"
       ],
       "ai_importance": 3
     },
@@ -23,12 +23,11 @@
       "link": "https://github.com/localsend/localsend",
       "published_time": "2026-04-28 11:54:20",
       "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 351</p>\n<p># Comments: 142</p>",
-      "ai_summary": "Localsend是一个开源的跨平台文件传输工具，旨在替代AirDrop。",
+      "ai_summary": "Localsend是开源跨平台文件传输工具，类似AirDrop。",
       "ai_tags": [
-        "localsend",
-        "open-source",
-        "cross-platform",
-        "AirDrop alternative"
+        "开源",
+        "文件传输",
+        "跨平台"
       ],
       "ai_importance": 3
     },
@@ -38,10 +37,11 @@
       "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
       "published_time": "2026-04-27 10:15:17",
       "raw_content": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher\">https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919733\">https://news.ycombinator.com/item?id=47919733</a></p>\n<p>Points: 252</p>\n<p># Comments: 9",
-      "ai_summary": "FDA批准首个基因疗法治疗遗传性听力损失，具有里程碑意义。",
+      "ai_summary": "FDA批准首个基因疗法，用于治疗遗传性听力损失，实现医学突破。",
       "ai_tags": [
-        "FDA",
+        "医疗",
         "基因疗法",
+        "FDA",
         "听力损失"
       ],
       "ai_importance": 5
@@ -52,12 +52,12 @@
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
       "published_time": "2026-04-27 11:43:59",
       "raw_content": "<p><a href=\"https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/\" rel=\"nofollow\">https://www.reuters.com/world/asia-pacific/china-blocks-fore...</a><p><a href=\"https://www.bbc.com/news/articles/cj0v0gr2yz7o\" rel=\"nofollow\">https://www.bbc.com/news/articles/cj0v0gr2yz7o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920315\">https://news.ycombinator.com/item?id=47920315</a></p>\n<p>Points: 384</p>\n<p># Comments: 29",
-      "ai_summary": "中国阻止Meta收购AI初创公司Manus，涉及国家安全审查。",
+      "ai_summary": "中国以国家安全为由阻止Meta收购AI初创公司Manus。",
       "ai_tags": [
         "中国",
+        "Meta",
         "收购",
-        "AI",
-        "国家安全"
+        "AI"
       ],
       "ai_importance": 5
     },
@@ -67,25 +67,12 @@
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "published_time": "2026-04-27 13:22:42",
       "raw_content": "<p>Gift Article: <a href=\"https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-04-27/micr",
-      "ai_summary": "微软与OpenAI终止独家及收入分成协议，双方合作模式生变。",
+      "ai_summary": "微软和OpenAI结束独家收入分享协议。",
       "ai_tags": [
         "微软",
         "OpenAI",
-        "合作终止"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Is my blue your blue? (2024)",
-      "link": "https://ismy.blue/",
-      "published_time": "2026-04-27 20:24:33",
-      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 650</p>\n<p># Comments: 428</p>",
-      "ai_summary": "一个互动网站探讨颜色感知的主观性：“我的蓝色是你的蓝色吗？”",
-      "ai_tags": [
-        "color perception",
-        "interactive",
-        "subjectivity"
+        "AI",
+        "合作"
       ],
       "ai_importance": 5
     },
@@ -95,11 +82,11 @@
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "published_time": "2026-04-27 16:03:08",
       "raw_content": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47923357\">https://news.ycombinator.com/item?id=47923357</a></p>\n<p>Points: 723</p>\n<p># Comments: 538</p>",
-      "ai_summary": "GitHub Copilot将转为基于使用量的计费模式。",
+      "ai_summary": "GitHub Copilot即将改为基于使用量的计费模式。",
       "ai_tags": [
         "GitHub Copilot",
-        "usage-based billing",
-        "change"
+        "计费",
+        "AI"
       ],
       "ai_importance": 5
     },
@@ -109,39 +96,55 @@
       "link": "https://app.oravys.com/blog/mercor-breach-2026",
       "published_time": "2026-04-27 09:57:10",
       "raw_content": "<p>Article URL: <a href=\"https://app.oravys.com/blog/mercor-breach-2026\">https://app.oravys.com/blog/mercor-breach-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919630\">https://news.ycombinator.com/item?id=47919630</a></p>\n<p>Points: 578</p>\n<p># Comments: 218</p>",
-      "ai_summary": "AI承包商Mercor遭数据泄露，4TB语音样本被窃，涉及4万人。",
+      "ai_summary": "Mercor公司遭数据泄露，4TB语音样本被盗，涉及4万名AI合同工。",
       "ai_tags": [
         "数据泄露",
-        "语音样本",
-        "AI"
+        "隐私",
+        "AI",
+        "安全"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
-      "published_time": "2026-04-27 15:12:41",
-      "raw_content": "<p>Article URL: <a href=\"https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\">https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922712\">https://news.ycombinator.com/item?id=47922712</a></p>\n<p>Points: 343</p>\n<p># Comments: 143</p>",
-      "ai_summary": "荷兰央行放弃AWS，选择超市Lidl的欧洲云服务，强调数据主权。",
+      "title": "Is my blue your blue? (2024)",
+      "link": "https://ismy.blue/",
+      "published_time": "2026-04-27 20:24:33",
+      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 650</p>\n<p># Comments: 428</p>",
+      "ai_summary": "一个探索颜色感知的互动网站，测试人们如何区分蓝色。",
       "ai_tags": [
-        "荷兰央行",
-        "云服务",
-        "数据主权"
+        "颜色",
+        "感知",
+        "互动"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "US Supreme Court reviews police use of cell location data",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
-      "published_time": "2026-04-27 15:29:41",
-      "raw_content": "<p><a href=\"https://www.cnn.com/2026/04/27/politics/geofencing-supreme-geofencing-cellphone-data\" rel=\"nofollow\">https://www.cnn.com/2026/04/27/politics/geofencing-supreme-g...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922940\">https://news.ycombinator.com/item?id=47922940</a></p>\n<p>Points: 248</p>\n<p># Comments: 151</p>",
-      "ai_summary": "美国最高法院审理警方使用手机位置数据案件，涉及数字隐私权。",
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "published_time": "2026-04-27 10:56:34",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 441</p>\n<p># Comments: 223</p>",
+      "ai_summary": "PostgreSQL备份工具Pgbackrest宣布停止维护，引发社区关注。",
       "ai_tags": [
-        "最高法院",
-        "手机数据",
-        "隐私"
+        "数据库",
+        "备份",
+        "开源",
+        "停止维护"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "link": "https://github.com/dirac-run/dirac",
+      "published_time": "2026-04-27 12:35:55",
+      "raw_content": "<p>Scored 65.2% vs google's official 47.8%, and the existing top closed source model Junie CLI's 64.3%.<p>Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (<a href=\"https://debugml.github.io/cheating-agents/\" rel=\"nofollow\">https://debugml.github.io/cheating-agents/</a>), I would like to also clarify a few things<p>1. Absolutely no {agents/skills}.md files were inserted at any point. No cheating mechanisms whatsoever<p>2. The cli agent was run in leaderboard co",
+      "ai_summary": "开源代理在TerminalBench上以65.2%的得分超越谷歌官方模型和商业模型，作者声明无作弊行为。",
+      "ai_tags": [
+        "AI",
+        "开源",
+        "基准测试"
       ],
       "ai_importance": 4
     }

@@ -23,12 +23,12 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国叫停Meta收购人工智能公司Manus的交易，称其违反投资规定。",
+      "ai_summary": "中国监管机构叫停Meta对AI公司Manus的20亿美元收购交易，要求撤销。",
       "ai_tags": [
         "Meta",
         "收购",
-        "人工智能",
-        "中国"
+        "AI",
+        "监管"
       ],
       "ai_importance": 5
     },
@@ -38,26 +38,11 @@
       "link": "https://www.ftchinese.com/story/001109564",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "英国政府承认，人工智能数据中心对气候的破坏程度可能比之前估计的高出逾100倍。",
-      "ai_summary": "英国承认严重低估AI数据中心的碳排放，实际影响可能比估计高逾100倍。",
+      "ai_summary": "英国承认严重低估AI数据中心碳排放，实际影响可能比估计高逾100倍。",
       "ai_tags": [
         "英国",
-        "AI",
-        "数据中心",
+        "AI数据中心",
         "碳排放"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "ft_chinese",
-      "title": "美国检方终止对美联储主席鲍威尔的调查",
-      "link": "https://www.ftchinese.com/story/001109562",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "这一进展是在白宫开会并与关键参议员沟通后发生的。此前这项刑事调查促使一些共和党参议员拒绝支持总统对美联储下一任主席的提名。",
-      "ai_summary": "美国检方终止对美联储主席鲍威尔的调查，此前该调查影响其提名。",
-      "ai_tags": [
-        "美联储",
-        "鲍威尔",
-        "调查"
       ],
       "ai_importance": 4
     },
@@ -67,13 +52,27 @@
       "link": "https://www.ftchinese.com/story/001109563",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "此前媒体报道的五角大楼备忘录暗示，美国可能重审其对靠近阿根廷的这一南大西洋群岛主权的立场，以报复英国对美国打击伊朗的行动缺乏支持。",
-      "ai_summary": "英国坚称福克兰群岛主权毋庸置疑，此前五角大楼备忘录暗示美国可能重审立场。",
+      "ai_summary": "英国坚称福克兰群岛主权毋庸置疑，此前有报道称美国可能重审立场以报复英国对伊朗行动缺乏支持。",
       "ai_tags": [
-        "英国",
         "福克兰群岛",
-        "主权"
+        "主权",
+        "英美关系"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "ft_chinese",
+      "title": "美国检方终止对美联储主席鲍威尔的调查",
+      "link": "https://www.ftchinese.com/story/001109562",
+      "published_time": "2026-04-26 16:00:00",
+      "raw_content": "这一进展是在白宫开会并与关键参议员沟通后发生的。此前这项刑事调查促使一些共和党参议员拒绝支持总统对美联储下一任主席的提名。",
+      "ai_summary": "美国检方终止对美联储主席鲍威尔的调查，此前该调查影响共和党参议员对美联储主席提名的支持。",
+      "ai_tags": [
+        "美联储",
+        "鲍威尔",
+        "调查"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "ft_chinese",
@@ -81,28 +80,13 @@
       "link": "https://www.ftchinese.com/story/001109559",
       "published_time": "2026-04-25 16:00:00",
       "raw_content": "来自加州托伦斯的31岁男子科尔•托马斯•艾伦当地时间周六晚试图持枪闯入白宫记者协会晚宴，一名特勤局特工的防弹背心中弹。",
-      "ai_summary": "加州教师试图持枪闯入白宫记者协会晚宴，特勤局特工防弹背心中弹。",
+      "ai_summary": "一名加州男子试图持枪闯入白宫记者协会晚宴，特勤局特工中弹。",
       "ai_tags": [
         "枪击",
         "白宫",
-        "美国"
+        "安全事件"
       ],
-      "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "中企收购英国化工厂引发竞争担忧",
-      "link": "https://www.ftchinese.com/story/001109554",
-      "published_time": "2026-04-23 16:00:00",
-      "raw_content": "这笔交易凸显了西方政府日益面临的困境：一方面接受中国投资以短期内保住就业岗位，另一方面却可能在长期损害战略产业。",
-      "ai_summary": "中企收购英国化工厂引发西方对接受中国投资与保护战略产业之间矛盾的担忧。",
-      "ai_tags": [
-        "收购",
-        "中企",
-        "英国",
-        "竞争"
-      ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "ft_chinese",
@@ -110,14 +94,27 @@
       "link": "https://www.ftchinese.com/story/001109546",
       "published_time": "2026-04-23 16:00:00",
       "raw_content": "香港证监会和会财局对普华永道合计罚款13亿港元，称其在审计恒大账目过程中“严重违反其专业责任”，并禁止其在六个月内承接新的审计客户。",
-      "ai_summary": "普华永道因恒大审计违规被香港监管机构罚款13亿港元，禁止承接新客户六个月。",
+      "ai_summary": "香港证监会和会财局对普华永道罚款13亿港元，禁止六个月内承接新审计客户，因其审计恒大账目严重违反专业责任。",
       "ai_tags": [
         "普华永道",
         "恒大",
-        "审计",
-        "处罚"
+        "审计处罚"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "ft_chinese",
+      "title": "中企收购英国化工厂引发竞争担忧",
+      "link": "https://www.ftchinese.com/story/001109554",
+      "published_time": "2026-04-23 16:00:00",
+      "raw_content": "这笔交易凸显了西方政府日益面临的困境：一方面接受中国投资以短期内保住就业岗位，另一方面却可能在长期损害战略产业。",
+      "ai_summary": "中企收购英国化工厂引发对长期战略产业损害的担忧，凸显西方接受中国投资与保护战略产业的困境。",
+      "ai_tags": [
+        "中企收购",
+        "英国",
+        "竞争"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "ft_chinese",
@@ -125,13 +122,13 @@
       "link": "https://www.ftchinese.com/story/001109545",
       "published_time": "2026-04-23 16:00:00",
       "raw_content": "贝尔纳•阿尔诺称，奢侈品巨头的复苏取决于这场冲突能否尽早解决。",
-      "ai_summary": "路威酩轩掌门人称中东冲突可能演变为全球性灾难，影响奢侈品行业复苏。",
+      "ai_summary": "路威酩轩掌门人称中东冲突若不解决将演变成全球性灾难，影响奢侈品行业复苏。",
       "ai_tags": [
         "中东冲突",
         "奢侈品",
         "全球经济"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "ft_chinese",
@@ -139,13 +136,13 @@
       "link": "https://www.ftchinese.com/story/001109547",
       "published_time": "2026-04-23 16:00:00",
       "raw_content": "注意到气温数据骤变的天气论坛用户表示，这可能是有人篡改设备以影响预测平台上的投注结果。",
-      "ai_summary": "法国气象局报警，因气温数据疑似被篡改，可能影响预测投注结果。",
+      "ai_summary": "法国气象局报警，因气温数据疑似被篡改以影响投注结果。",
       "ai_tags": [
-        "气象",
-        "数据篡改",
+        "天气数据",
+        "篡改",
         "法国"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     }
   ]
 }

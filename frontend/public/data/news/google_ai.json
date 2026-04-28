@@ -9,12 +9,12 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
       "published_time": "2026-04-27 13:00:00",
       "raw_content": "A web next to a laptop",
-      "ai_summary": "Google与Kaggle联合推出AI Agents Vibe Coding课程（2026年6月）",
+      "ai_summary": "Google与Kaggle联合推出AI Agents Vibe Coding课程，邀请开发者参与。",
       "ai_tags": [
-        "AI Agents",
-        "课程",
         "Google",
-        "Kaggle"
+        "AI",
+        "Kaggle",
+        "课程"
       ],
       "ai_importance": 3
     },
@@ -24,11 +24,11 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "published_time": "2026-04-24 19:00:00",
       "raw_content": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
-      "ai_summary": "Gemini提供8条整理空间与生活的技巧",
+      "ai_summary": "Gemini提供8个整理空间与生活的实用技巧。",
       "ai_tags": [
         "Gemini",
-        "生活技巧",
-        "整理"
+        "AI助手",
+        "生活技巧"
       ],
       "ai_importance": 2
     },
@@ -38,13 +38,13 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
       "published_time": "2026-04-23 12:00:00",
       "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "ai_summary": "Google TPU如何支撑日益增长的AI工作负载",
+      "ai_summary": "视频介绍Google TPU如何驱动日益复杂的AI工作负载。",
       "ai_tags": [
+        "Google",
         "TPU",
-        "AI负载",
-        "Google"
+        "AI"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "google_ai",
@@ -52,11 +52,10 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "published_time": "2026-04-23 09:00:00",
       "raw_content": "Aerial image of the data center",
-      "ai_summary": "谷歌在奥地利阿尔卑斯地区投资首个数据中心",
+      "ai_summary": "谷歌投资在奥地利建设首个数据中心，位于阿尔卑斯山地区。",
       "ai_tags": [
         "数据中心",
-        "奥地利",
-        "投资"
+        "谷歌"
       ],
       "ai_importance": 3
     },
@@ -66,13 +65,12 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "published_time": "2026-04-22 12:00:00",
       "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "ai_summary": "谷歌推出两款专用TPU，面向代理时代",
+      "ai_summary": "谷歌发布第八代TPU，包括两款专用芯片，推动AI未来。",
       "ai_tags": [
         "TPU",
-        "专用芯片",
-        "代理时代"
+        "AI芯片"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "google_ai",
@@ -80,10 +78,9 @@
       "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
       "published_time": "2026-04-21 14:30:00",
       "raw_content": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-      "ai_summary": "Ads Advisor为Google Ads带来3个新功能，提升安全与速度",
+      "ai_summary": "谷歌广告助手Ads Advisor推出三项新功能，提升广告安全与效率。",
       "ai_tags": [
-        "Ads Advisor",
-        "Google Ads",
+        "谷歌广告",
         "安全"
       ],
       "ai_importance": 3
@@ -94,11 +91,10 @@
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "published_time": "2026-04-17 14:00:00",
       "raw_content": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "ai_summary": "借助Google工具，夏季旅行更智能的7种方式",
+      "ai_summary": "谷歌提供7种利用其产品的夏日智慧旅行技巧。",
       "ai_tags": [
         "旅行",
-        "Google",
-        "智能"
+        "谷歌搜索"
       ],
       "ai_importance": 2
     },
@@ -108,11 +104,10 @@
       "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
       "published_time": "2026-04-16 17:00:00",
       "raw_content": "AI Mode in Chrome",
-      "ai_summary": "Chrome推出AI模式，提供新的网页探索方式",
+      "ai_summary": "Chrome推出AI模式，让用户以全新方式浏览网页。",
       "ai_tags": [
         "Chrome",
-        "AI模式",
-        "网页探索"
+        "AI模式"
       ],
       "ai_importance": 4
     },
@@ -122,12 +117,12 @@
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
       "published_time": "2026-04-16 16:00:00",
       "raw_content": "Example images made with Personal Intelligence",
-      "ai_summary": "Gemini应用推出个性化图像生成新方式。",
+      "ai_summary": "Gemini应用新增个性化图像创作功能。",
       "ai_tags": [
         "Gemini",
-        "个性化图像"
+        "图像生成"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "google_ai",
@@ -135,10 +130,10 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
       "published_time": "2026-04-15 15:00:00",
       "raw_content": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-      "ai_summary": "发布Gemini 3.1 Flash TTS，实现下一代表达性AI语音。",
+      "ai_summary": "谷歌发布Gemini 3.1 Flash TTS，下一代高表现力AI语音技术。",
       "ai_tags": [
-        "Gemini",
-        "TTS"
+        "语音合成",
+        "Gemini"
       ],
       "ai_importance": 4
     }

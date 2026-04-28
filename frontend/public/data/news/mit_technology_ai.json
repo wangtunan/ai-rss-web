@@ -9,25 +9,11 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published_time": "2026-04-27 22:52:57",
       "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "埃隆·马斯克与OpenAI CEO萨姆·奥尔特曼的法律纠纷进入庭审阶段，案件可能决定OpenAI作为营利性企业的合法性，并影响其即将进行的IPO。",
+      "ai_summary": "马斯克与奥特曼就OpenAI未来对簿公堂，案件可能影响其IPO及营利性质。",
       "ai_tags": [
         "OpenAI",
         "法律纠纷",
         "IPO"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Rebuilding the data stack for AI",
-      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "published_time": "2026-04-27 13:00:00",
-      "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
-      "ai_summary": "企业部署AI的最大障碍是数据基础设施不足，需要重建数据堆栈以实现规模化AI应用。",
-      "ai_tags": [
-        "AI",
-        "数据基础设施",
-        "企业"
       ],
       "ai_importance": 4
     },
@@ -37,11 +23,25 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
       "published_time": "2026-04-27 16:13:41",
       "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
-      "ai_summary": "文章探讨AI炒作与实际盈利之间的脱节，从伦敦反AI游行传单切入，反思行业现状。",
+      "ai_summary": "探讨AI领域从炒作到盈利的缺失环节，反思行业现状。",
       "ai_tags": [
         "AI",
-        "炒作",
-        "盈利"
+        "商业化",
+        "炒作"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Rebuilding the data stack for AI",
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "published_time": "2026-04-27 13:00:00",
+      "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
+      "ai_summary": "企业AI部署面临数据挑战，需重建数据栈以支持规模化应用。",
+      "ai_tags": [
+        "数据栈",
+        "AI",
+        "企业"
       ],
       "ai_importance": 3
     },
@@ -51,11 +51,12 @@
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published_time": "2026-04-24 21:40:58",
       "raw_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
-      "ai_summary": "中国AI公司DeepSeek发布V4模型预览版，支持更长文本处理，并延续开源路线，具有重要意义。",
+      "ai_summary": "DeepSeek发布V4模型，支持更长上下文且开源，具有重要意义。",
       "ai_tags": [
         "DeepSeek",
-        "大语言模型",
-        "开源"
+        "V4",
+        "开源",
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -65,11 +66,11 @@
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published_time": "2026-04-22 10:05:06",
       "raw_content": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
-      "ai_summary": "随着企业AI应用深入，构建强大的数据织物成为实现商业价值的关键。",
+      "ai_summary": "AI在企业中广泛应用，但需要构建强大的数据织物以释放商业价值。",
       "ai_tags": [
         "AI",
         "数据织物",
-        "企业应用"
+        "企业"
       ],
       "ai_importance": 3
     },
@@ -79,11 +80,25 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230;",
-      "ai_summary": "深度伪造技术日益成熟且成本降低，被广泛用于恶意目的，构成严重社会威胁。",
+      "ai_summary": "深度伪造技术被武器化，生成逼真假视频音频，带来严重安全威胁。",
       "ai_tags": [
-        "深度伪造",
-        "AI安全",
-        "恶意使用"
+        "deepfake",
+        "AI",
+        "安全"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "World models",
+      "link": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+      "published_time": "2026-04-21 20:45:00",
+      "raw_content": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;",
+      "ai_summary": "AI在物理世界表现有限，世界模型研究旨在让AI理解并操作物理环境。",
+      "ai_tags": [
+        "世界模型",
+        "AI",
+        "物理世界"
       ],
       "ai_importance": 4
     },
@@ -93,11 +108,11 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;",
-      "ai_summary": "生成式AI技术被犯罪分子利用，大规模制造诈骗邮件，安全威胁升级。",
+      "ai_summary": "生成式AI被犯罪分子利用，制造大规模欺诈邮件和针对性诈骗。",
       "ai_tags": [
-        "AI诈骗",
-        "网络安全",
-        "生成式AI"
+        "AI",
+        "诈骗",
+        "安全"
       ],
       "ai_importance": 4
     },
@@ -107,27 +122,13 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
-      "ai_summary": "自ChatGPT发布以来，大语言模型成为科技行业焦点，推动生成式AI的应用和竞争。",
+      "ai_summary": "自ChatGPT推出以来，大语言模型成为科技行业焦点，竞争白热化。",
       "ai_tags": [
         "LLM",
-        "生成式AI",
-        "ChatGPT"
+        "ChatGPT",
+        "AI"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "World models",
-      "link": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;",
-      "ai_summary": "AI在数字世界表现优异，但物理世界应用滞后，世界模型被视为让AI理解物理世界的关键路径。",
-      "ai_tags": [
-        "世界模型",
-        "AI",
-        "物理世界"
-      ],
-      "ai_importance": 3
     },
     {
       "category": "mit_technology_ai",
@@ -135,7 +136,7 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "",
-      "ai_summary": "文章列举了当前人工智能领域的10个重要趋势和技术。",
+      "ai_summary": "当前AI领域的十大重要趋势和事件。",
       "ai_tags": [
         "AI",
         "趋势"
