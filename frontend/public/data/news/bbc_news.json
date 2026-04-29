@@ -5,141 +5,141 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 14:32:20",
-      "raw_content": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "ai_summary": "乌克兰第三次袭击俄罗斯炼油厂，引发居民疏散，俄方指责乌方破坏全球能源市场稳定。",
+      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
+      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 00:24:05",
+      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
       "ai_tags": [
-        "war",
-        "energy"
+        "FBI",
+        "特朗普",
+        "威胁"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 15:25:17",
-      "raw_content": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
-      "ai_summary": "阿联酋将退出石油输出国组织OPEC，对石油卡特尔是重大打击。",
+      "title": "Five takeaways from the King's historic address to Congress",
+      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 01:32:41",
+      "raw_content": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+      "ai_summary": "国王在历史性国会演讲中发表的一些言论可能提振了民主党，并在白宫引发关注。",
       "ai_tags": [
-        "oil",
-        "geopolitics"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Sinner beats Norrie to equal historic winning run",
-      "link": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 13:20:21",
-      "raw_content": "World number one Jannik Sinner's brilliant form continues as he reaches the quarter-finals of the Madrid Open with a straight-set win over Britain's Cameron Norrie.",
-      "ai_summary": "世界第一辛纳直落两盘击败诺里，晋级马德里公开赛八强，延续其辉煌状态。",
-      "ai_tags": [
-        "网球",
-        "辛纳",
-        "马德里公开赛"
+        "英国",
+        "国王",
+        "美国国会"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "'I lived all my dreams' - Stones to leave Man City",
-      "link": "https://www.bbc.com/sport/football/articles/clypwjeydnjo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 13:15:08",
-      "raw_content": "England defender John Stones says he \"lived all my dreams out\" at Manchester City after confirming he will leave at the end of the season.",
-      "ai_summary": "英格兰后卫斯通斯确认赛季末离开曼城，称在俱乐部实现了所有梦想。",
+      "title": "King gets ovation for Congress speech warning of volatile world",
+      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 03:24:38",
+      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
+      "ai_summary": "英国国王在美国国会发表演讲，强调在动荡世界中英美关系的重要性，获全场起立鼓掌。",
       "ai_tags": [
-        "足球",
-        "曼城",
-        "斯通斯"
+        "政治",
+        "演讲",
+        "国际关系"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Brighton plan Europe's first purpose-built £80m women's football stadium",
-      "link": "https://www.bbc.com/sport/football/articles/ce8p01x34pyo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 12:00:08",
-      "raw_content": "Brighton and Hove Albion release plans for Europe's first purpose-built women's football stadium, which will cost £75-80m.",
-      "ai_summary": "布莱顿发布欧洲首座专用女足体育场计划，耗资约7500-8000万英镑。",
+      "title": "In pictures: King joins Trump for White House banquet and delivers historic Congress speech",
+      "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 01:22:32",
+      "raw_content": "King Charles III and Queen Camilla continued their state visit to the US with a White House state dinner and a speech from the King to Congress.",
+      "ai_summary": "查尔斯三世国王和卡米拉王后继续对美进行国事访问，参加白宫国宴并在国会发表演讲。",
       "ai_tags": [
-        "足球",
-        "布莱顿",
-        "女足",
-        "体育场"
+        "英国王室",
+        "国事访问",
+        "美国"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Brighton plan Europe's first purpose-built £80m women's stadium",
-      "link": "https://www.bbc.com/sport/football/articles/ce8p01x34pyo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 12:00:08",
-      "raw_content": "Brighton and Hove Albion release plans for Europe's first purpose-built women's football stadium, which will cost £75-80m.",
-      "ai_summary": "布莱顿发布欧洲首座专用女足体育场计划，耗资约7500-8000万英镑。",
+      "title": "How the King and Queen spent their second day in the US",
+      "link": "https://www.bbc.com/news/videos/cz92w28k0jpo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 02:12:49",
+      "raw_content": "During the White House state dinner, the King gifted the US president a bell from his WW2 submarine namesake, 'HMS Trump'.",
+      "ai_summary": "英国国王和王后访美第二天：白宫国宴上国王赠予美国总统潜艇同名钟。",
       "ai_tags": [
-        "足球",
-        "布莱顿",
-        "女足",
-        "体育场"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-      "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 15:38:09",
-      "raw_content": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-      "ai_summary": "Sam Altman与Elon Musk的纠纷从社交媒体升级至法庭。",
-      "ai_tags": [
-        "AI",
-        "lawsuit"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
-      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 12:03:39",
-      "raw_content": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
-      "ai_summary": "一艘与普京盟友相关的俄罗斯超级游艇无视封锁，通过霍尔木兹海峡。",
-      "ai_tags": [
-        "国际",
-        "俄罗斯",
-        "游艇",
-        "霍尔木兹海峡"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Liked by Flintoff & different to Crawley - is Gay England's next opener?",
-      "link": "https://www.bbc.com/sport/cricket/articles/cy91937e94go?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 12:12:22",
-      "raw_content": "After his match-winning century for Durham, BBC Sport assesses whether Emilio Gay has the skills to be England's next Test opener.",
-      "ai_summary": "达勒姆队球员埃米利奥·盖伊以制胜百分引发关注，BBC体育评估其成为英格兰队下一任测试赛开场击球手的潜力。",
-      "ai_tags": [
-        "板球",
-        "英格兰",
-        "埃米利奥·盖伊"
+        "政治",
+        "外交",
+        "英国王室"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Watch: Jimmy Kimmel defends 'expectant widow' joke after first lady criticism",
-      "link": "https://www.bbc.com/news/videos/c62d4n5rzr7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 13:10:16",
-      "raw_content": "First Lady Melania Trump described the joke as \"hateful and violent\", with the White House urging ABC to fire the comedian.",
-      "ai_summary": "吉米·坎摩尔为关于梅拉尼娅·特朗普的玩笑辩护，此前第一夫人批评该玩笑“充满仇恨和暴力”，白宫呼吁解雇他。",
+      "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
+      "link": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 03:48:35",
+      "raw_content": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches.",
+      "ai_summary": "白宫国宴款待英国国王和王后，现场时尚、鲜花、亿万富翁嘉宾和幽默演讲。",
       "ai_tags": [
-        "娱乐",
         "政治",
-        "吉米·坎摩尔"
+        "社交",
+        "英国王室"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "Billie Eilish puts Manchester at centre of new 3D concert film",
+      "link": "https://www.bbc.com/news/articles/c794wv4rd50o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 00:08:59",
+      "raw_content": "Teaming up with filmmaking giant James Cameron, the superstar creates a unique love letter to her fans.",
+      "ai_summary": "比莉·艾利什与詹姆斯·卡梅隆合作，创作了一部以曼彻斯特为中心的3D演唱会电影。",
+      "ai_tags": [
+        "音乐",
+        "电影",
+        "比莉·艾利什"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "A fresh financial crisis may be coming - it won't play out like the last one",
+      "link": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 23:17:58",
+      "raw_content": "Several warning lights are flashing that have some wondering whether we are in the foothills of another financial crisis.",
+      "ai_summary": "多个警示信号表明可能即将发生新的金融危机，但本次危机将不同于以往。",
+      "ai_tags": [
+        "finance",
+        "crisis",
+        "economy"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Early care scheme could prevent thousands of miscarriages a year",
+      "link": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 23:47:41",
+      "raw_content": "Current rules state that three unsuccessful pregnancies are needed to trigger NHS support - but a pilot project could bring about change.",
+      "ai_summary": "早期护理计划每年可预防数千例流产，目前需要三次流产才能获得NHS支持，试点项目可能改变这一规定。",
+      "ai_tags": [
+        "医疗",
+        "流产",
+        "NHS"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Zhao fights back to tie Murphy heading into final session",
+      "link": "https://www.bbc.com/sport/snooker/articles/c87qge4nexqo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-28 22:03:30",
+      "raw_content": "Defending champion Zhao Xintong fights back against Shaun Murphy to leave their World Championship quarter-final delicately poised at 8-8 heading into Wednesday's concluding session.",
+      "ai_summary": "斯诺克世锦赛四分之一决赛：卫冕冠军赵心童8-8战平肖恩·墨菲，最后一局定胜负。",
+      "ai_tags": [
+        "sports",
+        "snooker",
+        "championship"
       ],
       "ai_importance": 3
     }

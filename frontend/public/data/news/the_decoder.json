@@ -5,76 +5,33 @@
   "items": [
     {
       "category": "the_decoder",
-      "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
-      "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
-      "published_time": "2026-04-28 11:10:05",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1396\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.</p>\n<p>The ar",
-      "ai_summary": "谷歌无视逾600名员工抗议，与美国国防部签署AI模型合同用于机密工作，法律专家指出合同安全条款无法律约束力。",
+      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
+      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
+      "published_time": "2026-04-28 09:29:03",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.</p>\n<p>The article <a href=\"https://t",
+      "ai_summary": "OpenAI 2026年第一季度未达到内部收入目标，同时面临来自Anthropic和谷歌等竞争对手的压力，公司内部关于巨额支出承诺的分歧加剧。",
       "ai_tags": [
-        "谷歌",
-        "AI",
-        "军事",
-        "合同",
-        "抗议"
+        "OpenAI",
+        "收入",
+        "竞争",
+        "财务"
       ],
       "ai_importance": 5
     },
     {
       "category": "the_decoder",
-      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
-      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
-      "published_time": "2026-04-28 09:29:03",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.</p>\n<p>The article <a href=\"https://t",
-      "ai_summary": "OpenAI 2026年第一季度未达内部收入目标，面临Anthropic和谷歌的竞争压力，内部对巨额支出承诺的分歧加剧。",
+      "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
+      "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
+      "published_time": "2026-04-28 11:10:05",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1396\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.</p>\n<p>The ar",
+      "ai_summary": "谷歌不顾600多名员工联名抗议，与美国国防部签署合同，提供其AI模型用于机密工作。法律专家指出合同安全条款不具备法律约束力。",
       "ai_tags": [
-        "OpenAI",
-        "营收",
-        "竞争",
-        "内部纠纷"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
-      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
-      "published_time": "2026-04-28 14:40:42",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1065\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1902\" /></p>\n<p>        Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/\">Meta scrambles to unwind Manus deal as Beijing&#039;s deadl",
-      "ai_summary": "Meta 正积极准备解除收购 Manus 的交易，因北京的截止日期临近。",
-      "ai_tags": [
-        "Meta",
-        "收购",
-        "北京"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
-      "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/",
-      "published_time": "2026-04-28 12:51:47",
-      "raw_content": "<p><img alt=\"An analysis by Cloudflare shows that Bytespider, Amazonbot and ClaudeBot are among the most active AI crawlers on the Internet. Many companies conceal their AI crawlers.\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2024/07/ai_web_crawler.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturate",
-      "ai_summary": "研究表明，AI 生成的文本使互联网更统一且异常积极。",
-      "ai_tags": [
+        "谷歌",
+        "美国国防部",
         "AI",
-        "互联网",
-        "研究"
+        "争议"
       ],
-      "ai_importance": 3
-    },
-    {
-      "category": "the_decoder",
-      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
-      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
-      "published_time": "2026-04-28 14:58:24",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/mistral_ai_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.</p>\n<p>The article <a href=\"https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/\">Mistral ",
-      "ai_summary": "Mistral AI 推出 Workflows 编排层，帮助公司构建生产级 AI 流程。",
-      "ai_tags": [
-        "AI",
-        "企业",
-        "编排"
-      ],
-      "ai_importance": 3
+      "ai_importance": 5
     },
     {
       "category": "the_decoder",
@@ -82,13 +39,14 @@
       "link": "https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/",
       "published_time": "2026-04-28 11:30:41",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/youtube_neura_network_illustration-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts.</p>\n<p>The article <a href=\"https://the-decoder.com/googles-ask-youtube-turns-vid",
-      "ai_summary": "Google 测试 'Ask YouTube' 功能，将视频搜索转变为对话式体验。",
+      "ai_summary": "谷歌正在测试“Ask YouTube”对话式搜索功能，将视频搜索结果页面从标准视频列表转变为结合文本、长视频和短视频的混合呈现。",
       "ai_tags": [
-        "Google",
+        "谷歌",
         "YouTube",
-        "搜索"
+        "搜索",
+        "对话式"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "the_decoder",
@@ -96,14 +54,66 @@
       "link": "https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/",
       "published_time": "2026-04-28 09:19:53",
       "raw_content": "<p><img alt=\"The Microsoft Copilot logo\" class=\"attachment-full size-full wp-post-image\" height=\"521\" src=\"https://the-decoder.com/wp-content/uploads/2023/03/github_copilot_X_gpt-4.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"950\" /></p>\n<p>        Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts.</p>\n<p>The article <a href=\"https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/\">GitHub Copilot",
-      "ai_summary": "GitHub Copilot将于2026年6月起从按高级请求计费转为按实际使用Token计费。",
+      "ai_summary": "GitHub 宣布自2026年6月1日起，Copilot将从基于高级请求数量的计费模式改为基于实际使用量（代币）的计费模式。",
       "ai_tags": [
         "GitHub",
         "Copilot",
         "计费",
-        "Token"
+        "代币"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
+      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
+      "published_time": "2026-04-28 14:58:24",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/mistral_ai_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.</p>\n<p>The article <a href=\"https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/\">Mistral ",
+      "ai_summary": "Mistral AI推出Workflows编排层，帮助企业将AI流程转化为生产级系统。",
+      "ai_tags": [
+        "AI",
+        "企业服务"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "the_decoder",
+      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
+      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+      "published_time": "2026-04-28 14:40:42",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1065\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1902\" /></p>\n<p>        Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/\">Meta scrambles to unwind Manus deal as Beijing&#039;s deadl",
+      "ai_summary": "Meta准备取消收购Manus，因北京截止日期临近。",
+      "ai_tags": [
+        "Meta",
+        "收购"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "the_decoder",
+      "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
+      "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/",
+      "published_time": "2026-04-28 12:51:47",
+      "raw_content": "<p><img alt=\"An analysis by Cloudflare shows that Bytespider, Amazonbot and ClaudeBot are among the most active AI crawlers on the Internet. Many companies conceal their AI crawlers.\" class=\"attachment-full size-full wp-post-image\" height=\"816\" src=\"https://the-decoder.com/wp-content/uploads/2024/07/ai_web_crawler.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1456\" /></p>\n<p>        A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturate",
+      "ai_summary": "研究显示AI文本使互联网内容更统一且异常乐观。",
+      "ai_tags": [
+        "AI",
+        "内容分析"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "the_decoder",
+      "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
+      "link": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
+      "published_time": "2026-04-28 18:07:13",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/retro_llm.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        \"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.</p>\n<p>The article <a href=\"https://the-decoder.com/here-is-what-an-llm-that-kn",
+      "ai_summary": "一款仅用1930年前文本训练的LLM认为2026年仍是蒸汽船、铁路和廉价小说的世界，且怀疑二战会发生。",
+      "ai_tags": [
+        "AI",
+        "大语言模型"
+      ],
+      "ai_importance": 2
     },
     {
       "category": "the_decoder",
@@ -111,7 +121,7 @@
       "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
       "published_time": "2026-04-27 14:18:40",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2025/11/altman_nadella_bg2pod_25_new.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-and-microsoft-rewrite-thei",
-      "ai_summary": "OpenAI与微软重写合作协议：OpenAI可自由通过任何云分发产品，微软失去独家许可，AGI条款被移除。",
+      "ai_summary": "OpenAI与微软重新修订合作协议：OpenAI可通过任何云提供商分发产品，微软失去技术独家许可，且争议性的AGI条款被移除。",
       "ai_tags": [
         "OpenAI",
         "微软",
@@ -122,33 +132,18 @@
     },
     {
       "category": "the_decoder",
-      "title": "Meta wants to power AI data centers with solar energy from space",
-      "link": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/",
-      "published_time": "2026-04-27 12:57:10",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/meta_data_center.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/\">Me",
-      "ai_summary": "Meta与初创公司Overview Energy签约，计划利用太空太阳能为AI数据中心供电，但该技术尚未存在。",
-      "ai_tags": [
-        "Meta",
-        "太阳能",
-        "太空",
-        "AI数据中心"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
       "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
       "link": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
       "published_time": "2026-04-27 13:59:05",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.</p>\n<p>The article <a href=\"https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-ju",
-      "ai_summary": "OpenAI CEO Sam Altman提出五项指导原则，同时为公司的非常规商业决策提供辩护。",
+      "ai_summary": "OpenAI CEO Sam Altman 阐述了五项指导原则，这些原则同时也为该公司一些非常规的商业决策提供了合理性依据。",
       "ai_tags": [
         "OpenAI",
-        "Sam Altman",
+        "CEO",
         "原则",
         "商业决策"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     }
   ]
 }

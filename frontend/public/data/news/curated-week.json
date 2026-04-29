@@ -6,16 +6,46 @@
   "offset": 0,
   "items": [
     {
-      "category": "cls",
-      "title": "摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重",
-      "link": "https://api3.cls.cn/share/article/2358766?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:32:41",
-      "raw_content": "【摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重】财联社4月28日电，摩根大通CEO杰米·戴蒙再次警告称信贷市场的下行可能比预期更为严重，尽管他的公司和华尔街其他大行在近期公布了亮眼的财报，且贷款组合保持稳健。戴蒙周二在挪威央行投资管理公司会议上表示，私募信贷领域有超过1000家公司，这或许意味着当经济周期转变时，并非所有公司都能表现良好。戴蒙说：“有些公司可能很出色，但我保证并非所有1000家公司都如此。因此，在我看来，由于这一点以及承销标准，我们已经这么久没有经历信贷衰退了，所以一旦衰退来临，情况会比人们想象的更糟。”“情况不会很糟糕，只是比人们想象的私募信贷情况更糟，”他补充道。“顺便说一句，这种情况可能也适用于某些银行。”",
-      "ai_summary": "摩根大通CEO戴蒙警告信贷市场下行可能比预期更严重，私募信贷领域风险高。",
+      "category": "infoq",
+      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
+      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
+      "published_time": "2026-04-29 03:41:42",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
+      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
       "ai_tags": [
-        "信贷市场",
-        "风险",
-        "摩根大通"
+        "AI",
+        "商汤",
+        "开源",
+        "多模态"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
+      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 00:24:05",
+      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
+      "ai_tags": [
+        "FBI",
+        "特朗普",
+        "威胁"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "published_time": "2026-04-28 16:15:43",
+      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 264</p>\n<p># Comments: 63</p>",
+      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的详细分析。",
+      "ai_tags": [
+        "hacker_news",
+        "GitHub",
+        "漏洞",
+        "安全"
       ],
       "ai_importance": 5
     },
@@ -25,65 +55,11 @@
       "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "published_time": "2026-04-28 15:30:00",
       "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub在2小时内响应并修复了一个关键远程代码执行漏洞，确认无利用。",
+      "ai_summary": "GitHub两小时内修复并调查了一个关键远程代码执行漏洞，确认未被利用。",
       "ai_tags": [
-        "GitHub",
-        "安全",
-        "漏洞"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 15:25:17",
-      "raw_content": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
-      "ai_summary": "阿联酋将退出石油输出国组织OPEC，对石油卡特尔是重大打击。",
-      "ai_tags": [
-        "oil",
-        "geopolitics"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "cls",
-      "title": "伊朗陆军发言人：战争尚未结束 军队严阵以待",
-      "link": "https://api3.cls.cn/share/article/2358757?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:12:45",
-      "raw_content": "【伊朗陆军发言人：战争尚未结束 军队严阵以待】财联社4月28日电，伊朗塔斯尼姆通讯社28日援引伊朗陆军发言人穆罕默德·阿克拉米尼亚的话报道说，军方认为目前局势仍处于战争状态，地面部队已在全国各地部署，严阵以待，应对威胁。他表示，伊方已完成目标清单与作战装备的全面更新，所有部队已作好充分准备，以应对敌方可能的军事袭击。 (新华社)",
-      "ai_summary": "伊朗陆军发言人表示战争尚未结束，军队严阵以待，完成目标与装备更新。",
-      "ai_tags": [
-        "伊朗",
-        "军事",
-        "战争"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "cls",
-      "title": "乌克兰议会批准延长国家战时状态90天",
-      "link": "https://api3.cls.cn/share/article/2358753?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:09:55",
-      "raw_content": "【乌克兰议会批准延长国家战时状态90天】财联社4月28日电，据乌克兰国际文传电讯社报道，乌最高拉达（议会）28日投票批准将国家战时状态和军事动员延长90天。27日，乌克兰总统泽连斯基向最高拉达递交了法令草案，提议将国家战时状态和军事动员从5月4日延长至8月2日，共90天。据报道，关于延长国家战时状态和军事动员的法令草案分别获得315名、304名议员支持，均高于通过所需的226票。这是自2022年2月俄乌冲突升级以来，乌最高拉达第19次批准延长相关法令。 (新华社)",
-      "ai_summary": "乌克兰议会批准将国家战时状态和军事动员从5月4日延长至8月2日，共90天。",
-      "ai_tags": [
-        "乌克兰",
-        "战时状态",
-        "延长"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 14:32:20",
-      "raw_content": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "ai_summary": "乌克兰第三次袭击俄罗斯炼油厂，引发居民疏散，俄方指责乌方破坏全球能源市场稳定。",
-      "ai_tags": [
-        "war",
-        "energy"
+        "security",
+        "vulnerability",
+        "GitHub"
       ],
       "ai_importance": 5
     },
@@ -93,40 +69,12 @@
       "link": "https://www.zaobao.com/news/china/story20260428-8967801",
       "published_time": "2026-04-28 13:58:34",
       "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/04f4c147b14d034864e158bac68e707b6c6b596715fb8c85db4eb142f1ab0822\" /><figcaption></figcaption></figure><div><div><p>面对中东战争和中美科技战两大外部环境不确定性，中共政治局会议星期二（4月28日）召开。会议强调，推动科技自立自强、产业链自主可控；全面实施“人工智能+”行动；提高能源资源安全保障水平。</p><p>受访学者从中共政治局会议对外公布的内容判断，中国正持续转向巩固内部可控因素，如扩大投资与内需及寻求产业链自主可控，以对冲外部环境冲击；考虑到中美领导人可能即将于约两周后，即5月中旬在北京会面，中国此时更需确保国内经济趋稳定。</p><p>中共政治局本次会议分析研究当前经济形势和经济工作，会议由中共总书记习近平主持。</p><p>根据新华社通稿，会议首先肯定中国经济“起步有力”，主要指标好于预期，同时坦承“面临一些困难和挑战”，经济持续稳",
-      "ai_summary": "中共政治局会议面对中美科技战和中东战争，强调科技自立自强，实施“人工智能+”行动，提高能源安全。",
+      "ai_summary": "中共政治局会议分析经济形势，强调推动科技自立自强、实施AI+行动、提高能源安全保障，以应对中美角力和中东战火外部不确定性。",
       "ai_tags": [
-        "中美关系",
+        "政治局会议",
         "AI",
         "能源安全",
-        "政治局会议"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "36kr",
-      "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
-      "link": "https://36kr.com/newsflashes/3786492691782919?f=rss",
-      "published_time": "2026-04-28 12:59:33",
-      "raw_content": "36氪获悉，今天，商汤科技正式发布并开源日日新SenseNova U1系列原生理解生成统一模型。它基于商汤于今年三月自主研发的NEO-unify架构，在单一模型架构上统一了多模态理解、推理与生成。据了解，SenseNova U1系列模型能够将语言与视觉信息作为统一的复合体直接建模，实现语言和视觉信息的高效协同，让理解与生成能力同步增强，在保留语义丰富度的同时，维持像素级的视觉保真度。",
-      "ai_summary": "商汤科技发布并开源日日新SenseNova U1系列模型，基于NEO-unify架构统一多模态理解、推理与生成，实现语言和视觉信息高效协同。",
-      "ai_tags": [
-        "商汤科技",
-        "AI模型",
-        "开源"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "比亚迪一季度净利大跌55% 六年来最大跌幅",
-      "link": "https://www.zaobao.com/news/china/story20260428-8967416",
-      "published_time": "2026-04-28 11:51:55",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/1b83480deb60943086306e6389fdb237b386ec36e847cb4cb32cebb668d2151e\" /><figcaption></figcaption></figure><div><div><p>中国新能源车企比亚迪一季度营收下降11.8%，净利下降55.38%，创下2020年以来最大跌幅。</p><p>比亚迪星期二（4月28日）发布2026年一季报，公司当季实现营业收入1502.25亿元（人民币，下同，281.3亿新元），同比下降11.82%，高于彭博综合预期的1404亿元。</p><p>归属于上市公司股东的净利润为40.85亿元，同比大幅下降55.38%，较去年第四季度38.2%的跌幅进一步扩大。</p><p>路透社报道指出，随着中国逐步取消对入门级电动汽车和插电式混合动力汽车的以旧换新补贴，比亚迪面临的压力日益增大。尽管海外出货量持续强劲增长，比亚迪3月份的整体销量仍连续第七个月下滑。</p><p>由于中国国内销量长",
-      "ai_summary": "比亚迪一季度净利大跌55%，营收下降11.8%，受补贴取消等因素影响。",
-      "ai_tags": [
-        "比亚迪",
-        "业绩",
-        "新能源车"
+        "中美关系"
       ],
       "ai_importance": 5
     },
@@ -136,27 +84,56 @@
       "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
       "published_time": "2026-04-28 11:10:05",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1396\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.</p>\n<p>The ar",
-      "ai_summary": "谷歌无视逾600名员工抗议，与美国国防部签署AI模型合同用于机密工作，法律专家指出合同安全条款无法律约束力。",
+      "ai_summary": "谷歌不顾600多名员工联名抗议，与美国国防部签署合同，提供其AI模型用于机密工作。法律专家指出合同安全条款不具备法律约束力。",
       "ai_tags": [
         "谷歌",
+        "美国国防部",
         "AI",
-        "军事",
-        "合同",
-        "抗议"
+        "争议"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "the_decoder",
+      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
+      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
+      "published_time": "2026-04-28 09:29:03",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.</p>\n<p>The article <a href=\"https://t",
+      "ai_summary": "OpenAI 2026年第一季度未达到内部收入目标，同时面临来自Anthropic和谷歌等竞争对手的压力，公司内部关于巨额支出承诺的分歧加剧。",
+      "ai_tags": [
+        "OpenAI",
+        "收入",
+        "竞争",
+        "财务"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "published_time": "2026-04-27 22:52:57",
+      "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
+      "ai_summary": "马斯克与奥特曼将在北加州法庭对决，案件影响OpenAI的IPO及盈利化转型合法性。",
+      "ai_tags": [
+        "OpenAI",
+        "马斯克",
+        "奥特曼",
+        "盈利转型",
+        "IPO"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "published_time": "2026-04-27 16:03:08",
-      "raw_content": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47923357\">https://news.ycombinator.com/item?id=47923357</a></p>\n<p>Points: 723</p>\n<p># Comments: 538</p>",
-      "ai_summary": "GitHub Copilot即将改为基于使用量的计费模式。",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "published_time": "2026-04-27 21:55:48",
+      "raw_content": "<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 649</p>\n<p># Comments: 262</p>",
+      "ai_summary": "Talkie是一个基于1930年代数据集训练的13B参数复古语言模型，旨在模拟早期AI风格。",
       "ai_tags": [
-        "GitHub Copilot",
-        "计费",
-        "AI"
+        "AI",
+        "语言模型"
       ],
       "ai_importance": 5
     },
@@ -166,7 +143,7 @@
       "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
       "published_time": "2026-04-27 14:18:40",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2025/11/altman_nadella_bg2pod_25_new.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-and-microsoft-rewrite-thei",
-      "ai_summary": "OpenAI与微软重写合作协议：OpenAI可自由通过任何云分发产品，微软失去独家许可，AGI条款被移除。",
+      "ai_summary": "OpenAI与微软重新修订合作协议：OpenAI可通过任何云提供商分发产品，微软失去技术独家许可，且争议性的AGI条款被移除。",
       "ai_tags": [
         "OpenAI",
         "微软",
@@ -176,93 +153,17 @@
       "ai_importance": 5
     },
     {
-      "category": "hacker_news",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "published_time": "2026-04-27 13:22:42",
-      "raw_content": "<p>Gift Article: <a href=\"https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-04-27/micr",
-      "ai_summary": "微软和OpenAI结束独家收入分享协议。",
-      "ai_tags": [
-        "微软",
-        "OpenAI",
-        "AI",
-        "合作"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "published_time": "2026-04-27 11:43:59",
-      "raw_content": "<p><a href=\"https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/\" rel=\"nofollow\">https://www.reuters.com/world/asia-pacific/china-blocks-fore...</a><p><a href=\"https://www.bbc.com/news/articles/cj0v0gr2yz7o\" rel=\"nofollow\">https://www.bbc.com/news/articles/cj0v0gr2yz7o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920315\">https://news.ycombinator.com/item?id=47920315</a></p>\n<p>Points: 384</p>\n<p># Comments: 29",
-      "ai_summary": "中国以国家安全为由阻止Meta收购AI初创公司Manus。",
-      "ai_tags": [
-        "中国",
-        "Meta",
-        "收购",
-        "AI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "published_time": "2026-04-27 10:15:17",
-      "raw_content": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher\">https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919733\">https://news.ycombinator.com/item?id=47919733</a></p>\n<p>Points: 252</p>\n<p># Comments: 9",
-      "ai_summary": "FDA批准首个基因疗法，用于治疗遗传性听力损失，实现医学突破。",
-      "ai_tags": [
-        "医疗",
-        "基因疗法",
-        "FDA",
-        "听力损失"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "link": "https://app.oravys.com/blog/mercor-breach-2026",
-      "published_time": "2026-04-27 09:57:10",
-      "raw_content": "<p>Article URL: <a href=\"https://app.oravys.com/blog/mercor-breach-2026\">https://app.oravys.com/blog/mercor-breach-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919630\">https://news.ycombinator.com/item?id=47919630</a></p>\n<p>Points: 578</p>\n<p># Comments: 218</p>",
-      "ai_summary": "Mercor公司遭数据泄露，4TB语音样本被盗，涉及4万名AI合同工。",
-      "ai_tags": [
-        "数据泄露",
-        "隐私",
-        "AI",
-        "安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
-      "link": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym",
-      "published_time": "2026-04-27 07:02:32",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>4 月 27 日，蚂蚁集团旗下全模态AI 助手灵光&nbsp;App&nbsp;上线“体验世界模型”功能。用户上传一张图片，即可在手机端生成一个60s的&nbsp;3D世界，以第一人称视角进入其中，像玩游戏一样在&nbsp;AI&nbsp;实时生成的场景中漫游。无需本地部署，无需复杂配置，打开App 即可体验。这是世界模型首次以移动端产品的形态，面向普通用户开放。</p><p>&nbsp;</p><p>支撑这一体验的核心，是蚂蚁灵波科技开源的世界模型LingBot-World-Fast。该模型在480P 分辨率下可实现16 fps 实时生成，端到端交互延迟控制在 1 秒以内，兼具通用性、长时序一致性与⾼动态场景表现能力。</p><p>&nbsp;</p><p>LingBot-World-Fast地址：https://github.com/robbyant/lingbot-w",
-      "ai_summary": "蚂蚁灵波开源LingBot-World-Fast世界模型，支持手机端实时生成3D场景，480P下16fps实时生成，延迟低于1秒。",
-      "ai_tags": [
-        "世界模型",
-        "开源",
-        "实时生成",
-        "3D",
-        "蚂蚁"
-      ],
-      "ai_importance": 5
-    },
-    {
       "category": "openai",
       "title": "The next phase of the Microsoft OpenAI partnership",
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published_time": "2026-04-27 06:00:00",
       "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI与微软宣布修订合作协议，简化关系并明确长期方向，持续推动AI创新。",
+      "ai_summary": "OpenAI 与微软宣布修订合作协议，简化合作关系，增加长期清晰度，并支持持续的大规模AI创新。",
       "ai_tags": [
         "OpenAI",
-        "Microsoft",
+        "微软",
         "合作",
-        "AI"
+        "更新"
       ],
       "ai_importance": 5
     },
@@ -272,28 +173,127 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国监管机构叫停Meta对AI公司Manus的20亿美元收购交易，要求撤销。",
+      "ai_summary": "中国监管机构叫停Meta对AI公司Manus的20亿美元收购，要求撤销交易，因涉嫌违反投资规定。",
       "ai_tags": [
-        "Meta",
-        "收购",
-        "AI",
+        "中美博弈",
+        "科技收购",
         "监管"
       ],
       "ai_importance": 5
     },
     {
-      "category": "juejin",
-      "title": "天下苦Token久矣，DeepSeekV4终于来了！",
-      "link": "https://juejin.cn/post/7631956346273087524",
-      "published_time": "2026-04-24 07:32:07",
-      "raw_content": "<p>“鸽王”DeepSeek V4 终于来了~!</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b5ce1087abc541fea6a41577f246603e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777620727&amp;x-signature=1MNaOlA7Ng2xISnhMzs%2FXN6mmRE%3D\" /></p>\n<p>虽然从物理时间上看，V3 到 V4 只用了一年多时间。 但是整个 AI 界已经天翻地覆了，从我们的心里感受来说，也是过了好久好久了。</p>\n<p>好不好的先不说，能更新，就是个好事情了。</p>\n<p><strong>最好是能把全球的 Token 价格打下来！</strong></p>\n<p>下面就赶紧来看一下，有哪些亮点吧！</p>\n<p>目前可以看到",
-      "ai_summary": "DeepSeek V4 终于发布，虽然距V3仅一年，但AI界已巨变，希望其能降低全球Token价格。",
+      "category": "ft_chinese",
+      "title": "美国检方终止对美联储主席鲍威尔的调查",
+      "link": "https://www.ftchinese.com/story/001109562",
+      "published_time": "2026-04-26 16:00:00",
+      "raw_content": "这一进展是在白宫开会并与关键参议员沟通后发生的。此前这项刑事调查促使一些共和党参议员拒绝支持总统对美联储下一任主席的提名。",
+      "ai_summary": "美国检方终止对美联储主席鲍威尔的刑事调查，此前调查导致共和党参议员拒绝支持总统提名。",
       "ai_tags": [
-        "AI",
-        "DeepSeek",
-        "模型发布"
+        "美联储",
+        "司法",
+        "政治"
       ],
       "ai_importance": 5
+    },
+    {
+      "category": "openai",
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles",
+      "published_time": "2026-04-26 16:00:00",
+      "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "ai_summary": "OpenAI的使命是确保AGI惠及全人类，Sam Altman分享了指导工作的五条原则。",
+      "ai_tags": [
+        "OpenAI",
+        "原则",
+        "AGI"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "ft_chinese",
+      "title": "白宫记协晚宴发生枪击 凶嫌是加州教师",
+      "link": "https://www.ftchinese.com/story/001109559",
+      "published_time": "2026-04-25 16:00:00",
+      "raw_content": "来自加州托伦斯的31岁男子科尔•托马斯•艾伦当地时间周六晚试图持枪闯入白宫记者协会晚宴，一名特勤局特工的防弹背心中弹。",
+      "ai_summary": "白宫记者协会晚宴发生枪击，一名加州教师试图闯入，特勤局特工防弹背心中弹。",
+      "ai_tags": [
+        "枪击",
+        "安全事件",
+        "白宫"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "ft_chinese",
+      "title": "普华永道因恒大审计被香港监管机构处罚",
+      "link": "https://www.ftchinese.com/story/001109546",
+      "published_time": "2026-04-23 16:00:00",
+      "raw_content": "香港证监会和会财局对普华永道合计罚款13亿港元，称其在审计恒大账目过程中“严重违反其专业责任”，并禁止其在六个月内承接新的审计客户。",
+      "ai_summary": "普华永道因恒大审计违规被香港监管机构罚款13亿港元，并暂停承接新审计客户六个月。",
+      "ai_tags": [
+        "审计",
+        "处罚",
+        "恒大"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "openai",
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "published_time": "2026-04-23 11:00:00",
+      "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "ai_summary": "OpenAI推出GPT-5.5，这是其最智能的模型，速度更快、能力更强，面向编程、研究和数据分析等复杂任务。",
+      "ai_tags": [
+        "GPT-5.5",
+        "模型发布",
+        "AI"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%",
+      "link": "https://36kr.com/newsflashes/3787386456644616?f=rss",
+      "published_time": "2026-04-29 04:08:44",
+      "raw_content": "36氪获悉，吉利汽车公告，2026第一季度，录得总销量709358辆，同比增长1%。受益于出口销量的强劲增长及高价值产品销售占比提升，本集团期内收入同比增长15%，收入增速高于销量增速。2026年第一季度，母公司拥有人应占利润为人民币41.7亿元，同比下降27%，主要由于本期间与去年同期相比，外汇波动所产生的影响有所不同。",
+      "ai_summary": "吉利汽车2026年第一季度利润同比下降27%，但收入增长15%，销量微增。",
+      "ai_tags": [
+        "吉利汽车",
+        "财报",
+        "利润下降"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%",
+      "link": "https://api3.cls.cn/share/article/2359221?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 04:04:28",
+      "raw_content": "【吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%】4月29日，吉利汽车控股有限公司（0175.HK，以下简称 “吉利汽车”）公布2026年第一季度业绩报告，实现高质量发展再进阶。一季度，吉利汽车实现中国自主品牌销量第一，总收入达838亿元，同比增长15%，创同期新高。依托全球化布局深化、高端化产品矩阵发力，剔除外汇汇兑等非核心损益影响后，公司实现核心归母净利润45.6亿元，同比劲增31%，核心利润增速高于收入增速；当期毛利率17.5%，同比提升11%，整体盈利能力持续向好。截至2026年一季度末，公司总现金水平达602亿元，现金储备充裕，公司经营稳健。\n\n第二季度，吉利汽车将立足全球化、高端化、智能化、能源多元化四大战略，计划推出十余款车型与关键技术升级，全面释放品牌势能，加速推进高质量发展与可持续增长。",
+      "ai_summary": "吉利汽车2026年一季度营收首破800亿元，达838亿元，同比增长15%；核心归母净利润45.6亿元，同比增31%，毛利率提升至17.5%。",
+      "ai_tags": [
+        "吉利汽车",
+        "业绩",
+        "营收"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "财联社4月29日午间新闻精选",
+      "link": "https://api3.cls.cn/share/article/2359217?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 04:00:51",
+      "raw_content": "【财联社4月29日午间新闻精选】\n1、截至午间收盘，上证指数涨0.4%，深证成指涨1.58%，创业板指涨2.27%。恒生指数涨1.23%，恒生科技指数涨1.07%。\n2、报告显示，2025年，全国日均词元调用量从年初的超万亿增长到年末的100万亿，呈现指数级增长；全年词元累计调用量达到约21100万亿。\n3、中国钢铁工业协会副会长兼秘书长姜维29日表示，受中东地区局势影响，石油价格上涨导致采矿成本和运费增加、通胀预期上升，炼焦煤、焦炭、铁合金、废钢等原燃料价格均受影响维持高位运行，钢铁企业的成本压力加大。\n4、自然资源部4月29日发布我国最新矿产资源家底。我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一。\n5、据美国《华尔街日报》当地时间4月28日援引美方官员消息报道称，美国总统特朗普已指示助手“准备对伊朗实施长期封锁”，旨在迫使伊朗做出“核让步”。",
+      "ai_summary": "午间新闻精选：A股港股上涨，AI日调用量指数级增长，钢铁成本压力加大，我国14种矿产储量世界第一，特朗普准备对伊朗实施长期封锁。",
+      "ai_tags": [
+        "股市",
+        "AI",
+        "钢铁",
+        "矿产",
+        "伊朗"
+      ],
+      "ai_importance": 4
     }
   ]
 }

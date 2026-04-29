@@ -6,283 +6,283 @@
   "offset": 0,
   "items": [
     {
-      "category": "cls",
-      "title": "摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重",
-      "link": "https://api3.cls.cn/share/article/2358766?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:32:41",
-      "raw_content": "【摩根大通CEO戴蒙再度警告信贷市场风险 称潜在下行恐比预期更为严重】财联社4月28日电，摩根大通CEO杰米·戴蒙再次警告称信贷市场的下行可能比预期更为严重，尽管他的公司和华尔街其他大行在近期公布了亮眼的财报，且贷款组合保持稳健。戴蒙周二在挪威央行投资管理公司会议上表示，私募信贷领域有超过1000家公司，这或许意味着当经济周期转变时，并非所有公司都能表现良好。戴蒙说：“有些公司可能很出色，但我保证并非所有1000家公司都如此。因此，在我看来，由于这一点以及承销标准，我们已经这么久没有经历信贷衰退了，所以一旦衰退来临，情况会比人们想象的更糟。”“情况不会很糟糕，只是比人们想象的私募信贷情况更糟，”他补充道。“顺便说一句，这种情况可能也适用于某些银行。”",
-      "ai_summary": "摩根大通CEO戴蒙警告信贷市场下行可能比预期更严重，私募信贷领域风险高。",
+      "category": "infoq",
+      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
+      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
+      "published_time": "2026-04-29 03:41:42",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
+      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
       "ai_tags": [
-        "信贷市场",
-        "风险",
-        "摩根大通"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "github",
-      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-      "published_time": "2026-04-28 15:30:00",
-      "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub在2小时内响应并修复了一个关键远程代码执行漏洞，确认无利用。",
-      "ai_tags": [
-        "GitHub",
-        "安全",
-        "漏洞"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 15:25:17",
-      "raw_content": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
-      "ai_summary": "阿联酋将退出石油输出国组织OPEC，对石油卡特尔是重大打击。",
-      "ai_tags": [
-        "oil",
-        "geopolitics"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "cls",
-      "title": "伊朗陆军发言人：战争尚未结束 军队严阵以待",
-      "link": "https://api3.cls.cn/share/article/2358757?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:12:45",
-      "raw_content": "【伊朗陆军发言人：战争尚未结束 军队严阵以待】财联社4月28日电，伊朗塔斯尼姆通讯社28日援引伊朗陆军发言人穆罕默德·阿克拉米尼亚的话报道说，军方认为目前局势仍处于战争状态，地面部队已在全国各地部署，严阵以待，应对威胁。他表示，伊方已完成目标清单与作战装备的全面更新，所有部队已作好充分准备，以应对敌方可能的军事袭击。 (新华社)",
-      "ai_summary": "伊朗陆军发言人表示战争尚未结束，军队严阵以待，完成目标与装备更新。",
-      "ai_tags": [
-        "伊朗",
-        "军事",
-        "战争"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "cls",
-      "title": "乌克兰议会批准延长国家战时状态90天",
-      "link": "https://api3.cls.cn/share/article/2358753?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:09:55",
-      "raw_content": "【乌克兰议会批准延长国家战时状态90天】财联社4月28日电，据乌克兰国际文传电讯社报道，乌最高拉达（议会）28日投票批准将国家战时状态和军事动员延长90天。27日，乌克兰总统泽连斯基向最高拉达递交了法令草案，提议将国家战时状态和军事动员从5月4日延长至8月2日，共90天。据报道，关于延长国家战时状态和军事动员的法令草案分别获得315名、304名议员支持，均高于通过所需的226票。这是自2022年2月俄乌冲突升级以来，乌最高拉达第19次批准延长相关法令。 (新华社)",
-      "ai_summary": "乌克兰议会批准将国家战时状态和军事动员从5月4日延长至8月2日，共90天。",
-      "ai_tags": [
-        "乌克兰",
-        "战时状态",
-        "延长"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 14:32:20",
-      "raw_content": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "ai_summary": "乌克兰第三次袭击俄罗斯炼油厂，引发居民疏散，俄方指责乌方破坏全球能源市场稳定。",
-      "ai_tags": [
-        "war",
-        "energy"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "中美角力遇中东战火 中共政治局会议提AI与能源安全",
-      "link": "https://www.zaobao.com/news/china/story20260428-8967801",
-      "published_time": "2026-04-28 13:58:34",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/04f4c147b14d034864e158bac68e707b6c6b596715fb8c85db4eb142f1ab0822\" /><figcaption></figcaption></figure><div><div><p>面对中东战争和中美科技战两大外部环境不确定性，中共政治局会议星期二（4月28日）召开。会议强调，推动科技自立自强、产业链自主可控；全面实施“人工智能+”行动；提高能源资源安全保障水平。</p><p>受访学者从中共政治局会议对外公布的内容判断，中国正持续转向巩固内部可控因素，如扩大投资与内需及寻求产业链自主可控，以对冲外部环境冲击；考虑到中美领导人可能即将于约两周后，即5月中旬在北京会面，中国此时更需确保国内经济趋稳定。</p><p>中共政治局本次会议分析研究当前经济形势和经济工作，会议由中共总书记习近平主持。</p><p>根据新华社通稿，会议首先肯定中国经济“起步有力”，主要指标好于预期，同时坦承“面临一些困难和挑战”，经济持续稳",
-      "ai_summary": "中共政治局会议面对中美科技战和中东战争，强调科技自立自强，实施“人工智能+”行动，提高能源安全。",
-      "ai_tags": [
-        "中美关系",
         "AI",
-        "能源安全",
-        "政治局会议"
+        "商汤",
+        "开源",
+        "多模态"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
+      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 00:24:05",
+      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
+      "ai_tags": [
+        "FBI",
+        "特朗普",
+        "威胁"
       ],
       "ai_importance": 5
     },
     {
       "category": "36kr",
-      "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
-      "link": "https://36kr.com/newsflashes/3786492691782919?f=rss",
-      "published_time": "2026-04-28 12:59:33",
-      "raw_content": "36氪获悉，今天，商汤科技正式发布并开源日日新SenseNova U1系列原生理解生成统一模型。它基于商汤于今年三月自主研发的NEO-unify架构，在单一模型架构上统一了多模态理解、推理与生成。据了解，SenseNova U1系列模型能够将语言与视觉信息作为统一的复合体直接建模，实现语言和视觉信息的高效协同，让理解与生成能力同步增强，在保留语义丰富度的同时，维持像素级的视觉保真度。",
-      "ai_summary": "商汤科技发布并开源日日新SenseNova U1系列模型，基于NEO-unify架构统一多模态理解、推理与生成，实现语言和视觉信息高效协同。",
+      "title": "吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%",
+      "link": "https://36kr.com/newsflashes/3787386456644616?f=rss",
+      "published_time": "2026-04-29 04:08:44",
+      "raw_content": "36氪获悉，吉利汽车公告，2026第一季度，录得总销量709358辆，同比增长1%。受益于出口销量的强劲增长及高价值产品销售占比提升，本集团期内收入同比增长15%，收入增速高于销量增速。2026年第一季度，母公司拥有人应占利润为人民币41.7亿元，同比下降27%，主要由于本期间与去年同期相比，外汇波动所产生的影响有所不同。",
+      "ai_summary": "吉利汽车2026年第一季度利润同比下降27%，但收入增长15%，销量微增。",
       "ai_tags": [
-        "商汤科技",
-        "AI模型",
-        "开源"
+        "吉利汽车",
+        "财报",
+        "利润下降"
       ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "比亚迪一季度净利大跌55% 六年来最大跌幅",
-      "link": "https://www.zaobao.com/news/china/story20260428-8967416",
-      "published_time": "2026-04-28 11:51:55",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/1b83480deb60943086306e6389fdb237b386ec36e847cb4cb32cebb668d2151e\" /><figcaption></figcaption></figure><div><div><p>中国新能源车企比亚迪一季度营收下降11.8%，净利下降55.38%，创下2020年以来最大跌幅。</p><p>比亚迪星期二（4月28日）发布2026年一季报，公司当季实现营业收入1502.25亿元（人民币，下同，281.3亿新元），同比下降11.82%，高于彭博综合预期的1404亿元。</p><p>归属于上市公司股东的净利润为40.85亿元，同比大幅下降55.38%，较去年第四季度38.2%的跌幅进一步扩大。</p><p>路透社报道指出，随着中国逐步取消对入门级电动汽车和插电式混合动力汽车的以旧换新补贴，比亚迪面临的压力日益增大。尽管海外出货量持续强劲增长，比亚迪3月份的整体销量仍连续第七个月下滑。</p><p>由于中国国内销量长",
-      "ai_summary": "比亚迪一季度净利大跌55%，营收下降11.8%，受补贴取消等因素影响。",
-      "ai_tags": [
-        "比亚迪",
-        "业绩",
-        "新能源车"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "the_decoder",
-      "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
-      "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
-      "published_time": "2026-04-28 11:10:05",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1396\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.</p>\n<p>The ar",
-      "ai_summary": "谷歌无视逾600名员工抗议，与美国国防部签署AI模型合同用于机密工作，法律专家指出合同安全条款无法律约束力。",
-      "ai_tags": [
-        "谷歌",
-        "AI",
-        "军事",
-        "合同",
-        "抗议"
-      ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "cls",
-      "title": "隆基绿能：2025年度净亏损64.20亿元",
-      "link": "https://api3.cls.cn/share/article/2358774?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:42:21",
-      "raw_content": "【隆基绿能：2025年度净亏损64.20亿元】财联社4月28日电，隆基绿能(601012)发布2025年年度报告，实现营业收入703.47亿元，同比下降14.82%；归属于上市公司股东的净利润为-64.20亿元，同比减亏。公司2025年度拟不进行利润分配，也不进行资本公积转增股本。小财注：公司Q4净利润-30.16亿，Q3净利润-8.34亿，据此计算，Q4净利润环比持续亏损。第四季度净利润分析师一致预测是-6.89亿，经计算Q4净利为-30.16亿，业绩低于预期。<br /><img src=\"https://img.cls.cn/fad/yeji/20260428/sh601012694539_info.jpg\" />",
-      "ai_summary": "隆基绿能2025年营收703.47亿元，净利润亏损64.20亿元，Q4亏损扩大，业绩低于预期。",
+      "title": "吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%",
+      "link": "https://api3.cls.cn/share/article/2359221?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 04:04:28",
+      "raw_content": "【吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%】4月29日，吉利汽车控股有限公司（0175.HK，以下简称 “吉利汽车”）公布2026年第一季度业绩报告，实现高质量发展再进阶。一季度，吉利汽车实现中国自主品牌销量第一，总收入达838亿元，同比增长15%，创同期新高。依托全球化布局深化、高端化产品矩阵发力，剔除外汇汇兑等非核心损益影响后，公司实现核心归母净利润45.6亿元，同比劲增31%，核心利润增速高于收入增速；当期毛利率17.5%，同比提升11%，整体盈利能力持续向好。截至2026年一季度末，公司总现金水平达602亿元，现金储备充裕，公司经营稳健。\n\n第二季度，吉利汽车将立足全球化、高端化、智能化、能源多元化四大战略，计划推出十余款车型与关键技术升级，全面释放品牌势能，加速推进高质量发展与可持续增长。",
+      "ai_summary": "吉利汽车2026年一季度营收首破800亿元，达838亿元，同比增长15%；核心归母净利润45.6亿元，同比增31%，毛利率提升至17.5%。",
       "ai_tags": [
-        "隆基绿能",
-        "亏损",
-        "财报"
+        "吉利汽车",
+        "业绩",
+        "营收"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "财联社4月29日午间新闻精选",
+      "link": "https://api3.cls.cn/share/article/2359217?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 04:00:51",
+      "raw_content": "【财联社4月29日午间新闻精选】\n1、截至午间收盘，上证指数涨0.4%，深证成指涨1.58%，创业板指涨2.27%。恒生指数涨1.23%，恒生科技指数涨1.07%。\n2、报告显示，2025年，全国日均词元调用量从年初的超万亿增长到年末的100万亿，呈现指数级增长；全年词元累计调用量达到约21100万亿。\n3、中国钢铁工业协会副会长兼秘书长姜维29日表示，受中东地区局势影响，石油价格上涨导致采矿成本和运费增加、通胀预期上升，炼焦煤、焦炭、铁合金、废钢等原燃料价格均受影响维持高位运行，钢铁企业的成本压力加大。\n4、自然资源部4月29日发布我国最新矿产资源家底。我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一。\n5、据美国《华尔街日报》当地时间4月28日援引美方官员消息报道称，美国总统特朗普已指示助手“准备对伊朗实施长期封锁”，旨在迫使伊朗做出“核让步”。",
+      "ai_summary": "午间新闻精选：A股港股上涨，AI日调用量指数级增长，钢铁成本压力加大，我国14种矿产储量世界第一，特朗普准备对伊朗实施长期封锁。",
+      "ai_tags": [
+        "股市",
+        "AI",
+        "钢铁",
+        "矿产",
+        "伊朗"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "36kr",
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "link": "https://36kr.com/p/3787376553876737?f=rss",
+      "published_time": "2026-04-29 04:00:21",
+      "raw_content": "<p>作者｜乔钰杰</p>\n  <p>编辑｜袁斯来</p>\n  <p>4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。</p>\n  <p>此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深空探测等场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260429/v2_d76ff7e03b5649dab384d01aa666c3ca@5920579_oswg653714oswg932oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-des",
+      "ai_summary": "未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场。",
+      "ai_tags": [
+        "航天",
+        "商业航天",
+        "空间飞行器"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的 伊朗可以利用与周边国家的陆地边界绕过封锁",
+      "link": "https://api3.cls.cn/share/article/2359213?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 03:57:00",
+      "raw_content": "【伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的 伊朗可以利用与周边国家的陆地边界绕过封锁】财联社4月29日电，据伊朗伊斯兰共和国通讯社29日报道，伊朗驻埃及开罗利益代表处负责人穆杰塔巴·菲尔多西普尔表示，美国试图以海上封锁迫使伊朗接受其单方面要求是徒劳的，伊朗可以利用与周边国家的陆地边界绕过封锁。菲尔多西普尔重申，伊朗有权掌控霍尔木兹海峡的安全。 (新华社)",
+      "ai_summary": "伊朗官员称美国海上封锁徒劳，伊朗可利用陆地边界绕过封锁，重申掌控霍尔木兹海峡安全。",
+      "ai_tags": [
+        "伊朗",
+        "美国",
+        "封锁",
+        "霍尔木兹海峡"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "36kr",
+      "title": "阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2",
+      "link": "https://36kr.com/newsflashes/3787364295482632?f=rss",
+      "published_time": "2026-04-29 03:52:08",
+      "raw_content": "36氪获悉，4月29日，阶跃星辰宣布正式发布新一代图像生成编辑模型Step Image Edit 2。目前Step Image Edit 2已全量上线”阶跃星辰开放平台“和Step Plan。",
+      "ai_summary": "阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2，已上线开放平台和Step Plan。",
+      "ai_tags": [
+        "AI",
+        "图像生成"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "农业农村部：全力推动扩大农业农村有效投资 补齐补强短板弱项",
+      "link": "https://api3.cls.cn/share/article/2359199?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 03:42:51",
+      "raw_content": "【农业农村部：全力推动扩大农业农村有效投资 补齐补强短板弱项】财联社4月29日电，农业农村部4月28日在湖北省武汉市召开全国扩大农业农村有效投资工作会议。会议强调，要准确把握当前及“十五五”农业农村投资工作面临的形势任务，聚焦提升农业综合生产能力和质量效益、聚焦确保不发生规模性返贫致贫底线、聚焦推进宜居宜业和美乡村建设、聚焦提高强农惠农富农政策效能、聚焦加快构建多元投入格局，全力推动扩大农业农村有效投资，补齐补强短板弱项，为实现“十五五”发展目标提供有力保障。会议要求，扎实做好今年农业农村投资各项重点工作，加快推进年度任务落地见效，高质量谋划和储备项目，推动财政与金融协同，抓好常态化帮扶资金管理，做好农村综合改革转移支付资金对接管理。认真抓好乡村振兴项目资金监管，确保科学、精准、规范、高效使用项目资金。",
+      "ai_summary": "农业农村部召开会议，要求全力推动扩大农业农村有效投资，补齐短板，聚焦提升综合生产能力和农民增收。",
+      "ai_tags": [
+        "农业农村部",
+        "投资",
+        "乡村振兴",
+        "补短板"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "2025年我国系统软件、人工智能产生的数据量达26.92泽字节 首次超过传统占主体地位的物联感知数据量",
+      "link": "https://api3.cls.cn/share/article/2359198?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 03:41:18",
+      "raw_content": "【2025年我国系统软件、人工智能产生的数据量达26.92泽字节 首次超过传统占主体地位的物联感知数据量】财联社4月29日电，国家数据局局长刘烈宏在4月29日于福建福州开幕的第九届数字中国建设峰会上表示，2025年我国系统软件、人工智能产生的数据量达26.92泽字节，首次超过传统占主体地位的物联感知数据量。",
+      "ai_summary": "2025年我国系统软件和AI产生数据量达26.92泽字节，首次超过物联感知数据量。",
+      "ai_tags": [
+        "数据量",
+        "系统软件",
+        "人工智能",
+        "数字中国"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "36kr",
+      "title": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜",
+      "link": "https://36kr.com/newsflashes/3787354913496321?f=rss",
+      "published_time": "2026-04-29 03:36:38",
+      "raw_content": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜。（新浪财经）",
+      "ai_summary": "英伟达高管将与三星、SK海力士会面，洽谈实体人工智能合作。",
+      "ai_tags": [
+        "英伟达",
+        "AI",
+        "存储芯片"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "写了 17 年开源代码，我为什么认为 Coding Agents 堆功能是在瞎折腾？",
+      "link": "https://www.infoq.cn/article/sLVv23TfVFxoBPjNwcZI",
+      "published_time": "2026-04-29 03:36:22",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ae/a5/ae89a5c976a20a35yy6fd34f38fb5ca5.png\" /></p><p></p><p></p><p>在 AI 编程工具进入大乱斗时代的今天，我们似乎已经习惯了各种功能的堆叠。但在 libGDX 创始人、17 年开源老兵 Mario Zechner 眼中，这一切正变得越来越不可控。</p><p></p><p>“当你发现 AI 在背地里偷偷修改你的上下文，而你却对此一无所知时，这种掌控感的丧失是极其危险的。”</p><p></p><p>近日，在 Tessel 举办的开发者大会上，Mario 不仅公开吐槽了 Claude Code、OpenCode，更带出了他的极简主义“反叛之作”——pi。这是一个只有 read、write、edit、bash 四种工具，拥有主流 agent 里最短的 system prompt，却有着极致的可扩展性、能让开发者重拾掌控权的终端编程 agent。</p><p></p><p>本文基于该演讲视频整理，经 InfoQ 编辑",
+      "ai_summary": "开源老兵 Mario Zechner 批评 Coding Agents 堆功能，推出极简终端编程 agent 'pi'，强调开发者掌控。",
+      "ai_tags": [
+        "AI编程",
+        "开源",
+        "agent"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "中国加入《数字经济伙伴关系协定》（DEPA）工作组举行第十次首席谈判代表会议",
+      "link": "https://api3.cls.cn/share/article/2359183?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 03:25:47",
+      "raw_content": "【中国加入《数字经济伙伴关系协定》（DEPA）工作组举行第十次首席谈判代表会议】财联社4月29日电，据商务部官网，4月27—28日，中国加入《数字经济伙伴关系协定》（DEPA）工作组第十次首席谈判代表会议在韩国首尔举行。中方同智利、新西兰、新加坡、韩国等DEPA成员就中国加入谈判进程深入交换意见，并就相关议题进行详细讨论。",
+      "ai_summary": "中国加入DEPA工作组第十次首席谈判代表会议在首尔举行，与成员方深入交换意见。",
+      "ai_tags": [
+        "数字经济",
+        "国际合作"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-      "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 15:38:09",
-      "raw_content": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-      "ai_summary": "Sam Altman与Elon Musk的纠纷从社交媒体升级至法庭。",
-      "ai_tags": [
-        "AI",
-        "lawsuit"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "众合科技：2025年度净亏损6226.24万元",
-      "link": "https://api3.cls.cn/share/article/2358767?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:33:16",
-      "raw_content": "【众合科技：2025年度净亏损6226.24万元】财联社4月28日电，众合科技(000925.SZ)公告称，公司发布2025年年度报告，实现营业收入22.84亿元，同比增长12.88%；归属于上市公司股东的净利润为-6226.24万元，同比由盈转亏。公司拟以实施权益分派股权登记日登记的总股本扣除公司回购专用证券账户中的回购股份为基数，向全体股东每10股派发现金红利0.15元(含税)，不送红股，不以公积金转增股本。小财注：公司Q4净利润-0.16亿，Q3净利润0.2亿，据此计算，Q4净利润环比由盈转亏。第四季度净利润分析师一致预测是1.54亿，经计算Q4净利为-0.16亿，业绩低于预期。<br /><img src=\"https://img.cls.cn/fad/yeji/20260428/sz000925694568_info.jpg\" />",
-      "ai_summary": "众合科技2025年度由盈转亏，净亏损6226.24万元，营收增长12.88%但Q4亏损低于预期，拟每10股派红利0.15元。",
-      "ai_tags": [
-        "公司业绩",
-        "亏损",
-        "年报"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "罗马尼亚议会前两大党联合提交对政府不信任案",
-      "link": "https://api3.cls.cn/share/article/2358759?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:18:06",
-      "raw_content": "【罗马尼亚议会前两大党联合提交对政府不信任案】财联社4月28日电，据罗马尼亚媒体报道，罗议会第一大党社会民主党（社民党）联合第二大党、最大反对党罗马尼亚人团结联盟党于28日正式提交对总理博洛让政府的不信任案。 (新华社)",
-      "ai_summary": "罗马尼亚议会前两大党联合提交对政府不信任案。",
+      "title": "King gets ovation for Congress speech warning of volatile world",
+      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 03:24:38",
+      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
+      "ai_summary": "英国国王在美国国会发表演讲，强调在动荡世界中英美关系的重要性，获全场起立鼓掌。",
       "ai_tags": [
         "政治",
-        "罗马尼亚",
-        "不信任案"
+        "演讲",
+        "国际关系"
       ],
       "ai_importance": 4
     },
     {
       "category": "cls",
-      "title": "北约或推迟甚至取消峰会免与美摩擦",
-      "link": "https://api3.cls.cn/share/article/2358754?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:11:39",
-      "raw_content": "【北约或推迟甚至取消峰会免与美摩擦】财联社4月28日电，知情人士透露，出于希望减少与美国摩擦等原因，北约考虑推迟峰会举行的时间，甚至有意取消2028年、即特朗普总统任期最后一年的峰会。北约峰会的频率不固定，不过2021年以来基本上每年夏天举行一次，今年峰会计划于7月初在土耳其举行。 ( CCTV国际时讯)",
-      "ai_summary": "北约考虑推迟或取消2028年峰会以避免与特朗普政府摩擦。",
+      "title": "中国多式联运发展联盟今日成立",
+      "link": "https://api3.cls.cn/share/article/2359179?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 03:23:03",
+      "raw_content": "【中国多式联运发展联盟今日成立】财联社4月29日电，由国铁集团牵头，会同中国远洋海运集团有限公司、招商局集团有限公司、中国物流集团有限公司、中国数联物流信息有限公司等4家物流领域骨干央企共同发起的中国多式联运发展联盟4月29日上午在北京成立。联盟将合力共建铁水联运、铁公联运、技术创新3个协作平台和95306国家多式联运服务热线，推动多式联运高质量发展，联盟门户网站同步上线。",
+      "ai_summary": "中国多式联运发展联盟在京成立，由国铁集团等央企共同发起，推动铁水、铁公联运发展。",
       "ai_tags": [
-        "北约",
-        "特朗普",
-        "峰会"
+        "物流",
+        "多式联运"
       ],
       "ai_importance": 4
     },
     {
-      "category": "cls",
-      "title": "瑞茂通：公司股票被实施退市风险警示并叠加其他风险警示 4月30日起股票简称变更为“*ST瑞茂”",
-      "link": "https://api3.cls.cn/share/article/2358749?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:07:07",
-      "raw_content": "【瑞茂通：公司股票被实施退市风险警示并叠加其他风险警示 4月30日起股票简称变更为“*ST瑞茂”】财联社4月28日电，瑞茂通(600180.SH)公告称，因中审众环会计师事务所对公司2025年度财务会计报告出具无法表示意见的审计报告，且对财务报告内部控制出具否定意见的审计报告，公司股票于4月29日停牌一天，自2026年4月30日起复牌并被实施退市风险警示并叠加其他风险警示，股票简称变更为“*ST瑞茂”，日涨跌幅限制为5%。",
-      "ai_summary": "瑞茂通因年报审计问题被实施退市风险警示并叠加其他风险警示，股票简称变更为*ST瑞茂，涨跌幅限制为5%。",
+      "category": "infoq",
+      "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
+      "link": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF",
+      "published_time": "2026-04-29 03:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/d3/ed0fe2d79504e9bd18fdd197d166d8d3.jpg\" /></p><p></p><h2>引言</h2><p></p><p>随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。</p><p>&nbsp;</p><p>大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用<a href=\"https://www.infoq.com/llms/\">大语言模型</a>\"、<a href=\"https://www.infoq.com/vector-database/\">向量数据库",
+      "ai_summary": "探讨基于 Apache Camel 编排智能体与多模态 AI 管道，解决系统设计复杂性问题。",
       "ai_tags": [
-        "退市风险",
-        "ST",
-        "审计问题"
+        "Apache Camel",
+        "多模态AI",
+        "企业应用"
       ],
       "ai_importance": 4
     },
     {
-      "category": "cls",
-      "title": "卡塔尔外交部：反对将霍尔木兹海峡作为施压工具",
-      "link": "https://api3.cls.cn/share/article/2358745?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-28 15:03:05",
-      "raw_content": "【卡塔尔外交部：反对将霍尔木兹海峡作为施压工具】财联社4月28日电，卡塔尔外交部发言人安萨里28日说，卡塔尔坚决反对将霍尔木兹海峡作为施压工具。安萨里当天在记者会上表示，霍尔木兹海峡通行受阻将引发广泛的经济连锁反应，卡塔尔坚决反对任何妨碍船只通行的做法。任何干扰海上航运的行为都将对全球能源安全和供应链造成严重后果。安萨里还说，当前亟需加强全球协调，以保障能源供应畅通，卡塔尔支持一切旨在确保霍尔木兹海峡安全和重新开放的国际努力。 (央视新闻)",
-      "ai_summary": "卡塔尔外交部反对将霍尔木兹海峡作为施压工具，警告通行受阻将引发全球经济连锁反应。",
+      "category": "36kr",
+      "title": "老铺黄金还不是爱马仕",
+      "link": "https://36kr.com/p/3787296465427464?f=rss",
+      "published_time": "2026-04-29 02:57:01",
+      "raw_content": "<p><strong>作者 |</strong>&nbsp;谢芸子</p>\n  <p><strong>编辑 |&nbsp;</strong> 张帆</p>\n  <p>老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。</p>\n  <p>2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。</p>\n  <p>公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。第三则是门店数量的增加。</p>\n  <p>上一年度，老铺黄金在16个城市共开设45家自营门店，其中包括在新加坡、中国香港等地的“海外”门店。且对比2024年，去年新增的10家门店，以及优化扩容的9家门店，为集团贡献了营收增量。</p>\n  <p>以去年257.93亿元的线下门店销售业绩计算，老铺黄金的平均门店年销售超过了5亿元。</p>\n  <p>财报还援引了弗若斯特沙利文的数据，在全球奢侈品牌",
+      "ai_summary": "老铺黄金2025年销售业绩达313.75亿元，同比增长220.3%，平均门店年销售超5亿元。",
       "ai_tags": [
-        "霍尔木兹海峡",
-        "能源安全",
-        "卡塔尔"
+        "老铺黄金",
+        "奢侈品",
+        "业绩"
       ],
       "ai_importance": 4
     },
     {
-      "category": "the_decoder",
-      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
-      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
-      "published_time": "2026-04-28 14:40:42",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1065\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/meta_manus_ai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1902\" /></p>\n<p>        Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/\">Meta scrambles to unwind Manus deal as Beijing&#039;s deadl",
-      "ai_summary": "Meta 正积极准备解除收购 Manus 的交易，因北京的截止日期临近。",
+      "category": "36kr",
+      "title": "腾讯ima推出全新知识Agent——copilot",
+      "link": "https://36kr.com/newsflashes/3787314918743047?f=rss",
+      "published_time": "2026-04-29 02:55:57",
+      "raw_content": "36氪获悉，4月29日，腾讯ima正式推出知识Agent——copilot，支持用户创建专属Agent。copilot内置记忆系统，通过copilot设定、用户档案、长期记忆、经验技巧四大模块，记住用户的背景、习惯与推进事项，实现跨场景连续调用，减少重复输入。",
+      "ai_summary": "腾讯ima推出知识Agent copilot，支持创建专属Agent，内置记忆系统实现跨场景连续调用。",
       "ai_tags": [
-        "Meta",
-        "收购",
-        "北京"
+        "腾讯",
+        "AI",
+        "知识管理"
       ],
       "ai_importance": 4
     },
     {
-      "category": "zaobao_china",
-      "title": "解放军宣布在南中国海巡航",
-      "link": "https://www.zaobao.com/news/china/story20260428-8967904",
-      "published_time": "2026-04-28 13:25:02",
-      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国军方宣布，星期二（4月28日）在南中国海进行巡航，并批评菲律宾拉拢域外国家组织联合巡航，搅局南中国海，破坏地区和平稳定。</p><p>中国人民解放军南部战区在微信公众号公布，南部战区海军星期二在南中国海海域进行例行巡航。</p><p>南部战区新闻发言人翟士臣海军大校强调，战区部队将坚决捍卫国家领土主权和海洋权益，坚定维护地区和平稳定。</p><p>美国与菲律宾上周启动“肩并肩”年度大规模联合军事演习，日本也首次大规模参与军演。军演上星期一（4月20日）在菲律宾首都马尼拉启动，演习为期19天，逾1万7000名军人参与。</p>\n    \n  </div></div>",
-      "ai_summary": "解放军南部战区海军在南中国海例行巡航，批评菲律宾拉拢域外国家联合巡航。",
+      "category": "36kr",
+      "title": "源杰科技股价创新高",
+      "link": "https://36kr.com/newsflashes/3787308877782274?f=rss",
+      "published_time": "2026-04-29 02:49:49",
+      "raw_content": "36氪获悉，源杰科技盘中涨超5%，股价站上1520元/股，再创历史新高。",
+      "ai_summary": "源杰科技股价盘中涨超5%，站上1520元/股，再创历史新高。",
       "ai_tags": [
-        "南中国海",
-        "解放军",
-        "巡航",
-        "菲律宾"
+        "股市",
+        "科技"
       ],
       "ai_importance": 4
     },
     {
-      "category": "bbc_news",
-      "title": "Sinner beats Norrie to equal historic winning run",
-      "link": "https://www.bbc.com/sport/tennis/articles/cd0p5vx1g34o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 13:20:21",
-      "raw_content": "World number one Jannik Sinner's brilliant form continues as he reaches the quarter-finals of the Madrid Open with a straight-set win over Britain's Cameron Norrie.",
-      "ai_summary": "世界第一辛纳直落两盘击败诺里，晋级马德里公开赛八强，延续其辉煌状态。",
+      "category": "36kr",
+      "title": "兆驰股份：2026年光通信业务将作为公司产业升级的核心战略方向",
+      "link": "https://36kr.com/newsflashes/3787307756526595?f=rss",
+      "published_time": "2026-04-29 02:48:40",
+      "raw_content": "兆驰股份在业绩说明会上表示，公司已成功搭建覆盖光芯片、光器件、光模块的垂直产业链布局，各环节协同发展，核心竞争力持续提升。应用于200G及以下速率的光模块已实现规模化生产并大批量出货，400G/800G光模块在完成可靠性测试后已进入小批量生产阶段，正稳步推进至规模化量产。2026年，光通信业务将作为公司产业升级的核心战略方向。其中，光芯片方面，公司将持续加大研发投入，加速1.6T超高速光模块研发，保持技术迭代领先。（证券时报）",
+      "ai_summary": "兆驰股份计划2026年将光通信业务作为核心战略方向，已实现200G及以下速率光模块规模化生产，400G/800G光模块进入小批量生产阶段。",
       "ai_tags": [
-        "网球",
-        "辛纳",
-        "马德里公开赛"
+        "光通信",
+        "产业升级"
       ],
       "ai_importance": 4
     }

@@ -5,148 +5,144 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "GTFOBins",
-      "link": "https://gtfobins.org/",
-      "published_time": "2026-04-28 06:27:39",
-      "raw_content": "<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 313</p>\n<p># Comments: 77</p>",
-      "ai_summary": "GTFOBins是Unix二进制文件列表，用于绕过本地安全限制。",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "published_time": "2026-04-28 16:15:43",
+      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 264</p>\n<p># Comments: 63</p>",
+      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的详细分析。",
       "ai_tags": [
-        "GTFOBins",
-        "安全",
-        "Unix"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "link": "https://github.com/localsend/localsend",
-      "published_time": "2026-04-28 11:54:20",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 351</p>\n<p># Comments: 142</p>",
-      "ai_summary": "Localsend是开源跨平台文件传输工具，类似AirDrop。",
-      "ai_tags": [
-        "开源",
-        "文件传输",
-        "跨平台"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "published_time": "2026-04-27 10:15:17",
-      "raw_content": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher\">https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919733\">https://news.ycombinator.com/item?id=47919733</a></p>\n<p>Points: 252</p>\n<p># Comments: 9",
-      "ai_summary": "FDA批准首个基因疗法，用于治疗遗传性听力损失，实现医学突破。",
-      "ai_tags": [
-        "医疗",
-        "基因疗法",
-        "FDA",
-        "听力损失"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "published_time": "2026-04-27 11:43:59",
-      "raw_content": "<p><a href=\"https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/\" rel=\"nofollow\">https://www.reuters.com/world/asia-pacific/china-blocks-fore...</a><p><a href=\"https://www.bbc.com/news/articles/cj0v0gr2yz7o\" rel=\"nofollow\">https://www.bbc.com/news/articles/cj0v0gr2yz7o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920315\">https://news.ycombinator.com/item?id=47920315</a></p>\n<p>Points: 384</p>\n<p># Comments: 29",
-      "ai_summary": "中国以国家安全为由阻止Meta收购AI初创公司Manus。",
-      "ai_tags": [
-        "中国",
-        "Meta",
-        "收购",
-        "AI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "published_time": "2026-04-27 13:22:42",
-      "raw_content": "<p>Gift Article: <a href=\"https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-04-27/micr",
-      "ai_summary": "微软和OpenAI结束独家收入分享协议。",
-      "ai_tags": [
-        "微软",
-        "OpenAI",
-        "AI",
-        "合作"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "published_time": "2026-04-27 16:03:08",
-      "raw_content": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47923357\">https://news.ycombinator.com/item?id=47923357</a></p>\n<p>Points: 723</p>\n<p># Comments: 538</p>",
-      "ai_summary": "GitHub Copilot即将改为基于使用量的计费模式。",
-      "ai_tags": [
-        "GitHub Copilot",
-        "计费",
-        "AI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "link": "https://app.oravys.com/blog/mercor-breach-2026",
-      "published_time": "2026-04-27 09:57:10",
-      "raw_content": "<p>Article URL: <a href=\"https://app.oravys.com/blog/mercor-breach-2026\">https://app.oravys.com/blog/mercor-breach-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919630\">https://news.ycombinator.com/item?id=47919630</a></p>\n<p>Points: 578</p>\n<p># Comments: 218</p>",
-      "ai_summary": "Mercor公司遭数据泄露，4TB语音样本被盗，涉及4万名AI合同工。",
-      "ai_tags": [
-        "数据泄露",
-        "隐私",
-        "AI",
+        "hacker_news",
+        "GitHub",
+        "漏洞",
         "安全"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Is my blue your blue? (2024)",
-      "link": "https://ismy.blue/",
-      "published_time": "2026-04-27 20:24:33",
-      "raw_content": "<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 650</p>\n<p># Comments: 428</p>",
-      "ai_summary": "一个探索颜色感知的互动网站，测试人们如何区分蓝色。",
+      "title": "UAE Leaves OPEC",
+      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "published_time": "2026-04-28 13:13:54",
+      "raw_content": "<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 314</p>\n<p># Comments: 2</p>",
+      "ai_summary": "阿联酋宣布退出石油输出国组织（OPEC），影响全球能源市场。",
       "ai_tags": [
-        "颜色",
-        "感知",
-        "互动"
+        "能源",
+        "政治",
+        "OPEC"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Pgbackrest is no longer being maintained",
-      "link": "https://github.com/pgbackrest/pgbackrest",
-      "published_time": "2026-04-27 10:56:34",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 441</p>\n<p># Comments: 223</p>",
-      "ai_summary": "PostgreSQL备份工具Pgbackrest宣布停止维护，引发社区关注。",
+      "title": "UAE to leave OPEC",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "published_time": "2026-04-28 13:02:01",
+      "raw_content": "<p><a href=\"https://archive.ph/d956y\" rel=\"nofollow\">https://archive.ph/d956y</a><p><a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\" rel=\"nofollow\">https://www.reuters.com/markets/commodities/uae-says-it-quit...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933983\">https://news.ycombinator.com/item?id=47933983</a></p>\n<p>Points: 357</p>\n<p># Comments: 491</p>",
+      "ai_summary": "阿联酋退出OPEC的详细报道，引发市场震荡与讨论。",
       "ai_tags": [
-        "数据库",
-        "备份",
+        "能源",
+        "政治",
+        "OPEC"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "published_time": "2026-04-28 18:01:21",
+      "raw_content": "<p>Article URL: <a href=\"https://status.claude.com/incidents/9l93x2ht4s5w\">https://status.claude.com/incidents/9l93x2ht4s5w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47938097\">https://news.ycombinator.com/item?id=47938097</a></p>\n<p>Points: 274</p>\n<p># Comments: 234</p>",
+      "ai_summary": "Claude.ai不可用，且API出现大量错误。",
+      "ai_tags": [
+        "hacker_news",
+        "Claude",
+        "故障"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Your phone is about to stop being yours",
+      "link": "https://keepandroidopen.org/en/",
+      "published_time": "2026-04-28 15:21:00",
+      "raw_content": "<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1050</p>\n<p># Comments: 499</p>",
+      "ai_summary": "文章警告手机用户正失去对设备的控制权，呼吁关注安卓开放性的丧失。",
+      "ai_tags": [
+        "科技",
+        "隐私",
+        "安卓"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "published_time": "2026-04-28 06:27:39",
+      "raw_content": "<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 341</p>\n<p># Comments: 87</p>",
+      "ai_summary": "GTFOBins是一个收集Unix二进制文件以绕过本地安全限制的列表，用于测试和利用。",
+      "ai_tags": [
+        "安全",
+        "工具"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "published_time": "2026-04-28 11:54:20",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 753</p>\n<p># Comments: 235</p>",
+      "ai_summary": "LocalSend是AirDrop的开源跨平台替代品，支持本地文件分享。",
+      "ai_tags": [
+        "科技",
         "开源",
-        "停止维护"
+        "文件传输"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "link": "https://github.com/dirac-run/dirac",
-      "published_time": "2026-04-27 12:35:55",
-      "raw_content": "<p>Scored 65.2% vs google's official 47.8%, and the existing top closed source model Junie CLI's 64.3%.<p>Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (<a href=\"https://debugml.github.io/cheating-agents/\" rel=\"nofollow\">https://debugml.github.io/cheating-agents/</a>), I would like to also clarify a few things<p>1. Absolutely no {agents/skills}.md files were inserted at any point. No cheating mechanisms whatsoever<p>2. The cli agent was run in leaderboard co",
-      "ai_summary": "开源代理在TerminalBench上以65.2%的得分超越谷歌官方模型和商业模型，作者声明无作弊行为。",
+      "title": "Period tracking app, Flo, found to be selling user data to Meta",
+      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "published_time": "2026-04-28 11:31:40",
+      "raw_content": "<p>Article URL: <a href=\"https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\">https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932990\">https://news.ycombinator.com/item?id=47932990</a></p>\n<p>Points: 335</p>\n<p># Comments: 219</p>",
+      "ai_summary": "经期追踪应用Flo被发现向Meta出售用户数据，引发隐私担忧。",
       "ai_tags": [
+        "隐私",
+        "科技",
+        "数据泄露"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "published_time": "2026-04-28 13:26:26",
+      "raw_content": "<p>Article URL: <a href=\"https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\">https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934269\">https://news.ycombinator.com/item?id=47934269</a></p>\n<p>Points: 279</p>\n<p># Comments: 104</p>",
+      "ai_summary": "OpenAI CEO的身份验证公司被曝虚假宣布与布鲁诺·马尔斯合作，涉嫌身份冒用。",
+      "ai_tags": [
+        "科技",
+        "虚假宣传",
+        "身份验证"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "published_time": "2026-04-28 15:49:22",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 276</p>\n<p># Comments: 258</p>",
+      "ai_summary": "据报道，谷歌与五角大楼达成协议，允许在人工智能的“任何合法”用途上合作，引发隐私与道德争议。",
+      "ai_tags": [
+        "科技",
         "AI",
-        "开源",
-        "基准测试"
+        "军事",
+        "隐私"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     }
   ]
 }

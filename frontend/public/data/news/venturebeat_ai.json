@@ -9,12 +9,11 @@
       "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "published_time": "2026-01-22 14:00:00",
       "raw_content": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
-      "ai_summary": "Railway获1亿美元B轮融资，以AI原生云基础设施挑战AWS，已积累200万开发者。",
+      "ai_summary": "总部在旧金山的云平台Railway获得1亿美元B轮融资，旨在以AI原生云基础设施挑战AWS。",
       "ai_tags": [
-        "云基础设施",
         "AI",
-        "融资",
-        "AWS"
+        "云基础设施",
+        "融资"
       ],
       "ai_importance": 4
     },
@@ -24,13 +23,13 @@
       "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "published_time": "2026-01-19 14:00:00",
       "raw_content": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims",
-      "ai_summary": "Anthropic的Claude Code每月费用高达200美元，而免费替代品Goose提供类似功能，引发开发者关注。",
+      "ai_summary": "Anthropic的Claude Code月费高达200美元，而开源工具Goose提供类似功能但免费。",
       "ai_tags": [
         "AI编码",
-        "成本",
-        "开源替代"
+        "定价",
+        "开源"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "venturebeat_ai",
@@ -38,12 +37,11 @@
       "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "published_time": "2026-01-16 14:01:00",
       "raw_content": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi",
-      "ai_summary": "Listen Labs因招聘广告牌走红后获6900万美元融资，用于扩展AI客户访谈业务。",
+      "ai_summary": "Listen Labs通过一块广告牌招聘引发轰动，随后获得6900万美元融资，用于扩大AI客户访谈业务。",
       "ai_tags": [
         "AI",
         "融资",
-        "招聘",
-        "客户访谈"
+        "招聘"
       ],
       "ai_importance": 3
     },
@@ -53,12 +51,11 @@
       "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "published_time": "2026-01-13 13:00:00",
       "raw_content": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a",
-      "ai_summary": "Salesforce推出全新Slackbot AI代理，具备搜索企业数据、起草文档等功能，与微软和谷歌竞争。",
+      "ai_summary": "Salesforce推出全新Slackbot AI助手，可在企业数据中搜索、起草文档并代表员工行动。",
       "ai_tags": [
-        "AI代理",
-        "工作场所",
-        "Salesforce",
-        "竞争"
+        "AI助手",
+        "办公",
+        "Salesforce"
       ],
       "ai_importance": 4
     },
@@ -68,12 +65,11 @@
       "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "published_time": "2026-01-12 11:30:00",
       "raw_content": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.</p><p>The launch marks a major inflection point i",
-      "ai_summary": "Anthropic发布Cowork，一个无需编码即可操作文件的Claude桌面AI代理，由Claude Code自身构建。",
+      "ai_summary": "Anthropic发布Claude Desktop AI助手Cowork，无需编码即可操作文件，开发仅用一周半。",
       "ai_tags": [
-        "AI代理",
-        "桌面",
-        "无需编码",
-        "Anthropic"
+        "AI助手",
+        "Anthropic",
+        "桌面应用"
       ],
       "ai_importance": 4
     },
@@ -83,12 +79,11 @@
       "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "published_time": "2026-01-07 20:00:00",
       "raw_content": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https:/",
-      "ai_summary": "Nous Research发布开源编程模型NousCoder-14B，四天训练完成，性能媲美更大专有模型。",
+      "ai_summary": "Nous Research发布开源编程模型NousCoder-14B，在4天内训练完成，性能媲美大型专有系统。",
       "ai_tags": [
-        "开源",
-        "编码模型",
-        "AI",
-        "Nous Research"
+        "开源模型",
+        "编程",
+        "AI训练"
       ],
       "ai_importance": 3
     },
@@ -98,12 +93,11 @@
       "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
       "published_time": "2026-01-05 07:45:00",
       "raw_content": "<p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissecting a <a href=\"https://x.com/bcherny/status/2007179832300581177\">thread on X</a> from <a href=\"https://x.com/bcherny\">Boris Cherny</a>, the creator and head of <a href=\"https://code.claude.com/docs/en/overview\">Claude Code</a> at <a href=\"https://www.anthropic.com/\">Anthropic</a>. What began as a ca",
-      "ai_summary": "Claude Code创建者Boris Cherny公开其工作流程，引发开发者社区热议。",
+      "ai_summary": "Claude Code创造者透露其工作流程，引发开发者社区热议。",
       "ai_tags": [
-        "AI编码",
-        "工作流程",
+        "Claude Code",
         "开发者",
-        "Claude Code"
+        "工作流"
       ],
       "ai_importance": 3
     }

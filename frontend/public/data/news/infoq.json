@@ -5,18 +5,120 @@
   "items": [
     {
       "category": "infoq",
-      "title": "ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search",
-      "link": "https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW",
-      "published_time": "2026-04-28 06:26:41",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/d2/bb/d2b5a42ba2bbfd8405957ee11040aebb.png\" /></p><p>要点速览</p><p></p><p>我们重新设计了 ClickHouse 全文索引 (full-text index)，使其能够在对象存储 (object storage) 上高效运行。</p><p></p><p>新的布局 (layout) 倾向于顺序访问 (sequential access)，并且无需读取被索引的文本列，即可直接从索引中响应大量查询。</p><p></p><p>本文将深入探讨这一新设计，内容由负责构建该设计的工程师们撰写。</p><p></p><h2>重新思考对象存储的全文搜索</h2><p></p><p></p><p>ClickHouse 中的全文搜索 (full-text search) 经历了多次迭代，旨在将快速、原生的文本索引能力引入 列式分析数据库 (columnar analytical database)。每一次迭代都显著提升了其性能、可用",
-      "ai_summary": "ClickHouse重新设计全文索引，使其能在对象存储上高效运行，新布局支持顺序访问且无需读取被索引列即可响应查询。",
+      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
+      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
+      "published_time": "2026-04-29 03:41:42",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
+      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
       "ai_tags": [
-        "ClickHouse",
-        "全文索引",
-        "对象存储",
-        "性能优化"
+        "AI",
+        "商汤",
+        "开源",
+        "多模态"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "写了 17 年开源代码，我为什么认为 Coding Agents 堆功能是在瞎折腾？",
+      "link": "https://www.infoq.cn/article/sLVv23TfVFxoBPjNwcZI",
+      "published_time": "2026-04-29 03:36:22",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ae/a5/ae89a5c976a20a35yy6fd34f38fb5ca5.png\" /></p><p></p><p></p><p>在 AI 编程工具进入大乱斗时代的今天，我们似乎已经习惯了各种功能的堆叠。但在 libGDX 创始人、17 年开源老兵 Mario Zechner 眼中，这一切正变得越来越不可控。</p><p></p><p>“当你发现 AI 在背地里偷偷修改你的上下文，而你却对此一无所知时，这种掌控感的丧失是极其危险的。”</p><p></p><p>近日，在 Tessel 举办的开发者大会上，Mario 不仅公开吐槽了 Claude Code、OpenCode，更带出了他的极简主义“反叛之作”——pi。这是一个只有 read、write、edit、bash 四种工具，拥有主流 agent 里最短的 system prompt，却有着极致的可扩展性、能让开发者重拾掌控权的终端编程 agent。</p><p></p><p>本文基于该演讲视频整理，经 InfoQ 编辑",
+      "ai_summary": "开源老兵 Mario Zechner 批评 Coding Agents 堆功能，推出极简终端编程 agent 'pi'，强调开发者掌控。",
+      "ai_tags": [
+        "AI编程",
+        "开源",
+        "agent"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "link": "https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU",
+      "published_time": "2026-04-29 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Anthropic <a href=\"https://www.anthropic.com/engineering/managed-agents\">在其 Claude 平台上推出了 Managed Agents</a>\"，这是一套托管执行层，是为支持基于代理的工作流开发与运行。该能力允许开发者定义代理行为、工具调用方式及约束条件，同时将编排、沙箱隔离、会话状态管理、凭证处理和持久化等运行时职责交由平台负责。</p><p></p><p>此次发布主要面向生产级使用场景，即代理需要执行长时间运行、多步骤的工作流，并涉及外部工具调用、错误恢复以及跨会话连续性。在这种模式下，团队无需自行构建和维护相关基础设施，而是可以通过 Managed Agents 提供的 API，以标准化方式部署和执行代理系统。</p><p></p><p>从整体架构来看，Anthropic 将代理逻辑与执行基础设",
+      "ai_summary": "Anthropic在Claude平台推出Managed Agents托管执行层，简化AI代理开发与部署，支持长时多步骤工作流。",
+      "ai_tags": [
+        "AI代理",
+        "Anthropic",
+        "Claude",
+        "托管执行"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
+      "link": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF",
+      "published_time": "2026-04-29 03:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/d3/ed0fe2d79504e9bd18fdd197d166d8d3.jpg\" /></p><p></p><h2>引言</h2><p></p><p>随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。</p><p>&nbsp;</p><p>大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用<a href=\"https://www.infoq.com/llms/\">大语言模型</a>\"、<a href=\"https://www.infoq.com/vector-database/\">向量数据库",
+      "ai_summary": "探讨基于 Apache Camel 编排智能体与多模态 AI 管道，解决系统设计复杂性问题。",
+      "ai_tags": [
+        "Apache Camel",
+        "多模态AI",
+        "企业应用"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "link": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR",
+      "published_time": "2026-04-29 01:41:33",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/42/e9/4273037302ccd8283efa1a86e4449ce9.png\" /></p><p></p><p>4月28日，小米开源了 MiMo-V2.5 和 MiMo-V2.5-Pro 两款模型：MiMo-V2.5 基础模型提供原生多模态能力，而 MiMo-V2.5-Pro 则是专门为“长周期一致性”和复杂软件工程设计的。</p><p></p><p>小米采用了宽松、对企业友好的 MIT License，这意味着模型适合被用于商业应用的生产环境。用户可以按需修改模型，并根据自身需要，在本地或虚拟私有云上运行。</p><p></p><p>在 GDPVal-AA（Elo）基准测试中，Pro 模型取得了 1581 分，超过了 Kimi K2.6 和 GLM 5.1 等竞争对手。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/02/025f8febefdb52b18c80944cf9b5dbc3.png\"",
+      "ai_summary": "小米开源MiMo-V2.5及Pro模型，采用MIT协议，支持1M上下文，Pro模型在基准测试中超过Kimi K2.6。",
+      "ai_tags": [
+        "开源",
+        "小米",
+        "多模态模型",
+        "MIT协议"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "link": "https://www.infoq.cn/article/3kfZZXewSZzErupjYGkT",
+      "published_time": "2026-04-29 01:58:30",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/e3/e0/e30a46c40af05de4283da1c4f31803e0.png\" /></p><p></p><p>4 月 27 日消息，阿里巴巴视频生成模型 HappyHorse 1.0 开启灰测。全球专业创作者和企业级客户可在 HappyHorse 官网（www.happyhorse.cn）和阿里云百炼平台注册使用，大众用户可在千问 App 体验。官网 720P 视频生成刊例价 0.9 元 / 秒。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/aa/aa59098e74dcc47d2b3aa3046fe19d13.png\" /></p><p></p><p>HappyHorse 官网截图</p><p></p><p>据悉，HappyHorse 1.0 依托原生多模态架构，采用音视频联合生成方案，面向广告、电商、短剧、社媒创意等内容生产场景，提供从智能生成到编辑的一体化创作能力。Hap",
+      "ai_summary": "阿里巴巴视频生成模型HappyHorse 1.0开启灰测，提供音视频联合生成，720P视频生成刊例价0.9元/秒。",
+      "ai_tags": [
+        "视频生成",
+        "阿里",
+        "HappyHorse",
+        "灰测"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "link": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE",
+      "published_time": "2026-04-29 01:54:23",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9d/d9/9dc32796044ffbc8198c70e6039463d9.png\" /></p><p></p><p>近期，由科大讯飞与两仪万象合资设立的“量智开物”正式揭牌亮相，并发布“追风”大规模原子快速重排算法和“扁鹊”量子纠错解码器两项成果。</p><p>&nbsp;</p><p>据介绍，“追风”在算法层面全球首次实现了20毫秒以内万量级以上原子阵列的快速重排；“扁鹊”则是全球首个AI辅助、兼顾动态原子丢失检测的量子纠错解码器。目前，团队还在尝试通过强化学习压缩量子线路的编译复杂度。</p><p>&nbsp;</p><p>这是量智开物自今年3月成立以来的首次公开亮相，也是科大讯飞在“AI+量子”方向系统性布局的一次集中呈现。</p><p></p><h3>不设短期经营指标，做“AI+量子”的长期平台</h3><p></p><p>&nbsp;</p><p>科大讯飞并不是今天才开始布局量子科技。</p><p>&nbsp;</p><p>科大讯飞董事长刘庆峰透露，双方早在三年前",
+      "ai_summary": "科大讯飞与两仪万象合资设立量智开物，发布“追风”原子重排算法和“扁鹊”量子纠错解码器，不设短期KPI。",
+      "ai_tags": [
+        "量子AI",
+        "科大讯飞",
+        "量智开物",
+        "算法发布"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "link": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ",
+      "published_time": "2026-04-29 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/87/ea/875f89f75fbafc970b299509b251fcea.jpeg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>MemVerge联合创始人&amp;CEO范承工已确认出席 “<a",
+      "ai_summary": "AICon 上海将举办，聚焦 Agent 工程化、AI 记忆系统等前沿主题，多位技术专家出席。",
+      "ai_tags": [
+        "AI大会",
+        "Agent",
+        "工程化"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "infoq",
@@ -24,12 +126,11 @@
       "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG",
       "published_time": "2026-04-28 04:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/67/bf/6702478b6b677370f2076e0ed4c457bf.jpg\" /></p><p>Dropbox 工程师通过解决 Git 存储和增量压缩模型的低效问题，<a href=\"https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity\">将后端单体库的大小从 87GB 缩减至 20GB</a>\"，从而提升了开发人员的工作效率和持续集成性能。该存储库是 Dropbox 各团队后端服务和共享库的中央集成点。这一举措的实施源于该存储库在扩展方面面临的挑战。</p><p></p><p>随着单体库（monorepo）规模的不断扩大，工程团队开始遇到克隆操作缓慢的问题，有时甚至需要超过一个小时才能完成；此外，由于反复获取和构建带来的开销，持续集成（CI）管道的性能也随之下降。规模的扩大还增加了触及存储库托管限制的风险。根据 Dropbox 工程团队",
-      "ai_summary": "Dropbox通过解决Git存储问题，将后端单体库从87GB缩减至20GB，提升了开发效率和CI性能。",
+      "ai_summary": "Dropbox与GitHub合作，通过解决Git存储和增量压缩模型低效问题，将后端单体库从87GB缩减至20GB，提升开发效率和CI性能。",
       "ai_tags": [
         "Dropbox",
         "单体库",
-        "Git",
-        "性能优化"
+        "Git优化"
       ],
       "ai_importance": 4
     },
@@ -39,119 +140,13 @@
       "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj",
       "published_time": "2026-04-28 03:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/7d/a6/7d1dd23c638d56b5a4241a74795dbaa6.jpg\" /></p><p>Cloudflare 在其 <a href=\"https://www.cloudflare.com/agents-week/\">Agents Week</a>\" 活动中宣布，Sandboxes 和 Cloudflare Containers <a href=\"https://blog.cloudflare.com/sandbox-ga/\">正式上线</a>\"，为 AI 代理工作负载提供隔离的持久化 Linux 环境。</p><p></p><p>该服务于<a href=\"https://github.com/cloudflare/sandbox-sdk\">去年 6 月首次推出测试版</a>\"，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflar",
-      "ai_summary": "Cloudflare正式发布Sandboxes，为AI代理提供持久化隔离Linux环境，新增安全凭证注入、PTY终端支持等功能。",
+      "ai_summary": "Cloudflare在其Agents Week活动中正式发布Sandboxes和Cloudflare Containers，为AI代理工作负载提供隔离的持久化Linux环境，新增安全凭证注入、PTY终端支持等功能。",
       "ai_tags": [
         "Cloudflare",
         "Sandboxes",
-        "AI代理",
-        "隔离环境"
+        "AI代理"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "openJiuwen社区首发Team Skills，定义Coordination Engineering新范式",
-      "link": "https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr",
-      "published_time": "2026-04-28 08:29:35",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/38/26/381d16d7613f4760d6cb36e3f7c51f26.png\" /></p><p>Agent 应该如何协作？除了任务编排，一个理想的 Multi-Agent 系统还需要什么？</p><p></p><p>今天，大多数多智能体系统给出的答案，仍然是任务编排：由开发者预先设计好角色、流程和交接方式，一个 Agent 拆解任务，一组 Agent 生成内容，另一组 Agent 审阅、测试和修改。任务被分发出去，结果被收回来，再通过 review、反馈和重试进入下一轮循环。</p><p></p><p>这套方式解决了多 Agent 协作的第一层问题，即多个 Agent 如何围绕同一个任务分工交付，并通过审核、测试和反馈确保结果正确。</p><p></p><p>但它也带来了新的限制。由于角色和流程大多由人工提前固定，系统的灵活性并不高：任务一旦超出预设流程，就需要人类重新拆解和调整；某个关键 Agent 失败，后续链路可能被迫中断；一次任务中形成的有效分工、审核标准和修",
-      "ai_summary": "openJiuwen社区首发Team Skills，定义协作工程新范式，解决多智能体系统灵活性不足的问题。",
-      "ai_tags": [
-        "多智能体",
-        "协作",
-        "openJiuwen",
-        "Team Skills"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN",
-      "published_time": "2026-04-28 07:36:43",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/9b/ed56932005cc33f499bc1b223b5dd79b.png\" /></p><p>2026 年，智能体将在企业级应用中取得哪些实质性突破？<a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\">点击下载</a>\"《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</p><p></p><p>我们正身处数据专业人员的一个非凡时代。有史以来，真正的自助式分析终于触手可及——业务用户只需使用自然语言提问，即可直接从数据中获得准确、且受监管的答案。无需手动编写 SQL，无需反复点选筛选器，更不必面对积压已久的仪表板需求。这一切，仅需一个能够理解上下文、跨数据源进行推理并即时交付洞见的智能体即可实现。</p><p></p><p>生成式AI已让这一愿景成为现实，但其成功与否，取决于数据团队如何设计这些智能体的架构。速度、准确性与安全性，是不可妥协的底线。而 Snowf",
-      "ai_summary": "Snowflake Cortex Agents利用自然语言实现自助式分析，让业务用户直接从数据获得准确答案。",
-      "ai_tags": [
-        "Snowflake",
-        "Cortex Agents",
-        "自然语言",
-        "数据分析"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
-      "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33",
-      "published_time": "2026-04-28 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c2/86/c2a9f4488ff8d9b82ec16729b83cee86.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>EverMindCEO邓亚峰已确认出席 “<a href=\"http",
-      "ai_summary": "AICon上海大会将探讨Agent从Demo到工程化的挑战，包括长期记忆系统EverOS的自我演进等议题。",
-      "ai_tags": [
-        "Agent",
-        "长期记忆",
-        "工程化",
-        "AICon"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "同一赛道，四种收费：Agent 控制层（Harness）开始分裂",
-      "link": "https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ",
-      "published_time": "2026-04-28 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/31/ae/31c061ff9b828236b724fc6d748af1ae.jpg\" /></p><p>本文最初发布于TheNewStack博客。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cb/cbc29b20401424591d8b7698702d51eb.png\" /></p><p></p><p>Adriandra Karuniawan为Unsplash+供图</p><p>&nbsp;</p><p>3月30日，Sycamore<a href=\"https://www.businesswire.com/news/home/20260330376116/en/Sycamore-Raises-$65M-to-Build-the-Trusted-Agent-Operating-System-for-the-Enterprise\">宣布</a>\"了6500万美元的种子轮融资，用于构建其创始人所说的自主企",
-      "ai_summary": "Agent控制层（Harness）出现四种收费模式，Sycamore获6500万美元种子轮融资，用于构建企业自主Agent操作系统。",
-      "ai_tags": [
-        "Agent",
-        "控制层",
-        "收费模式",
-        "融资"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理",
-      "link": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8",
-      "published_time": "2026-04-28 07:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/8f/4a/8f584ba218fc8c36778398d973e33e4a.jpg\" /></p><p>在巴塞罗那举行的 GrafanaCON 2026 大会上，Grafana Labs 发布了 <a href=\"https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v13-0/\">Grafana 13</a>\"。该版本在数据采集层采用了基于 Loki Kafka 的新架构，并在 Grafana Cloud 中引入了 AI 可观测性功能，用于实时监控和评估 AI 系统。特别值得一提的是，大会还发布了一款名为 <a href=\"https://grafana.com/docs/grafana-cloud/as-code/observability-as-code/grafana-cli/gcx/\">GCX</a>\" 的新命令行工具（CLI），旨在将 Grafana Cloud 数据呈现于代理开发环境中。</p",
-      "ai_summary": "Grafana Labs发布Grafana 13，采用基于Kafka的新架构，引入AI可观测性功能，并推出CLI工具GCX。",
-      "ai_tags": [
-        "Grafana",
-        "Kafka",
-        "可观测性",
-        "AI"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "可观测性和遥测技术如何提升软件工程实践",
-      "link": "https://www.infoq.cn/article/JwQTmFXTEkBpJlXL16PV",
-      "published_time": "2026-04-28 05:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ec/eb/ec8cfda103a8c67ea80d0299a7ddf6eb.jpg\" /></p><p>在哥本哈根 GOTO 大会上，Martin Thwaites 在题为“<a href=\"https://gotocph.com/2025/sessions/3742/observability-and-the-art-of-software-engineering\">可观测性与软件工程艺术</a>\"”的演讲中提到，可观测性必须随着无服务器事件驱动架构一同演进。OpenTelemetry 能够使遥测数据与供应商解耦，让开发者能够生成一致且高质量的数据，从而准确反映系统的实际行为。统一的术语体系和优质的遥测数据不仅能加快调试速度，还能提升系统的可靠性、运行速度以及开发人员的生产力。</p><p></p><p>现代可观测性与“现代”系统、“现代”开发流程以及“现代”架构的定义紧密相连。Thwaites 解释说，这实际上意味着，自单体应用和服务器时代以来，我们设计、构建以及维护系统",
-      "ai_summary": "Martin Thwaites在GOTO大会上强调可观测性需随无服务器事件驱动架构演进，OpenTelemetry可生成一致高质量的遥测数据，提升调试速度和系统可靠性。",
-      "ai_tags": [
-        "可观测性",
-        "OpenTelemetry",
-        "遥测",
-        "软件工程"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Agent 的“记忆断片”困局，该怎么破？",
-      "link": "https://www.infoq.cn/article/AetF3mwIAP5iljCD0iW7",
-      "published_time": "2026-04-28 01:17:42",
-      "raw_content": "<p><img src=\"https://media001.geekbang.org/402d1487421c71f180be6633b79f0102/snapshots/c85ea8be71ae45f6bc9fc38948ec50c8-00001.jpg\" /></p><p>从操作系统、中间件到终端应用方面，拆解Agent记忆断片难题，深聊记忆系统设计与工程化落地。</p>",
-      "ai_summary": "文章拆解Agent记忆断片难题，从系统到应用层探讨记忆系统设计与工程化落地。",
-      "ai_tags": [
-        "Agent",
-        "记忆",
-        "工程化",
-        "系统设计"
-      ],
-      "ai_importance": 3
     }
   ]
 }

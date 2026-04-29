@@ -1,108 +1,132 @@
 {
-  "total": 7,
+  "total": 9,
   "limit": 10,
   "offset": 0,
   "items": [
     {
       "category": "v2ex",
-      "title": "本科毕业又能读大专了，全国多地鼓励进大专院校进修，你怎么看？",
-      "link": "https://www.v2ex.com/t/1208997",
-      "published_time": "2026-04-28 01:17:01",
-      "raw_content": "mode171: <p>本科毕业读大专，回炉重造。</p>",
-      "ai_summary": "全国多地鼓励本科毕业生进入大专院校进修，引发讨论。",
+      "title": "Flico 突然倒闭了，时代的眼泪",
+      "link": "https://www.v2ex.com/t/1209238",
+      "published_time": "2026-04-29 00:48:05",
+      "raw_content": "dddd1919: <p>市场太卷，各种轴体客制，flico 已经被卷的有的新同事都没听说过🤣</p>\n<p>等手里的圣手挂了准备换个磁轴试试（不知道要到哪年）</p>",
+      "ai_summary": "机械键盘品牌Flico倒闭，市场过度竞争导致。",
       "ai_tags": [
-        "教育",
-        "大专",
-        "本科",
-        "进修"
+        "机械键盘",
+        "Flico",
+        "行业"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？",
-      "link": "https://www.v2ex.com/t/1209036",
-      "published_time": "2026-04-28 03:13:54",
-      "raw_content": "shibow: <p>最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。</p>\n<p>比如：</p>\n<p>AI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程</p>\n<p>甚至有些文章给人的感觉是：</p>\n<p>人只需要把需求说清楚，剩下的事情 AI 自己就能完成。</p>\n<p>说实话，看多了之后，我开始有点焦虑了。</p>\n<p>先说一下我的背景：</p>\n<p>我是一个前端开发工程师，\n使用 AI 辅助开发大概有 一年半左右 了。</p>\n<p>平时主要工具是：</p>\n<p>Claude\nGPT\nCursor\nWindsurf</p>\n<p>基本每天都在用，也算是比较重度用户。</p>\n<p>但我目前真实的工作方式，其实还是：</p>\n<p>人主导开发 + AI 辅助\n主要是对话模式</p>\n<p>比如：</p>\n<p>写代码的时候遇到问题就问 AI\n让 AI 帮我优化一段逻辑\n让 AI 帮我 review 一段代码\n或者生成一些基础结构</p>\n<p>整体",
-      "ai_summary": "开发者对AI Agent自动开发趋势感到焦虑，但仍主要使用对话模式辅助编程。",
-      "ai_tags": [
-        "AI开发",
-        "焦虑",
-        "工具对比"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "Xiaomi MiMo Token 激励计划",
-      "link": "https://www.v2ex.com/t/1209013",
-      "published_time": "2026-04-28 01:44:10",
-      "raw_content": "leave8080: 邀请你参加 Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划，100T Credits 面向全球用户限时发放中... <a href=\"https://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://100t.xiaomimimo.com/</a><br /><br />创造者百万亿 Token 激励计划<br />Xiaomi MiMo 将面向全球 AI 用户进行免费 Token 发放，我们将在 30 天内发放总计 100 万亿（ 100T ） Token 权益，赠完即止。<br />活动时间：北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00<br />参与地址：<a href=\"http://100t.xiaomimimo.com/\" rel=\"nofollow noopener\" target=\"_blank\">100t.xiaomimimo.com</a>",
-      "ai_summary": "小米MiMo推出Token激励计划，限时发放100万亿Token。",
+      "title": "领到小米 100T 计划来集合了，我领到了个 MAX 套餐相当于 659 一月🐶",
+      "link": "https://www.v2ex.com/t/1209234",
+      "published_time": "2026-04-29 00:35:29",
+      "raw_content": "Cloud9527: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/wTahDkD.png\" /></p>",
+      "ai_summary": "分享领到小米100T计划MAX套餐，月费659元。",
       "ai_tags": [
         "小米",
-        "加密货币",
-        "激励计划"
+        "100T计划",
+        "套餐"
       ],
       "ai_importance": 2
     },
     {
       "category": "v2ex",
-      "title": "找工作找了两个多月越找越烦",
-      "link": "https://www.v2ex.com/t/1209005",
-      "published_time": "2026-04-28 01:35:18",
-      "raw_content": "xujdan: <h3>现状</h3>\n<p>坐标深圳，3 年多的嵌入式软件开发工作经验，年前 1 月底被动离职（部门解散了，算是好聚好散吧），然后投了下简历面了 2 家试试水（因为很久没面试了），没后续就回老家一直呆到春节后又开始投。其实那段时间还不算很认真找，2 月底回深后才算，期间也参加了几家面试，线上线下都有。一直到现在 boss 累计沟通 1000+、投出 200+，线上线下面试累计 20+吧，但 offer 依旧为 0 。期间也不断改过简历，复习八股（但天杀的嵌入式太广了，总能问到想不起来的）。有几家面了感觉还行，后面依旧没后续，自己追问结果都是不合适。有一家大公司两面下来都不错，结果不知道为啥依旧不行（不知道是不是最后一面问我加班介不介意，我说研发加班正常的说了很多反而给面试官有种抵触加班的印象？）。\n找工作这段时间也感觉出来嵌入式越来越卷了，一个岗位可以上百人沟通过，大部分都要求要有 rtos 经验或者垂直经验。我都开始质疑自己是不是得转行不做开发了，毕竟这三年貌似下班后都没怎么主动学习了，都是靠工作上的积累，但工作上大部分时候也是做产品业务功能。</p>\n<h3>打算",
-      "ai_summary": "嵌入式软件工程师求职两个多月未果，对行业竞争和自身能力产生怀疑。",
-      "ai_tags": [
-        "求职",
-        "嵌入式",
-        "焦虑"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "有人开过塔斯汀吗？",
-      "link": "https://www.v2ex.com/t/1208994",
-      "published_time": "2026-04-28 01:04:31",
-      "raw_content": "gotOwt: 坐标上海，发现附近 4km 内没有塔斯汀店。。<br />感觉是个机遇，这边人很多。。<br />有说法吗？<br />---<br />一直都是程序员，没干过餐饮。。<br />想看看大家的想法。",
-      "ai_summary": "上海程序员发现附近无塔斯汀店，认为存在商机，咨询开塔斯汀经验。",
-      "ai_tags": [
-        "餐饮",
-        "创业",
-        "塔斯汀",
-        "上海"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "Termina.Pub 中转站 可开发票，欢迎企业合作，限时开启 claude-free 渠道，回帖留 id 送 10 刀额度",
-      "link": "https://www.v2ex.com/t/1208985",
-      "published_time": "2026-04-28 00:05:53",
-      "raw_content": "v2exgo: <p>在 V 站宣传有一段时间了，积累不了少客户，有些朋友用的不开心走了，有的朋友退款了，但是老板还在，老板又回来给 v 友发福利了</p>\n<p>claude-free 渠道 限时开启，避免滥用，只要 5 分一刀</p>\n<p><strong>官网地址</strong></p>\n<p><a href=\"https://terminal.pub/register\" rel=\"nofollow\">https://terminal.pub/register</a></p>\n<ul>\n<li>充值 1 人民币=1 美金, 套餐可以 0.9 人民币=1 美金</li>\n</ul>\n<h2>活动规则</h2>\n<p>老规矩，回帖发自己 id 每个人送 10 刀，仅限前 150 位\n<img alt=\"图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0oWfkP0.png\" /></p>\n<p>我去吃个早餐 <strong>如果回来自动化程序没拉闸，可能送到 300 位</strong></p",
-      "ai_summary": "Termina.Pub提供API中转服务，限时开启Claude免费渠道，回帖送10美元额度。",
+      "title": "公司买 api 一般是官 key 还是中转？",
+      "link": "https://www.v2ex.com/t/1209118",
+      "published_time": "2026-04-28 07:22:41",
+      "raw_content": "my2492: 老板体验了 claude 后拍板要把 claude 嵌入全公司工作流，让我去解决采购渠道问题，要求数据不得经过非正规公司传送，大概意思估计是买大厂 vps 自建 api 代理可以，但不能买贩子的中转站。但是先不说走什么代理的问题，国内几乎都找不到官 key 的货源啊，都是 5 刀 20 刀这种个人用的，总不能让老板去小黄鱼买吧。<br /><br />问了几家能做对公的，都是中转，拍胸脯保证他们客户都是大厂，绝对稳定高质量，但那个价格感觉就像假的。<br /><br />老板要求 3 天内必须给结果，老板不懂电脑，跟他没法解释",
+      "ai_summary": "老板要求采购Claude API嵌入工作流并确保数据安全，作者发现国内难寻官方渠道，只有可疑的中转服务，陷入困境。",
       "ai_tags": [
         "API",
         "Claude",
-        "促销",
-        "中转站"
+        "采购",
+        "企业"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气",
+      "link": "https://www.v2ex.com/t/1209195",
+      "published_time": "2026-04-28 13:24:51",
+      "raw_content": "KaiWuBOSS: <h1>我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞</h1>\n<blockquote>\n<p>本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。</p>\n</blockquote>\n<hr />\n<h2>一、我遇到了什么问题</h2>\n<p>去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。</p>\n<p>但更大的问题是：<strong>中国开发者根本没有一个好用的本地 coding agent 平台。</strong></p>\n<p>CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。</p>\n<p><strong>这是一个真实存在的空缺，没有人填。</strong></p>\n<p>本地跑 qwen3:",
+      "ai_summary": "",
+      "ai_tags": [],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "我开始使用呼吸机睡觉了",
+      "link": "https://www.v2ex.com/t/1209141",
+      "published_time": "2026-04-28 08:22:25",
+      "raw_content": "quxiangxuanqxx: <p>之前我妻子跟我说其实她睡眠越来越差，每晚都能听到我打呼，有的时候还有那种吸不上来气的感觉，我一下子就连联想到我的父亲和祖父，小时候和他们一起睡，就算其他房间也能听到打呼，而且经常有吸不上来气然后就像启动拖拉机似的要猛吸几口并伴随着让人心悸的声音。</p>\n<p>没想到我也这样了。我和妻子也是坐下来聊了聊，其实这里有个第三者，gemini ，简单聊过就是要去看医生。但是苦于我在东京，日语也不好，家附近搜了几家诊所，感觉都不行。日本这边的就医体验和医生关系很大，很多医生看你不懂日语，压根不多说，就说大丈夫开始赶人。当时也没当回事，就这么放着了。</p>\n<p>后面我自己发现，虽然我每天睡了一觉，但是早上起来依然感觉身心俱疲，这个状态持续很久了。而且打呼大概率是肥胖引起的，以前上大学的时候我 120 斤，现在已经快 150 斤了，我的妻子也说我之前是不打呼的。我不抽烟不喝酒，除了肥胖也没有其他可能了，所以开始超慢跑并且跟着一些视频教程来改善打呼的情况。</p>\n<p>打呼这玩意，按我妻子的说法，就像是有自己的意识，她经常被我吵得起来捏住我的嘴，但是我的呼",
+      "ai_summary": "作者因打呼、睡眠呼吸问题，在就医困难的情况下，尝试运动改善后最终开始使用呼吸机。",
+      "ai_tags": [
+        "健康",
+        "睡眠",
+        "呼吸机",
+        "打呼"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "大家最近有什么取悦自己的东西分享吗？",
+      "link": "https://www.v2ex.com/t/1209218",
+      "published_time": "2026-04-28 16:40:22",
+      "raw_content": "fjia4395: 最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。<br />好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了",
+      "ai_summary": "用户询问近期愉悦自己的物品，回应者表示A股盈利后无特别购买欲。",
+      "ai_tags": [
+        "消费",
+        "A股"
       ],
       "ai_importance": 2
     },
     {
       "category": "v2ex",
-      "title": "兄弟们平常都用什么浏览器？",
-      "link": "https://www.v2ex.com/t/1209014",
-      "published_time": "2026-04-28 01:44:40",
-      "raw_content": "Lantang: Chrome 这几天突然变得好卡，不知道咋回事",
-      "ai_summary": "用户反映Chrome浏览器突然变卡，寻求替代浏览器推荐。",
+      "title": "[源头工厂] 顶级万号 ProMAX， $30 刀 Codex/GPT5 免费送，企业级稳定！",
+      "link": "https://www.v2ex.com/t/1209209",
+      "published_time": "2026-04-28 15:15:56",
+      "raw_content": "wtcoder: <h1>MuskAI 稳定生产力的源泉</h1>\n<ul>\n<li>💎超大源头 GPT PROMAX 池，按量 0.11 倍，tokens 吞吐量为 team/plus <strong>5 倍</strong></li>\n<li>💎超低延迟，国内专线接入（稳定不掉线）</li>\n<li>💎稳定持续可用，适合长期使用与业务接入（可开发票）</li>\n<li>💎适合需要稳定渠道的客户！</li>\n</ul>\n<h2>V 友专属福利：$30 刀 Codex/GPT5 爽用</h2>\n<h1>领取步骤</h1>\n<ul>\n<li>1 、加入 Q 群：1090132599</li>\n<li>2 、打开 <a href=\"http://muskpay.top/\" rel=\"nofollow\">http://muskpay.top</a> 注册账户</li>\n<li>3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅</li>\n</ul>\n<p>数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务</p>\n<p><img alt=\"image\" cla",
+      "ai_summary": "推广MuskAI服务，提供GPT代理，优惠码等。",
       "ai_tags": [
-        "浏览器",
-        "Chrome",
-        "卡顿"
+        "AI",
+        "广告",
+        "GPT"
       ],
-      "ai_importance": 1
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "你们会孤独吗？",
+      "link": "https://www.v2ex.com/t/1209105",
+      "published_time": "2026-04-28 06:41:05",
+      "raw_content": "Myst: <ul>\n<li>\n<p>想想毕业已经十年了，最近时常有一些感慨。</p>\n</li>\n<li>\n<p>我是 E 人，喜欢社交，也喜欢跟熟悉的老朋友聊天，但是在自己的某个时刻，想找一个人聊一聊天，却发现没有人。</p>\n</li>\n<li>\n<p>对待老朋友，我们无法再次同频，哪怕我们都有时间，也只是聊一些无关痛痒的话题。 </p>\n</li>\n<li>\n<p>我们不在了解彼此的生活近况，无法在细微之处展开更深入和同频的话题。其实我通常能接受这一点，毕竟我们已经分别，我们不在年少，我们都有了新的圈子，在彼此不属于对方的圈子里生活。每次见面，都意味着我们人生中见面的次数正在减少，或许这就是成长带来的代价。</p>\n</li>\n<li>\n<p>对于新朋友，我不知道自己是不是老了，现在我对于社交，通常情况下，我比以前更克制，更礼貌，新的朋友也只是朋友，没有了太多的情感交流，我们或许聊聊工作，或许聊聊摄影，或者谈谈彼此的生活，但也只是流于表面，在我的内心中，我依然很难相信新认识的任何一个人，尽管我们可以谈笑风生。</p>\n</li>\n<li>\n<p>好像现在能够了解我的生活，还能够",
+      "ai_summary": "作者毕业后十年感到孤独，与老朋友渐行渐远，对新朋友也难以建立深层情感连接。",
+      "ai_tags": [
+        "孤独",
+        "社交",
+        "情感",
+        "成长"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "五一去平潭",
+      "link": "https://www.v2ex.com/t/1209068",
+      "published_time": "2026-04-28 04:15:42",
+      "raw_content": "oioioioioioi: <p>有没有什么需要注意的。顺便求一份攻略，然后问了民宿的老板，电动车已经 170 一天了。。。</p>",
+      "ai_summary": "作者计划五一去平潭旅游，寻求攻略并提到民宿电动车租金已涨至170元一天。",
+      "ai_tags": [
+        "旅游",
+        "平潭",
+        "五一",
+        "攻略"
+      ],
+      "ai_importance": 2
     }
   ]
 }

@@ -5,16 +5,46 @@
   "items": [
     {
       "category": "openai",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "link": "https://openai.com/index/openai-on-aws",
+      "published_time": "2026-04-28 00:00:00",
+      "raw_content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "ai_summary": "OpenAI的GPT模型、Codex和Managed Agents现已在AWS上可用，使企业能够在AWS环境中构建安全的AI应用。",
+      "ai_tags": [
+        "OpenAI",
+        "AWS",
+        "GPT",
+        "企业"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "Our commitment to community safety",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "published_time": "2026-04-28 00:00:00",
+      "raw_content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "ai_summary": "OpenAI 介绍其在ChatGPT中通过模型防护、滥用检测、政策执行以及与安全专家合作来保护社区安全的措施。",
+      "ai_tags": [
+        "OpenAI",
+        "社区安全",
+        "ChatGPT",
+        "安全措施"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "openai",
       "title": "The next phase of the Microsoft OpenAI partnership",
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published_time": "2026-04-27 06:00:00",
       "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI与微软宣布修订合作协议，简化关系并明确长期方向，持续推动AI创新。",
+      "ai_summary": "OpenAI 与微软宣布修订合作协议，简化合作关系，增加长期清晰度，并支持持续的大规模AI创新。",
       "ai_tags": [
         "OpenAI",
-        "Microsoft",
+        "微软",
         "合作",
-        "AI"
+        "更新"
       ],
       "ai_importance": 5
     },
@@ -24,12 +54,12 @@
       "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "published_time": "2026-04-27 14:00:00",
       "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "ai_summary": "OpenAI的ChatGPT Enterprise和API获得FedRAMP Moderate认证，支持美国联邦政府安全采用AI。",
+      "ai_summary": "OpenAI 获得FedRAMP Moderate授权，ChatGPT Enterprise和OpenAI API可用于美国联邦机构，支持安全的AI采用。",
       "ai_tags": [
         "OpenAI",
         "FedRAMP",
         "政府",
-        "AI安全"
+        "安全"
       ],
       "ai_importance": 4
     },
@@ -39,14 +69,14 @@
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "ai_summary": "OpenAI发布开源编排规范Symphony，用于将问题追踪器转化为持续运行的AI代理系统，提升工程效率。",
+      "ai_summary": "Symphony是一个开源规范，用于Codex编排，将问题追踪器转变为始终在线的智能体系统，提高工程产出并减少上下文切换。",
       "ai_tags": [
         "开源",
-        "Symphony",
+        "编排",
         "Codex",
-        "AI代理"
+        "智能体"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "openai",
@@ -54,12 +84,12 @@
       "link": "https://openai.com/index/choco",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "ai_summary": "食品分销公司Choco利用OpenAI API实现自动化，提升生产力和增长。",
+      "ai_summary": "Choco使用OpenAI API自动化食品配送流程，提高生产力并实现增长，这是一个展示AI实际影响的客户案例。",
       "ai_tags": [
         "AI应用",
-        "食品分销",
-        "Choco",
-        "OpenAI"
+        "食品配送",
+        "自动化",
+        "客户案例"
       ],
       "ai_importance": 3
     },
@@ -69,14 +99,13 @@
       "link": "https://openai.com/index/our-principles",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "ai_summary": "OpenAI分享五项指导原则，使命是确保AGI造福全人类。",
+      "ai_summary": "OpenAI的使命是确保AGI惠及全人类，Sam Altman分享了指导工作的五条原则。",
       "ai_tags": [
         "OpenAI",
         "原则",
-        "AGI",
-        "使命"
+        "AGI"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "openai",
@@ -84,24 +113,11 @@
       "link": "https://openai.com/index/introducing-gpt-5-5",
       "published_time": "2026-04-23 11:00:00",
       "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "ai_summary": "OpenAI发布GPT-5.5，速度更快、能力更强，专为编程、研究和数据分析等复杂任务设计。",
+      "ai_summary": "OpenAI推出GPT-5.5，这是其最智能的模型，速度更快、能力更强，面向编程、研究和数据分析等复杂任务。",
       "ai_tags": [
         "GPT-5.5",
-        "发布",
-        "AI模型"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "What is Codex?",
-      "link": "https://openai.com/academy/what-is-codex",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "ai_summary": "了解Codex如何通过自动化任务、连接工具和生成实际输出（如文档和仪表盘）来超越聊天。",
-      "ai_tags": [
-        "Codex",
-        "介绍"
+        "模型发布",
+        "AI"
       ],
       "ai_importance": 5
     },
@@ -111,37 +127,27 @@
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
-      "ai_summary": "探索GPT-5.5生物漏洞赏金计划：一项红队挑战，寻找生物安全风险的通用越狱方法，奖励高达25,000美元。",
+      "ai_summary": "探索GPT-5.5生物漏洞赏金计划：一项旨在发现生物安全风险通用越狱的红队挑战，奖励高达25000美元。",
       "ai_tags": [
+        "openai",
         "GPT-5.5",
-        "安全",
-        "赏金"
+        "漏洞赏金",
+        "生物安全"
       ],
       "ai_importance": 4
     },
     {
       "category": "openai",
-      "title": "How to get started with Codex",
-      "link": "https://openai.com/academy/codex-how-to-start",
+      "title": "Top 10 uses for Codex at work",
+      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
       "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "ai_summary": "学习如何开始使用Codex，包括设置项目、创建线程和完成首个任务的逐步指南。",
+      "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "ai_summary": "探索10个Codex实际用例，涵盖自动化任务、创建交付物以及跨工具、文件和工作流程将真实输入转化为输出。",
       "ai_tags": [
         "Codex",
-        "入门"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "openai",
-      "title": "Automations",
-      "link": "https://openai.com/academy/codex-automations",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "ai_summary": "学习使用计划和触发器在Codex中自动化任务，无需人工即可创建报告、摘要和重复工作流。",
-      "ai_tags": [
-        "Codex",
-        "自动化"
+        "用例",
+        "自动化",
+        "工作流"
       ],
       "ai_importance": 4
     }

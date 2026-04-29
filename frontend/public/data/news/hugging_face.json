@@ -5,15 +5,15 @@
   "items": [
     {
       "category": "hugging_face",
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "published_time": "2026-04-28 00:28:13",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "published_time": "2026-04-28 15:58:57",
       "raw_content": "",
-      "ai_summary": "NVIDIA发布基于物理信息的AI技术，实现自适应超声成像。",
+      "ai_summary": "NVIDIA发布多模态模型Nemotron 3 Nano Omni。",
       "ai_tags": [
-        "AI",
-        "医疗影像",
-        "NVIDIA"
+        "NVIDIA",
+        "多模态",
+        "AI"
       ],
       "ai_importance": 3
     },
@@ -23,12 +23,11 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何使用OpenAI隐私过滤器构建可扩展的网络应用。",
+      "ai_summary": "介绍如何使用OpenAI隐私过滤器构建可扩展Web应用。",
       "ai_tags": [
-        "AI",
+        "OpenAI",
         "隐私",
-        "Web应用",
-        "OpenAI"
+        "Web开发"
       ],
       "ai_importance": 2
     },
@@ -38,11 +37,11 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4模型支持百万token上下文，可被代理实际使用。",
+      "ai_summary": "DeepSeek-V4支持百万token上下文，可供代理使用。",
       "ai_tags": [
-        "AI",
-        "大模型",
-        "DeepSeek"
+        "DeepSeek",
+        "长上下文",
+        "AI代理"
       ],
       "ai_importance": 4
     },
@@ -52,27 +51,13 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何在Chrome扩展中使用Transformers.js的方法。",
+      "ai_summary": "介绍如何在Chrome扩展中使用Transformers.js进行机器学习推理。",
       "ai_tags": [
         "Transformers.js",
         "Chrome扩展",
-        "教程"
+        "机器学习"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "link": "https://huggingface.co/blog/cybersecurity-openness",
-      "published_time": "2026-04-21 00:00:00",
-      "raw_content": "",
-      "ai_summary": "探讨AI与网络安全未来，强调开放性的重要性。",
-      "ai_tags": [
-        "AI",
-        "网络安全",
-        "开放性"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -80,13 +65,27 @@
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published_time": "2026-04-21 10:09:58",
       "raw_content": "",
-      "ai_summary": "发布阿拉伯语大模型质量排行榜QIMMA，以质量优先。",
+      "ai_summary": "发布首个以质量为核心的阿拉伯语大语言模型排行榜QIMMA。",
       "ai_tags": [
         "阿拉伯语",
-        "大语言模型",
-        "排行榜"
+        "LLM排行榜",
+        "质量优先"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "link": "https://huggingface.co/blog/cybersecurity-openness",
+      "published_time": "2026-04-21 00:00:00",
+      "raw_content": "",
+      "ai_summary": "探讨开放性在AI与网络安全未来中的关键作用。",
+      "ai_tags": [
+        "AI",
+        "网络安全",
+        "开放性"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -97,11 +96,10 @@
       "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
       "ai_tags": [
         "多模态",
-        "嵌入",
-        "重排序",
-        "Sentence Transformers"
+        "Sentence Transformers",
+        "嵌入"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -109,13 +107,13 @@
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍将Transformers模型迁移到MLX的PR指南。",
+      "ai_summary": "介绍如何将Transformers模型转换为MLX格式，实现自我贡献的PR。",
       "ai_tags": [
-        "Transformers",
+        "模型转换",
         "MLX",
-        "移植"
+        "Transformers"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -123,13 +121,13 @@
       "link": "https://huggingface.co/blog/ecom-rlve",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "为电商对话代理设计自适应可验证环境Ecom-RLVE。",
+      "ai_summary": "提出Ecom-RLVE框架，为电商对话智能体创建自适应可验证环境。",
       "ai_tags": [
         "电商",
-        "对话代理",
+        "对话智能体",
         "强化学习"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -137,14 +135,13 @@
       "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "published_time": "2026-04-15 12:07:25",
       "raw_content": "",
-      "ai_summary": "分析VAKRA基准中代理的推理、工具使用及失败模式。",
+      "ai_summary": "分析VAKRA基准中智能体的推理、工具使用及失败模式。",
       "ai_tags": [
-        "VAKRA",
-        "代理",
+        "智能体",
         "推理",
         "基准"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     }
   ]
 }

@@ -5,14 +5,14 @@
   "items": [
     {
       "category": "xueqiu",
-      "title": "1.6T 光模块产业链调研纪要",
-      "link": "http://xueqiu.com/4790816824/386151674",
-      "published_time": "2026-04-28 09:25:09",
+      "title": "时隔两年，药明康德是时候重新估值了。",
+      "link": "http://xueqiu.com/5742069252/386155822",
+      "published_time": "2026-04-28 09:25:32",
       "raw_content": "",
-      "ai_summary": "1.6T光模块产业链调研纪要，涉及技术进展与市场前景。",
+      "ai_summary": "时隔两年，重新评估药明康德的估值。",
       "ai_tags": [
-        "光模块",
-        "产业链调研"
+        "药明康德",
+        "估值"
       ],
       "ai_importance": 4
     },
@@ -22,12 +22,13 @@
       "link": "http://xueqiu.com/1437248694/386225632",
       "published_time": "2026-04-28 09:25:15",
       "raw_content": "",
-      "ai_summary": "推演中东冲突对中国煤炭价格的两种可能影响情景。",
+      "ai_summary": "中东冲突对中国煤炭价格的两种情景影响推演。",
       "ai_tags": [
         "中东冲突",
-        "煤炭价格"
+        "煤炭价格",
+        "情景分析"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "xueqiu",
@@ -35,25 +36,25 @@
       "link": "http://xueqiu.com/8732389555/386153312",
       "published_time": "2026-04-28 09:25:48",
       "raw_content": "",
-      "ai_summary": "文章分析赣锋锂业未来三年的矿端产能情况。",
+      "ai_summary": "内容涉及赣锋锂业未来三年的矿端产能情况。",
       "ai_tags": [
-        "赣锋锂业",
+        "锂业",
         "产能"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
-      "title": "时隔两年，药明康德是时候重新估值了。",
-      "link": "http://xueqiu.com/5742069252/386155822",
-      "published_time": "2026-04-28 09:25:32",
+      "title": "1.6T 光模块产业链调研纪要",
+      "link": "http://xueqiu.com/4790816824/386151674",
+      "published_time": "2026-04-28 09:25:09",
       "raw_content": "",
-      "ai_summary": "提出时隔两年应重新对药明康德进行估值。",
+      "ai_summary": "1.6T光模块产业链调研纪要。",
       "ai_tags": [
-        "药明康德",
-        "估值"
+        "1.6T光模块",
+        "产业链调研"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -61,40 +62,12 @@
       "link": "http://xueqiu.com/4118099716/386161928",
       "published_time": "2026-04-28 09:25:52",
       "raw_content": "",
-      "ai_summary": "文章认为曹操出行的全要素闭环生态相比Waymo和特斯拉更接近Robotaxi终局。",
+      "ai_summary": "文章认为曹操出行全要素闭环生态相比Waymo和特斯拉更接近Robotaxi终局。",
       "ai_tags": [
-        "曹操出行",
-        "Robotaxi",
-        "Waymo",
-        "特斯拉"
+        "出行",
+        "Robotaxi"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "一季报冲击面临尾声",
-      "link": "http://xueqiu.com/2426670165/386254181",
-      "published_time": "2026-04-28 09:25:43",
-      "raw_content": "",
-      "ai_summary": "讨论一季报冲击对市场的影响接近尾声。",
-      "ai_tags": [
-        "一季报",
-        "市场影响"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "五粮液跌破百元有感",
-      "link": "http://xueqiu.com/1327911751/386207222",
-      "published_time": "2026-04-28 09:25:38",
-      "raw_content": "",
-      "ai_summary": "对五粮液股价跌破百元的感想和投资思考。",
-      "ai_tags": [
-        "五粮液",
-        "股价下跌"
-      ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -102,11 +75,38 @@
       "link": "http://xueqiu.com/2657407918/386151682",
       "published_time": "2026-04-28 09:25:23",
       "raw_content": "",
-      "ai_summary": "表达对投资中追涨风险的哲理思考。",
+      "ai_summary": "追光者最终可能一无所有，寓意警示。",
       "ai_tags": [
-        "投资哲学"
+        "投资哲理",
+        "风险"
       ],
-      "ai_importance": 1
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "一季报冲击面临尾声",
+      "link": "http://xueqiu.com/2426670165/386254181",
+      "published_time": "2026-04-28 09:25:43",
+      "raw_content": "",
+      "ai_summary": "文章指出一季报冲击即将结束。",
+      "ai_tags": [
+        "财报",
+        "市场"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "五粮液跌破百元有感",
+      "link": "http://xueqiu.com/1327911751/386207222",
+      "published_time": "2026-04-28 09:25:38",
+      "raw_content": "",
+      "ai_summary": "五粮液股价跌破百元，作者发表感慨。",
+      "ai_tags": [
+        "白酒",
+        "股价"
+      ],
+      "ai_importance": 2
     },
     {
       "category": "xueqiu",
@@ -114,10 +114,11 @@
       "link": "http://xueqiu.com/7280306436/385917649",
       "published_time": "2026-04-27 10:11:28",
       "raw_content": "",
-      "ai_summary": "历史回顾三次产业革命如何催生估值泡沫。",
+      "ai_summary": "回顾三次产业革命催生估值泡沫的历史。",
       "ai_tags": [
         "产业革命",
-        "估值泡沫"
+        "估值泡沫",
+        "历史回顾"
       ],
       "ai_importance": 4
     },
@@ -127,10 +128,10 @@
       "link": "http://xueqiu.com/6217310837/385965161",
       "published_time": "2026-04-27 10:11:52",
       "raw_content": "",
-      "ai_summary": "算力大变局，探讨计算能力变革的影响。",
+      "ai_summary": "算力领域发生重大变化。",
       "ai_tags": [
         "算力",
-        "变革"
+        "行业变革"
       ],
       "ai_importance": 4
     }
