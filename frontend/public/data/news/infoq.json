@@ -5,146 +5,150 @@
   "items": [
     {
       "category": "infoq",
-      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
-      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
-      "published_time": "2026-04-29 03:41:42",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
-      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
+      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
+      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa",
+      "published_time": "2026-04-29 08:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9b/93/9b374cdb571f3a4da3b2d3f4e49eca93.png\" /></p><p></p><blockquote>程序员们，先别忙着焦虑AI会抢走你的饭碗。现在更该焦虑的，可能是你们的 CTO 和 CFO了：因为让 AI 写代码，实在太烧钱了。</blockquote><p></p><p>&nbsp;</p><p>Copilot 和 Claude Code，几乎在同一时间，给行业踩了一脚刹车。</p><p>&nbsp;</p><p>今天（4月28日），GitHub 宣布从2026 年 6 月 1 日起，GitHub Copilot 将告别“无限畅饮”模式，将 Copilot 从“按请求计费”转为“按使用量计费”。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97b4f74fad3ad8f7f7dc1af108c0f37b.jpeg\" /></p><",
+      "ai_summary": "报道GitHub Copilot和Claude Code从按请求计费转为按使用量计费，引发AI写代码成本高涨，可能促使企业重新考虑聘用程序员。",
       "ai_tags": [
-        "AI",
-        "商汤",
-        "开源",
-        "多模态"
+        "AI写代码",
+        "Copilot",
+        "Claude",
+        "涨价",
+        "成本"
       ],
       "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "写了 17 年开源代码，我为什么认为 Coding Agents 堆功能是在瞎折腾？",
-      "link": "https://www.infoq.cn/article/sLVv23TfVFxoBPjNwcZI",
-      "published_time": "2026-04-29 03:36:22",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ae/a5/ae89a5c976a20a35yy6fd34f38fb5ca5.png\" /></p><p></p><p></p><p>在 AI 编程工具进入大乱斗时代的今天，我们似乎已经习惯了各种功能的堆叠。但在 libGDX 创始人、17 年开源老兵 Mario Zechner 眼中，这一切正变得越来越不可控。</p><p></p><p>“当你发现 AI 在背地里偷偷修改你的上下文，而你却对此一无所知时，这种掌控感的丧失是极其危险的。”</p><p></p><p>近日，在 Tessel 举办的开发者大会上，Mario 不仅公开吐槽了 Claude Code、OpenCode，更带出了他的极简主义“反叛之作”——pi。这是一个只有 read、write、edit、bash 四种工具，拥有主流 agent 里最短的 system prompt，却有着极致的可扩展性、能让开发者重拾掌控权的终端编程 agent。</p><p></p><p>本文基于该演讲视频整理，经 InfoQ 编辑",
-      "ai_summary": "开源老兵 Mario Zechner 批评 Coding Agents 堆功能，推出极简终端编程 agent 'pi'，强调开发者掌控。",
+      "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
+      "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel",
+      "published_time": "2026-04-29 08:20:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/df/69/df6f6c4919f06e9560ec5a53a926de69.png\" /></p><p>过去几个月，“龙虾”类智能体产品经历了一轮从狂热到理性的过程。英特尔中国区技术部总经理高宇认为，这正是讨论“智能体PC”的时机：智能体时代的大门已经打开，但要让它从工程师和极客的“玩具”，变成大多数人都能使用的工具，行业需要在硬件、软件、产品和生态上共同补齐短板。</p><p>&nbsp;</p><p>英特尔给出的方向是端云混合AI，即让云端大模型负责更复杂、更长上下文、更高智能的任务，让本地AI模型承担一部分固定流程、隐私敏感和低延时任务，再通过智能路由机制在端侧和云端之间自动分配任务。在其看来，这将是智能体PC普及的关键。</p><p>&nbsp;</p><p></p><h2>智能体PC：不是更快的PC，而是“数字分身”</h2><p></p><p>&nbsp;</p><p>英特尔这次提出了“智能体PC”的概念，并解释称这并不是简单在AI PC上跑几个本地模型，而是面向",
+      "ai_summary": "英特尔提出“智能体PC”概念，采用端云混合AI方案，让云端大模型与本地模型协同工作，推动智能体普及。",
       "ai_tags": [
-        "AI编程",
-        "开源",
-        "agent"
+        "英特尔",
+        "端云混合",
+        "智能体PC"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
-      "link": "https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU",
-      "published_time": "2026-04-29 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/76/d3/762943234byy8b2f7845f0f5f1b1e9d3.jpg\" /></p><p>Anthropic <a href=\"https://www.anthropic.com/engineering/managed-agents\">在其 Claude 平台上推出了 Managed Agents</a>\"，这是一套托管执行层，是为支持基于代理的工作流开发与运行。该能力允许开发者定义代理行为、工具调用方式及约束条件，同时将编排、沙箱隔离、会话状态管理、凭证处理和持久化等运行时职责交由平台负责。</p><p></p><p>此次发布主要面向生产级使用场景，即代理需要执行长时间运行、多步骤的工作流，并涉及外部工具调用、错误恢复以及跨会话连续性。在这种模式下，团队无需自行构建和维护相关基础设施，而是可以通过 Managed Agents 提供的 API，以标准化方式部署和执行代理系统。</p><p></p><p>从整体架构来看，Anthropic 将代理逻辑与执行基础设",
-      "ai_summary": "Anthropic在Claude平台推出Managed Agents托管执行层，简化AI代理开发与部署，支持长时多步骤工作流。",
+      "title": "凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了",
+      "link": "https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz",
+      "published_time": "2026-04-29 05:46:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/14/5ca664148d7a5e3daebfbe560d151414.png\" /></p><p>4 月 20 日，Amazon 宣布在已有 $80 亿投资基础上再向 Anthropic 追加最多 $250 亿，Anthropic 同步承诺未来十年在亚马逊云科技花掉 $1000 亿以上。两笔相加，Amazon 对 Anthropic 的累计承诺已经站到 $330 亿。经过多轮可转换债转股之后，Amazon 在 Anthropic 的持股，按市场估算，很可能已经超过 Google 的 14%，成为 Anthropic 上最大的外部股东。</p><p></p><p>4 月 28 日上午，距离亚马逊云科技旧金山发布会还剩不到一天，Andy Jassy 在 LinkedIn 上发了一段不到 80 个英文词的预告：</p><p></p><p>“OpenAI’s models will be available directly to customers on Bedrock in",
+      "ai_summary": "亚马逊宣布向Anthropic追加投资250亿美元，累计投资承诺达330亿美元，亚马逊成为Anthropic最大外部股东。",
       "ai_tags": [
-        "AI代理",
+        "OpenAI",
+        "亚马逊云科技",
+        "Anthropic",
+        "投资"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！",
+      "link": "https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT",
+      "published_time": "2026-04-29 07:29:33",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a2/b5/a2e7745e74a7d914aa7eb8dd7ce603b5.jpg\" /></p><p>整理 | 华卫</p><p></p><p>在大多数公司还在按季度推出新产品时，Anthropic 已经把发布节奏压缩到了“按天迭代”。站在这一切背后的，是一名90后的华裔女性 Cat Wu。从工程师到Anthropic旗下两款王牌产品 Claude Code和Cowork的产品负责人，她不仅亲手推动着这一代 AI 产品的演进，也在面试成百上千位试图进入 AI 领域的产品经理，亲眼见证了哪些人在成功、哪些人已经落后。</p><p></p><p>Cat Wu全名是Catherine Wu，在加入Anthropic之前曾做了多年的工程师，还在风险投资领域短暂工作过。据了解，她本科毕业于普林斯顿大学计算机科学专业，曾担任Scale AI产品工程师、Dagster工程经理和Index Ventures风险投资人，于2024年8月加入Anthropic。2025年7月初，Cat Wu与",
+      "ai_summary": "Anthropic产品负责人Cat Wu推动Claude产品按天迭代，认为token成本比工程师工资低，并分享AI产品经理面试观察。",
+      "ai_tags": [
         "Anthropic",
         "Claude",
-        "托管执行"
+        "Cat Wu",
+        "迭代",
+        "AI产品"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
-      "link": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF",
-      "published_time": "2026-04-29 03:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/d3/ed0fe2d79504e9bd18fdd197d166d8d3.jpg\" /></p><p></p><h2>引言</h2><p></p><p>随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。</p><p>&nbsp;</p><p>大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用<a href=\"https://www.infoq.com/llms/\">大语言模型</a>\"、<a href=\"https://www.infoq.com/vector-database/\">向量数据库",
-      "ai_summary": "探讨基于 Apache Camel 编排智能体与多模态 AI 管道，解决系统设计复杂性问题。",
+      "title": "Snowpark 上手实战 ｜ BUILD 2025",
+      "link": "https://www.infoq.cn/article/z0MatPdw9iXUmyVRFMCs",
+      "published_time": "2026-04-29 08:14:15",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/59/6b/59239e251f8e2aa105668f10df33476b.png\" /></p><p>Apache Spark 一直是数据开发者的首选引擎，本次演讲将带你了解如何把现有的 Spark 工作流无缝接入 Snowflake；如何利用你偏好的编程语言，通过 Snowpark 构建和扩展数据管道；以及如何在同一个高标准治理的平台上统一管理数据工程和 AI/ML 任务。</p>\n<h4>嘉宾</h4>\n<p>Devin Petersohn ｜ Snowflake 高级软件工程师<br />\nShruti Anand ｜ Snowflake 产品经理</p>",
+      "ai_summary": "介绍Snowpark如何将现有Spark工作流接入Snowflake，支持多种编程语言构建数据管道，并统一管理数据工程与AI/ML任务。",
       "ai_tags": [
-        "Apache Camel",
-        "多模态AI",
-        "企业应用"
+        "Snowpark",
+        "Spark",
+        "Snowflake",
+        "数据管道",
+        "AI"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
-      "link": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR",
-      "published_time": "2026-04-29 01:41:33",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/42/e9/4273037302ccd8283efa1a86e4449ce9.png\" /></p><p></p><p>4月28日，小米开源了 MiMo-V2.5 和 MiMo-V2.5-Pro 两款模型：MiMo-V2.5 基础模型提供原生多模态能力，而 MiMo-V2.5-Pro 则是专门为“长周期一致性”和复杂软件工程设计的。</p><p></p><p>小米采用了宽松、对企业友好的 MIT License，这意味着模型适合被用于商业应用的生产环境。用户可以按需修改模型，并根据自身需要，在本地或虚拟私有云上运行。</p><p></p><p>在 GDPVal-AA（Elo）基准测试中，Pro 模型取得了 1581 分，超过了 Kimi K2.6 和 GLM 5.1 等竞争对手。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/02/025f8febefdb52b18c80944cf9b5dbc3.png\"",
-      "ai_summary": "小米开源MiMo-V2.5及Pro模型，采用MIT协议，支持1M上下文，Pro模型在基准测试中超过Kimi K2.6。",
+      "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
+      "link": "https://www.infoq.cn/article/xzP1usT6PvgoaNt7T0Bo",
+      "published_time": "2026-04-29 08:29:33",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/17/e6/17794fb983614fee9b49a05af52e0de6.png\" /></p><p>在现代数据工程中，文档化是最常被忽视的难题。我们开发了一个直接在Snowflake内部运行的AI文档助手，该智能体能生成清晰、一致的文档，包含对象用途、参数、代码示例、故障排除指南和集成说明，帮助你减少文档负债，保留组织知识！</p>\n<h4>嘉宾</h4>\n<p>Rob Marinelli ｜ Bluewater AI 总监</p>",
+      "ai_summary": "介绍了一个直接在Snowflake中运行的AI文档智能体，能自动生成对象用途、代码示例等文档，减少文档负债。",
       "ai_tags": [
-        "开源",
-        "小米",
-        "多模态模型",
-        "MIT协议"
+        "文档",
+        "AI智能体",
+        "Snowflake"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
-      "link": "https://www.infoq.cn/article/3kfZZXewSZzErupjYGkT",
-      "published_time": "2026-04-29 01:58:30",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/e3/e0/e30a46c40af05de4283da1c4f31803e0.png\" /></p><p></p><p>4 月 27 日消息，阿里巴巴视频生成模型 HappyHorse 1.0 开启灰测。全球专业创作者和企业级客户可在 HappyHorse 官网（www.happyhorse.cn）和阿里云百炼平台注册使用，大众用户可在千问 App 体验。官网 720P 视频生成刊例价 0.9 元 / 秒。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/aa/aa59098e74dcc47d2b3aa3046fe19d13.png\" /></p><p></p><p>HappyHorse 官网截图</p><p></p><p>据悉，HappyHorse 1.0 依托原生多模态架构，采用音视频联合生成方案，面向广告、电商、短剧、社媒创意等内容生产场景，提供从智能生成到编辑的一体化创作能力。Hap",
-      "ai_summary": "阿里巴巴视频生成模型HappyHorse 1.0开启灰测，提供音视频联合生成，720P视频生成刊例价0.9元/秒。",
+      "title": "从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025",
+      "link": "https://www.infoq.cn/article/wV4Nmb5vpxaChAdobOUl",
+      "published_time": "2026-04-29 08:56:03",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c3/d1/c34533efdf642462fda6e280e5baa2d1.png\" /></p><p>全球机器学习团队如何在 Snowflake ML 中加速预测模型工作流？我们将展示如何运用平台的最新创新功能，构建、部署并全程管理您的端到端机器学习生命周期，你将清晰掌握提升团队机器学习效能的架构模式与最佳实践，全面提升团队的机器学习效率。</p>\n<h4>嘉宾</h4>\n<p>James Cha-Earley ｜ Snowflake 开发者布道者<br />\nAvinash Joshi  ｜ Snowflake 高级产品经理</p>",
+      "ai_summary": "Snowflake展示了如何利用其平台的最新创新功能构建和管理端到端机器学习生命周期，提升团队效率。",
       "ai_tags": [
-        "视频生成",
-        "阿里",
-        "HappyHorse",
-        "灰测"
+        "机器学习",
+        "Snowflake",
+        "工作流"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
-      "link": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE",
-      "published_time": "2026-04-29 01:54:23",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9d/d9/9dc32796044ffbc8198c70e6039463d9.png\" /></p><p></p><p>近期，由科大讯飞与两仪万象合资设立的“量智开物”正式揭牌亮相，并发布“追风”大规模原子快速重排算法和“扁鹊”量子纠错解码器两项成果。</p><p>&nbsp;</p><p>据介绍，“追风”在算法层面全球首次实现了20毫秒以内万量级以上原子阵列的快速重排；“扁鹊”则是全球首个AI辅助、兼顾动态原子丢失检测的量子纠错解码器。目前，团队还在尝试通过强化学习压缩量子线路的编译复杂度。</p><p>&nbsp;</p><p>这是量智开物自今年3月成立以来的首次公开亮相，也是科大讯飞在“AI+量子”方向系统性布局的一次集中呈现。</p><p></p><h3>不设短期经营指标，做“AI+量子”的长期平台</h3><p></p><p>&nbsp;</p><p>科大讯飞并不是今天才开始布局量子科技。</p><p>&nbsp;</p><p>科大讯飞董事长刘庆峰透露，双方早在三年前",
-      "ai_summary": "科大讯飞与两仪万象合资设立量智开物，发布“追风”原子重排算法和“扁鹊”量子纠错解码器，不设短期KPI。",
+      "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
+      "link": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9",
+      "published_time": "2026-04-29 07:42:54",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/0f/7a/0f5dd4a13079d61bf8e9b2964dc02d7a.jpg\" /></p><p>作者 | 华卫</p><p></p><p>“含模量以及端到端只是入场券，决定上限的是模型本身。”</p><p></p><p>在智能驾驶行业仍围绕“端到端”与“大模型上车”持续加码之际，千里科技联席董事长赵明提出了一条迈向L4更为激进的路径：从传统的“嫁接式”改良智能驾驶模型，彻底转向基于物理世界原生理解的底层重构。</p><p></p><p>就在近日，千里科技宣布与阶跃星辰达成深度合作，双方将联合打造“原生智驾基座模型”，不在基础大模型上叠加驾驶能力，而是转向让模型从诞生之初就“理解”驾驶这件事。</p><p></p><p>发布现场，兼任阶跃星辰与千里科技董事长的印奇也露面了。“我自己算是一个AI创业的老兵，一直在找中国AI商业闭环的路径。阶跃和千里，是我目前能想到的一个最优解。虽然辛苦，但是有机会形成一个好的产品、好的商业结果。”这是他第一次在公开场合解释自己出任这一双重",
+      "ai_summary": "千里科技与阶跃星辰合作打造原生智驾基座模型，从底层重构智能驾驶模型，印奇称这是中国AI商业闭环的最优解。",
       "ai_tags": [
-        "量子AI",
-        "科大讯飞",
-        "量智开物",
-        "算法发布"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
-      "link": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ",
-      "published_time": "2026-04-29 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/87/ea/875f89f75fbafc970b299509b251fcea.jpeg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>MemVerge联合创始人&amp;CEO范承工已确认出席 “<a",
-      "ai_summary": "AICon 上海将举办，聚焦 Agent 工程化、AI 记忆系统等前沿主题，多位技术专家出席。",
-      "ai_tags": [
-        "AI大会",
-        "Agent",
-        "工程化"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB",
-      "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG",
-      "published_time": "2026-04-28 04:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/67/bf/6702478b6b677370f2076e0ed4c457bf.jpg\" /></p><p>Dropbox 工程师通过解决 Git 存储和增量压缩模型的低效问题，<a href=\"https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity\">将后端单体库的大小从 87GB 缩减至 20GB</a>\"，从而提升了开发人员的工作效率和持续集成性能。该存储库是 Dropbox 各团队后端服务和共享库的中央集成点。这一举措的实施源于该存储库在扩展方面面临的挑战。</p><p></p><p>随着单体库（monorepo）规模的不断扩大，工程团队开始遇到克隆操作缓慢的问题，有时甚至需要超过一个小时才能完成；此外，由于反复获取和构建带来的开销，持续集成（CI）管道的性能也随之下降。规模的扩大还增加了触及存储库托管限制的风险。根据 Dropbox 工程团队",
-      "ai_summary": "Dropbox与GitHub合作，通过解决Git存储和增量压缩模型低效问题，将后端单体库从87GB缩减至20GB，提升开发效率和CI性能。",
-      "ai_tags": [
-        "Dropbox",
-        "单体库",
-        "Git优化"
+        "智能驾驶",
+        "原生模型",
+        "千里科技",
+        "阶跃星辰",
+        "印奇"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
-      "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj",
-      "published_time": "2026-04-28 03:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/7d/a6/7d1dd23c638d56b5a4241a74795dbaa6.jpg\" /></p><p>Cloudflare 在其 <a href=\"https://www.cloudflare.com/agents-week/\">Agents Week</a>\" 活动中宣布，Sandboxes 和 Cloudflare Containers <a href=\"https://blog.cloudflare.com/sandbox-ga/\">正式上线</a>\"，为 AI 代理工作负载提供隔离的持久化 Linux 环境。</p><p></p><p>该服务于<a href=\"https://github.com/cloudflare/sandbox-sdk\">去年 6 月首次推出测试版</a>\"，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflar",
-      "ai_summary": "Cloudflare在其Agents Week活动中正式发布Sandboxes和Cloudflare Containers，为AI代理工作负载提供隔离的持久化Linux环境，新增安全凭证注入、PTY终端支持等功能。",
+      "title": "探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025",
+      "link": "https://www.infoq.cn/article/sQoiGqlgSeJNzDlfk5Zq",
+      "published_time": "2026-04-29 08:47:39",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9c/a4/9c2bb5db3c8d2621c916579be1c336a4.png\" /></p><p>了解如何使用官方 langchain-snowflake 集成构建多智能体 AI 工作流，借助 LangGraph Studio，我们将搭建“监督者-智能体”协同架构：三个专属 Snowflake 智能体将共同完成客户流失分析任务，完整演示路由决策与多智能体协同运作机制。</p>\n<h4>嘉宾</h4>\n<p>Prathamesh Nimkar ｜ Snowflake 高级数据云架构师</p>",
+      "ai_summary": "介绍了使用LangGraph和Snowflake构建多智能体AI工作流，通过监督者-智能体架构实现客户流失分析。",
       "ai_tags": [
-        "Cloudflare",
-        "Sandboxes",
-        "AI代理"
+        "多智能体",
+        "LangGraph",
+        "Snowflake"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
+      "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm",
+      "published_time": "2026-04-29 08:17:51",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/93/f9/934c2e58446b1966c5819c186c7611f9.png\" /></p><p></p><p>“现在的挑战是，有钱也买不到东西。从DRAM到闪存颗粒，再到硬盘和磁带，几乎所有跟存储相关的环节都面临严重供给压力。现在去下单硬盘，20T、24T硬盘的交付周期普遍在52到72周。”IBM大中华区存储事业部总经理吴磊说道。</p><p>&nbsp;</p><p>随着大模型从训练走向应用，企业AI基础设施的压力正在从算力侧扩散到数据和存储侧。过去，存储常常被视为数据中心里的“配套设备”，但如今却正在成为决定GPU利用率、数据流动效率，以及企业AI投入产出比的关键环节。尤其在供应紧张的情况下，存储的价值被重新放大。</p><p>&nbsp;</p><p>“原材料涨价是谁都躲不开的。”吴磊坦言，IBM的产品价格也会受到上游成本影响，但团队并没有简单跟随原材料价格大幅上调，而是希望通过技术手段降低客户的实际使用成本。</p><p>&nbsp;</p><p>近期，IBM",
+      "ai_summary": "IBM大中华区存储事业部表示存储供应紧张，但通过技术手段控制成本，并将AI Agent集成到存储系统中提升效率。",
+      "ai_tags": [
+        "IBM",
+        "存储",
+        "AI Agent"
       ],
       "ai_importance": 4
     }

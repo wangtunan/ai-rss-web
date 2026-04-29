@@ -6,46 +6,193 @@
   "offset": 0,
   "items": [
     {
-      "category": "infoq",
-      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
-      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
-      "published_time": "2026-04-29 03:41:42",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
-      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
+      "category": "cls",
+      "title": "北京三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》",
+      "link": "https://api3.cls.cn/share/article/2359762?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:20:34",
+      "raw_content": "【北京三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》】财联社4月29日电，北京市互联网信息办公室等三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》，统筹高质量发展和高水平安全，坚持为国家试制度、为首都谋发展，强化首善标准、改革引领、企业视角、应用赋能、安全可控，锚定提升全球数字经济标杆城市国际影响力，围绕国家数据要素“一区三中心”建设，以促进数据要素价值释放为牵引，以提升网络数据治理能力为保障，为推进数据高效便利安全跨境流通利用提供透明稳定可预期的政策环境，持续推动北京建设国家数据领域高水平开放展示窗口、全国数据跨境流动便利化政策创新实践高地、全球数据资源流通重要枢纽。",
+      "ai_summary": "北京市三部门印发数据跨境流动便利化改革方案，促进数据安全高效跨境流通。",
       "ai_tags": [
+        "数据跨境",
+        "政策",
+        "北京",
+        "改革方案"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "欧盟委员会通过临时国家援助框架以支持经济",
+      "link": "https://api3.cls.cn/share/article/2359758?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:17:14",
+      "raw_content": "【欧盟委员会通过临时国家援助框架以支持经济】财联社4月29日电，欧盟委员会已通过一项临时国家援助框架，允许成员国在中东危机的背景下支持欧盟经济。中东危机临时国家援助框架（METSAF）是一个有针对性的临时框架，旨在应对危机对经济中最受冲击的行业所造成的影响，包括农业、渔业、交通运输以及能源密集型行业。",
+      "ai_summary": "欧盟通过临时国家援助框架，支持受中东危机影响的农业、渔业、交通运输及能源密集型行业。",
+      "ai_tags": [
+        "欧盟",
+        "国家援助",
+        "经济支持",
+        "中东危机"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "兆易创新：一季度净利润14.61亿元，同比增长522.79%",
+      "link": "https://36kr.com/newsflashes/3787723974974467?f=rss",
+      "published_time": "2026-04-29 09:52:04",
+      "raw_content": "36氪获悉，兆易创新披露一季报，公司2026年一季度实现营业收入41.88亿元，同比增长119.38%；归属于上市公司股东的净利润14.61亿元，同比增长522.79%。",
+      "ai_summary": "兆易创新2026年一季度营收41.88亿元，同比增长119.38%；净利润14.61亿元，同比增长522.79%。",
+      "ai_tags": [
+        "兆易创新",
+        "业绩",
+        "大幅增长"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "去年中国数据生产总量达52.26ZB 同比增27.28%",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972130",
+      "published_time": "2026-04-29 08:25:15",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/80e0b7dc7d0ee5507396dcac96eb2508c227a94d97d2d5d79bcb78cfec0156e1\" /><figcaption></figcaption></figure><div><div><p>2025年，中国数据生产总量达到52.26ZB（泽字节，1ZB相当于10亿TB），同比增长27.28%。</p><p>据中新社报道，第九届数字中国建设峰会星期三（4月29日）在福州开幕。中国国家发改委中共党组成员、国家数据局局长刘烈宏在开幕式上披露上述数据。</p><p>刘烈宏介绍，2025年，中国系统软件、人工智能产生的数据量达26.92ZB，首次超过传统占主体地位的物联感知数据量。</p><p>其中，用于人工智能训练和推理的数据总量为199.48EB（艾字节，1ZB相当于1024EB），同比增长42.86%，推理数据量首次超过训练数据量，达到101.34EB。</p><p>刘烈宏介绍，2025年全国日均词元（Token）调用量",
+      "ai_summary": "2025年中国数据生产总量52.26ZB，同比增长27.28%，AI数据量首超物联感知数据。",
+      "ai_tags": [
+        "中国",
+        "数据生产",
         "AI",
-        "商汤",
-        "开源",
-        "多模态"
+        "增长"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "大陆国台办：两岸和平统一是台湾经济发展空前良机",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972085",
+      "published_time": "2026-04-29 08:20:37",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/e3a2b1c4c1ddbacea8a7822d4befbcea76978dfdbcf0cdf0372bd3841067261b\" /><figcaption></figcaption></figure><div><div><p>中国大陆国台办新闻发言人陈斌华星期三（4月29日）在北京表示，两岸和平统一将给台湾的投资环境、营商环境注入更大确定性、成长性，是台湾经济发展的空前良机和最大底气。</p><p>大陆国台办星期三举行例行新闻发布会，解读和平统一后台湾七个“更好”中关于经济发展相关内容。</p><p>和平统一后台湾的“七个更好”，由中国大陆全国政协主席王沪宁去年10月25日在纪念台湾光复80周年大会上正式提出。具体指的是经济发展会更好、能源资源保障会更好、基础设施建设会更好、安全保障会更好、对外交往会更好、民生福祉会更好，以及精神文化生活会更好。</p><p>陈斌华指出，届时两岸贸易将进一步释放新的增长动能，大陆市场将成为台湾经济稳定增长的强力支撑。两",
+      "ai_summary": "大陆国台办称两岸和平统一是台湾经济发展空前良机。",
+      "ai_tags": [
+        "两岸关系",
+        "和平统一",
+        "台湾经济"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
+      "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel",
+      "published_time": "2026-04-29 08:20:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/df/69/df6f6c4919f06e9560ec5a53a926de69.png\" /></p><p>过去几个月，“龙虾”类智能体产品经历了一轮从狂热到理性的过程。英特尔中国区技术部总经理高宇认为，这正是讨论“智能体PC”的时机：智能体时代的大门已经打开，但要让它从工程师和极客的“玩具”，变成大多数人都能使用的工具，行业需要在硬件、软件、产品和生态上共同补齐短板。</p><p>&nbsp;</p><p>英特尔给出的方向是端云混合AI，即让云端大模型负责更复杂、更长上下文、更高智能的任务，让本地AI模型承担一部分固定流程、隐私敏感和低延时任务，再通过智能路由机制在端侧和云端之间自动分配任务。在其看来，这将是智能体PC普及的关键。</p><p>&nbsp;</p><p></p><h2>智能体PC：不是更快的PC，而是“数字分身”</h2><p></p><p>&nbsp;</p><p>英特尔这次提出了“智能体PC”的概念，并解释称这并不是简单在AI PC上跑几个本地模型，而是面向",
+      "ai_summary": "英特尔提出“智能体PC”概念，采用端云混合AI方案，让云端大模型与本地模型协同工作，推动智能体普及。",
+      "ai_tags": [
+        "英特尔",
+        "端云混合",
+        "智能体PC"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中国羽协主席张军任上落马",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972008",
+      "published_time": "2026-04-29 08:10:23",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/76e56d258d46dd0962b791c4ec0bde91898e82bfac98e035438845a205317a75\" /><figcaption></figcaption></figure><div><div><p>失联多日后，中国羽毛球协会主席、南京体育学院副院长张军官宣被查。</p><p>中央纪委国家监委星期三（4月29日）通报，据中央纪委国家监委驻国家体育总局纪检监察组、江苏省纪委监委消息，中国羽毛球协会主席、南京体育学院副院长张军涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家体育总局纪检监察组纪律审查和江苏省南通市监察委员会监察调查。</p><p>官宣前，张军已失联多日。有球迷发现，近期的羽毛球亚锦赛和汤尤杯两个重大赛事，张军均未出现。南京体育学院官网“学校领导”页面里，现任领导名单里撤掉了张军的名字。</p><p>张军从2019年起担任中国羽毛球协会主席。张军曾分别在2000年的悉尼奥运会、2004年的雅典奥运会上，与搭档合作夺",
+      "ai_summary": "中国羽协主席张军涉嫌严重违纪违法被查。",
+      "ai_tags": [
+        "张军",
+        "羽毛球",
+        "违纪违法",
+        "被查"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
+      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa",
+      "published_time": "2026-04-29 08:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9b/93/9b374cdb571f3a4da3b2d3f4e49eca93.png\" /></p><p></p><blockquote>程序员们，先别忙着焦虑AI会抢走你的饭碗。现在更该焦虑的，可能是你们的 CTO 和 CFO了：因为让 AI 写代码，实在太烧钱了。</blockquote><p></p><p>&nbsp;</p><p>Copilot 和 Claude Code，几乎在同一时间，给行业踩了一脚刹车。</p><p>&nbsp;</p><p>今天（4月28日），GitHub 宣布从2026 年 6 月 1 日起，GitHub Copilot 将告别“无限畅饮”模式，将 Copilot 从“按请求计费”转为“按使用量计费”。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97b4f74fad3ad8f7f7dc1af108c0f37b.jpeg\" /></p><",
+      "ai_summary": "报道GitHub Copilot和Claude Code从按请求计费转为按使用量计费，引发AI写代码成本高涨，可能促使企业重新考虑聘用程序员。",
+      "ai_tags": [
+        "AI写代码",
+        "Copilot",
+        "Claude",
+        "涨价",
+        "成本"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "习近平：树立正确政绩观 纠正重救灾轻预防倾向",
+      "link": "https://www.zaobao.com/news/china/story20260429-8971213",
+      "published_time": "2026-04-29 06:45:29",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国去年的自然灾害直接经济损失超过2400亿元（人民币，下同，448.18亿新元），中共总书记习近平称，降低灾害风险，减轻灾害损失，重在事前预防，并强调树立和践行正确政绩观，坚决纠正重发展轻安全、重救灾轻预防等倾向。</p><p>据新华社报道，中共政治局星期二（4月28日）下午就提高防灾减灾救灾能力进行集体学习。习近平在主持学习时强调，要站在统筹高质量发展和高水平安全的战略高度，充分认识做好防灾减灾救灾工作的重要性，着力提高防范应对自然灾害能力，切实维护人民群众生命财产安全。</p><p>据报道，中国应急管理部国家自然灾害防治研究院院长杨思全也就此进行讲解，并提出工作建议。</p><p>习近平随后称，中共十八大以来，中共中央坚持把防灾减灾救灾工作作为关系人民安危和国家安全的大事来抓，在理念转变、体制改革、体系建设、能力提升等方面作出许多部署，",
+      "ai_summary": "习近平在政治局集体学习时强调树立正确政绩观，纠正重救灾轻预防倾向。",
+      "ai_tags": [
+        "习近平",
+        "防灾减灾",
+        "政绩观",
+        "预防"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 00:24:05",
-      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
+      "title": "King Charles gets ovation for Congress speech warning of volatile world",
+      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 05:55:19",
+      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
+      "ai_summary": "查尔斯国王在美国国会演讲，强调在动荡时期英美关系的重要性。",
       "ai_tags": [
-        "FBI",
-        "特朗普",
-        "威胁"
+        "查尔斯国王",
+        "美国国会",
+        "英美关系"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了",
+      "link": "https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz",
+      "published_time": "2026-04-29 05:46:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/14/5ca664148d7a5e3daebfbe560d151414.png\" /></p><p>4 月 20 日，Amazon 宣布在已有 $80 亿投资基础上再向 Anthropic 追加最多 $250 亿，Anthropic 同步承诺未来十年在亚马逊云科技花掉 $1000 亿以上。两笔相加，Amazon 对 Anthropic 的累计承诺已经站到 $330 亿。经过多轮可转换债转股之后，Amazon 在 Anthropic 的持股，按市场估算，很可能已经超过 Google 的 14%，成为 Anthropic 上最大的外部股东。</p><p></p><p>4 月 28 日上午，距离亚马逊云科技旧金山发布会还剩不到一天，Andy Jassy 在 LinkedIn 上发了一段不到 80 个英文词的预告：</p><p></p><p>“OpenAI’s models will be available directly to customers on Bedrock in",
+      "ai_summary": "亚马逊宣布向Anthropic追加投资250亿美元，累计投资承诺达330亿美元，亚马逊成为Anthropic最大外部股东。",
+      "ai_tags": [
+        "OpenAI",
+        "亚马逊云科技",
+        "Anthropic",
+        "投资"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "萝卜快跑故障后 中国暂停发放自动驾驶新牌照",
+      "link": "https://www.zaobao.com/news/china/story20260429-8970628",
+      "published_time": "2026-04-29 05:16:17",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/1eb5c7b335861f17880f3efd3e7a22c1e9827e052db105cc2801948df5a3d00d\" /><figcaption></figcaption></figure><div><div><p>彭博社星期三（4月29日）引述知情者报道，在上个月中国互联网巨头百度旗下数十辆萝卜快跑无人驾驶车辆在武汉突然停驶、导致乘客滞留并扰乱交通后，中国已暂停发放新的自动驾驶汽车牌照。</p><p>知情者称，这起事件引起当局警觉。本月初，包括中国工业和信息化部在内的三个机构，召集已开展无人驾驶德士或自动驾驶试点的城市官员开会。监管机构要求地方政府进行全面自查，并加强安全监测，以防类似事件再次发生。</p><p>知情者说，暂停发放新牌照将使自动驾驶公司无法为车队新增无人驾驶德士，也无法启动新测试项目或拓展至新城市。暂停措施将持续多久，目前尚不清楚。</p><p>知情者也提到，百度在武汉的无人驾驶德士业务已暂停，当地政府正就此事展开调查。</",
+      "ai_summary": "因百度萝卜快跑无人驾驶车辆在武汉故障，中国已暂停发放自动驾驶新牌照，并召集城市官员开会加强安全监测。",
+      "ai_tags": [
+        "自动驾驶",
+        "百度",
+        "萝卜快跑",
+        "暂停牌照",
+        "武汉"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "published_time": "2026-04-28 16:15:43",
-      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 264</p>\n<p># Comments: 63</p>",
-      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的详细分析。",
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "published_time": "2026-04-28 19:44:52",
+      "raw_content": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 2603</p>\n<p># Comments: 761</p>",
+      "ai_summary": "Ghostty项目宣布离开GitHub平台。",
       "ai_tags": [
-        "hacker_news",
-        "GitHub",
-        "漏洞",
-        "安全"
+        "开源",
+        "GitHub"
       ],
       "ai_importance": 5
     },
@@ -55,26 +202,25 @@
       "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "published_time": "2026-04-28 15:30:00",
       "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub两小时内修复并调查了一个关键远程代码执行漏洞，确认未被利用。",
+      "ai_summary": "GitHub应对git push管道中的关键远程代码执行漏洞，在两小时内完成验证、修复和调查，确认未被利用。",
       "ai_tags": [
-        "security",
-        "vulnerability",
-        "GitHub"
+        "GitHub",
+        "安全",
+        "漏洞修复"
       ],
       "ai_importance": 5
     },
     {
-      "category": "zaobao_china",
-      "title": "中美角力遇中东战火 中共政治局会议提AI与能源安全",
-      "link": "https://www.zaobao.com/news/china/story20260428-8967801",
-      "published_time": "2026-04-28 13:58:34",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/04f4c147b14d034864e158bac68e707b6c6b596715fb8c85db4eb142f1ab0822\" /><figcaption></figcaption></figure><div><div><p>面对中东战争和中美科技战两大外部环境不确定性，中共政治局会议星期二（4月28日）召开。会议强调，推动科技自立自强、产业链自主可控；全面实施“人工智能+”行动；提高能源资源安全保障水平。</p><p>受访学者从中共政治局会议对外公布的内容判断，中国正持续转向巩固内部可控因素，如扩大投资与内需及寻求产业链自主可控，以对冲外部环境冲击；考虑到中美领导人可能即将于约两周后，即5月中旬在北京会面，中国此时更需确保国内经济趋稳定。</p><p>中共政治局本次会议分析研究当前经济形势和经济工作，会议由中共总书记习近平主持。</p><p>根据新华社通稿，会议首先肯定中国经济“起步有力”，主要指标好于预期，同时坦承“面临一些困难和挑战”，经济持续稳",
-      "ai_summary": "中共政治局会议分析经济形势，强调推动科技自立自强、实施AI+行动、提高能源安全保障，以应对中美角力和中东战火外部不确定性。",
+      "category": "v2ex",
+      "title": "能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气",
+      "link": "https://www.v2ex.com/t/1209195",
+      "published_time": "2026-04-28 13:24:51",
+      "raw_content": "KaiWuBOSS: <h1>我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞</h1>\n<blockquote>\n<p>本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。</p>\n</blockquote>\n<hr />\n<h2>一、我遇到了什么问题</h2>\n<p>去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。</p>\n<p>但更大的问题是：<strong>中国开发者根本没有一个好用的本地 coding agent 平台。</strong></p>\n<p>CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。</p>\n<p><strong>这是一个真实存在的空缺，没有人填。</strong></p>\n<p>本地跑 qwen3:",
+      "ai_summary": "一位开发者创建了专为本地开源模型优化的Coding Agent，呼吁华人开发者共同参与，填补国内缺乏好用的本地编程助手平台的空白。",
       "ai_tags": [
-        "政治局会议",
         "AI",
-        "能源安全",
-        "中美关系"
+        "开源模型",
+        "编程助手"
       ],
       "ai_importance": 5
     },
@@ -84,27 +230,12 @@
       "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
       "published_time": "2026-04-28 11:10:05",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1396\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_anthropic_google_pentagon-scaled.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.</p>\n<p>The ar",
-      "ai_summary": "谷歌不顾600多名员工联名抗议，与美国国防部签署合同，提供其AI模型用于机密工作。法律专家指出合同安全条款不具备法律约束力。",
+      "ai_summary": "Google无视600多名员工抗议，与五角大楼签署AI协议，允许国防部访问其AI模型用于机密工作，法律专家称安全条款无约束力。",
       "ai_tags": [
-        "谷歌",
-        "美国国防部",
+        "Google",
         "AI",
-        "争议"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "the_decoder",
-      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
-      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
-      "published_time": "2026-04-28 09:29:03",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.</p>\n<p>The article <a href=\"https://t",
-      "ai_summary": "OpenAI 2026年第一季度未达到内部收入目标，同时面临来自Anthropic和谷歌等竞争对手的压力，公司内部关于巨额支出承诺的分歧加剧。",
-      "ai_tags": [
-        "OpenAI",
-        "收入",
-        "竞争",
-        "财务"
+        "军事",
+        "五角大楼"
       ],
       "ai_importance": 5
     },
@@ -114,26 +245,25 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published_time": "2026-04-27 22:52:57",
       "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "马斯克与奥特曼将在北加州法庭对决，案件影响OpenAI的IPO及盈利化转型合法性。",
+      "ai_summary": "马斯克与奥特曼就 OpenAI 未来走向即将对簿公堂，可能影响其 IPO 及盈利模式。",
       "ai_tags": [
         "OpenAI",
-        "马斯克",
-        "奥特曼",
-        "盈利转型",
+        "法律",
         "IPO"
       ],
       "ai_importance": 5
     },
     {
-      "category": "hacker_news",
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "published_time": "2026-04-27 21:55:48",
-      "raw_content": "<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 649</p>\n<p># Comments: 262</p>",
-      "ai_summary": "Talkie是一个基于1930年代数据集训练的13B参数复古语言模型，旨在模拟早期AI风格。",
+      "category": "github",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "published_time": "2026-04-27 15:58:22",
+      "raw_content": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "ai_summary": "GitHub Copilot自6月1日起改为基于使用量的计费模式，消耗AI积分。",
       "ai_tags": [
-        "AI",
-        "语言模型"
+        "GitHub Copilot",
+        "计费",
+        "AI"
       ],
       "ai_importance": 5
     },
@@ -143,27 +273,12 @@
       "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
       "published_time": "2026-04-27 14:18:40",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2025/11/altman_nadella_bg2pod_25_new.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-and-microsoft-rewrite-thei",
-      "ai_summary": "OpenAI与微软重新修订合作协议：OpenAI可通过任何云提供商分发产品，微软失去技术独家许可，且争议性的AGI条款被移除。",
+      "ai_summary": "OpenAI与Microsoft重新修订合作协议：OpenAI可通过任何云提供商分发产品，微软失去独家技术许可，AGI条款被删除。",
       "ai_tags": [
         "OpenAI",
-        "微软",
+        "Microsoft",
         "合作",
         "AGI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "published_time": "2026-04-27 06:00:00",
-      "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI 与微软宣布修订合作协议，简化合作关系，增加长期清晰度，并支持持续的大规模AI创新。",
-      "ai_tags": [
-        "OpenAI",
-        "微软",
-        "合作",
-        "更新"
       ],
       "ai_importance": 5
     },
@@ -173,127 +288,14 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国监管机构叫停Meta对AI公司Manus的20亿美元收购，要求撤销交易，因涉嫌违反投资规定。",
+      "ai_summary": "中国监管机构叫停Meta对人工智能公司Manus的20亿美元收购交易，要求当事人撤销该收购。",
       "ai_tags": [
-        "中美博弈",
-        "科技收购",
-        "监管"
+        "中国",
+        "监管",
+        "科技",
+        "收购"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "美国检方终止对美联储主席鲍威尔的调查",
-      "link": "https://www.ftchinese.com/story/001109562",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "这一进展是在白宫开会并与关键参议员沟通后发生的。此前这项刑事调查促使一些共和党参议员拒绝支持总统对美联储下一任主席的提名。",
-      "ai_summary": "美国检方终止对美联储主席鲍威尔的刑事调查，此前调查导致共和党参议员拒绝支持总统提名。",
-      "ai_tags": [
-        "美联储",
-        "司法",
-        "政治"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "Our principles",
-      "link": "https://openai.com/index/our-principles",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "ai_summary": "OpenAI的使命是确保AGI惠及全人类，Sam Altman分享了指导工作的五条原则。",
-      "ai_tags": [
-        "OpenAI",
-        "原则",
-        "AGI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "白宫记协晚宴发生枪击 凶嫌是加州教师",
-      "link": "https://www.ftchinese.com/story/001109559",
-      "published_time": "2026-04-25 16:00:00",
-      "raw_content": "来自加州托伦斯的31岁男子科尔•托马斯•艾伦当地时间周六晚试图持枪闯入白宫记者协会晚宴，一名特勤局特工的防弹背心中弹。",
-      "ai_summary": "白宫记者协会晚宴发生枪击，一名加州教师试图闯入，特勤局特工防弹背心中弹。",
-      "ai_tags": [
-        "枪击",
-        "安全事件",
-        "白宫"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "普华永道因恒大审计被香港监管机构处罚",
-      "link": "https://www.ftchinese.com/story/001109546",
-      "published_time": "2026-04-23 16:00:00",
-      "raw_content": "香港证监会和会财局对普华永道合计罚款13亿港元，称其在审计恒大账目过程中“严重违反其专业责任”，并禁止其在六个月内承接新的审计客户。",
-      "ai_summary": "普华永道因恒大审计违规被香港监管机构罚款13亿港元，并暂停承接新审计客户六个月。",
-      "ai_tags": [
-        "审计",
-        "处罚",
-        "恒大"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "published_time": "2026-04-23 11:00:00",
-      "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "ai_summary": "OpenAI推出GPT-5.5，这是其最智能的模型，速度更快、能力更强，面向编程、研究和数据分析等复杂任务。",
-      "ai_tags": [
-        "GPT-5.5",
-        "模型发布",
-        "AI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "36kr",
-      "title": "吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%",
-      "link": "https://36kr.com/newsflashes/3787386456644616?f=rss",
-      "published_time": "2026-04-29 04:08:44",
-      "raw_content": "36氪获悉，吉利汽车公告，2026第一季度，录得总销量709358辆，同比增长1%。受益于出口销量的强劲增长及高价值产品销售占比提升，本集团期内收入同比增长15%，收入增速高于销量增速。2026年第一季度，母公司拥有人应占利润为人民币41.7亿元，同比下降27%，主要由于本期间与去年同期相比，外汇波动所产生的影响有所不同。",
-      "ai_summary": "吉利汽车2026年第一季度利润同比下降27%，但收入增长15%，销量微增。",
-      "ai_tags": [
-        "吉利汽车",
-        "财报",
-        "利润下降"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%",
-      "link": "https://api3.cls.cn/share/article/2359221?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 04:04:28",
-      "raw_content": "【吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%】4月29日，吉利汽车控股有限公司（0175.HK，以下简称 “吉利汽车”）公布2026年第一季度业绩报告，实现高质量发展再进阶。一季度，吉利汽车实现中国自主品牌销量第一，总收入达838亿元，同比增长15%，创同期新高。依托全球化布局深化、高端化产品矩阵发力，剔除外汇汇兑等非核心损益影响后，公司实现核心归母净利润45.6亿元，同比劲增31%，核心利润增速高于收入增速；当期毛利率17.5%，同比提升11%，整体盈利能力持续向好。截至2026年一季度末，公司总现金水平达602亿元，现金储备充裕，公司经营稳健。\n\n第二季度，吉利汽车将立足全球化、高端化、智能化、能源多元化四大战略，计划推出十余款车型与关键技术升级，全面释放品牌势能，加速推进高质量发展与可持续增长。",
-      "ai_summary": "吉利汽车2026年一季度营收首破800亿元，达838亿元，同比增长15%；核心归母净利润45.6亿元，同比增31%，毛利率提升至17.5%。",
-      "ai_tags": [
-        "吉利汽车",
-        "业绩",
-        "营收"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "财联社4月29日午间新闻精选",
-      "link": "https://api3.cls.cn/share/article/2359217?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 04:00:51",
-      "raw_content": "【财联社4月29日午间新闻精选】\n1、截至午间收盘，上证指数涨0.4%，深证成指涨1.58%，创业板指涨2.27%。恒生指数涨1.23%，恒生科技指数涨1.07%。\n2、报告显示，2025年，全国日均词元调用量从年初的超万亿增长到年末的100万亿，呈现指数级增长；全年词元累计调用量达到约21100万亿。\n3、中国钢铁工业协会副会长兼秘书长姜维29日表示，受中东地区局势影响，石油价格上涨导致采矿成本和运费增加、通胀预期上升，炼焦煤、焦炭、铁合金、废钢等原燃料价格均受影响维持高位运行，钢铁企业的成本压力加大。\n4、自然资源部4月29日发布我国最新矿产资源家底。我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一。\n5、据美国《华尔街日报》当地时间4月28日援引美方官员消息报道称，美国总统特朗普已指示助手“准备对伊朗实施长期封锁”，旨在迫使伊朗做出“核让步”。",
-      "ai_summary": "午间新闻精选：A股港股上涨，AI日调用量指数级增长，钢铁成本压力加大，我国14种矿产储量世界第一，特朗普准备对伊朗实施长期封锁。",
-      "ai_tags": [
-        "股市",
-        "AI",
-        "钢铁",
-        "矿产",
-        "伊朗"
-      ],
-      "ai_importance": 4
     }
   ]
 }

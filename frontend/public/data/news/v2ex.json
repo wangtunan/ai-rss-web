@@ -1,21 +1,91 @@
 {
-  "total": 9,
+  "total": 10,
   "limit": 10,
   "offset": 0,
   "items": [
+    {
+      "category": "v2ex",
+      "title": "裸辞之后看到原老板发的朋友圈非常不舒服，那我也在这里评价他几句",
+      "link": "https://www.v2ex.com/t/1209346",
+      "published_time": "2026-04-29 04:59:04",
+      "raw_content": "runxin: <p>他在朋友圈评论开发，那我就在这里也评论下他。</p>\n<p>我和这个人多年共事之后，非常不爽，以至于前不久终于忍不住裸辞了，原因很多，这里就随便列举几条印象比较深刻的。还有一些逆天的说不出来，不然容易被看出来这是哪家公司。</p>\n<p>他是非计算机科班，民办三本，毕业一年后赶上移动互联网风口转行产品经理，中间也自学过一点 UI 设计和网页前端，后来一家大公司的一个 App 业务被独立拆成一家小公司，从此他担任这里的老板。</p>\n<h4>不信任任何人，甚至和员工抢功劳</h4>\n<p>每次版本上线之后，如果留存率出现下滑，就让开发去检查代码，开发确认没问题，仍然逼着开发直接回退代码。</p>\n<p>如果版本上线之后，留存率未下滑，就开始吹自己 ASO 做的好，说自己这个版本又优化了 xx 关键词。</p>\n<p>但实际上 2026 年了，他还在搞 2016 年那时候的堆砌关键词的玩法，语序根本不通，人和现代的 AI 都看不懂他写的 App 描述，真的对 ASO 有效果吗？还吹自己用 python 做了什么关键词权重排序。</p>\n<p>不信任开发，我入职到离职期",
+      "ai_summary": "一名V2EX用户裸辞后吐槽原老板不信任员工、抢功劳，并批评其ASO方式落后。",
+      "ai_tags": [
+        "职场",
+        "吐槽",
+        "裸辞"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "人生第一辆车，如何选择？",
+      "link": "https://www.v2ex.com/t/1209326",
+      "published_time": "2026-04-29 03:40:06",
+      "raw_content": "nishuodebudui: 兄弟们，人生第一辆车如何选择？<br /><br />基本情况：对车不感兴趣，对车没有研究；<br />目前偏向：油车，电车特斯拉 modely 太贵；<br />个人预算：25w 左右；<br />用车范围：普通家庭用车。年总里程应该不会太多，可能会有通勤？可能会周末周围带媳妇儿玩儿？距离老家 100 多公里，距离媳妇家 600 多公里，；<br /><br /><br />目前在看：轿车：沃尔沃 S90 低配 SUV：奥迪 Q5L ，凯迪拉克 XT5,沃尔沃 XC60<br /><br />欢迎推荐补充，感谢提意见和建议的朋友；",
+      "ai_summary": "用户求推荐第一辆车，预算25万左右，考虑油车，目前看中沃尔沃S90、奥迪Q5L等，需兼顾通勤和长途。",
+      "ai_tags": [
+        "汽车",
+        "购车咨询",
+        "家用车"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度",
+      "link": "https://www.v2ex.com/t/1209249",
+      "published_time": "2026-04-29 01:20:23",
+      "raw_content": "superman: <h2>我们是谁？</h2>\n<p><strong>GoAPIs 中转站</strong> 👉 直达链接：<a href=\"https://goapis.vip/\" rel=\"nofollow\">https://goapis.vip/</a></p>\n<ul>\n<li>新站开业，自有 Pro 号池</li>\n<li>目前支持模型：GPT-5.5 、GPT-5.4 、GPT-5.4-mini 、GPT-5.3-codex 、GPT-5.2</li>\n<li>2 天后上满血 Claude ，敬请期待</li>\n</ul>\n<h2>定价说明</h2>\n<ul>\n<li>充值汇率固定 1:1 ，减少心智负担</li>\n<li>计费方式：按量计费，余额不过期</li>\n<li>企业客户支持开票</li>\n</ul>\n<hr />\n<h2>怎么送？直奔主题</h2>\n<h3>1️⃣ 注册账号</h3>\n<p>👉 直达链接：<a href=\"https://goapis.vip/\" rel=\"nofollow\">https://goapis.vip/</a>，免费注册</p>\n<",
+      "ai_summary": "GoAPIs中转站新站开业，主打稳定，注册送10美元额度，支持GPT-5系列模型，后续将上线Claude。",
+      "ai_tags": [
+        "AI",
+        "API",
+        "推广"
+      ],
+      "ai_importance": 2
+    },
     {
       "category": "v2ex",
       "title": "Flico 突然倒闭了，时代的眼泪",
       "link": "https://www.v2ex.com/t/1209238",
       "published_time": "2026-04-29 00:48:05",
       "raw_content": "dddd1919: <p>市场太卷，各种轴体客制，flico 已经被卷的有的新同事都没听说过🤣</p>\n<p>等手里的圣手挂了准备换个磁轴试试（不知道要到哪年）</p>",
-      "ai_summary": "机械键盘品牌Flico倒闭，市场过度竞争导致。",
+      "ai_summary": "用户感叹机械键盘品牌Flico倒闭，市场被客制化轴体卷死。",
       "ai_tags": [
         "机械键盘",
-        "Flico",
-        "行业"
+        "行业动态",
+        "倒闭"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "自己做的 GPT Image 2 生图 支持场景模板了",
+      "link": "https://www.v2ex.com/t/1209237",
+      "published_time": "2026-04-29 00:38:01",
+      "raw_content": "chaoziCoder: <p>自己做的 GPT Image 2 生图网站，支持 GPT Image 2 的全部功能</p>\n<p>目前已经上线多个场景模板，支持一键复刻高级效果 <a href=\"https://gpt-image-prompt.com/templates\" rel=\"nofollow\">https://gpt-image-prompt.com/templates</a> </p>\n<p>欢迎注册体验，感兴趣的话评论区留下邮箱，我给大家发放积分</p>\n<p><img alt=\"模板功能\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://ship-image.chaozi.work/uploads/1777422845797-w-9kakb8TXLyId-hQgc-V.webp\" /></p>",
+      "ai_summary": "作者自建GPT Image 2生图网站，支持场景模板，邀请用户注册体验。",
+      "ai_tags": [
+        "AI绘图",
+        "GPT",
+        "模板"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "夏雨荷翻车了，你认为济南应该用哪个 IP？",
+      "link": "https://www.v2ex.com/t/1209236",
+      "published_time": "2026-04-29 00:37:46",
+      "raw_content": "intoext: <p>我认为可以选两个\n其一 大舜帝\n其二 辛弃疾</p>",
+      "ai_summary": "讨论济南城市IP，建议选用大舜帝或辛弃疾。",
+      "ai_tags": [
+        "城市IP",
+        "济南",
+        "文化"
+      ],
+      "ai_importance": 1
     },
     {
       "category": "v2ex",
@@ -23,28 +93,13 @@
       "link": "https://www.v2ex.com/t/1209234",
       "published_time": "2026-04-29 00:35:29",
       "raw_content": "Cloud9527: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/wTahDkD.png\" /></p>",
-      "ai_summary": "分享领到小米100T计划MAX套餐，月费659元。",
+      "ai_summary": "用户分享领到小米100T计划MAX套餐，月费约659元。",
       "ai_tags": [
         "小米",
-        "100T计划",
-        "套餐"
+        "套餐",
+        "分享"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "公司买 api 一般是官 key 还是中转？",
-      "link": "https://www.v2ex.com/t/1209118",
-      "published_time": "2026-04-28 07:22:41",
-      "raw_content": "my2492: 老板体验了 claude 后拍板要把 claude 嵌入全公司工作流，让我去解决采购渠道问题，要求数据不得经过非正规公司传送，大概意思估计是买大厂 vps 自建 api 代理可以，但不能买贩子的中转站。但是先不说走什么代理的问题，国内几乎都找不到官 key 的货源啊，都是 5 刀 20 刀这种个人用的，总不能让老板去小黄鱼买吧。<br /><br />问了几家能做对公的，都是中转，拍胸脯保证他们客户都是大厂，绝对稳定高质量，但那个价格感觉就像假的。<br /><br />老板要求 3 天内必须给结果，老板不懂电脑，跟他没法解释",
-      "ai_summary": "老板要求采购Claude API嵌入工作流并确保数据安全，作者发现国内难寻官方渠道，只有可疑的中转服务，陷入困境。",
-      "ai_tags": [
-        "API",
-        "Claude",
-        "采购",
-        "企业"
-      ],
-      "ai_importance": 4
+      "ai_importance": 1
     },
     {
       "category": "v2ex",
@@ -52,37 +107,13 @@
       "link": "https://www.v2ex.com/t/1209195",
       "published_time": "2026-04-28 13:24:51",
       "raw_content": "KaiWuBOSS: <h1>我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞</h1>\n<blockquote>\n<p>本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。</p>\n</blockquote>\n<hr />\n<h2>一、我遇到了什么问题</h2>\n<p>去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。</p>\n<p>但更大的问题是：<strong>中国开发者根本没有一个好用的本地 coding agent 平台。</strong></p>\n<p>CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。</p>\n<p><strong>这是一个真实存在的空缺，没有人填。</strong></p>\n<p>本地跑 qwen3:",
-      "ai_summary": "",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "我开始使用呼吸机睡觉了",
-      "link": "https://www.v2ex.com/t/1209141",
-      "published_time": "2026-04-28 08:22:25",
-      "raw_content": "quxiangxuanqxx: <p>之前我妻子跟我说其实她睡眠越来越差，每晚都能听到我打呼，有的时候还有那种吸不上来气的感觉，我一下子就连联想到我的父亲和祖父，小时候和他们一起睡，就算其他房间也能听到打呼，而且经常有吸不上来气然后就像启动拖拉机似的要猛吸几口并伴随着让人心悸的声音。</p>\n<p>没想到我也这样了。我和妻子也是坐下来聊了聊，其实这里有个第三者，gemini ，简单聊过就是要去看医生。但是苦于我在东京，日语也不好，家附近搜了几家诊所，感觉都不行。日本这边的就医体验和医生关系很大，很多医生看你不懂日语，压根不多说，就说大丈夫开始赶人。当时也没当回事，就这么放着了。</p>\n<p>后面我自己发现，虽然我每天睡了一觉，但是早上起来依然感觉身心俱疲，这个状态持续很久了。而且打呼大概率是肥胖引起的，以前上大学的时候我 120 斤，现在已经快 150 斤了，我的妻子也说我之前是不打呼的。我不抽烟不喝酒，除了肥胖也没有其他可能了，所以开始超慢跑并且跟着一些视频教程来改善打呼的情况。</p>\n<p>打呼这玩意，按我妻子的说法，就像是有自己的意识，她经常被我吵得起来捏住我的嘴，但是我的呼",
-      "ai_summary": "作者因打呼、睡眠呼吸问题，在就医困难的情况下，尝试运动改善后最终开始使用呼吸机。",
+      "ai_summary": "一位开发者创建了专为本地开源模型优化的Coding Agent，呼吁华人开发者共同参与，填补国内缺乏好用的本地编程助手平台的空白。",
       "ai_tags": [
-        "健康",
-        "睡眠",
-        "呼吸机",
-        "打呼"
+        "AI",
+        "开源模型",
+        "编程助手"
       ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "大家最近有什么取悦自己的东西分享吗？",
-      "link": "https://www.v2ex.com/t/1209218",
-      "published_time": "2026-04-28 16:40:22",
-      "raw_content": "fjia4395: 最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。<br />好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了",
-      "ai_summary": "用户询问近期愉悦自己的物品，回应者表示A股盈利后无特别购买欲。",
-      "ai_tags": [
-        "消费",
-        "A股"
-      ],
-      "ai_importance": 2
+      "ai_importance": 5
     },
     {
       "category": "v2ex",
@@ -90,43 +121,27 @@
       "link": "https://www.v2ex.com/t/1209209",
       "published_time": "2026-04-28 15:15:56",
       "raw_content": "wtcoder: <h1>MuskAI 稳定生产力的源泉</h1>\n<ul>\n<li>💎超大源头 GPT PROMAX 池，按量 0.11 倍，tokens 吞吐量为 team/plus <strong>5 倍</strong></li>\n<li>💎超低延迟，国内专线接入（稳定不掉线）</li>\n<li>💎稳定持续可用，适合长期使用与业务接入（可开发票）</li>\n<li>💎适合需要稳定渠道的客户！</li>\n</ul>\n<h2>V 友专属福利：$30 刀 Codex/GPT5 爽用</h2>\n<h1>领取步骤</h1>\n<ul>\n<li>1 、加入 Q 群：1090132599</li>\n<li>2 、打开 <a href=\"http://muskpay.top/\" rel=\"nofollow\">http://muskpay.top</a> 注册账户</li>\n<li>3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅</li>\n</ul>\n<p>数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务</p>\n<p><img alt=\"image\" cla",
-      "ai_summary": "推广MuskAI服务，提供GPT代理，优惠码等。",
+      "ai_summary": "MuskAI推广源头GPT ProMAX服务，注册送30美元额度，强调低延迟和稳定性。",
       "ai_tags": [
         "AI",
-        "广告",
-        "GPT"
+        "API",
+        "推广"
       ],
       "ai_importance": 2
     },
     {
       "category": "v2ex",
-      "title": "你们会孤独吗？",
-      "link": "https://www.v2ex.com/t/1209105",
-      "published_time": "2026-04-28 06:41:05",
-      "raw_content": "Myst: <ul>\n<li>\n<p>想想毕业已经十年了，最近时常有一些感慨。</p>\n</li>\n<li>\n<p>我是 E 人，喜欢社交，也喜欢跟熟悉的老朋友聊天，但是在自己的某个时刻，想找一个人聊一聊天，却发现没有人。</p>\n</li>\n<li>\n<p>对待老朋友，我们无法再次同频，哪怕我们都有时间，也只是聊一些无关痛痒的话题。 </p>\n</li>\n<li>\n<p>我们不在了解彼此的生活近况，无法在细微之处展开更深入和同频的话题。其实我通常能接受这一点，毕竟我们已经分别，我们不在年少，我们都有了新的圈子，在彼此不属于对方的圈子里生活。每次见面，都意味着我们人生中见面的次数正在减少，或许这就是成长带来的代价。</p>\n</li>\n<li>\n<p>对于新朋友，我不知道自己是不是老了，现在我对于社交，通常情况下，我比以前更克制，更礼貌，新的朋友也只是朋友，没有了太多的情感交流，我们或许聊聊工作，或许聊聊摄影，或者谈谈彼此的生活，但也只是流于表面，在我的内心中，我依然很难相信新认识的任何一个人，尽管我们可以谈笑风生。</p>\n</li>\n<li>\n<p>好像现在能够了解我的生活，还能够",
-      "ai_summary": "作者毕业后十年感到孤独，与老朋友渐行渐远，对新朋友也难以建立深层情感连接。",
+      "title": "大家最近有什么取悦自己的东西分享吗？",
+      "link": "https://www.v2ex.com/t/1209218",
+      "published_time": "2026-04-28 16:40:22",
+      "raw_content": "fjia4395: 最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。<br />好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了",
+      "ai_summary": "用户股市赚钱后想消费取悦自己，但无明确目标，求推荐。",
       "ai_tags": [
-        "孤独",
-        "社交",
-        "情感",
-        "成长"
+        "消费",
+        "取悦自己",
+        "推荐"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "五一去平潭",
-      "link": "https://www.v2ex.com/t/1209068",
-      "published_time": "2026-04-28 04:15:42",
-      "raw_content": "oioioioioioi: <p>有没有什么需要注意的。顺便求一份攻略，然后问了民宿的老板，电动车已经 170 一天了。。。</p>",
-      "ai_summary": "作者计划五一去平潭旅游，寻求攻略并提到民宿电动车租金已涨至170元一天。",
-      "ai_tags": [
-        "旅游",
-        "平潭",
-        "五一",
-        "攻略"
-      ],
-      "ai_importance": 2
+      "ai_importance": 1
     }
   ]
 }

@@ -9,12 +9,11 @@
       "link": "https://openai.com/index/openai-on-aws",
       "published_time": "2026-04-28 00:00:00",
       "raw_content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "ai_summary": "OpenAI的GPT模型、Codex和Managed Agents现已在AWS上可用，使企业能够在AWS环境中构建安全的AI应用。",
+      "ai_summary": "OpenAI模型、Codex和托管Agent现已在AWS上可用，支持企业安全构建AI。",
       "ai_tags": [
         "OpenAI",
         "AWS",
-        "GPT",
-        "企业"
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -24,44 +23,13 @@
       "link": "https://openai.com/index/our-commitment-to-community-safety",
       "published_time": "2026-04-28 00:00:00",
       "raw_content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "ai_summary": "OpenAI 介绍其在ChatGPT中通过模型防护、滥用检测、政策执行以及与安全专家合作来保护社区安全的措施。",
+      "ai_summary": "OpenAI介绍其在ChatGPT中保护社区安全的措施，包括模型防护、滥用检测等。",
       "ai_tags": [
         "OpenAI",
-        "社区安全",
-        "ChatGPT",
-        "安全措施"
+        "安全",
+        "ChatGPT"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "openai",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "published_time": "2026-04-27 06:00:00",
-      "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI 与微软宣布修订合作协议，简化合作关系，增加长期清晰度，并支持持续的大规模AI创新。",
-      "ai_tags": [
-        "OpenAI",
-        "微软",
-        "合作",
-        "更新"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "published_time": "2026-04-27 14:00:00",
-      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "ai_summary": "OpenAI 获得FedRAMP Moderate授权，ChatGPT Enterprise和OpenAI API可用于美国联邦机构，支持安全的AI采用。",
-      "ai_tags": [
-        "OpenAI",
-        "FedRAMP",
-        "政府",
-        "安全"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "openai",
@@ -69,14 +37,41 @@
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "ai_summary": "Symphony是一个开源规范，用于Codex编排，将问题追踪器转变为始终在线的智能体系统，提高工程产出并减少上下文切换。",
+      "ai_summary": "介绍Symphony开源规范，将问题追踪器转化为常驻代理系统，提升工程产出并减少上下文切换。",
       "ai_tags": [
         "开源",
         "编排",
-        "Codex",
-        "智能体"
+        "Codex"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published_time": "2026-04-27 06:00:00",
+      "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "ai_summary": "OpenAI与微软修订合作协议，简化关系并支持持续AI创新。",
+      "ai_tags": [
+        "OpenAI",
+        "微软",
+        "合作"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "openai",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published_time": "2026-04-27 14:00:00",
+      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "ai_summary": "OpenAI获得FedRAMP Moderate授权，为美国政府机构提供安全AI服务。",
+      "ai_tags": [
+        "OpenAI",
+        "FedRAMP",
+        "政府"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "openai",
@@ -84,11 +79,10 @@
       "link": "https://openai.com/index/choco",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "ai_summary": "Choco使用OpenAI API自动化食品配送流程，提高生产力并实现增长，这是一个展示AI实际影响的客户案例。",
+      "ai_summary": "Choco使用OpenAI API优化食品分销流程，提升生产率和增长。",
       "ai_tags": [
-        "AI应用",
-        "食品配送",
-        "自动化",
+        "AI代理",
+        "食品分销",
         "客户案例"
       ],
       "ai_importance": 3
@@ -99,13 +93,13 @@
       "link": "https://openai.com/index/our-principles",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "ai_summary": "OpenAI的使命是确保AGI惠及全人类，Sam Altman分享了指导工作的五条原则。",
+      "ai_summary": "Sam Altman分享指导OpenAI工作的五项原则，使命是确保AGI惠及全人类。",
       "ai_tags": [
         "OpenAI",
         "原则",
         "AGI"
       ],
-      "ai_importance": 5
+      "ai_importance": 2
     },
     {
       "category": "openai",
@@ -113,11 +107,11 @@
       "link": "https://openai.com/index/introducing-gpt-5-5",
       "published_time": "2026-04-23 11:00:00",
       "raw_content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "ai_summary": "OpenAI推出GPT-5.5，这是其最智能的模型，速度更快、能力更强，面向编程、研究和数据分析等复杂任务。",
+      "ai_summary": "介绍GPT-5.5，最智能模型，更快更强，适用于编码、研究、数据分析等复杂任务。",
       "ai_tags": [
         "GPT-5.5",
-        "模型发布",
-        "AI"
+        "模型升级",
+        "OpenAI"
       ],
       "ai_importance": 5
     },
@@ -127,27 +121,25 @@
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
-      "ai_summary": "探索GPT-5.5生物漏洞赏金计划：一项旨在发现生物安全风险通用越狱的红队挑战，奖励高达25000美元。",
+      "ai_summary": "OpenAI推出GPT-5.5生物漏洞赏金计划，寻找通用越狱方法以防范生物安全风险，奖励高达2.5万美元。",
       "ai_tags": [
-        "openai",
         "GPT-5.5",
-        "漏洞赏金",
-        "生物安全"
+        "生物安全",
+        "漏洞赏金"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "openai",
-      "title": "Top 10 uses for Codex at work",
-      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "published_time": "2026-04-23 10:00:00",
-      "raw_content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "ai_summary": "探索10个Codex实际用例，涵盖自动化任务、创建交付物以及跨工具、文件和工作流程将真实输入转化为输出。",
+      "title": "GPT-5.5 System Card",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "published_time": "2026-04-23 11:00:00",
+      "raw_content": "",
+      "ai_summary": "GPT-5.5系统卡，详细说明模型安全性和能力。",
       "ai_tags": [
-        "Codex",
-        "用例",
-        "自动化",
-        "工作流"
+        "GPT-5.5",
+        "系统卡",
+        "安全"
       ],
       "ai_importance": 4
     }

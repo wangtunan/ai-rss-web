@@ -5,58 +5,43 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "published_time": "2026-04-28 16:15:43",
-      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 264</p>\n<p># Comments: 63</p>",
-      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的详细分析。",
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "published_time": "2026-04-29 02:19:11",
+      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 292</p>\n<p># Comments: 121</p>",
+      "ai_summary": "文章讨论Rust语言无法捕获的bug类型，指出其内存安全优势外的局限性。",
       "ai_tags": [
-        "hacker_news",
-        "GitHub",
-        "漏洞",
-        "安全"
+        "Rust",
+        "bug",
+        "内存安全",
+        "编程"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "hacker_news",
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "published_time": "2026-04-28 19:44:52",
+      "raw_content": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 2603</p>\n<p># Comments: 761</p>",
+      "ai_summary": "Ghostty项目宣布离开GitHub平台。",
+      "ai_tags": [
+        "开源",
+        "GitHub"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "UAE Leaves OPEC",
-      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
-      "published_time": "2026-04-28 13:13:54",
-      "raw_content": "<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 314</p>\n<p># Comments: 2</p>",
-      "ai_summary": "阿联酋宣布退出石油输出国组织（OPEC），影响全球能源市场。",
+      "title": "Who owns the code Claude Code wrote?",
+      "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "published_time": "2026-04-28 11:24:52",
+      "raw_content": "<p>Article URL: <a href=\"https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932937\">https://news.ycombinator.com/item?id=47932937</a></p>\n<p>Points: 407</p>\n<p># Comments: 380</p>",
+      "ai_summary": "探讨Claude Code生成的代码所有权归属问题。",
       "ai_tags": [
-        "能源",
-        "政治",
-        "OPEC"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "UAE to leave OPEC",
-      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "published_time": "2026-04-28 13:02:01",
-      "raw_content": "<p><a href=\"https://archive.ph/d956y\" rel=\"nofollow\">https://archive.ph/d956y</a><p><a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\" rel=\"nofollow\">https://www.reuters.com/markets/commodities/uae-says-it-quit...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933983\">https://news.ycombinator.com/item?id=47933983</a></p>\n<p>Points: 357</p>\n<p># Comments: 491</p>",
-      "ai_summary": "阿联酋退出OPEC的详细报道，引发市场震荡与讨论。",
-      "ai_tags": [
-        "能源",
-        "政治",
-        "OPEC"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Claude.ai unavailable and elevated errors on the API",
-      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "published_time": "2026-04-28 18:01:21",
-      "raw_content": "<p>Article URL: <a href=\"https://status.claude.com/incidents/9l93x2ht4s5w\">https://status.claude.com/incidents/9l93x2ht4s5w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47938097\">https://news.ycombinator.com/item?id=47938097</a></p>\n<p>Points: 274</p>\n<p># Comments: 234</p>",
-      "ai_summary": "Claude.ai不可用，且API出现大量错误。",
-      "ai_tags": [
-        "hacker_news",
-        "Claude",
-        "故障"
+        "AI",
+        "版权",
+        "代码"
       ],
       "ai_importance": 4
     },
@@ -65,25 +50,12 @@
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
       "published_time": "2026-04-28 15:21:00",
-      "raw_content": "<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1050</p>\n<p># Comments: 499</p>",
-      "ai_summary": "文章警告手机用户正失去对设备的控制权，呼吁关注安卓开放性的丧失。",
+      "raw_content": "<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1373</p>\n<p># Comments: 624</p>",
+      "ai_summary": "关于安卓开放性的讨论，担忧手机控制权被剥夺。",
       "ai_tags": [
-        "科技",
-        "隐私",
-        "安卓"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "GTFOBins",
-      "link": "https://gtfobins.org/",
-      "published_time": "2026-04-28 06:27:39",
-      "raw_content": "<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 341</p>\n<p># Comments: 87</p>",
-      "ai_summary": "GTFOBins是一个收集Unix二进制文件以绕过本地安全限制的列表，用于测试和利用。",
-      "ai_tags": [
-        "安全",
-        "工具"
+        "安卓",
+        "开放",
+        "隐私"
       ],
       "ai_importance": 4
     },
@@ -92,40 +64,53 @@
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "link": "https://github.com/localsend/localsend",
       "published_time": "2026-04-28 11:54:20",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 753</p>\n<p># Comments: 235</p>",
-      "ai_summary": "LocalSend是AirDrop的开源跨平台替代品，支持本地文件分享。",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 850</p>\n<p># Comments: 251</p>",
+      "ai_summary": "开源跨平台文件传输工具Localsend，作为AirDrop的替代品。",
       "ai_tags": [
-        "科技",
         "开源",
-        "文件传输"
+        "文件传输",
+        "跨平台"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Period tracking app, Flo, found to be selling user data to Meta",
-      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
-      "published_time": "2026-04-28 11:31:40",
-      "raw_content": "<p>Article URL: <a href=\"https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\">https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932990\">https://news.ycombinator.com/item?id=47932990</a></p>\n<p>Points: 335</p>\n<p># Comments: 219</p>",
-      "ai_summary": "经期追踪应用Flo被发现向Meta出售用户数据，引发隐私担忧。",
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "published_time": "2026-04-28 10:05:03",
+      "raw_content": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">https://github.blog/news-insights/company-news/an-update-on-github-availability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932422\">https://news.ycombinator.com/item?id=47932422</a></p>\n<p>Points: 397</p>\n<p># Comments: 237</p>",
+      "ai_summary": "GitHub 发布可用性更新，讨论近期事件和应对措施。",
       "ai_tags": [
-        "隐私",
-        "科技",
-        "数据泄露"
+        "GitHub",
+        "可用性"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
-      "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
-      "published_time": "2026-04-28 13:26:26",
-      "raw_content": "<p>Article URL: <a href=\"https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\">https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934269\">https://news.ycombinator.com/item?id=47934269</a></p>\n<p>Points: 279</p>\n<p># Comments: 104</p>",
-      "ai_summary": "OpenAI CEO的身份验证公司被曝虚假宣布与布鲁诺·马尔斯合作，涉嫌身份冒用。",
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "link": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "published_time": "2026-04-28 09:01:05",
+      "raw_content": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/\">https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932028\">https://news.ycombinator.com/item?id=47932028</a></p>\n<p>Points: 286</p>\n<p># Comments: 187</p>",
+      "ai_summary": "GitHub Copilot 代码审查功能将于2026年6月起消耗 GitHub Actions 分钟数。",
       "ai_tags": [
-        "科技",
-        "虚假宣传",
-        "身份验证"
+        "GitHub",
+        "Copilot",
+        "Actions"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "published_time": "2026-04-28 16:15:43",
+      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 360</p>\n<p># Comments: 76</p>",
+      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的技术分析。",
+      "ai_tags": [
+        "安全",
+        "漏洞",
+        "GitHub"
       ],
       "ai_importance": 3
     },
@@ -134,13 +119,26 @@
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
       "published_time": "2026-04-28 15:49:22",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 276</p>\n<p># Comments: 258</p>",
-      "ai_summary": "据报道，谷歌与五角大楼达成协议，允许在人工智能的“任何合法”用途上合作，引发隐私与道德争议。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 293</p>\n<p># Comments: 269</p>",
+      "ai_summary": "谷歌与五角大楼达成协议，允许在'合法'范围内使用人工智能。",
       "ai_tags": [
-        "科技",
         "AI",
         "军事",
-        "隐私"
+        "谷歌"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "UAE Leaves OPEC",
+      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "published_time": "2026-04-28 13:13:54",
+      "raw_content": "<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 330</p>\n<p># Comments: 2</p>",
+      "ai_summary": "阿联酋宣布退出石油输出国组织OPEC。",
+      "ai_tags": [
+        "OPEC",
+        "能源",
+        "国际"
       ],
       "ai_importance": 3
     }

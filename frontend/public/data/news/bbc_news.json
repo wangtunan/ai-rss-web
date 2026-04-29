@@ -5,141 +5,138 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 00:24:05",
-      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
+      "title": "King Charles gets ovation for Congress speech warning of volatile world",
+      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 05:55:19",
+      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
+      "ai_summary": "查尔斯国王在美国国会演讲，强调在动荡时期英美关系的重要性。",
       "ai_tags": [
-        "FBI",
-        "特朗普",
-        "威胁"
+        "查尔斯国王",
+        "美国国会",
+        "英美关系"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
+      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+      "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 10:12:46",
+      "raw_content": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+      "ai_summary": "马斯克指控奥特曼盗用慈善，OpenAI案开审，影响AI未来。",
+      "ai_tags": [
+        "马斯克",
+        "OpenAI",
+        "法律纠纷"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 02:01:50",
+      "raw_content": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation.",
+      "ai_summary": "美国前官员批评五角大楼对伊朗致命校园袭击保持沉默。",
+      "ai_tags": [
+        "伊朗",
+        "校园袭击",
+        "五角大楼"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+      "link": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 01:47:51",
+      "raw_content": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
+      "ai_summary": "金正恩赞扬朝军士兵为避免被乌军俘虏而“自爆”。",
+      "ai_tags": [
+        "金正恩",
+        "朝鲜军队",
+        "俄乌战争"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
       "title": "Five takeaways from the King's historic address to Congress",
       "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 01:32:41",
+      "published_time": "2026-04-29 08:48:08",
       "raw_content": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
-      "ai_summary": "国王在历史性国会演讲中发表的一些言论可能提振了民主党，并在白宫引发关注。",
-      "ai_tags": [
-        "英国",
-        "国王",
-        "美国国会"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "King gets ovation for Congress speech warning of volatile world",
-      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 03:24:38",
-      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
-      "ai_summary": "英国国王在美国国会发表演讲，强调在动荡世界中英美关系的重要性，获全场起立鼓掌。",
+      "ai_summary": "国王对国会历史性演讲的部分内容令民主党振奋并引发白宫关注。",
       "ai_tags": [
         "政治",
-        "演讲",
-        "国际关系"
+        "国王演讲"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "In pictures: King joins Trump for White House banquet and delivers historic Congress speech",
-      "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 01:22:32",
-      "raw_content": "King Charles III and Queen Camilla continued their state visit to the US with a White House state dinner and a speech from the King to Congress.",
-      "ai_summary": "查尔斯三世国王和卡米拉王后继续对美进行国事访问，参加白宫国宴并在国会发表演讲。",
+      "title": "Al Fayed survivor was modern slavery victim, says Home Office",
+      "link": "https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 05:00:12",
+      "raw_content": "Rachael Louw says she feels \"vindication\" and \"validation\" that her case has been recognised by the British government.",
+      "ai_summary": "英国内政部认定阿尔·法耶德性侵幸存者拉谢尔·洛为现代奴役受害者。",
       "ai_tags": [
-        "英国王室",
-        "国事访问",
-        "美国"
+        "现代奴役",
+        "性侵",
+        "阿尔·法耶德"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "How the King and Queen spent their second day in the US",
-      "link": "https://www.bbc.com/news/videos/cz92w28k0jpo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 02:12:49",
-      "raw_content": "During the White House state dinner, the King gifted the US president a bell from his WW2 submarine namesake, 'HMS Trump'.",
-      "ai_summary": "英国国王和王后访美第二天：白宫国宴上国王赠予美国总统潜艇同名钟。",
+      "title": "Wales great North to retire from rugby",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2wz08l4no?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 07:15:03",
+      "raw_content": "George North will bring down the curtain on one of the most successful careers in British professional rugby.",
+      "ai_summary": "乔治·诺斯宣布退役，结束辉煌的英式橄榄球职业生涯。",
       "ai_tags": [
-        "政治",
-        "外交",
-        "英国王室"
+        "英式橄榄球",
+        "退役",
+        "乔治·诺斯"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
-      "link": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 03:48:35",
-      "raw_content": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches.",
-      "ai_summary": "白宫国宴款待英国国王和王后，现场时尚、鲜花、亿万富翁嘉宾和幽默演讲。",
+      "title": "Chelsea captain Bright retires - what now for ex-England defender?",
+      "link": "https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 09:31:57",
+      "raw_content": "Chelsea captain Millie Bright announces she has retired from football with immediate effect because of injury.",
+      "ai_summary": "切尔西女足队长米莉·布莱特因伤宣布立即退役。",
       "ai_tags": [
-        "政治",
-        "社交",
-        "英国王室"
+        "足球",
+        "退役"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Billie Eilish puts Manchester at centre of new 3D concert film",
-      "link": "https://www.bbc.com/news/articles/c794wv4rd50o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 00:08:59",
-      "raw_content": "Teaming up with filmmaking giant James Cameron, the superstar creates a unique love letter to her fans.",
-      "ai_summary": "比莉·艾利什与詹姆斯·卡梅隆合作，创作了一部以曼彻斯特为中心的3D演唱会电影。",
+      "title": "Afghanistan women can return to competition",
+      "link": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 08:08:14",
+      "raw_content": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
+      "ai_summary": "国际足联批准阿富汗女足重返国际赛场，前队长称其为韧性象征。",
       "ai_tags": [
-        "音乐",
-        "电影",
-        "比莉·艾利什"
+        "足球",
+        "女性权利"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "A fresh financial crisis may be coming - it won't play out like the last one",
-      "link": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 23:17:58",
-      "raw_content": "Several warning lights are flashing that have some wondering whether we are in the foothills of another financial crisis.",
-      "ai_summary": "多个警示信号表明可能即将发生新的金融危机，但本次危机将不同于以往。",
+      "title": "Can Griezmann end his Atletico love story in style?",
+      "link": "https://www.bbc.com/sport/football/articles/c202l6yxvmxo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-29 05:07:15",
+      "raw_content": "Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?",
+      "ai_summary": "格列兹曼与马德里竞技的恋情即将结束，他能否以欧冠冠军告别？",
       "ai_tags": [
-        "finance",
-        "crisis",
-        "economy"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Early care scheme could prevent thousands of miscarriages a year",
-      "link": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 23:47:41",
-      "raw_content": "Current rules state that three unsuccessful pregnancies are needed to trigger NHS support - but a pilot project could bring about change.",
-      "ai_summary": "早期护理计划每年可预防数千例流产，目前需要三次流产才能获得NHS支持，试点项目可能改变这一规定。",
-      "ai_tags": [
-        "医疗",
-        "流产",
-        "NHS"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Zhao fights back to tie Murphy heading into final session",
-      "link": "https://www.bbc.com/sport/snooker/articles/c87qge4nexqo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-28 22:03:30",
-      "raw_content": "Defending champion Zhao Xintong fights back against Shaun Murphy to leave their World Championship quarter-final delicately poised at 8-8 heading into Wednesday's concluding session.",
-      "ai_summary": "斯诺克世锦赛四分之一决赛：卫冕冠军赵心童8-8战平肖恩·墨菲，最后一局定胜负。",
-      "ai_tags": [
-        "sports",
-        "snooker",
-        "championship"
+        "格列兹曼",
+        "马德里竞技",
+        "欧冠"
       ],
       "ai_importance": 3
     }

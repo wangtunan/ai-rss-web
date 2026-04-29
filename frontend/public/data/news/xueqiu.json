@@ -5,43 +5,115 @@
   "items": [
     {
       "category": "xueqiu",
-      "title": "时隔两年，药明康德是时候重新估值了。",
-      "link": "http://xueqiu.com/5742069252/386155822",
-      "published_time": "2026-04-28 09:25:32",
+      "title": "对古井贡酒25年和26Q1财报的看法",
+      "link": "http://xueqiu.com/7368170779/386469504",
+      "published_time": "2026-04-29 09:43:38",
       "raw_content": "",
-      "ai_summary": "时隔两年，重新评估药明康德的估值。",
+      "ai_summary": "对古井贡酒2025年和2026年Q1财报的预测与分析。",
       "ai_tags": [
-        "药明康德",
-        "估值"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
-      "title": "关于此次中东冲突对中国煤炭价格的影响，需要分两种情景推演。",
-      "link": "http://xueqiu.com/1437248694/386225632",
-      "published_time": "2026-04-28 09:25:15",
-      "raw_content": "",
-      "ai_summary": "中东冲突对中国煤炭价格的两种情景影响推演。",
-      "ai_tags": [
-        "中东冲突",
-        "煤炭价格",
-        "情景分析"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
-      "title": "未来三年赣锋锂业的矿端产能",
-      "link": "http://xueqiu.com/8732389555/386153312",
-      "published_time": "2026-04-28 09:25:48",
-      "raw_content": "",
-      "ai_summary": "内容涉及赣锋锂业未来三年的矿端产能情况。",
-      "ai_tags": [
-        "锂业",
-        "产能"
+        "古井贡酒",
+        "财报",
+        "白酒"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "细看紫金矿业勘查找矿这看家本领",
+      "link": "http://xueqiu.com/5205526918/386435201",
+      "published_time": "2026-04-29 09:44:09",
+      "raw_content": "",
+      "ai_summary": "紫金矿业在勘查找矿方面的核心技术优势被详细分析。",
+      "ai_tags": [
+        "紫金矿业",
+        "勘查",
+        "找矿"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "AI光通信不是向硅光演进，而是向PIC演进",
+      "link": "http://xueqiu.com/8755156034/386285705",
+      "published_time": "2026-04-29 09:44:40",
+      "raw_content": "",
+      "ai_summary": "AI光通信的发展方向是从硅光演进到PIC（光子集成电路）。",
+      "ai_tags": [
+        "AI光通信",
+        "硅光",
+        "PIC"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "周期会来，周期会走",
+      "link": "http://xueqiu.com/7913104177/386431059",
+      "published_time": "2026-04-29 09:43:48",
+      "raw_content": "",
+      "ai_summary": "讨论经济周期必然到来和离去，强调周期规律。",
+      "ai_tags": [
+        "周期",
+        "经济",
+        "投资"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "商品期货投资155年：收益不输美股，但从不均匀分配",
+      "link": "http://xueqiu.com/3559889031/386434038",
+      "published_time": "2026-04-29 09:44:03",
+      "raw_content": "",
+      "ai_summary": "商品期货投资155年历史显示收益不逊于美股，但分配不均。",
+      "ai_tags": [
+        "商品期货",
+        "投资收益",
+        "历史"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "光芯片主线走势：基于四轮科技牛市的客观规律、概率判断与风险提示",
+      "link": "http://xueqiu.com/2351470882/386557478",
+      "published_time": "2026-04-29 09:44:22",
+      "raw_content": "",
+      "ai_summary": "基于四轮科技牛市规律，对光芯片主线走势进行概率判断与风险提示。",
+      "ai_tags": [
+        "光芯片",
+        "科技牛市",
+        "风险提示"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "有色学习笔记（三）：黄金",
+      "link": "http://xueqiu.com/5332385101/386565236",
+      "published_time": "2026-04-29 09:44:34",
+      "raw_content": "",
+      "ai_summary": "学习笔记分享：有关有色金属中黄金的投资分析。",
+      "ai_tags": [
+        "有色",
+        "黄金",
+        "学习笔记"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "xueqiu",
+      "title": "年报一季报粗略印象",
+      "link": "http://xueqiu.com/1516479974/386560812",
+      "published_time": "2026-04-29 09:44:14",
+      "raw_content": "",
+      "ai_summary": "对上市公司年报和一季报的粗略印象和总结。",
+      "ai_tags": [
+        "年报",
+        "一季报",
+        "总结"
+      ],
+      "ai_importance": 1
     },
     {
       "category": "xueqiu",
@@ -49,12 +121,13 @@
       "link": "http://xueqiu.com/4790816824/386151674",
       "published_time": "2026-04-28 09:25:09",
       "raw_content": "",
-      "ai_summary": "1.6T光模块产业链调研纪要。",
+      "ai_summary": "1.6T光模块产业链调研纪要，涉及技术、供应商及市场前景。",
       "ai_tags": [
-        "1.6T光模块",
+        "光模块",
+        "1.6T",
         "产业链调研"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "xueqiu",
@@ -62,76 +135,12 @@
       "link": "http://xueqiu.com/4118099716/386161928",
       "published_time": "2026-04-28 09:25:52",
       "raw_content": "",
-      "ai_summary": "文章认为曹操出行全要素闭环生态相比Waymo和特斯拉更接近Robotaxi终局。",
+      "ai_summary": "曹操出行的全要素闭环生态被认为比Waymo和特斯拉更接近Robotaxi终局。",
       "ai_tags": [
-        "出行",
-        "Robotaxi"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "追光的人很可能最终会光着站在那里",
-      "link": "http://xueqiu.com/2657407918/386151682",
-      "published_time": "2026-04-28 09:25:23",
-      "raw_content": "",
-      "ai_summary": "追光者最终可能一无所有，寓意警示。",
-      "ai_tags": [
-        "投资哲理",
-        "风险"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "一季报冲击面临尾声",
-      "link": "http://xueqiu.com/2426670165/386254181",
-      "published_time": "2026-04-28 09:25:43",
-      "raw_content": "",
-      "ai_summary": "文章指出一季报冲击即将结束。",
-      "ai_tags": [
-        "财报",
-        "市场"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "五粮液跌破百元有感",
-      "link": "http://xueqiu.com/1327911751/386207222",
-      "published_time": "2026-04-28 09:25:38",
-      "raw_content": "",
-      "ai_summary": "五粮液股价跌破百元，作者发表感慨。",
-      "ai_tags": [
-        "白酒",
-        "股价"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "历史回顾：三次产业革命如何催生估值泡沫",
-      "link": "http://xueqiu.com/7280306436/385917649",
-      "published_time": "2026-04-27 10:11:28",
-      "raw_content": "",
-      "ai_summary": "回顾三次产业革命催生估值泡沫的历史。",
-      "ai_tags": [
-        "产业革命",
-        "估值泡沫",
-        "历史回顾"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
-      "title": "算力大变局",
-      "link": "http://xueqiu.com/6217310837/385965161",
-      "published_time": "2026-04-27 10:11:52",
-      "raw_content": "",
-      "ai_summary": "算力领域发生重大变化。",
-      "ai_tags": [
-        "算力",
-        "行业变革"
+        "Robotaxi",
+        "曹操出行",
+        "Waymo",
+        "特斯拉"
       ],
       "ai_importance": 4
     }

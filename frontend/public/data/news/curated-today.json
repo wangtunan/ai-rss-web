@@ -6,283 +6,292 @@
   "offset": 0,
   "items": [
     {
-      "category": "infoq",
-      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
-      "link": "https://www.infoq.cn/article/R1KzpDB623lZyKZp2Q1U",
-      "published_time": "2026-04-29 03:41:42",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/bd/e0/bdb27c6f5a4084389a826527897513e0.png\" /></p><p>今天，商汤日日新SenseNova U1 系列原生理解生成统一模型正式发布并开源。它基于商汤于今年三月份自主研发的&nbsp;<a href=\"https://mp.weixin.qq.com/s?__biz=MzIwNTcyNzYwMA==&amp;mid=2247521030&amp;idx=1&amp;sn=b59356da14c259fa1ec33fcb5d521e60&amp;scene=21#wechat_redirect\">NEO-unify架构</a>\"，在单一模型架构上统一了多模态理解、推理与生成。</p><p></p><p>NEO-unify架构彻底摒弃了主流的拼接式，去除了视觉编码器（VE）和变分自编码器（VAE），重新构建了统一的表征空间，并且深入融入每一层计算中，从而实现从模态集成向原生统一的范式跨越。</p><p></p><p>SenseNova",
-      "ai_summary": "商汤发布 SenseNova U1 系列模型并开源，基于 NEO-unify 架构，实现理解与生成统一。",
+      "category": "cls",
+      "title": "北京三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》",
+      "link": "https://api3.cls.cn/share/article/2359762?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:20:34",
+      "raw_content": "【北京三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》】财联社4月29日电，北京市互联网信息办公室等三部门印发《关于进一步深化数据跨境流动便利化综合配套改革实施方案》，统筹高质量发展和高水平安全，坚持为国家试制度、为首都谋发展，强化首善标准、改革引领、企业视角、应用赋能、安全可控，锚定提升全球数字经济标杆城市国际影响力，围绕国家数据要素“一区三中心”建设，以促进数据要素价值释放为牵引，以提升网络数据治理能力为保障，为推进数据高效便利安全跨境流通利用提供透明稳定可预期的政策环境，持续推动北京建设国家数据领域高水平开放展示窗口、全国数据跨境流动便利化政策创新实践高地、全球数据资源流通重要枢纽。",
+      "ai_summary": "北京市三部门印发数据跨境流动便利化改革方案，促进数据安全高效跨境流通。",
       "ai_tags": [
-        "AI",
-        "商汤",
-        "开源",
-        "多模态"
+        "数据跨境",
+        "政策",
+        "北京",
+        "改革方案"
       ],
       "ai_importance": 5
     },
     {
-      "category": "bbc_news",
-      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 00:24:05",
-      "raw_content": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-      "ai_summary": "前FBI局长因在Instagram发布贝壳照片被指控威胁特朗普生命，司法部称其煽动暴力。",
+      "category": "cls",
+      "title": "欧盟委员会通过临时国家援助框架以支持经济",
+      "link": "https://api3.cls.cn/share/article/2359758?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:17:14",
+      "raw_content": "【欧盟委员会通过临时国家援助框架以支持经济】财联社4月29日电，欧盟委员会已通过一项临时国家援助框架，允许成员国在中东危机的背景下支持欧盟经济。中东危机临时国家援助框架（METSAF）是一个有针对性的临时框架，旨在应对危机对经济中最受冲击的行业所造成的影响，包括农业、渔业、交通运输以及能源密集型行业。",
+      "ai_summary": "欧盟通过临时国家援助框架，支持受中东危机影响的农业、渔业、交通运输及能源密集型行业。",
       "ai_tags": [
-        "FBI",
-        "特朗普",
-        "威胁"
+        "欧盟",
+        "国家援助",
+        "经济支持",
+        "中东危机"
       ],
       "ai_importance": 5
     },
     {
       "category": "36kr",
-      "title": "吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%",
-      "link": "https://36kr.com/newsflashes/3787386456644616?f=rss",
-      "published_time": "2026-04-29 04:08:44",
-      "raw_content": "36氪获悉，吉利汽车公告，2026第一季度，录得总销量709358辆，同比增长1%。受益于出口销量的强劲增长及高价值产品销售占比提升，本集团期内收入同比增长15%，收入增速高于销量增速。2026年第一季度，母公司拥有人应占利润为人民币41.7亿元，同比下降27%，主要由于本期间与去年同期相比，外汇波动所产生的影响有所不同。",
-      "ai_summary": "吉利汽车2026年第一季度利润同比下降27%，但收入增长15%，销量微增。",
+      "title": "兆易创新：一季度净利润14.61亿元，同比增长522.79%",
+      "link": "https://36kr.com/newsflashes/3787723974974467?f=rss",
+      "published_time": "2026-04-29 09:52:04",
+      "raw_content": "36氪获悉，兆易创新披露一季报，公司2026年一季度实现营业收入41.88亿元，同比增长119.38%；归属于上市公司股东的净利润14.61亿元，同比增长522.79%。",
+      "ai_summary": "兆易创新2026年一季度营收41.88亿元，同比增长119.38%；净利润14.61亿元，同比增长522.79%。",
       "ai_tags": [
-        "吉利汽车",
-        "财报",
-        "利润下降"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%",
-      "link": "https://api3.cls.cn/share/article/2359221?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 04:04:28",
-      "raw_content": "【吉利汽车第一季度营收首破800亿元，核心归母净利润劲增31%】4月29日，吉利汽车控股有限公司（0175.HK，以下简称 “吉利汽车”）公布2026年第一季度业绩报告，实现高质量发展再进阶。一季度，吉利汽车实现中国自主品牌销量第一，总收入达838亿元，同比增长15%，创同期新高。依托全球化布局深化、高端化产品矩阵发力，剔除外汇汇兑等非核心损益影响后，公司实现核心归母净利润45.6亿元，同比劲增31%，核心利润增速高于收入增速；当期毛利率17.5%，同比提升11%，整体盈利能力持续向好。截至2026年一季度末，公司总现金水平达602亿元，现金储备充裕，公司经营稳健。\n\n第二季度，吉利汽车将立足全球化、高端化、智能化、能源多元化四大战略，计划推出十余款车型与关键技术升级，全面释放品牌势能，加速推进高质量发展与可持续增长。",
-      "ai_summary": "吉利汽车2026年一季度营收首破800亿元，达838亿元，同比增长15%；核心归母净利润45.6亿元，同比增31%，毛利率提升至17.5%。",
-      "ai_tags": [
-        "吉利汽车",
+        "兆易创新",
         "业绩",
-        "营收"
+        "大幅增长"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
-      "category": "cls",
-      "title": "财联社4月29日午间新闻精选",
-      "link": "https://api3.cls.cn/share/article/2359217?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 04:00:51",
-      "raw_content": "【财联社4月29日午间新闻精选】\n1、截至午间收盘，上证指数涨0.4%，深证成指涨1.58%，创业板指涨2.27%。恒生指数涨1.23%，恒生科技指数涨1.07%。\n2、报告显示，2025年，全国日均词元调用量从年初的超万亿增长到年末的100万亿，呈现指数级增长；全年词元累计调用量达到约21100万亿。\n3、中国钢铁工业协会副会长兼秘书长姜维29日表示，受中东地区局势影响，石油价格上涨导致采矿成本和运费增加、通胀预期上升，炼焦煤、焦炭、铁合金、废钢等原燃料价格均受影响维持高位运行，钢铁企业的成本压力加大。\n4、自然资源部4月29日发布我国最新矿产资源家底。我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一。\n5、据美国《华尔街日报》当地时间4月28日援引美方官员消息报道称，美国总统特朗普已指示助手“准备对伊朗实施长期封锁”，旨在迫使伊朗做出“核让步”。",
-      "ai_summary": "午间新闻精选：A股港股上涨，AI日调用量指数级增长，钢铁成本压力加大，我国14种矿产储量世界第一，特朗普准备对伊朗实施长期封锁。",
+      "category": "zaobao_china",
+      "title": "去年中国数据生产总量达52.26ZB 同比增27.28%",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972130",
+      "published_time": "2026-04-29 08:25:15",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/80e0b7dc7d0ee5507396dcac96eb2508c227a94d97d2d5d79bcb78cfec0156e1\" /><figcaption></figcaption></figure><div><div><p>2025年，中国数据生产总量达到52.26ZB（泽字节，1ZB相当于10亿TB），同比增长27.28%。</p><p>据中新社报道，第九届数字中国建设峰会星期三（4月29日）在福州开幕。中国国家发改委中共党组成员、国家数据局局长刘烈宏在开幕式上披露上述数据。</p><p>刘烈宏介绍，2025年，中国系统软件、人工智能产生的数据量达26.92ZB，首次超过传统占主体地位的物联感知数据量。</p><p>其中，用于人工智能训练和推理的数据总量为199.48EB（艾字节，1ZB相当于1024EB），同比增长42.86%，推理数据量首次超过训练数据量，达到101.34EB。</p><p>刘烈宏介绍，2025年全国日均词元（Token）调用量",
+      "ai_summary": "2025年中国数据生产总量52.26ZB，同比增长27.28%，AI数据量首超物联感知数据。",
       "ai_tags": [
-        "股市",
+        "中国",
+        "数据生产",
         "AI",
-        "钢铁",
-        "矿产",
-        "伊朗"
+        "增长"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
-      "category": "36kr",
-      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
-      "link": "https://36kr.com/p/3787376553876737?f=rss",
-      "published_time": "2026-04-29 04:00:21",
-      "raw_content": "<p>作者｜乔钰杰</p>\n  <p>编辑｜袁斯来</p>\n  <p>4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。</p>\n  <p>此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深空探测等场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260429/v2_d76ff7e03b5649dab384d01aa666c3ca@5920579_oswg653714oswg932oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-des",
-      "ai_summary": "未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场。",
+      "category": "zaobao_china",
+      "title": "大陆国台办：两岸和平统一是台湾经济发展空前良机",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972085",
+      "published_time": "2026-04-29 08:20:37",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/e3a2b1c4c1ddbacea8a7822d4befbcea76978dfdbcf0cdf0372bd3841067261b\" /><figcaption></figcaption></figure><div><div><p>中国大陆国台办新闻发言人陈斌华星期三（4月29日）在北京表示，两岸和平统一将给台湾的投资环境、营商环境注入更大确定性、成长性，是台湾经济发展的空前良机和最大底气。</p><p>大陆国台办星期三举行例行新闻发布会，解读和平统一后台湾七个“更好”中关于经济发展相关内容。</p><p>和平统一后台湾的“七个更好”，由中国大陆全国政协主席王沪宁去年10月25日在纪念台湾光复80周年大会上正式提出。具体指的是经济发展会更好、能源资源保障会更好、基础设施建设会更好、安全保障会更好、对外交往会更好、民生福祉会更好，以及精神文化生活会更好。</p><p>陈斌华指出，届时两岸贸易将进一步释放新的增长动能，大陆市场将成为台湾经济稳定增长的强力支撑。两",
+      "ai_summary": "大陆国台办称两岸和平统一是台湾经济发展空前良机。",
       "ai_tags": [
-        "航天",
-        "商业航天",
-        "空间飞行器"
+        "两岸关系",
+        "和平统一",
+        "台湾经济"
       ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的 伊朗可以利用与周边国家的陆地边界绕过封锁",
-      "link": "https://api3.cls.cn/share/article/2359213?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 03:57:00",
-      "raw_content": "【伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的 伊朗可以利用与周边国家的陆地边界绕过封锁】财联社4月29日电，据伊朗伊斯兰共和国通讯社29日报道，伊朗驻埃及开罗利益代表处负责人穆杰塔巴·菲尔多西普尔表示，美国试图以海上封锁迫使伊朗接受其单方面要求是徒劳的，伊朗可以利用与周边国家的陆地边界绕过封锁。菲尔多西普尔重申，伊朗有权掌控霍尔木兹海峡的安全。 (新华社)",
-      "ai_summary": "伊朗官员称美国海上封锁徒劳，伊朗可利用陆地边界绕过封锁，重申掌控霍尔木兹海峡安全。",
-      "ai_tags": [
-        "伊朗",
-        "美国",
-        "封锁",
-        "霍尔木兹海峡"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2",
-      "link": "https://36kr.com/newsflashes/3787364295482632?f=rss",
-      "published_time": "2026-04-29 03:52:08",
-      "raw_content": "36氪获悉，4月29日，阶跃星辰宣布正式发布新一代图像生成编辑模型Step Image Edit 2。目前Step Image Edit 2已全量上线”阶跃星辰开放平台“和Step Plan。",
-      "ai_summary": "阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2，已上线开放平台和Step Plan。",
-      "ai_tags": [
-        "AI",
-        "图像生成"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "农业农村部：全力推动扩大农业农村有效投资 补齐补强短板弱项",
-      "link": "https://api3.cls.cn/share/article/2359199?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 03:42:51",
-      "raw_content": "【农业农村部：全力推动扩大农业农村有效投资 补齐补强短板弱项】财联社4月29日电，农业农村部4月28日在湖北省武汉市召开全国扩大农业农村有效投资工作会议。会议强调，要准确把握当前及“十五五”农业农村投资工作面临的形势任务，聚焦提升农业综合生产能力和质量效益、聚焦确保不发生规模性返贫致贫底线、聚焦推进宜居宜业和美乡村建设、聚焦提高强农惠农富农政策效能、聚焦加快构建多元投入格局，全力推动扩大农业农村有效投资，补齐补强短板弱项，为实现“十五五”发展目标提供有力保障。会议要求，扎实做好今年农业农村投资各项重点工作，加快推进年度任务落地见效，高质量谋划和储备项目，推动财政与金融协同，抓好常态化帮扶资金管理，做好农村综合改革转移支付资金对接管理。认真抓好乡村振兴项目资金监管，确保科学、精准、规范、高效使用项目资金。",
-      "ai_summary": "农业农村部召开会议，要求全力推动扩大农业农村有效投资，补齐短板，聚焦提升综合生产能力和农民增收。",
-      "ai_tags": [
-        "农业农村部",
-        "投资",
-        "乡村振兴",
-        "补短板"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "2025年我国系统软件、人工智能产生的数据量达26.92泽字节 首次超过传统占主体地位的物联感知数据量",
-      "link": "https://api3.cls.cn/share/article/2359198?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 03:41:18",
-      "raw_content": "【2025年我国系统软件、人工智能产生的数据量达26.92泽字节 首次超过传统占主体地位的物联感知数据量】财联社4月29日电，国家数据局局长刘烈宏在4月29日于福建福州开幕的第九届数字中国建设峰会上表示，2025年我国系统软件、人工智能产生的数据量达26.92泽字节，首次超过传统占主体地位的物联感知数据量。",
-      "ai_summary": "2025年我国系统软件和AI产生数据量达26.92泽字节，首次超过物联感知数据量。",
-      "ai_tags": [
-        "数据量",
-        "系统软件",
-        "人工智能",
-        "数字中国"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜",
-      "link": "https://36kr.com/newsflashes/3787354913496321?f=rss",
-      "published_time": "2026-04-29 03:36:38",
-      "raw_content": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜。（新浪财经）",
-      "ai_summary": "英伟达高管将与三星、SK海力士会面，洽谈实体人工智能合作。",
-      "ai_tags": [
-        "英伟达",
-        "AI",
-        "存储芯片"
-      ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "写了 17 年开源代码，我为什么认为 Coding Agents 堆功能是在瞎折腾？",
-      "link": "https://www.infoq.cn/article/sLVv23TfVFxoBPjNwcZI",
-      "published_time": "2026-04-29 03:36:22",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ae/a5/ae89a5c976a20a35yy6fd34f38fb5ca5.png\" /></p><p></p><p></p><p>在 AI 编程工具进入大乱斗时代的今天，我们似乎已经习惯了各种功能的堆叠。但在 libGDX 创始人、17 年开源老兵 Mario Zechner 眼中，这一切正变得越来越不可控。</p><p></p><p>“当你发现 AI 在背地里偷偷修改你的上下文，而你却对此一无所知时，这种掌控感的丧失是极其危险的。”</p><p></p><p>近日，在 Tessel 举办的开发者大会上，Mario 不仅公开吐槽了 Claude Code、OpenCode，更带出了他的极简主义“反叛之作”——pi。这是一个只有 read、write、edit、bash 四种工具，拥有主流 agent 里最短的 system prompt，却有着极致的可扩展性、能让开发者重拾掌控权的终端编程 agent。</p><p></p><p>本文基于该演讲视频整理，经 InfoQ 编辑",
-      "ai_summary": "开源老兵 Mario Zechner 批评 Coding Agents 堆功能，推出极简终端编程 agent 'pi'，强调开发者掌控。",
+      "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
+      "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel",
+      "published_time": "2026-04-29 08:20:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/df/69/df6f6c4919f06e9560ec5a53a926de69.png\" /></p><p>过去几个月，“龙虾”类智能体产品经历了一轮从狂热到理性的过程。英特尔中国区技术部总经理高宇认为，这正是讨论“智能体PC”的时机：智能体时代的大门已经打开，但要让它从工程师和极客的“玩具”，变成大多数人都能使用的工具，行业需要在硬件、软件、产品和生态上共同补齐短板。</p><p>&nbsp;</p><p>英特尔给出的方向是端云混合AI，即让云端大模型负责更复杂、更长上下文、更高智能的任务，让本地AI模型承担一部分固定流程、隐私敏感和低延时任务，再通过智能路由机制在端侧和云端之间自动分配任务。在其看来，这将是智能体PC普及的关键。</p><p>&nbsp;</p><p></p><h2>智能体PC：不是更快的PC，而是“数字分身”</h2><p></p><p>&nbsp;</p><p>英特尔这次提出了“智能体PC”的概念，并解释称这并不是简单在AI PC上跑几个本地模型，而是面向",
+      "ai_summary": "英特尔提出“智能体PC”概念，采用端云混合AI方案，让云端大模型与本地模型协同工作，推动智能体普及。",
       "ai_tags": [
-        "AI编程",
-        "开源",
-        "agent"
+        "英特尔",
+        "端云混合",
+        "智能体PC"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
-      "category": "cls",
-      "title": "中国加入《数字经济伙伴关系协定》（DEPA）工作组举行第十次首席谈判代表会议",
-      "link": "https://api3.cls.cn/share/article/2359183?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 03:25:47",
-      "raw_content": "【中国加入《数字经济伙伴关系协定》（DEPA）工作组举行第十次首席谈判代表会议】财联社4月29日电，据商务部官网，4月27—28日，中国加入《数字经济伙伴关系协定》（DEPA）工作组第十次首席谈判代表会议在韩国首尔举行。中方同智利、新西兰、新加坡、韩国等DEPA成员就中国加入谈判进程深入交换意见，并就相关议题进行详细讨论。",
-      "ai_summary": "中国加入DEPA工作组第十次首席谈判代表会议在首尔举行，与成员方深入交换意见。",
+      "category": "zaobao_china",
+      "title": "中国羽协主席张军任上落马",
+      "link": "https://www.zaobao.com/news/china/story20260429-8972008",
+      "published_time": "2026-04-29 08:10:23",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/76e56d258d46dd0962b791c4ec0bde91898e82bfac98e035438845a205317a75\" /><figcaption></figcaption></figure><div><div><p>失联多日后，中国羽毛球协会主席、南京体育学院副院长张军官宣被查。</p><p>中央纪委国家监委星期三（4月29日）通报，据中央纪委国家监委驻国家体育总局纪检监察组、江苏省纪委监委消息，中国羽毛球协会主席、南京体育学院副院长张军涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家体育总局纪检监察组纪律审查和江苏省南通市监察委员会监察调查。</p><p>官宣前，张军已失联多日。有球迷发现，近期的羽毛球亚锦赛和汤尤杯两个重大赛事，张军均未出现。南京体育学院官网“学校领导”页面里，现任领导名单里撤掉了张军的名字。</p><p>张军从2019年起担任中国羽毛球协会主席。张军曾分别在2000年的悉尼奥运会、2004年的雅典奥运会上，与搭档合作夺",
+      "ai_summary": "中国羽协主席张军涉嫌严重违纪违法被查。",
       "ai_tags": [
-        "数字经济",
-        "国际合作"
+        "张军",
+        "羽毛球",
+        "违纪违法",
+        "被查"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
+      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa",
+      "published_time": "2026-04-29 08:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9b/93/9b374cdb571f3a4da3b2d3f4e49eca93.png\" /></p><p></p><blockquote>程序员们，先别忙着焦虑AI会抢走你的饭碗。现在更该焦虑的，可能是你们的 CTO 和 CFO了：因为让 AI 写代码，实在太烧钱了。</blockquote><p></p><p>&nbsp;</p><p>Copilot 和 Claude Code，几乎在同一时间，给行业踩了一脚刹车。</p><p>&nbsp;</p><p>今天（4月28日），GitHub 宣布从2026 年 6 月 1 日起，GitHub Copilot 将告别“无限畅饮”模式，将 Copilot 从“按请求计费”转为“按使用量计费”。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97b4f74fad3ad8f7f7dc1af108c0f37b.jpeg\" /></p><",
+      "ai_summary": "报道GitHub Copilot和Claude Code从按请求计费转为按使用量计费，引发AI写代码成本高涨，可能促使企业重新考虑聘用程序员。",
+      "ai_tags": [
+        "AI写代码",
+        "Copilot",
+        "Claude",
+        "涨价",
+        "成本"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "习近平：树立正确政绩观 纠正重救灾轻预防倾向",
+      "link": "https://www.zaobao.com/news/china/story20260429-8971213",
+      "published_time": "2026-04-29 06:45:29",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国去年的自然灾害直接经济损失超过2400亿元（人民币，下同，448.18亿新元），中共总书记习近平称，降低灾害风险，减轻灾害损失，重在事前预防，并强调树立和践行正确政绩观，坚决纠正重发展轻安全、重救灾轻预防等倾向。</p><p>据新华社报道，中共政治局星期二（4月28日）下午就提高防灾减灾救灾能力进行集体学习。习近平在主持学习时强调，要站在统筹高质量发展和高水平安全的战略高度，充分认识做好防灾减灾救灾工作的重要性，着力提高防范应对自然灾害能力，切实维护人民群众生命财产安全。</p><p>据报道，中国应急管理部国家自然灾害防治研究院院长杨思全也就此进行讲解，并提出工作建议。</p><p>习近平随后称，中共十八大以来，中共中央坚持把防灾减灾救灾工作作为关系人民安危和国家安全的大事来抓，在理念转变、体制改革、体系建设、能力提升等方面作出许多部署，",
+      "ai_summary": "习近平在政治局集体学习时强调树立正确政绩观，纠正重救灾轻预防倾向。",
+      "ai_tags": [
+        "习近平",
+        "防灾减灾",
+        "政绩观",
+        "预防"
+      ],
+      "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "King gets ovation for Congress speech warning of volatile world",
+      "title": "King Charles gets ovation for Congress speech warning of volatile world",
       "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 03:24:38",
+      "published_time": "2026-04-29 05:55:19",
       "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
-      "ai_summary": "英国国王在美国国会发表演讲，强调在动荡世界中英美关系的重要性，获全场起立鼓掌。",
+      "ai_summary": "查尔斯国王在美国国会演讲，强调在动荡时期英美关系的重要性。",
       "ai_tags": [
-        "政治",
-        "演讲",
-        "国际关系"
+        "查尔斯国王",
+        "美国国会",
+        "英美关系"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了",
+      "link": "https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz",
+      "published_time": "2026-04-29 05:46:13",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/14/5ca664148d7a5e3daebfbe560d151414.png\" /></p><p>4 月 20 日，Amazon 宣布在已有 $80 亿投资基础上再向 Anthropic 追加最多 $250 亿，Anthropic 同步承诺未来十年在亚马逊云科技花掉 $1000 亿以上。两笔相加，Amazon 对 Anthropic 的累计承诺已经站到 $330 亿。经过多轮可转换债转股之后，Amazon 在 Anthropic 的持股，按市场估算，很可能已经超过 Google 的 14%，成为 Anthropic 上最大的外部股东。</p><p></p><p>4 月 28 日上午，距离亚马逊云科技旧金山发布会还剩不到一天，Andy Jassy 在 LinkedIn 上发了一段不到 80 个英文词的预告：</p><p></p><p>“OpenAI’s models will be available directly to customers on Bedrock in",
+      "ai_summary": "亚马逊宣布向Anthropic追加投资250亿美元，累计投资承诺达330亿美元，亚马逊成为Anthropic最大外部股东。",
+      "ai_tags": [
+        "OpenAI",
+        "亚马逊云科技",
+        "Anthropic",
+        "投资"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "萝卜快跑故障后 中国暂停发放自动驾驶新牌照",
+      "link": "https://www.zaobao.com/news/china/story20260429-8970628",
+      "published_time": "2026-04-29 05:16:17",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/1eb5c7b335861f17880f3efd3e7a22c1e9827e052db105cc2801948df5a3d00d\" /><figcaption></figcaption></figure><div><div><p>彭博社星期三（4月29日）引述知情者报道，在上个月中国互联网巨头百度旗下数十辆萝卜快跑无人驾驶车辆在武汉突然停驶、导致乘客滞留并扰乱交通后，中国已暂停发放新的自动驾驶汽车牌照。</p><p>知情者称，这起事件引起当局警觉。本月初，包括中国工业和信息化部在内的三个机构，召集已开展无人驾驶德士或自动驾驶试点的城市官员开会。监管机构要求地方政府进行全面自查，并加强安全监测，以防类似事件再次发生。</p><p>知情者说，暂停发放新牌照将使自动驾驶公司无法为车队新增无人驾驶德士，也无法启动新测试项目或拓展至新城市。暂停措施将持续多久，目前尚不清楚。</p><p>知情者也提到，百度在武汉的无人驾驶德士业务已暂停，当地政府正就此事展开调查。</",
+      "ai_summary": "因百度萝卜快跑无人驾驶车辆在武汉故障，中国已暂停发放自动驾驶新牌照，并召集城市官员开会加强安全监测。",
+      "ai_tags": [
+        "自动驾驶",
+        "百度",
+        "萝卜快跑",
+        "暂停牌照",
+        "武汉"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "中国通号：第一季度净利润同比下降7.16%",
+      "link": "https://api3.cls.cn/share/article/2359773?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:24:14",
+      "raw_content": "【中国通号：第一季度净利润同比下降7.16%】财联社4月29日电，中国通号(688009.SH)公告称，2026年第一季度实现营业收入64.65亿元，同比下降3.52%；归属于上市公司股东的净利润为5.21亿元，同比下降7.16%。",
+      "ai_summary": "中国通号一季度净利润5.21亿元，同比下降7.16%，营收64.65亿元，同比下降3.52%。",
+      "ai_tags": [
+        "中国通号",
+        "季度财报",
+        "净利润下滑"
       ],
       "ai_importance": 4
     },
     {
       "category": "cls",
-      "title": "中国多式联运发展联盟今日成立",
-      "link": "https://api3.cls.cn/share/article/2359179?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-29 03:23:03",
-      "raw_content": "【中国多式联运发展联盟今日成立】财联社4月29日电，由国铁集团牵头，会同中国远洋海运集团有限公司、招商局集团有限公司、中国物流集团有限公司、中国数联物流信息有限公司等4家物流领域骨干央企共同发起的中国多式联运发展联盟4月29日上午在北京成立。联盟将合力共建铁水联运、铁公联运、技术创新3个协作平台和95306国家多式联运服务热线，推动多式联运高质量发展，联盟门户网站同步上线。",
-      "ai_summary": "中国多式联运发展联盟在京成立，由国铁集团等央企共同发起，推动铁水、铁公联运发展。",
+      "title": "财联社4月29日电，GE医疗股价下跌6.6%，此前其第一季度调整后每股收益不及预期。",
+      "link": "https://api3.cls.cn/share/article/2359768?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:22:47",
+      "raw_content": "财联社4月29日电，GE医疗股价下跌6.6%，此前其第一季度调整后每股收益不及预期。",
+      "ai_summary": "GE医疗一季度调整后每股收益不及预期，股价下跌6.6%。",
       "ai_tags": [
-        "物流",
-        "多式联运"
+        "GE医疗",
+        "股价下跌",
+        "财报不及预期"
       ],
       "ai_importance": 4
     },
     {
-      "category": "infoq",
-      "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
-      "link": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF",
-      "published_time": "2026-04-29 03:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ed/d3/ed0fe2d79504e9bd18fdd197d166d8d3.jpg\" /></p><p></p><h2>引言</h2><p></p><p>随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。</p><p>&nbsp;</p><p>大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用<a href=\"https://www.infoq.com/llms/\">大语言模型</a>\"、<a href=\"https://www.infoq.com/vector-database/\">向量数据库",
-      "ai_summary": "探讨基于 Apache Camel 编排智能体与多模态 AI 管道，解决系统设计复杂性问题。",
+      "category": "cls",
+      "title": "中泰证券：第一季度净利润同比增长26.80%",
+      "link": "https://api3.cls.cn/share/article/2359766?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:21:27",
+      "raw_content": "【中泰证券：第一季度净利润同比增长26.80%】财联社4月29日电，中泰证券(600918.SH)公告称，2026年第一季度实现营业收入31.07亿元，同比增长25.14%；归属于上市公司股东的净利润为4.69亿元，同比增长26.80%。业绩变动主要系经纪业务手续费净收入同比增加所致。小财注：公司Q1净利润4.69亿，2025年Q4净利润1.35亿，据此计算，Q1净利润环比增长247%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260429/sh600918697797_info.jpg\" />",
+      "ai_summary": "中泰证券一季度净利润4.69亿元，同比增长26.80%，环比增长247%，营收31.07亿元。",
       "ai_tags": [
-        "Apache Camel",
-        "多模态AI",
-        "企业应用"
+        "中泰证券",
+        "净利润增长",
+        "季度财报"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "金风科技：拟以3亿元至5亿元回购A股股份并注销",
+      "link": "https://api3.cls.cn/share/article/2359761?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:19:34",
+      "raw_content": "【金风科技：拟以3亿元至5亿元回购A股股份并注销】财联社4月29日电，金风科技(002202.SZ)公告称，公司拟通过集中竞价交易方式回购A股股份，回购资金总额不低于3亿元且不超过5亿元，回购价格上限为39.84元/股。回购的股份将全部予以注销并减少公司注册资本。该议案尚需提交公司临时股东会及类别股东会议审议。",
+      "ai_summary": "金风科技拟以3-5亿元回购A股股份并注销，回购价格上限39.84元/股。",
+      "ai_tags": [
+        "金风科技",
+        "股份回购",
+        "注销"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "天能股份：第一季度净利润同比下降82.14%",
+      "link": "https://api3.cls.cn/share/article/2359757?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:17:08",
+      "raw_content": "【天能股份：第一季度净利润同比下降82.14%】《科创板日报》29日讯，天能股份(688819.SH)公告称，2026年第一季度实现营业收入97.45亿元，同比下降4.82%；归属于上市公司股东的净利润为7508.37万元，同比下降82.14%。业绩变动主要受宏观经济环境影响，报告期内公司销售规模下降，叠加硫酸等原材料价格攀升，导致主营业务毛利承压下滑。此外，受先进制造业企业增值税加计抵减等政策影响，其他收益同比下滑，公司整体盈利空间受到进一步挤压。小财注：公司Q1净利润0.75亿，2025年Q4净利润2.32亿，据此计算，Q1净利润环比下降67%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260429/sh688819697519_info.jpg\" />",
+      "ai_summary": "天能股份一季度净利润7508万元，同比下降82.14%，营收97.45亿元，受宏观环境和原材料价格影响。",
+      "ai_tags": [
+        "天能股份",
+        "净利润下滑",
+        "季度财报"
       ],
       "ai_importance": 4
     },
     {
       "category": "36kr",
-      "title": "老铺黄金还不是爱马仕",
-      "link": "https://36kr.com/p/3787296465427464?f=rss",
-      "published_time": "2026-04-29 02:57:01",
-      "raw_content": "<p><strong>作者 |</strong>&nbsp;谢芸子</p>\n  <p><strong>编辑 |&nbsp;</strong> 张帆</p>\n  <p>老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。</p>\n  <p>2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。</p>\n  <p>公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。第三则是门店数量的增加。</p>\n  <p>上一年度，老铺黄金在16个城市共开设45家自营门店，其中包括在新加坡、中国香港等地的“海外”门店。且对比2024年，去年新增的10家门店，以及优化扩容的9家门店，为集团贡献了营收增量。</p>\n  <p>以去年257.93亿元的线下门店销售业绩计算，老铺黄金的平均门店年销售超过了5亿元。</p>\n  <p>财报还援引了弗若斯特沙利文的数据，在全球奢侈品牌",
-      "ai_summary": "老铺黄金2025年销售业绩达313.75亿元，同比增长220.3%，平均门店年销售超5亿元。",
+      "title": "长飞光纤：一季度净利润4.95亿元，同比增长226.4%",
+      "link": "https://36kr.com/newsflashes/3787746004540680?f=rss",
+      "published_time": "2026-04-29 10:14:29",
+      "raw_content": "36氪获悉，长飞光纤披露一季报，公司2026年一季度实现营业收入36.95亿元，同比增长27.7%；归属于上市公司股东的净利润4.95亿元，同比增长226.4%。",
+      "ai_summary": "长飞光纤2026年一季度营收36.95亿元，同比增长27.7%；净利润4.95亿元，同比增长226.4%。",
       "ai_tags": [
-        "老铺黄金",
-        "奢侈品",
-        "业绩"
+        "长飞光纤",
+        "业绩",
+        "增长"
       ],
       "ai_importance": 4
     },
     {
-      "category": "36kr",
-      "title": "腾讯ima推出全新知识Agent——copilot",
-      "link": "https://36kr.com/newsflashes/3787314918743047?f=rss",
-      "published_time": "2026-04-29 02:55:57",
-      "raw_content": "36氪获悉，4月29日，腾讯ima正式推出知识Agent——copilot，支持用户创建专属Agent。copilot内置记忆系统，通过copilot设定、用户档案、长期记忆、经验技巧四大模块，记住用户的背景、习惯与推进事项，实现跨场景连续调用，减少重复输入。",
-      "ai_summary": "腾讯ima推出知识Agent copilot，支持创建专属Agent，内置记忆系统实现跨场景连续调用。",
+      "category": "cls",
+      "title": "伊利股份：2025年净利润115.65亿元 同比增长36.82%",
+      "link": "https://api3.cls.cn/share/article/2359749?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:13:32",
+      "raw_content": "【伊利股份：2025年净利润115.65亿元 同比增长36.82%】财联社4月29日电，伊利股份(600887.SH)发布2025年年度报告，实现营业收入1156.36亿元，同比增长0.21%；归属于上市公司股东的净利润为115.65亿元，同比增长36.82%。公司拟向全体股东每股派发现金红利0.90元(含税)。小财注：公司Q4净利润11.39亿，Q3净利润32.26亿，据此计算，Q4净利润环比下降64%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260429/sh600887697661_info.jpg\" />",
+      "ai_summary": "伊利股份2025年净利润115.65亿元，同比增长36.82%，营收1156.36亿元，拟每股派息0.90元。",
       "ai_tags": [
-        "腾讯",
+        "伊利股份",
+        "年度财报",
+        "净利润增长"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "DeepSeek上线识图模式",
+      "link": "https://api3.cls.cn/share/article/2359743?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-29 10:13:05",
+      "raw_content": "【DeepSeek上线识图模式】《科创板日报》29日讯，今日，DeepSeek上线识图模式，显示正在灰测中。目前DeepSeek网页版和App更新后都有可能被灰测到该模式。这意味着DeepSeek将首次支持多模态能力。",
+      "ai_summary": "DeepSeek上线识图模式，正在灰测中，首次支持多模态能力。",
+      "ai_tags": [
         "AI",
-        "知识管理"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "源杰科技股价创新高",
-      "link": "https://36kr.com/newsflashes/3787308877782274?f=rss",
-      "published_time": "2026-04-29 02:49:49",
-      "raw_content": "36氪获悉，源杰科技盘中涨超5%，股价站上1520元/股，再创历史新高。",
-      "ai_summary": "源杰科技股价盘中涨超5%，站上1520元/股，再创历史新高。",
-      "ai_tags": [
-        "股市",
-        "科技"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "兆驰股份：2026年光通信业务将作为公司产业升级的核心战略方向",
-      "link": "https://36kr.com/newsflashes/3787307756526595?f=rss",
-      "published_time": "2026-04-29 02:48:40",
-      "raw_content": "兆驰股份在业绩说明会上表示，公司已成功搭建覆盖光芯片、光器件、光模块的垂直产业链布局，各环节协同发展，核心竞争力持续提升。应用于200G及以下速率的光模块已实现规模化生产并大批量出货，400G/800G光模块在完成可靠性测试后已进入小批量生产阶段，正稳步推进至规模化量产。2026年，光通信业务将作为公司产业升级的核心战略方向。其中，光芯片方面，公司将持续加大研发投入，加速1.6T超高速光模块研发，保持技术迭代领先。（证券时报）",
-      "ai_summary": "兆驰股份计划2026年将光通信业务作为核心战略方向，已实现200G及以下速率光模块规模化生产，400G/800G光模块进入小批量生产阶段。",
-      "ai_tags": [
-        "光通信",
-        "产业升级"
+        "多模态",
+        "DeepSeek"
       ],
       "ai_importance": 4
     }
