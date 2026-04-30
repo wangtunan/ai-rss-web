@@ -5,29 +5,74 @@
   "items": [
     {
       "category": "infoq",
-      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
-      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
-      "published_time": "2026-04-30 02:02:01",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
-      "ai_summary": "Anthropic研究显示，AI影响的高危职业群体年龄更大、教育程度和收入更高，但理论能力与实际应用存在差距。",
+      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+      "published_time": "2026-04-30 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
+      "ai_summary": "Anthropic研究科学家使用Claude Code在Linux内核中发现多个漏洞，包括一个自2003年存在的堆缓冲区溢出漏洞。",
       "ai_tags": [
-        "Anthropic",
-        "AI替代",
-        "职业影响"
+        "Linux",
+        "漏洞",
+        "Claude",
+        "AI"
       ],
       "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
-      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
-      "published_time": "2026-04-30 03:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/1e/f7507603b95d8955dd990c741d4d321e.jpg\" /></p><p>谷歌云智能体平台推出 <a href=\"https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/\">Agents CLI</a>\"，旨在简化 AI 智能体的开发生命周期，实现从本地原型设计到生产部署的无缝衔接。此次发布精准解决了智能体开发中的一大常见难题：各类工具链与基础设施往往分散在不同的服务和环境中。</p><p>&nbsp;</p><p>该工具专为与 Gemini CLI、Claude Code、Cursor 等编程智能体直接集成而设计，为谷歌云的各项服务（包括智能体平台、Cloud Run 及基础设施自动化组件）提供统一调用接口，目标是缓解开发者从实验阶段过渡到生产系统过程中遇到的各类碎片化问题。</p><p>&nbsp;</p><p",
-      "ai_summary": "谷歌云推出Agents CLI，简化AI智能体从原型到生产部署的全流程，为编程智能体提供统一接口。",
+      "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+      "link": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe",
+      "published_time": "2026-04-30 06:25:01",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ef/94/efd830761fc9af2a7eaff62880e4bd94.png\" /></p><p>上周五，OpenAI 发布 GPT-5.5 与 DeepSeek 推出 V4 模型几乎同时上演，大模型市场的竞争正进入白热化阶段。</p><p></p><p>面对竞争对手的快速迭代，谷歌生态的技术从业者正在积极寻找应对之道——越来越多的人开始借助智能体 Agent 来构建和优化基于谷歌云平台的应用，从 Firebase、Gemini API 到 BigQuery 和 Google Kubernetes Engine（GKE）。</p><p></p><p>但值得注意的是，在竞争日益激烈、技术快速演进的背景下，一个关键问题变得尤为突出：如何确保模型掌握关于这些技术准确、最新的信息？</p><p></p><p>在实际开发中，这个问题的棘手程度远超想象。</p><p></p><p>开发者往往需要为每个云服务编写适配器，将 API 调用封装为智能体可调用的工具函数，然后反复调试模型是",
+      "ai_summary": "谷歌开源Agent Skill工具箱，整合云、库、引擎和AI，解决开发者使用Agent构建应用的准确性和最新性问题。",
       "ai_tags": [
-        "谷歌云",
-        "Agents CLI",
-        "AI智能体"
+        "谷歌",
+        "开源",
+        "Agent",
+        "AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Meta 收购 Manus 这事儿泡汤了",
+      "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT",
+      "published_time": "2026-04-30 07:05:52",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>刚刚，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6d/6d147a7a6c75d40f1769918e64c662dc.jpeg\" /></p><p>&nbsp;</p><p>去年12月底，科技巨头Meta宣布完成对AI初创公司Manus的收购，交易对价超过20亿美元（约合人民币140亿元），跻身Meta史上第三大并购案。这场由CEO马克·扎克伯格亲自操盘的谈判仅用十余天便迅速敲定，为Meta 2025年的激进AI布局画上收官句号。据知情人士披露，此次交易规模仅次于2014年对WhatsApp的190亿美元收购及2025年6月对Scale AI的战略投资。</p><p>&n",
+      "ai_summary": "中国外商投资安全审查办公室禁止Meta收购AI初创公司Manus，该交易价值超20亿美元。",
+      "ai_tags": [
+        "Meta",
+        "收购",
+        "AI",
+        "安全审查"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+      "published_time": "2026-04-30 02:02:01",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
+      "ai_summary": "Anthropic研究显示AI更易影响高学历高收入人群，并点名十大高危职业，但部分职业仍安全。",
+      "ai_tags": [
+        "AI",
+        "就业影响",
+        "Anthropic"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx",
+      "published_time": "2026-04-30 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/65/fd/65c92e828eb42dbbc53dd81111e64afd.jpg\" /></p><p>亚马逊云科技近日宣布，<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/\">WorkMail 将停止服务，而 App Runner 将不再接受新客户并转入维护模式</a>\"。此外，还有几项相对不常用的服务和功能也即将进入维护或停用阶段，这在亚马逊云科技社区内引发了担忧和讨论。</p><p></p><p>App Runner 将于 4 月 30 日转入维护模式（现有用户仍然可以继续使用该服务），而 <a href=\"https://docs.aws.amazon.com/workmail/latest/adminguide/workmail-end-of-support.html\">WorkMail 则将于明年 3 月停止服务</a>\"。此外，还有其他多项服",
+      "ai_summary": "亚马逊云科技宣布终止WorkMail服务，并将App Runner转入维护模式，引发社区对服务稳定性的讨论。",
+      "ai_tags": [
+        "AWS",
+        "服务终止",
+        "云服务"
       ],
       "ai_importance": 4
     },
@@ -37,11 +82,11 @@
       "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy",
       "published_time": "2026-04-30 03:36:18",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/26/43/26d237fe4a3b27bd0daa289bee727043.png\" /></p><p>在传统离线数据体系下，核心数据往往需要 T+1 才能可用，难以支撑实时风控、监控告警和业务决策等关键场景。</p><p></p><p>金城银行通过引入 Apache Doris，结合 Flink CDC 重构数据链路，将端到端延迟压缩至 2-3 分钟，实现从离线批处理向准实时分析的关键跃迁。</p><p></p><p>在此过程中，平台不仅解决了实时性问题，还在高频 Schema 变更、数据一致性保障及链路稳定性方面形成了一套可规模化落地的实践方案。</p><p></p><p>目前，系统已支撑超过 2300 张表的实时处理，实时链路规模超过 150 个，总任务数 400+（包含离线），整体故障率较之前下降约 80%，数据传输成功率提升至 99.99%，重点场景下端到端延迟控制在 2 分钟以内。同时，查询效率、资源利用率和平台稳定性也得到显著提升，为后续湖仓一体、智能问数及全链",
-      "ai_summary": "金城银行使用Apache Doris和Flink CDC重构数据链路，将端到端延迟压缩至2-3分钟，支持2300+表实时处理，故障率下降80%。",
+      "ai_summary": "金城银行引入Apache Doris和Flink CDC，将数据处理延迟从T+1降至分钟级，支撑实时风控等场景。",
       "ai_tags": [
         "Apache Doris",
-        "实时数据平台",
-        "金城银行"
+        "实时数据分析",
+        "金融"
       ],
       "ai_importance": 4
     },
@@ -51,98 +96,55 @@
       "link": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs",
       "published_time": "2026-04-30 02:00:00",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ee/e5/eee9c9167eda65134080dae394fdbee5.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>OPPO高级算法工程师王闯闯已确认出席 “<a href=\"http",
-      "ai_summary": "OPPO小布记忆将在AICon上海大会分享全模态碎片化内容的理解与智能整理实践。",
+      "ai_summary": "OPPO将在AICon上海大会分享小布记忆技术，聚焦全模态碎片化内容的理解与智能整理实践。",
       "ai_tags": [
-        "OPPO小布记忆",
-        "AICon",
-        "全模态"
+        "AI",
+        "智能助手",
+        "记忆管理"
       ],
       "ai_importance": 3
     },
     {
       "category": "infoq",
-      "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
-      "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx",
-      "published_time": "2026-04-30 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/65/fd/65c92e828eb42dbbc53dd81111e64afd.jpg\" /></p><p>亚马逊云科技近日宣布，<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/\">WorkMail 将停止服务，而 App Runner 将不再接受新客户并转入维护模式</a>\"。此外，还有几项相对不常用的服务和功能也即将进入维护或停用阶段，这在亚马逊云科技社区内引发了担忧和讨论。</p><p></p><p>App Runner 将于 4 月 30 日转入维护模式（现有用户仍然可以继续使用该服务），而 <a href=\"https://docs.aws.amazon.com/workmail/latest/adminguide/workmail-end-of-support.html\">WorkMail 则将于明年 3 月停止服务</a>\"。此外，还有其他多项服",
-      "ai_summary": "亚马逊云科技宣布WorkMail停止服务，App Runner转入维护模式，引发社区担忧。",
+      "title": "Slack 长时运行多智能体系统的上下文管理方案",
+      "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg",
+      "published_time": "2026-04-30 05:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/dc/5c8d9c2c500909a1ef1079a60bc957dc.jpeg\" /></p><p>为了在长时间运行的智能体系统中保持效率，Slack 工程师放弃了累积聊天记录的做法，转而采用<a href=\"https://slack.engineering/managing-context-in-long-run-agentic-applications/\">结构化记忆、验证与蒸馏事实</a>\"的方式来维持长时间运行智能体系统的连贯性与准确性。</p><p>&nbsp;</p><p>虽然短时间的 LLM 会话通常不需要显式的上下文管理，但在长时间运行的会话中，要保持会话连贯性，上下文管理就变得至关重要——因为随着消息历史不断增加，每次请求都附带完整上下文会变得不切实际：</p><p></p><blockquote>智能体框架会在 API 调用之间累积消息历史，以此为用户解决状态管理问题。但这会占用并填满智能体的上下文窗口，而上下文窗口对智能体可处理的信息总量存在硬性",
+      "ai_summary": "Slack工程师提出结构化记忆、验证与蒸馏事实方案，管理长时间运行多智能体系统的上下文。",
       "ai_tags": [
-        "亚马逊云科技",
-        "WorkMail",
-        "App Runner"
+        "Slack",
+        "多智能体",
+        "上下文管理"
       ],
       "ai_importance": 3
     },
     {
       "category": "infoq",
-      "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
-      "link": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1",
-      "published_time": "2026-04-30 01:48:56",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5d/dd/5d03d9eed6cb9c9ca7f7ec58a39e75dd.png\" /></p><p></p><h2><a href=\"https://agicamp.com/?utm_source=20260317infoQ\">模力工场</a>\"新鲜事</h2><p></p><p></p><p>极客邦科技模力工场参与北京市朝阳区OPC创新发布活动。</p><p></p><p>4月28日下午，朝阳区“科技百园”系列活动之科技园区合作伙伴招募活动在望京科技园成功举办。</p><p></p><p>活动以“与时代同行 创百园未来”为主题，广纳合作伙伴，汇聚科创资源，共同推动朝阳区科技园区全域布局、全链发展、全面升级。</p><p></p><p>现场发布了“科技百园”建设合作伙伴招募计划，重点面向园区运营及算力、数据、智能体应用等领域机构，支持线上对接参与。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b0",
-      "ai_summary": "模力工场发布038周AI应用周榜，并参与朝阳区OPC创新发布活动。",
+      "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+      "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK",
+      "published_time": "2026-04-30 07:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f2/e4/f2902d1d602820da950d792ac252c0e4.png\" /></p><p></p><h2>结束18年热爱，Ghostty 逃离 GitHub</h2><p></p><p></p><p>“有些告别，并不是因为不再热爱，而是因为再也无法继续留下。”</p><p></p><p>这是 Ghostty 项目创始人 Mitchell Hashimoto 在宣布项目即将逃离 GitHub 时写下的开头。整篇长文没有技术细节的铺陈，反而像一封写给过去18年的“告别信”，甚至，他在写这封“告别信”时是哭着写完的！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/55/55322f2120e649b7bd6fd58e2b6b3160.png\" /></p><p></p><p>Mitchell Hashimoto 出生于 1990 年，是一位典型的“从开源社区成长起来”的工程师。</p><p></",
+      "ai_summary": "开源项目Ghostty因GitHub政策问题宣布迁移，创始人Mitchell Hashimoto含泪告别。",
       "ai_tags": [
-        "模力工场",
-        "AI应用周榜",
-        "朝阳区"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "infoq",
-      "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
-      "link": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7",
-      "published_time": "2026-04-29 10:15:14",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/70/19/70cd5ffdbc531a60135a7b0de4406519.png\" /></p><p>在 AI 编程赛道白热化之际，拥有近百万活跃开发者的明星终端工具 Warp 投下了一枚重磅炸弹。</p><p>&nbsp;</p><p>Warp 是一个现代、高度集成 AI 的终端和开发平台，已被超过 70 万名来自领先企业的开发者使用。</p><p></p><h2>Altman 坐镇，现代终端神器 Warp 开源了</h2><p></p><p>&nbsp;</p><p>就在今天，这款由 Sam Altman 支持的现代终端 Warp 正式在 GitHub 开源（采用 AGPL 许可证）。更具前瞻性的是，Warp 还推出了一套由其云代理平台 Oz 管理的“代理优先（Agent-first）”协作流，邀请全球开发者与 AI 智能体共同编排软件的未来。</p><p>&nbsp;</p><p>GitHub 地址：<a href=\"https://github.com/warpdo",
-      "ai_summary": "Sam Altman支持的AI终端Warp开源，获3.5万star，推出代理优先协作流。",
-      "ai_tags": [
-        "Warp",
         "开源",
-        "AI终端"
+        "GitHub",
+        "迁移"
       ],
-      "ai_importance": 5
+      "ai_importance": 3
     },
     {
       "category": "infoq",
-      "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
-      "link": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0",
-      "published_time": "2026-04-29 10:59:11",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/53/a5/53b0c328a07b5396d3262f013a338ca5.jpg\" /></p><p>Anthropic近期发布了具备自动漏洞扫描能力的AI模型以及Claude托管代理（Managed Agents），人工智能正从“对话框里的助手”演变为“具备执行力的代理”。</p><p>&nbsp;</p><p>这一跨越式进展在极大提升生产力的同时，也引发了全球网络安全专家与架构师的深思：当AI能够自主寻找漏洞并跨环境执行任务时，现有的云架构与防御体系是否已经过时？</p><p>&nbsp;</p><p>业内一些观点认为，AI Agent的兴起正在强行驱动云计算从“中心化”向“分布式推理”转型，而安全防御也必须从“补丁模式”转向“实时拦截模式”。</p><p>&nbsp;</p><p>Akamai CEO兼联合创始人Tom Leighton博士表示：“AI安全威胁使得安全防御比以往任何时候都更加必要。”</p><p>&nbsp;</p><p>Tom Leighton博士于",
-      "ai_summary": "Akamai CEO Tom Leighton认为Agent时代云基础设施将从中心化转向分布式边缘，安全需实时拦截。",
+      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
+      "published_time": "2026-04-30 03:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/1e/f7507603b95d8955dd990c741d4d321e.jpg\" /></p><p>谷歌云智能体平台推出 <a href=\"https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/\">Agents CLI</a>\"，旨在简化 AI 智能体的开发生命周期，实现从本地原型设计到生产部署的无缝衔接。此次发布精准解决了智能体开发中的一大常见难题：各类工具链与基础设施往往分散在不同的服务和环境中。</p><p>&nbsp;</p><p>该工具专为与 Gemini CLI、Claude Code、Cursor 等编程智能体直接集成而设计，为谷歌云的各项服务（包括智能体平台、Cloud Run 及基础设施自动化组件）提供统一调用接口，目标是缓解开发者从实验阶段过渡到生产系统过程中遇到的各类碎片化问题。</p><p>&nbsp;</p><p",
+      "ai_summary": "谷歌云推出Agents CLI工具，简化AI智能体从开发到部署的全流程。",
       "ai_tags": [
-        "Akamai",
+        "谷歌云",
         "Agent",
-        "分布式边缘"
+        "CLI"
       ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
-      "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm",
-      "published_time": "2026-04-29 08:17:51",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/93/f9/934c2e58446b1966c5819c186c7611f9.png\" /></p><p></p><p>“现在的挑战是，有钱也买不到东西。从DRAM到闪存颗粒，再到硬盘和磁带，几乎所有跟存储相关的环节都面临严重供给压力。现在去下单硬盘，20T、24T硬盘的交付周期普遍在52到72周。”IBM大中华区存储事业部总经理吴磊说道。</p><p>&nbsp;</p><p>随着大模型从训练走向应用，企业AI基础设施的压力正在从算力侧扩散到数据和存储侧。过去，存储常常被视为数据中心里的“配套设备”，但如今却正在成为决定GPU利用率、数据流动效率，以及企业AI投入产出比的关键环节。尤其在供应紧张的情况下，存储的价值被重新放大。</p><p>&nbsp;</p><p>“原材料涨价是谁都躲不开的。”吴磊坦言，IBM的产品价格也会受到上游成本影响，但团队并没有简单跟随原材料价格大幅上调，而是希望通过技术手段降低客户的实际使用成本。</p><p>&nbsp;</p><p>近期，IBM",
-      "ai_summary": "IBM指出存储是AI基础设施的关键瓶颈，将AI Agent融入存储系统以降低成本和提升效率。",
-      "ai_tags": [
-        "IBM",
-        "存储",
-        "AI Agent",
-        "基础设施"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "日均数百亿入库背后：从“人肉调度”到K8s弹性架构，度小满金融基于OceanBase重构入库架构实践",
-      "link": "https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S",
-      "published_time": "2026-04-29 10:58:17",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/91/e6/9165b60db232eff5be1fb4d44fbe87e6.png\" /></p><p></p><blockquote>作者｜潘丹，度小满金融在线存储统一项目负责人</blockquote><p></p><p></p><h2>前言</h2><p></p><p></p><p>本文所述这套基于OceaBase的海量数据入库服务，不仅仅是为了数据迁移，而是根据新存储引擎特点定制的一套高性能、高可用的架构方案。</p><p></p><p>背景源于我司海量稀疏型存储引擎正在从Eggroll迁移到OceanBase。原架构下，海量数据入库依托Hadoop集群的MapReduce能力，通过提高离线资源可大幅提升入库吞吐。但迁移到OceanBase后，问题来了——OceanBase原生提供的入库方式是一个本地脚本，没有分布式调度、没有弹性伸缩、没有高可用保障，显然扛不住日均数百亿级别的数据入库需求。</p><p></p><p>我们面临的核心挑战可以归结为一个问题：如何在Oce",
-      "ai_summary": "度小满金融基于OceanBase重构入库架构，解决日均数百亿数据入库的弹性伸缩和高可用问题。",
-      "ai_tags": [
-        "度小满金融",
-        "OceanBase",
-        "入库架构"
-      ],
-      "ai_importance": 4
+      "ai_importance": 3
     }
   ]
 }

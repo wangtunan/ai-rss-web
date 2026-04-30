@@ -6,100 +6,144 @@
   "offset": 0,
   "items": [
     {
-      "category": "cls",
-      "title": "孟加拉国麻疹疫情加剧 逾220名儿童死亡",
-      "link": "https://api3.cls.cn/share/article/2360699?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:58:53",
-      "raw_content": "【孟加拉国麻疹疫情加剧 逾220名儿童死亡】财联社4月30日电，孟加拉国政府4月29日发布的数据显示，自3月中旬以来，该国暴发严重麻疹疫情，已有227名儿童死亡，近3.5万疑似感染者当中多数是6个月至5岁的儿童。",
-      "ai_summary": "孟加拉国麻疹疫情严重，已致227名儿童死亡，近3.5万例疑似病例。",
+      "category": "bbc_news",
+      "title": "Who is the suspect in the stabbings?",
+      "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 10:24:17",
+      "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+      "ai_summary": "伦敦北部两名犹太男子被刺伤，警方定性为恐怖袭击。",
       "ai_tags": [
-        "麻疹",
-        "疫情",
-        "孟加拉国"
+        "BBC新闻",
+        "英国",
+        "恐怖袭击"
       ],
       "ai_importance": 5
     },
     {
-      "category": "bbc_news",
-      "title": "What we know about the Golders Green stabbings",
-      "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:53:45",
-      "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
-      "ai_summary": "伦敦Golders Green两名犹太男子被刺伤，警方宣布为恐怖事件。",
+      "category": "cls",
+      "title": "欧元区经济增长意外放缓 伊朗战争加剧滞胀风险",
+      "link": "https://api3.cls.cn/share/article/2361264?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:09:52",
+      "raw_content": "【欧元区经济增长意外放缓 伊朗战争加剧滞胀风险】财联社4月30日电，2026年初欧元区经济意外放缓，由伊朗冲突引发的能源成本飙升，令未来数月面临滞胀风险。第一季度GDP环比增长0.1%，低于0.2%的预期值。在主要经济体中，西班牙再次领跑，增长0.6%；德国增长0.3%；而法国则意外陷入停滞。由于该数据仅涵盖中东冲突爆发后的第一个月，因此尚未反映出冲突在欧元区逐步扩散所带来的全部放缓影响。就在欧洲央行即将公布利率决定前数小时，另一份来自欧盟统计局的数据显示风险仍在积聚：4月消费者价格上涨3%，为2023年9月以来的最快增速。",
+      "ai_summary": "欧元区一季度GDP环比增长0.1%低于预期，伊朗冲突导致能源成本飙升，4月通胀率达3%，加剧滞胀风险。",
       "ai_tags": [
-        "伦敦",
-        "刺伤",
-        "恐怖袭击",
-        "反犹"
+        "欧元区",
+        "经济增长",
+        "滞胀",
+        "伊朗冲突"
       ],
       "ai_importance": 5
     },
     {
       "category": "36kr",
-      "title": "今年第二批，超长期特别国债支持设备更新资金下达",
-      "link": "https://36kr.com/newsflashes/3788708720958722?f=rss",
-      "published_time": "2026-04-30 02:33:48",
-      "raw_content": "今天，从国家发展改革委了解到，2026年第二批915亿元“两新”设备更新项目清单和资金安排已经下达。加上此前已下达的936亿元，今年已累计安排两新设备更新资金1851亿元，占全年2000亿元的92%。（央视新闻）",
-      "ai_summary": "国家发改委下达2026年第二批915亿元设备更新资金，今年累计已达1851亿元，占全年目标92%。",
+      "title": "央行等三部门：着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展",
+      "link": "https://36kr.com/newsflashes/3789154316803081?f=rss",
+      "published_time": "2026-04-30 10:07:05",
+      "raw_content": "36氪获悉，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。《通知》聚焦金融服务科技创新和设备更新的重要环节，全链条优化政策举措。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。",
+      "ai_summary": "央行等三部门发文，扩大科技创新和技术改造贷款支持范围，涵盖人工智能等领域。",
       "ai_tags": [
-        "国家发改委",
-        "设备更新",
-        "资金下达"
+        "央行",
+        "人工智能",
+        "金融服务",
+        "设备更新"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "*ST亚士：股票被实施退市风险警示，5月6日起复牌",
+      "link": "https://36kr.com/newsflashes/3789149381647618?f=rss",
+      "published_time": "2026-04-30 10:02:04",
+      "raw_content": "36氪获悉，亚士创能公告，因公司2025年度经审计的期末净资产为负值，触及退市风险警示情形，公司股票自2026年5月6日起复牌并被实施退市风险警示，股票简称变更为“*ST亚士”，日涨跌幅限制为5%。若2026年度财务指标继续触及强制退市情形，公司股票将被终止上市。",
+      "ai_summary": "*ST亚士因2025年度期末净资产为负值，触及退市风险警示，股票自2026年5月6日起复牌并实施退市风险警示，简称变更为“*ST亚士”，涨跌幅限制5%。",
+      "ai_tags": [
+        "*ST亚士",
+        "退市风险警示"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "央行：5月6日开展3000亿元买断式逆回购操作，期限为3个月",
+      "link": "https://36kr.com/newsflashes/3789106153888777?f=rss",
+      "published_time": "2026-04-30 09:18:06",
+      "raw_content": "36氪获悉，为保持银行体系流动性充裕，2026年5月6日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为3个月（91天），到期日为2026年8月5日（遇节假日顺延）。",
+      "ai_summary": "央行于5月6日开展3000亿元买断式逆回购操作，期限3个月，旨在保持银行体系流动性充裕。",
+      "ai_tags": [
+        "央行",
+        "逆回购",
+        "流动性"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "解放军南部战区在黄岩岛海空域开展战备警巡",
+      "link": "https://www.zaobao.com/news/china/story20260430-8978842",
+      "published_time": "2026-04-30 08:17:41",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国军方通报，组织军力在黄岩岛（菲律宾称斯卡伯勒浅滩）开展战备警巡。</p><p>中国人民解放军南部战区星期四（4月30日）在微信公众号上通报，南部战区当天组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。</p><p>通报指出，黄岩岛是中国固有领土。4月份以来，战区部队持续加强黄岩岛领海周边海空域巡逻警戒，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南中国海地区和平稳定。</p>\n    \n  </div></div>",
+      "ai_summary": "解放军南部战区在黄岩岛领海领空开展战备警巡，坚决捍卫主权。",
+      "ai_tags": [
+        "南海",
+        "军事",
+        "黄岩岛"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "德国捷克据报拒绝赖清德过境请求",
+      "link": "https://www.zaobao.com/news/china/story20260430-8977913",
+      "published_time": "2026-04-30 06:33:50",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>外媒报道非洲三国取消台湾总统赖清德专机的飞航许可后，德国和捷克也拒绝让赖清德过境的请求。针对这则报道。台湾总统府没有正面回应。</p><p>彭博社引述要求匿名的知情官员报道，德国和捷克本月拒绝赖清德过境欧洲请求，使得他尝试绕过障碍，首次展开非洲外交行程的最后努力宣告失败。</p><p>这些官员称，在塞舌尔、毛里求斯、马达加斯加三国取消飞航许可后，台湾方面紧急向德国、捷克等欧洲国家提出了过境请求。不过，德国和捷克经内部讨论后拒绝了这项请求。</p><p>知情人士称，德国总理默茨得知此事，但德国方面认为让赖清德搭乘官方客机降落在德国法兰克福会有问题。中国大陆得知德国正在考虑台湾的过境请求后致电德国官员，施压要求他们拒绝赖清德过境。</p><p>彭博社也报道，另一个需要考虑的因素是，是否会有更多非洲国家拒发飞行许可，导致赖清德被困在德国。欧洲官员私",
+      "ai_summary": "外媒报道德国和捷克拒绝台湾总统赖清德过境请求，此前非洲三国已取消其专机飞航许可，台湾总统府未正面回应。",
+      "ai_tags": [
+        "台湾",
+        "外交",
+        "过境"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中国警告欧盟若禁用华为设备将反制",
+      "link": "https://www.zaobao.com/news/china/story20260430-8977632",
+      "published_time": "2026-04-30 06:11:00",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/3210e12c071a099bb4ffefb6f4b2981dce29d24008b58750a2ab899c157f6929\" /><figcaption></figcaption></figure><div><div><p>随着中欧关系持续紧张，中国驻欧盟使团警告，如果欧盟推进在全欧洲范围内禁止使用中国科技巨头华为设备的提案，中国将采取反制措施。</p><p>据彭博社报道，中国驻欧盟使团星期三（4月29日）在布鲁塞尔一场会议上发表声明称，已要求欧盟委员会删除执行副主席维尔库宁（Henna Virkkunen）在相关提案中的部分表述，包括将中国设备认定为网络安全风险，或将中国企业列为“高风险”供应商。</p><p>维尔库宁正推动成员国逐步淘汰华为及中兴通讯设备，并于今年1月提出在《网络安全法》中引入强制性措施，以强化网络安全。</p><p>中国驻欧盟使团说：“如果欧盟坚持推进这一提案，中方将不得不采取对等反制措施，对欧盟及企业作出回应。”</p><p>",
+      "ai_summary": "中国驻欧盟使团警告，若欧盟推进在欧范围内禁用华为设备的提案，中方将采取对等反制措施。",
+      "ai_tags": [
+        "中欧关系",
+        "华为",
+        "反制"
       ],
       "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
-      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
-      "published_time": "2026-04-30 02:02:01",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
-      "ai_summary": "Anthropic研究显示，AI影响的高危职业群体年龄更大、教育程度和收入更高，但理论能力与实际应用存在差距。",
+      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+      "published_time": "2026-04-30 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
+      "ai_summary": "Anthropic研究科学家使用Claude Code在Linux内核中发现多个漏洞，包括一个自2003年存在的堆缓冲区溢出漏洞。",
       "ai_tags": [
-        "Anthropic",
-        "AI替代",
-        "职业影响"
+        "Linux",
+        "漏洞",
+        "Claude",
+        "AI"
       ],
       "ai_importance": 5
     },
     {
-      "category": "bbc_news",
-      "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-      "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:29:54",
-      "raw_content": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
-      "ai_summary": "伦敦两名犹太男子被刺伤，警方宣布为恐怖事件，一名45岁男子因涉嫌谋杀未遂被捕。",
+      "category": "zaobao_china",
+      "title": "路透：北京将台湾问题列为习特会首要议题",
+      "link": "https://www.zaobao.com/news/china/story20260430-8976980",
+      "published_time": "2026-04-30 05:31:00",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/a1a4a6c537c7b533556c21f445f9dc7df669fc7caf993b7092ad50eaa67c2cd3\" /><figcaption></figcaption></figure><div><div><p>英国媒体报道，美国总统特朗普预计将于5月赴北京与中国国家主席习近平会晤，中国方面表明台湾问题将是习特会的首要议题。在两人去年10月韩国会面时，习近平未提及此议题。</p><p>据路透社星期三（4月29日）报道，台北将关注擅于通过交易令伙伴生畏的特朗普，会否在美国对台立场上趋软，或重塑美国长期对台政策，以换取中国大陆购买美国飞机、农产品，从而协助缓解美国国内所面对的经济压力。</p><p>上海复旦大学国际关系研究院院长吴心伯说：“关于台湾问题的逻辑简单，如果美国不想与中国大陆就台湾问题进行重大战争，就不会支持台湾独立。特朗普没有兴趣与中国开战。为避免涉及美国的重大冲突，他应明确表示不支持独立或采取鼓励分裂的政策。”</p><p>中国",
+      "ai_summary": "路透社报道，北京将台湾问题列为习特会首要议题，特朗普预计5月将访华与习近平会晤。",
       "ai_tags": [
-        "恐怖事件",
-        "伦敦",
-        "袭击"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
-      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 22:49:19",
-      "raw_content": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "ai_summary": "受伊朗延长封锁报道影响，原油价格突破120美元，市场波动剧烈。",
-      "ai_tags": [
-        "油价",
-        "中东局势"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "published_time": "2026-04-29 18:54:31",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1010</p>\n<p># Comments: 433</p>",
-      "ai_summary": "提交信息中的HERMES.md导致请求计费异常，引发大量讨论。",
-      "ai_tags": [
-        "Git",
-        "计费",
-        "Bug"
+        "习特会",
+        "台湾问题",
+        "中美关系"
       ],
       "ai_importance": 5
     },
@@ -109,10 +153,10 @@
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "published_time": "2026-04-29 15:00:00",
       "raw_content": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "ai_summary": "OpenAI扩展Stargate基础设施，为AGI时代构建强大算力。",
+      "ai_summary": "OpenAI扩大Stargate项目规模，为AGI构建计算基础设施。",
       "ai_tags": [
         "OpenAI",
-        "基础设施",
+        "计算基础设施",
         "AGI"
       ],
       "ai_importance": 5
@@ -122,26 +166,11 @@
       "title": "Zed 1.0",
       "link": "https://zed.dev/blog/zed-1-0",
       "published_time": "2026-04-29 14:34:19",
-      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1606</p>\n<p># Comments: 513</p>",
-      "ai_summary": "Zed代码编辑器发布1.0版本，获得极高关注。",
+      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1848</p>\n<p># Comments: 592</p>",
+      "ai_summary": "Zed 编辑器正式发布 1.0 版本，获得了社区高度关注。",
       "ai_tags": [
-        "编辑器",
-        "发布",
-        "Zed"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "the_decoder",
-      "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
-      "link": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
-      "published_time": "2026-04-29 13:06:01",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1125\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/openai-aws.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2000\" /></p>\n<p>        Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-",
-      "ai_summary": "微软与OpenAI终止独家协议后，AWS在Bedrock平台上推出三项新的OpenAI服务，包括联合构建的智能体服务。",
-      "ai_tags": [
-        "OpenAI",
-        "AWS",
-        "微软"
+        "开发工具",
+        "编辑器"
       ],
       "ai_importance": 5
     },
@@ -151,11 +180,13 @@
       "link": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/",
       "published_time": "2026-04-29 12:59:56",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/Musk-vs-Altman.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.</p>\n<p>The article <a href=\"https://the-decoder.com/musk-and-altman-face-off-in-court-over",
-      "ai_summary": "马斯克与奥特曼在法庭上就OpenAI的营利转型展开辩论，双方描述了截然不同的早期情况。",
+      "ai_summary": "马斯克起诉OpenAI营利转型，与奥特曼在联邦法院首次交锋。",
       "ai_tags": [
-        "OpenAI",
         "马斯克",
-        "诉讼"
+        "奥特曼",
+        "OpenAI",
+        "诉讼",
+        "法庭"
       ],
       "ai_importance": 5
     },
@@ -165,26 +196,11 @@
       "link": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7",
       "published_time": "2026-04-29 10:15:14",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/70/19/70cd5ffdbc531a60135a7b0de4406519.png\" /></p><p>在 AI 编程赛道白热化之际，拥有近百万活跃开发者的明星终端工具 Warp 投下了一枚重磅炸弹。</p><p>&nbsp;</p><p>Warp 是一个现代、高度集成 AI 的终端和开发平台，已被超过 70 万名来自领先企业的开发者使用。</p><p></p><h2>Altman 坐镇，现代终端神器 Warp 开源了</h2><p></p><p>&nbsp;</p><p>就在今天，这款由 Sam Altman 支持的现代终端 Warp 正式在 GitHub 开源（采用 AGPL 许可证）。更具前瞻性的是，Warp 还推出了一套由其云代理平台 Oz 管理的“代理优先（Agent-first）”协作流，邀请全球开发者与 AI 智能体共同编排软件的未来。</p><p>&nbsp;</p><p>GitHub 地址：<a href=\"https://github.com/warpdo",
-      "ai_summary": "Sam Altman支持的AI终端Warp开源，获3.5万star，推出代理优先协作流。",
+      "ai_summary": "Altman支持的终端工具Warp正式开源，获3.5万星，推出Agent优先协作流。",
       "ai_tags": [
-        "Warp",
         "开源",
-        "AI终端"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "中国金监总局官网删局长李云泽名 消息称他已被降职",
-      "link": "https://www.zaobao.com/news/china/story20260429-8973019",
-      "published_time": "2026-04-29 09:56:34",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/da461177d844c2f61b0f206f552c69d4d5ac21bed64da8a11f48ad2c3a349f89\" /><figcaption></figcaption></figure><div><div><p>中国国家金融监督管理总局官网显示，“总局领导”一栏删去局长李云泽资料。路透社引述据知情人士报道，李云泽因涉嫌违纪问题被降职。</p><p>现年55岁的李云泽在2023年5月正式出任国家金融监督管理总局首任党委书记、局长，是首位在中央政府机构担任正部级职务的“70后”官员，此前曾任四川省委常委、常务副省长，长期在金融系统工作，拥有丰富的国有银行从业经验。</p><p>中国官方并未公布这一消息，但是在中国金监总局的网站上，“总局领导”一栏，已没有局长信息，仅留下四位在任的副局长名字。</p><figure class=\"inline-figure bff-inline-image\">\n              <div class=",
-      "ai_summary": "中国国家金融监督管理总局官网删除局长李云泽信息，知情人士称其因违纪被降职。",
-      "ai_tags": [
-        "中国",
-        "金融监管",
-        "李云泽",
-        "降职"
+        "AI编程",
+        "终端工具"
       ],
       "ai_importance": 5
     },
@@ -193,53 +209,53 @@
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
       "published_time": "2026-04-28 19:44:52",
-      "raw_content": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 3369</p>\n<p># Comments: 1001</p>",
-      "ai_summary": "Ghostty终端模拟器宣布离开GitHub，转向其他平台。",
+      "raw_content": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 3402</p>\n<p># Comments: 1017</p>",
+      "ai_summary": "Ghostty 项目宣布离开 GitHub，引发对平台依赖性的广泛热议。",
       "ai_tags": [
         "GitHub",
-        "迁移"
+        "开源项目"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Your phone is about to stop being yours",
-      "link": "https://keepandroidopen.org/en/",
-      "published_time": "2026-04-28 15:21:00",
-      "raw_content": "<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1644</p>\n<p># Comments: 854</p>",
-      "ai_summary": "文章指出手机将不再真正属于用户，呼吁保持安卓开放。",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "published_time": "2026-04-28 19:24:43",
+      "raw_content": "<p><a href=\"https://aws.amazon.com/bedrock/openai/\" rel=\"nofollow\">https://aws.amazon.com/bedrock/openai/</a><p><a href=\"https://www.aboutamazon.com/news/aws/bedrock-openai-models\" rel=\"nofollow\">https://www.aboutamazon.com/news/aws/bedrock-openai-models</a><p><a href=\"https://openai.com/index/openai-on-aws/\" rel=\"nofollow\">https://openai.com/index/openai-on-aws/</a><p><a href=\"https://x.com/amazon/status/2049178618639839427\" rel=\"nofollow\">https://x.com/amazon/status/2049178618639839427</a></p>",
+      "ai_summary": "OpenAI 模型将通过 Amazon Bedrock 提供服务，CEO 双方讨论合作细节。",
       "ai_tags": [
-        "Android",
-        "开放",
-        "隐私"
+        "OpenAI",
+        "AWS"
       ],
       "ai_importance": 5
     },
     {
-      "category": "openai",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "link": "https://openai.com/index/openai-on-aws",
-      "published_time": "2026-04-28 00:00:00",
-      "raw_content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "ai_summary": "OpenAI模型、Codex及Managed Agents上线AWS，支持企业安全构建AI。",
+      "category": "hacker_news",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "published_time": "2026-04-28 16:15:43",
+      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 440</p>\n<p># Comments: 91</p>",
+      "ai_summary": "分析GitHub远程代码执行漏洞CVE-2026-3854，该漏洞由Wiz团队发现。",
       "ai_tags": [
-        "OpenAI",
-        "AWS",
-        "企业AI"
+        "GitHub",
+        "漏洞",
+        "RCE",
+        "安全"
       ],
       "ai_importance": 5
     },
     {
-      "category": "mit_technology_ai",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "published_time": "2026-04-27 22:52:57",
-      "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "马斯克与奥特曼就OpenAI未来对簿公堂，法院将裁决其盈利性及IPO前景。",
+      "category": "github",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "published_time": "2026-04-28 15:30:00",
+      "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "ai_summary": "GitHub在不到两小时内验证、修复并调查了一个关键的远程代码执行漏洞，确认未遭利用。",
       "ai_tags": [
-        "OpenAI",
-        "法律纠纷",
-        "IPO"
+        "安全",
+        "漏洞",
+        "GitHub"
       ],
       "ai_importance": 5
     },
@@ -249,7 +265,7 @@
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published_time": "2026-04-27 06:00:00",
       "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI和微软宣布修订合作协议，简化合作，提供长期清晰度，支持大规模AI创新。",
+      "ai_summary": "OpenAI与微软宣布修订合作协议，简化合作并增加长期清晰度，支持大规模AI创新。",
       "ai_tags": [
         "OpenAI",
         "微软",
@@ -263,25 +279,11 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国监管机构叫停Meta收购AI公司Manus的交易，要求撤销该收购，因涉及投资规定。",
+      "ai_summary": "中国叫停Meta以20亿美元收购AI公司Manus的交易，称违反投资规定，凸显中美技术博弈。",
       "ai_tags": [
-        "AI",
-        "监管",
-        "并购"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hugging_face",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "link": "https://huggingface.co/blog/deepseekv4",
-      "published_time": "2026-04-24 00:00:00",
-      "raw_content": "",
-      "ai_summary": "DeepSeek-V4引入百万token上下文，使智能体能够实际使用长上下文进行复杂任务。",
-      "ai_tags": [
-        "DeepSeek",
-        "长上下文",
-        "智能体"
+        "科技",
+        "中美",
+        "监管"
       ],
       "ai_importance": 5
     }

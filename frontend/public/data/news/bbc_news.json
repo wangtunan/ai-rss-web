@@ -5,143 +5,132 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "What we know about the Golders Green stabbings",
+      "title": "Who is the suspect in the stabbings?",
       "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:53:45",
+      "published_time": "2026-04-30 10:24:17",
       "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
-      "ai_summary": "伦敦Golders Green两名犹太男子被刺伤，警方宣布为恐怖事件。",
+      "ai_summary": "伦敦北部两名犹太男子被刺伤，警方定性为恐怖袭击。",
       "ai_tags": [
-        "伦敦",
-        "刺伤",
-        "恐怖袭击",
-        "反犹"
+        "BBC新闻",
+        "英国",
+        "恐怖袭击"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-      "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:29:54",
-      "raw_content": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
-      "ai_summary": "伦敦两名犹太男子被刺伤，警方宣布为恐怖事件，一名45岁男子因涉嫌谋杀未遂被捕。",
+      "title": "Saudi Arabia to stop funding LIV Golf next season",
+      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 06:21:47",
+      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
+      "ai_summary": "沙特将在赛季末停止对LIV高尔夫的数十亿美元资助，系列赛未来成疑。",
       "ai_tags": [
-        "恐怖事件",
-        "伦敦",
-        "袭击"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-      "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 01:46:52",
-      "raw_content": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
-      "ai_summary": "BBC探访伊拉克受严重攻击的美英基地，在停火前曾一天遭28次袭击。",
-      "ai_tags": [
-        "伊拉克",
-        "美英基地",
-        "袭击"
+        "高尔夫",
+        "沙特",
+        "LIV"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
-      "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:48:47",
-      "raw_content": "Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.",
-      "ai_summary": "Meta、亚马逊、Alphabet和微软同日发布财报，投资者评估大型科技公司的人工智能支出浪潮，Meta股价下滑。",
+      "title": "Saudi Arabia to stop funding LIV Golf at end of season",
+      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 06:21:47",
+      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
+      "ai_summary": "沙特将在赛季末停止对LIV高尔夫的数十亿美元资助，系列赛未来成疑。",
       "ai_tags": [
-        "科技",
-        "财报",
-        "人工智能"
+        "高尔夫",
+        "沙特",
+        "LIV"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:20:04",
-      "raw_content": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
-      "ai_summary": "美国指控墨西哥锡那罗亚州州长Rúben Rocha Moya协助贩毒集团。",
+      "title": "Oil price jumps after report Trump to be given new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 10:20:44",
+      "raw_content": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "ai_summary": "报道称美国中央司令部准备对伊朗进行打击，油价应声上涨。",
       "ai_tags": [
-        "美国指控",
-        "墨西哥",
-        "贩毒集团"
+        "BBC新闻",
+        "油价",
+        "伊朗"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
-      "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:08:59",
-      "raw_content": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
-      "ai_summary": "新技术扫描可发现传统扫描遗漏的子宫内膜异位症区域，有望缩短女性确诊等待时间。",
+      "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+      "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 10:23:14",
+      "raw_content": "It comes after legislation to remove their right to sit in the upper chamber passed last month.",
+      "ai_summary": "世袭贵族制度废除，700年历史的上议院席位传统终结。",
       "ai_tags": [
-        "医疗",
-        "技术",
-        "子宫内膜异位症"
+        "BBC新闻",
+        "英国政治"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Christchurch mass killer loses bid to overturn conviction",
-      "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 04:10:54",
-      "raw_content": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
-      "ai_summary": "新西兰法院驳回基督城枪击案凶手Brenton Tarrant的上诉，认为其毫无根据。",
+      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 07:43:33",
+      "raw_content": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "ai_summary": "肯尼亚选手Sabastian Sawe成为首位在正式比赛跑进2小时的马拉松选手，回国受到热烈欢迎。",
       "ai_tags": [
-        "基督城枪击",
-        "上诉驳回",
-        "白人至上"
+        "马拉松",
+        "破纪录",
+        "肯尼亚"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "'King Charles is coming to Harlem': What the royals did in the Big Apple",
-      "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:37:45",
-      "raw_content": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem.",
-      "ai_summary": "查尔斯国王和卡米拉王后在纽约访问9/11纪念馆、公共图书馆和哈莱姆社区组织。",
+      "title": "Video that police denied existed shows woman pinned down",
+      "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 05:29:41",
+      "raw_content": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces.",
+      "ai_summary": "一名女性首次讲述与两个警察机构对抗的经历，警方曾否认存在的视频显示她被压制。",
       "ai_tags": [
-        "王室",
-        "访问",
-        "纽约"
+        "警察",
+        "视频",
+        "争议"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Lomu, Wilkinson, Pollock? Rugby's search for a crossover star",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cm2p8nzm81jo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 07:49:55",
+      "raw_content": "Henry Pollock has signed with Eddie Hearn's talent agency in the hope of boosting his profile, but why has rugby found it so hard to forge mainstream figureheads?",
+      "ai_summary": "橄榄球运动员Henry Pollock签约知名经纪公司以提升知名度，文章探讨橄榄球为何难以培养出跨界明星。",
+      "ai_tags": [
+        "橄榄球",
+        "跨界明星"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-      "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 01:43:40",
-      "raw_content": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "ai_summary": "美国TikTok明星D4vd被指控在线购买工具处理女孩尸体，律师称将坚决辩护。",
-      "ai_tags": [
-        "歌手",
-        "指控",
-        "谋杀"
-      ],
+      "title": "New Arsenal deal for England captain Williamson",
+      "link": "https://www.bbc.com/sport/football/articles/c9v38vgd2jwo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 09:00:50",
+      "raw_content": "Leah Williamson is the fourth player to commit her future to the club in recent weeks, with Kim Little, Stina Blackstenius, and Steph Catley also signing new deals.",
+      "ai_summary": "",
+      "ai_tags": [],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
-      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:08:19",
-      "raw_content": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
-      "ai_summary": "Bondi枪击案中期报告建议全国一致的枪支改革和加强犹太节日安保。",
-      "ai_tags": [
-        "枪支改革",
-        "安保",
-        "犹太节日"
-      ],
+      "title": "Parker leaves Burnley after Premier League relegation",
+      "link": "https://www.bbc.com/sport/football/articles/c332vpz2kgmo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 09:28:51",
+      "raw_content": "Burnley head coach Scott Parker leaves the club following talks with the club's hierarchy.",
+      "ai_summary": "",
+      "ai_tags": [],
       "ai_importance": 3
     }
   ]

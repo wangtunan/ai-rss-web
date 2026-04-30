@@ -6,283 +6,285 @@
   "offset": 0,
   "items": [
     {
-      "category": "cls",
-      "title": "孟加拉国麻疹疫情加剧 逾220名儿童死亡",
-      "link": "https://api3.cls.cn/share/article/2360699?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:58:53",
-      "raw_content": "【孟加拉国麻疹疫情加剧 逾220名儿童死亡】财联社4月30日电，孟加拉国政府4月29日发布的数据显示，自3月中旬以来，该国暴发严重麻疹疫情，已有227名儿童死亡，近3.5万疑似感染者当中多数是6个月至5岁的儿童。",
-      "ai_summary": "孟加拉国麻疹疫情严重，已致227名儿童死亡，近3.5万例疑似病例。",
-      "ai_tags": [
-        "麻疹",
-        "疫情",
-        "孟加拉国"
-      ],
-      "ai_importance": 5
-    },
-    {
       "category": "bbc_news",
-      "title": "What we know about the Golders Green stabbings",
+      "title": "Who is the suspect in the stabbings?",
       "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:53:45",
+      "published_time": "2026-04-30 10:24:17",
       "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
-      "ai_summary": "伦敦Golders Green两名犹太男子被刺伤，警方宣布为恐怖事件。",
+      "ai_summary": "伦敦北部两名犹太男子被刺伤，警方定性为恐怖袭击。",
       "ai_tags": [
-        "伦敦",
-        "刺伤",
-        "恐怖袭击",
-        "反犹"
+        "BBC新闻",
+        "英国",
+        "恐怖袭击"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "欧元区经济增长意外放缓 伊朗战争加剧滞胀风险",
+      "link": "https://api3.cls.cn/share/article/2361264?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:09:52",
+      "raw_content": "【欧元区经济增长意外放缓 伊朗战争加剧滞胀风险】财联社4月30日电，2026年初欧元区经济意外放缓，由伊朗冲突引发的能源成本飙升，令未来数月面临滞胀风险。第一季度GDP环比增长0.1%，低于0.2%的预期值。在主要经济体中，西班牙再次领跑，增长0.6%；德国增长0.3%；而法国则意外陷入停滞。由于该数据仅涵盖中东冲突爆发后的第一个月，因此尚未反映出冲突在欧元区逐步扩散所带来的全部放缓影响。就在欧洲央行即将公布利率决定前数小时，另一份来自欧盟统计局的数据显示风险仍在积聚：4月消费者价格上涨3%，为2023年9月以来的最快增速。",
+      "ai_summary": "欧元区一季度GDP环比增长0.1%低于预期，伊朗冲突导致能源成本飙升，4月通胀率达3%，加剧滞胀风险。",
+      "ai_tags": [
+        "欧元区",
+        "经济增长",
+        "滞胀",
+        "伊朗冲突"
       ],
       "ai_importance": 5
     },
     {
       "category": "36kr",
-      "title": "今年第二批，超长期特别国债支持设备更新资金下达",
-      "link": "https://36kr.com/newsflashes/3788708720958722?f=rss",
-      "published_time": "2026-04-30 02:33:48",
-      "raw_content": "今天，从国家发展改革委了解到，2026年第二批915亿元“两新”设备更新项目清单和资金安排已经下达。加上此前已下达的936亿元，今年已累计安排两新设备更新资金1851亿元，占全年2000亿元的92%。（央视新闻）",
-      "ai_summary": "国家发改委下达2026年第二批915亿元设备更新资金，今年累计已达1851亿元，占全年目标92%。",
+      "title": "央行等三部门：着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展",
+      "link": "https://36kr.com/newsflashes/3789154316803081?f=rss",
+      "published_time": "2026-04-30 10:07:05",
+      "raw_content": "36氪获悉，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。《通知》聚焦金融服务科技创新和设备更新的重要环节，全链条优化政策举措。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。",
+      "ai_summary": "央行等三部门发文，扩大科技创新和技术改造贷款支持范围，涵盖人工智能等领域。",
       "ai_tags": [
-        "国家发改委",
-        "设备更新",
-        "资金下达"
+        "央行",
+        "人工智能",
+        "金融服务",
+        "设备更新"
       ],
       "ai_importance": 5
     },
     {
-      "category": "infoq",
-      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
-      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
-      "published_time": "2026-04-30 02:02:01",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
-      "ai_summary": "Anthropic研究显示，AI影响的高危职业群体年龄更大、教育程度和收入更高，但理论能力与实际应用存在差距。",
+      "category": "36kr",
+      "title": "*ST亚士：股票被实施退市风险警示，5月6日起复牌",
+      "link": "https://36kr.com/newsflashes/3789149381647618?f=rss",
+      "published_time": "2026-04-30 10:02:04",
+      "raw_content": "36氪获悉，亚士创能公告，因公司2025年度经审计的期末净资产为负值，触及退市风险警示情形，公司股票自2026年5月6日起复牌并被实施退市风险警示，股票简称变更为“*ST亚士”，日涨跌幅限制为5%。若2026年度财务指标继续触及强制退市情形，公司股票将被终止上市。",
+      "ai_summary": "*ST亚士因2025年度期末净资产为负值，触及退市风险警示，股票自2026年5月6日起复牌并实施退市风险警示，简称变更为“*ST亚士”，涨跌幅限制5%。",
       "ai_tags": [
-        "Anthropic",
-        "AI替代",
-        "职业影响"
+        "*ST亚士",
+        "退市风险警示"
       ],
       "ai_importance": 5
     },
     {
-      "category": "bbc_news",
-      "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-      "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 00:29:54",
-      "raw_content": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
-      "ai_summary": "伦敦两名犹太男子被刺伤，警方宣布为恐怖事件，一名45岁男子因涉嫌谋杀未遂被捕。",
+      "category": "36kr",
+      "title": "央行：5月6日开展3000亿元买断式逆回购操作，期限为3个月",
+      "link": "https://36kr.com/newsflashes/3789106153888777?f=rss",
+      "published_time": "2026-04-30 09:18:06",
+      "raw_content": "36氪获悉，为保持银行体系流动性充裕，2026年5月6日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为3个月（91天），到期日为2026年8月5日（遇节假日顺延）。",
+      "ai_summary": "央行于5月6日开展3000亿元买断式逆回购操作，期限3个月，旨在保持银行体系流动性充裕。",
       "ai_tags": [
-        "恐怖事件",
-        "伦敦",
-        "袭击"
+        "央行",
+        "逆回购",
+        "流动性"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Christchurch mass killer loses bid to overturn conviction",
-      "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 04:10:54",
-      "raw_content": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
-      "ai_summary": "新西兰法院驳回基督城枪击案凶手Brenton Tarrant的上诉，认为其毫无根据。",
-      "ai_tags": [
-        "基督城枪击",
-        "上诉驳回",
-        "白人至上"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "财联社4月30日午间新闻精选",
-      "link": "https://api3.cls.cn/share/article/2360708?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 04:04:59",
-      "raw_content": "【财联社4月30日午间新闻精选】\n1、截至午间收盘，上证指数涨0.09%，深证成指跌0.06%，创业板指跌0.13%。恒生指数跌1.23%，恒生科技指数跌0.97%。\n2、算力芯片龙头寒武纪涨超17%，股价逼近1700元，刷新历史新高，总市值突破7000亿，该股本月累计涨近70%。\n3、4月我国制造业采购经理指数为50.3%，延续较好运行态势。\n4、今年第二批超长期特别国债支持设备更新资金下达，今年已累计安排两新设备更新资金1851亿元。\n5、媒体报道称，特朗普将听取打击伊朗新方案，打击目标很有可能包括伊朗的基础设施。\n6、霍尔木兹海峡航运受阻，美国提议组建新联盟以恢复通航。",
-      "ai_summary": "午间股市涨跌不一，寒武纪创新高，制造业PMI为50.3%，超长期国债下达，特朗普拟打击伊朗，霍尔木兹航运受阻",
-      "ai_tags": [
-        "股市",
-        "地缘政治",
-        "经济"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "小红书发内部信：加大AI投入，柯南出任总裁",
-      "link": "https://36kr.com/newsflashes/3788795750604032?f=rss",
-      "published_time": "2026-04-30 04:02:20",
-      "raw_content": "36氪获悉，4月30日，小红书发全员内部信，宣布新一轮组织升级，将全面整合社区、电商、商业化三大业务及公司技术体系，提升核心业务的整体经营能力，并成立AI一级部门Dots和企业智能部，从产品技术和组织两方面加大对AI的投入。柯南将作为总裁整合三大业务及公司技术体系，全面负责公司核心业务经营，向CEO星矢汇报。",
-      "ai_summary": "小红书内部信宣布加大AI投入，成立AI一级部门，柯南出任总裁整合三大业务。",
-      "ai_tags": [
-        "小红书",
-        "AI",
-        "组织升级",
-        "柯南"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "【研选•行业数据】全球氦气供给持续收缩，氦气价格连续上涨，最新整理氦气产业链相关公司产能等（附表）",
-      "link": "https://api3.cls.cn/share/article/2360049?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 04:00:03",
-      "raw_content": "全球氦气供给持续收缩，氦气价格连续上涨，最新整理氦气产业链相关公司产能等（附表）。",
-      "ai_summary": "全球氦气供给收缩价格连续上涨，产业链公司产能整理",
-      "ai_tags": [
-        "氦气",
-        "涨价"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "史丹利：中东局势主要对磷肥原料硫磺影响较大 国内硫磺价格已由之前每吨4000元涨到现在的6300元",
-      "link": "https://api3.cls.cn/share/article/2360697?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:56:55",
-      "raw_content": "【史丹利：中东局势主要对磷肥原料硫磺影响较大 国内硫磺价格已由之前每吨4000元涨到现在的6300元】财联社4月30日电，史丹利29日在业绩说明会上表示，中东局势主要是对磷肥原料硫磺的影响较大，国内硫磺价格已经由之前的每吨4000元上涨到现在的6300元，影响磷肥成本较多，行业共同面临成本上涨，下游种植农户需要有个接受过程，目前国内单质肥价格已经比国际低很多了。",
-      "ai_summary": "中东局势推高硫磺价格，从4000元/吨涨至6300元/吨，影响磷肥成本。",
-      "ai_tags": [
-        "硫磺",
-        "磷肥",
-        "中东局势"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "小红书发内部信：成立AI一级部门Dots和企业智能部 柯南出任总裁",
-      "link": "https://api3.cls.cn/share/article/2360685?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:46:29",
-      "raw_content": "【小红书发内部信：成立AI一级部门Dots和企业智能部 柯南出任总裁】《科创板日报》记者获悉，小红书发全员内部信，宣布新一轮组织升级，成立AI一级部门Dots和企业智能部，从产品技术、组织两方面加大对AI的投入。此外，任命柯南出任总裁，全面整合社区、电商、商业化三大核心业务及公司技术体系，向CEO星矢汇报。木兰继续担任董事会主席。（记者 徐赐豪）",
-      "ai_summary": "小红书成立AI一级部门Dots，柯南出任总裁。",
-      "ai_tags": [
-        "小红书",
-        "AI",
-        "组织升级"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "问界M8荣膺中国电动汽车火灾安全指数五星级成绩，为行业首证",
-      "link": "https://36kr.com/newsflashes/3788776896109568?f=rss",
-      "published_time": "2026-04-30 03:43:09",
-      "raw_content": "近日，问界M8 Max+纯电五座长续航版车型完成中国电动汽车火灾安全指数2026版测试，并斩获五星级成绩，成为行业首个2026版火灾安全指数五星认证车型。据了解，车身防护方面，车辆采用八横五纵刚性结构，并应用高强度材料，其中铝合金+高强度钢+热成型钢占比超81%；电池安全方面，车辆通过五层电芯包覆、五层电池包底部防护等，全方位防范电池安全风险。",
-      "ai_summary": "问界M8成为行业首个获得中国电动汽车火灾安全指数2026版五星认证的车型，采用高强度车身和多重电池防护。",
-      "ai_tags": [
-        "汽车",
-        "安全",
-        "问界"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "宇树双臂人形机器人发布 售价2.69万元起",
-      "link": "https://api3.cls.cn/share/article/2360688?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:42:44",
-      "raw_content": "【宇树双臂人形机器人发布 售价2.69万元起】财联社4月30日电，宇树发布宇树双臂人形机器人，售价2.69万元起。",
-      "ai_summary": "宇树发布双臂人形机器人，起售价2.69万元。",
-      "ai_tags": [
-        "机器人",
-        "宇树",
-        "科技"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "恒力集团：4月新造船市场持续火爆 恒力重工手持订单已排至2030年",
-      "link": "https://api3.cls.cn/share/article/2360681?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:40:27",
-      "raw_content": "【恒力集团：4月新造船市场持续火爆 恒力重工手持订单已排至2030年】财联社4月30日电，据恒力集团消息，4月30日，恒力重工与全球知名航运公司CAPITAL正式签约生效4艘181000载重吨好望角型散货船建造合同。这是继双方在VLCC领域深度合作后，CAPITAL再度加码恒力重工，将合作版图从油轮拓展至干散货船领域。进入4月，新造船市场持续火爆，恒力重工4月累计签约新造船项目18艘，涵盖气体船、散货船、油轮等多元高端船型，产品结构持续优化。目前手持订单已排至2030年，生产计划饱满。",
-      "ai_summary": "恒力重工4月新造船订单火爆，与CAPITAL签约4艘散货船，月累计签约18艘，手持订单至2030年。",
-      "ai_tags": [
-        "造船",
-        "恒力",
-        "订单"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "香港金管局回应美联储议息决定：继续密切监察市场变化 维持货币及金融稳定",
-      "link": "https://api3.cls.cn/share/article/2360680?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-04-30 03:40:16",
-      "raw_content": "【香港金管局回应美联储议息决定：继续密切监察市场变化 维持货币及金融稳定】财联社4月30日电，美国联邦储备局（美联储）联邦公开市场委员会在香港时间今天清晨公布维持联邦基金利率目标区间于3.50-3.75厘。美联储维持息率不变的决定符合市场预期。市场普遍认为，美国未来货币政策走向存在较大不确定性，取决于通胀走势和就业市场情况，特别是中东地区局势持续紧张令油价高企，对美国通胀的影响仍有待观察。香港方面，货币及金融市场保持有序运作。港元拆息在联系汇率制度下整体上趋近美元息率，而较短期限的拆息就同时受本地市场港元资金供求影响，例如季节性因素及资本市场活动。美国未来息率走向存在不确定性，对香港的利率环境亦会有所影响，市民在作出置业、投资或借贷决定时，需充分考虑及管理利率风险。金管局会继续密切监察市场变化，维持货币及金融稳定。<br /><img src=\"https://image.cls.cn/images/20260430/BL4ip0os5K_1345x870.png\" />",
-      "ai_summary": "美联储维持利率不变，香港金管局表示将密切监察市场，维持金融稳定。",
-      "ai_tags": [
-        "美联储",
-        "利率",
-        "香港金管局"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台",
-      "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy",
-      "published_time": "2026-04-30 03:36:18",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/26/43/26d237fe4a3b27bd0daa289bee727043.png\" /></p><p>在传统离线数据体系下，核心数据往往需要 T+1 才能可用，难以支撑实时风控、监控告警和业务决策等关键场景。</p><p></p><p>金城银行通过引入 Apache Doris，结合 Flink CDC 重构数据链路，将端到端延迟压缩至 2-3 分钟，实现从离线批处理向准实时分析的关键跃迁。</p><p></p><p>在此过程中，平台不仅解决了实时性问题，还在高频 Schema 变更、数据一致性保障及链路稳定性方面形成了一套可规模化落地的实践方案。</p><p></p><p>目前，系统已支撑超过 2300 张表的实时处理，实时链路规模超过 150 个，总任务数 400+（包含离线），整体故障率较之前下降约 80%，数据传输成功率提升至 99.99%，重点场景下端到端延迟控制在 2 分钟以内。同时，查询效率、资源利用率和平台稳定性也得到显著提升，为后续湖仓一体、智能问数及全链",
-      "ai_summary": "金城银行使用Apache Doris和Flink CDC重构数据链路，将端到端延迟压缩至2-3分钟，支持2300+表实时处理，故障率下降80%。",
-      "ai_tags": [
-        "Apache Doris",
-        "实时数据平台",
-        "金城银行"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "36kr",
-      "title": "A股三大指数午间休盘涨跌不一，寒武纪涨超17%",
-      "link": "https://36kr.com/newsflashes/3788765267664131?f=rss",
-      "published_time": "2026-04-30 03:31:20",
-      "raw_content": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.09%，深成指跌0.06%，创业板指跌0.13%；半导体、休闲用品、房地产板块领涨，舒华体育、津投城开涨停，寒武纪涨超17%；燃气、贵金属、汽车板块跌幅居前，新天然气跌超5%，山东黄金跌超3%，比亚迪跌超2%。",
-      "ai_summary": "A股三大指数午盘涨跌不一，半导体、房地产板块领涨，寒武纪涨超17%，燃气、贵金属走弱。",
-      "ai_tags": [
-        "股市",
-        "A股",
-        "寒武纪"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 03:20:04",
-      "raw_content": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
-      "ai_summary": "美国指控墨西哥锡那罗亚州州长Rúben Rocha Moya协助贩毒集团。",
-      "ai_tags": [
-        "美国指控",
-        "墨西哥",
-        "贩毒集团"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "zaobao_china",
-      "title": "中国4月非官方制造业PMI增速近六年最快",
-      "link": "https://www.zaobao.com/news/china/story20260430-8976425",
-      "published_time": "2026-04-30 03:03:40",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/ee629fb4e6fae0a06da18059df62026ab400c805729b1657ab41cf0935b25b11\" /><figcaption></figcaption></figure><div><div><p>中国非官方数据显示，受生产力强劲增长和新订单激增推动，中国4月制造业扩张增速为2020年底以来最快。</p><p>据路透社报道，由标普全球编制、在星期四（4月30日）发布的瑞霆狗（RatingDog）中国通用制造业采购经理人指数（PMI）显示，从3月的50.8上升至52.2，高过市场预期的51，也是自2020底以来的最快增速。</p><p>中国国家统计局同日公布，4月中国制造业PMI为50.3，比上月下降0.1，但优于市场预期。彭博社和路透社经调查后得出的预测中值均为50.1。</p><p>瑞霆狗创始人姚煜说，整体来看，4月瑞霆狗的PMI进一步确认了中国经济正处于复苏阶段。结构数据显示，这种景气的修复来自订单的增长，以及涨价效应带",
-      "ai_summary": "中国4月制造业PMI达52.2，创近六年最快增速，经济复苏信号。",
+      "title": "解放军南部战区在黄岩岛海空域开展战备警巡",
+      "link": "https://www.zaobao.com/news/china/story20260430-8978842",
+      "published_time": "2026-04-30 08:17:41",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>中国军方通报，组织军力在黄岩岛（菲律宾称斯卡伯勒浅滩）开展战备警巡。</p><p>中国人民解放军南部战区星期四（4月30日）在微信公众号上通报，南部战区当天组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。</p><p>通报指出，黄岩岛是中国固有领土。4月份以来，战区部队持续加强黄岩岛领海周边海空域巡逻警戒，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南中国海地区和平稳定。</p>\n    \n  </div></div>",
+      "ai_summary": "解放军南部战区在黄岩岛领海领空开展战备警巡，坚决捍卫主权。",
       "ai_tags": [
-        "PMI",
-        "制造业",
-        "经济复苏"
+        "南海",
+        "军事",
+        "黄岩岛"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "德国捷克据报拒绝赖清德过境请求",
+      "link": "https://www.zaobao.com/news/china/story20260430-8977913",
+      "published_time": "2026-04-30 06:33:50",
+      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>外媒报道非洲三国取消台湾总统赖清德专机的飞航许可后，德国和捷克也拒绝让赖清德过境的请求。针对这则报道。台湾总统府没有正面回应。</p><p>彭博社引述要求匿名的知情官员报道，德国和捷克本月拒绝赖清德过境欧洲请求，使得他尝试绕过障碍，首次展开非洲外交行程的最后努力宣告失败。</p><p>这些官员称，在塞舌尔、毛里求斯、马达加斯加三国取消飞航许可后，台湾方面紧急向德国、捷克等欧洲国家提出了过境请求。不过，德国和捷克经内部讨论后拒绝了这项请求。</p><p>知情人士称，德国总理默茨得知此事，但德国方面认为让赖清德搭乘官方客机降落在德国法兰克福会有问题。中国大陆得知德国正在考虑台湾的过境请求后致电德国官员，施压要求他们拒绝赖清德过境。</p><p>彭博社也报道，另一个需要考虑的因素是，是否会有更多非洲国家拒发飞行许可，导致赖清德被困在德国。欧洲官员私",
+      "ai_summary": "外媒报道德国和捷克拒绝台湾总统赖清德过境请求，此前非洲三国已取消其专机飞航许可，台湾总统府未正面回应。",
+      "ai_tags": [
+        "台湾",
+        "外交",
+        "过境"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中国警告欧盟若禁用华为设备将反制",
+      "link": "https://www.zaobao.com/news/china/story20260430-8977632",
+      "published_time": "2026-04-30 06:11:00",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/3210e12c071a099bb4ffefb6f4b2981dce29d24008b58750a2ab899c157f6929\" /><figcaption></figcaption></figure><div><div><p>随着中欧关系持续紧张，中国驻欧盟使团警告，如果欧盟推进在全欧洲范围内禁止使用中国科技巨头华为设备的提案，中国将采取反制措施。</p><p>据彭博社报道，中国驻欧盟使团星期三（4月29日）在布鲁塞尔一场会议上发表声明称，已要求欧盟委员会删除执行副主席维尔库宁（Henna Virkkunen）在相关提案中的部分表述，包括将中国设备认定为网络安全风险，或将中国企业列为“高风险”供应商。</p><p>维尔库宁正推动成员国逐步淘汰华为及中兴通讯设备，并于今年1月提出在《网络安全法》中引入强制性措施，以强化网络安全。</p><p>中国驻欧盟使团说：“如果欧盟坚持推进这一提案，中方将不得不采取对等反制措施，对欧盟及企业作出回应。”</p><p>",
+      "ai_summary": "中国驻欧盟使团警告，若欧盟推进在欧范围内禁用华为设备的提案，中方将采取对等反制措施。",
+      "ai_tags": [
+        "中欧关系",
+        "华为",
+        "反制"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+      "published_time": "2026-04-30 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
+      "ai_summary": "Anthropic研究科学家使用Claude Code在Linux内核中发现多个漏洞，包括一个自2003年存在的堆缓冲区溢出漏洞。",
+      "ai_tags": [
+        "Linux",
+        "漏洞",
+        "Claude",
+        "AI"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "路透：北京将台湾问题列为习特会首要议题",
+      "link": "https://www.zaobao.com/news/china/story20260430-8976980",
+      "published_time": "2026-04-30 05:31:00",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/a1a4a6c537c7b533556c21f445f9dc7df669fc7caf993b7092ad50eaa67c2cd3\" /><figcaption></figcaption></figure><div><div><p>英国媒体报道，美国总统特朗普预计将于5月赴北京与中国国家主席习近平会晤，中国方面表明台湾问题将是习特会的首要议题。在两人去年10月韩国会面时，习近平未提及此议题。</p><p>据路透社星期三（4月29日）报道，台北将关注擅于通过交易令伙伴生畏的特朗普，会否在美国对台立场上趋软，或重塑美国长期对台政策，以换取中国大陆购买美国飞机、农产品，从而协助缓解美国国内所面对的经济压力。</p><p>上海复旦大学国际关系研究院院长吴心伯说：“关于台湾问题的逻辑简单，如果美国不想与中国大陆就台湾问题进行重大战争，就不会支持台湾独立。特朗普没有兴趣与中国开战。为避免涉及美国的重大冲突，他应明确表示不支持独立或采取鼓励分裂的政策。”</p><p>中国",
+      "ai_summary": "路透社报道，北京将台湾问题列为习特会首要议题，特朗普预计5月将访华与习近平会晤。",
+      "ai_tags": [
+        "习特会",
+        "台湾问题",
+        "中美关系"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+      "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 10:23:14",
+      "raw_content": "It comes after legislation to remove their right to sit in the upper chamber passed last month.",
+      "ai_summary": "世袭贵族制度废除，700年历史的上议院席位传统终结。",
+      "ai_tags": [
+        "BBC新闻",
+        "英国政治"
       ],
       "ai_importance": 4
     },
     {
-      "category": "infoq",
-      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
-      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
-      "published_time": "2026-04-30 03:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/1e/f7507603b95d8955dd990c741d4d321e.jpg\" /></p><p>谷歌云智能体平台推出 <a href=\"https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/\">Agents CLI</a>\"，旨在简化 AI 智能体的开发生命周期，实现从本地原型设计到生产部署的无缝衔接。此次发布精准解决了智能体开发中的一大常见难题：各类工具链与基础设施往往分散在不同的服务和环境中。</p><p>&nbsp;</p><p>该工具专为与 Gemini CLI、Claude Code、Cursor 等编程智能体直接集成而设计，为谷歌云的各项服务（包括智能体平台、Cloud Run 及基础设施自动化组件）提供统一调用接口，目标是缓解开发者从实验阶段过渡到生产系统过程中遇到的各类碎片化问题。</p><p>&nbsp;</p><p",
-      "ai_summary": "谷歌云推出Agents CLI，简化AI智能体从原型到生产部署的全流程，为编程智能体提供统一接口。",
+      "category": "36kr",
+      "title": "五粮液：第一季度净利润80.63亿元，同比增长82.57%",
+      "link": "https://36kr.com/newsflashes/3789169653111808?f=rss",
+      "published_time": "2026-04-30 10:22:41",
+      "raw_content": "36氪获悉，五粮液发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入228.38亿元，同比增长33.67%；归属于上市公司股东的净利润为80.63亿元，同比增长82.57%。业绩变动主要系同期基数较低，同比有所增长。",
+      "ai_summary": "五粮液一季度营收228.38亿元，净利润80.63亿元，同比增长82.57%，因基数较低。",
       "ai_tags": [
-        "谷歌云",
-        "Agents CLI",
-        "AI智能体"
+        "五粮液",
+        "业绩",
+        "一季报"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "财联社4月30日电，乌克兰总统泽连斯基表示，尚无迹象表明和平谈判何时能够恢复。",
+      "link": "https://api3.cls.cn/share/article/2361280?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:22:23",
+      "raw_content": "财联社4月30日电，乌克兰总统泽连斯基表示，尚无迹象表明和平谈判何时能够恢复。",
+      "ai_summary": "乌克兰总统泽连斯基表示，尚无迹象表明和平谈判何时恢复。",
+      "ai_tags": [
+        "乌克兰",
+        "泽连斯基",
+        "和平谈判"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Oil price jumps after report Trump to be given new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 10:20:44",
+      "raw_content": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "ai_summary": "报道称美国中央司令部准备对伊朗进行打击，油价应声上涨。",
+      "ai_tags": [
+        "BBC新闻",
+        "油价",
+        "伊朗"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "佩斯科夫：普京尚未就胜利日暂时停火具体时间作出决定",
+      "link": "https://api3.cls.cn/share/article/2361271?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:17:46",
+      "raw_content": "【佩斯科夫：普京尚未就胜利日暂时停火具体时间作出决定】财联社4月30日电，俄罗斯总统新闻秘书佩斯科夫30日在简报中表示，总统普京尚未就胜利日期间实施停火的具体时间做出决定。他还指出，俄方尚未听到乌方对这一倡议的回应。俄罗斯总统助理乌沙科夫29日晚说，俄总统普京与美国总统特朗普通电话，就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。普京在通话中表示，俄罗斯准备在胜利日期间实行停火，特朗普对此表示支持。 (央视新闻)",
+      "ai_summary": "俄罗斯总统新闻秘书佩斯科夫表示，普京尚未就胜利日期间停火的具体时间做出决定，俄方也未收到乌方回应。此前普京与特朗普通电话时表示准备在胜利日停火。",
+      "ai_tags": [
+        "俄罗斯",
+        "停火",
+        "胜利日"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "36kr",
+      "title": "5月1日起，民用无人驾驶航空器等1071项国标开始实施",
+      "link": "https://36kr.com/newsflashes/3789161589103873?f=rss",
+      "published_time": "2026-04-30 10:14:29",
+      "raw_content": "5月1日起，1071项国家标准开始实施，其中包括民用无人驾驶航空器、烟花爆竹、家用咖啡机、鞋长、孤独症儿童康复机构服务质量等重要国家标准。新标准的实施将为保障公共安全、保护消费者权益、保障行业安全有序发展等提供标准支撑。（新华社）",
+      "ai_summary": "5月1日起包括民用无人驾驶航空器在内的1071项国家标准开始实施。",
+      "ai_tags": [
+        "国家标准",
+        "无人驾驶航空器",
+        "实施"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "三部门：将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域",
+      "link": "https://api3.cls.cn/share/article/2361260?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:06:44",
+      "raw_content": "【三部门：将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域】财联社4月30日电，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。提升贷款服务质效，着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展。优化再贷款发放和管理，提高政策实施效率。下一步，中国人民银行、国家发展改革委、财政部将会同有关部门全力推动《通知》各项举措落实落地，加强跟踪监测和部门协同，引导金融资源精准有力支持科技创新和设备更新，为产业转型升级营造有利金融服务环境。",
+      "ai_summary": "三部门联合通知，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能等14个领域，并优化再贷款管理。",
+      "ai_tags": [
+        "贷款支持",
+        "设备更新",
+        "人工智能",
+        "电子信息"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "36kr",
+      "title": "Stripe发布288项新功能",
+      "link": "https://36kr.com/newsflashes/3789153615944712?f=rss",
+      "published_time": "2026-04-30 10:06:23",
+      "raw_content": "36氪获悉，Stripe于当地时间4月29日在年度大会Stripe Sessions上发布了288项新产品和功能。这一系列发布旨在帮助AI企业加速增长，助力传统企业适应AI变革，防范token被盗，并推动智能体成为真正的经济参与者。",
+      "ai_summary": "Stripe在年度大会Stripe Sessions上发布了288项新产品和功能，旨在加速AI企业增长、帮助传统企业适应AI变革，并防范token被盗。",
+      "ai_tags": [
+        "Stripe",
+        "AI",
+        "新功能"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+      "link": "https://api3.cls.cn/share/article/2361257?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:05:13",
+      "raw_content": "【三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新】财联社4月30日电，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。《通知》坚持扩大内需战略基点，优化“两新”政策实施，创新科技金融服务，发挥好科技创新和技术改造再贷款增量政策作用，强化政策协同，不断提升金融服务中小科技型企业、大规模设备更新的能力和质效，加快重点领域高端化、智能化、绿色化、数字化设备推广应用。\n\n《通知》聚焦金融服务科技创新和设备更新的重要环节，全链条优化政策举措。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。提升贷款服务质效，着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展。优化再贷款发放和管理，提高政策实施效率。",
+      "ai_summary": "央行等三部门印发通知，扩大科技创新和技术改造贷款投放，支持设备更新，范围扩展至14个领域。",
+      "ai_tags": [
+        "科技创新",
+        "技术改造",
+        "贷款",
+        "设备更新"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "cls",
+      "title": "昊海生科：控股股东之一因非本公司事项收到《取保候审决定书》",
+      "link": "https://api3.cls.cn/share/article/2361239?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-04-30 10:03:29",
+      "raw_content": "【昊海生科：控股股东之一因非本公司事项收到《取保候审决定书》】《科创板日报》30日讯，昊海生科(688366.SH)公告称，公司控股股东、实际控制人之一蒋伟因涉嫌内幕交易案，收到上海市公安局出具的《取保候审决定书》，期限从2026年4月29日起算。此前蒋伟已于2025年12月因内幕交易等行为收到证监会《行政处罚决定书》。该事项与公司无关，蒋伟未在公司任职，不会影响公司日常经营。",
+      "ai_summary": "昊海生科公告控股股东之一蒋伟因涉嫌内幕交易收到取保候审决定书，与公司无关。",
+      "ai_tags": [
+        "昊海生科",
+        "内幕交易",
+        "取保候审"
       ],
       "ai_importance": 4
     }

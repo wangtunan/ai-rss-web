@@ -5,29 +5,63 @@
   "items": [
     {
       "category": "v2ex",
-      "title": "鼻中隔偏曲术后归来，后悔没早点做",
-      "link": "https://www.v2ex.com/t/1209534",
-      "published_time": "2026-04-30 00:55:07",
-      "raw_content": "booyah: <h4>0.前序</h4>\n<p>接上一个帖子<a href=\"https://www.v2ex.com/t/1203953#reply59\" rel=\"nofollow\">打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX</a><br />\n我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下，<br />\n<strong>发现大家有类似交替性鼻塞的人还挺多的</strong>。<br />\n简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。  </p>\n<h4>1.手术过程</h4>\n<p>一早去医院办理入院手续，术前需要禁食禁水，一直等到下午才进手术室。<br />\n全麻进去醒来已经是出院被推回病床了，最直接的感受就是：鼻子完全不能呼吸。<br />\n<strong>两个鼻腔被塞了吸收+不可吸收的一大团棉花，只能靠嘴呼吸</strong>。<br />\n之前一直以为口呼吸会很难受的，不过习惯了其实还好。  </p>\n<h4>2.坐牢的两天住院</h4>\n<p>比手术本身更难受的，反而是住院这两天。<br />\n一个是医院的超阳",
-      "ai_summary": "分享鼻中隔偏曲手术经历，术后鼻塞靠嘴呼吸，后悔没早做。",
+      "title": "我的第一个 Linux 内核补丁：从一个 TCP Listener 的 Bug 说起（大家五一节前快乐）",
+      "link": "https://www.v2ex.com/t/1209526",
+      "published_time": "2026-04-30 00:28:12",
+      "raw_content": "swananan: <a href=\"https://jt26wzz.com/posts/0016-my-first-linux-kernel-patch-fixing-a-tcp-listener-bug/\" rel=\"nofollow noopener\" target=\"_blank\">https://jt26wzz.com/posts/0016-my-first-linux-kernel-patch-fixing-a-tcp-listener-bug/</a><br /><br />上面是博客地址链接，文章全程手搓，主要写了三部分：一个是怎么发现 Bug 的，然后是给内核社区提补丁的全过程（期间得到多个大佬的帮助），最后是我对开源社区运作新的理解（特别是和血汗大厂工作的区别对比）。<br /><br />上次分享博客，很多人吐槽我博客的阅读体验有点差，这次我特别用 AI 调整了一下，优化了字体和行间隔，加了侧边栏，开头加上了 TL:DR 摘要，还调整了高亮特效，这次应该好很多了。如果有什么新的反馈，随时写在下面，反正一个小小的静态博客，LLM 都能搞定😉。",
+      "ai_summary": "介绍发现TCP listener bug并提交第一个Linux内核补丁的过程，分享开源社区协作经验。",
       "ai_tags": [
-        "健康",
-        "手术",
-        "鼻中隔"
+        "Linux",
+        "内核",
+        "补丁",
+        "TCP",
+        "开源"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "新上 API 中转站 zerofra.me，注册送 $10 额度，希望搞一波试运行",
+      "link": "https://www.v2ex.com/t/1209542",
+      "published_time": "2026-04-30 01:08:05",
+      "raw_content": "kian98: <p>最近搭了一个 LLM API 中转站：<a href=\"http://zerofra.me/\" rel=\"nofollow\">zerofra.me</a></p>\n<p>地址： <a href=\"https://api.zerofra.me/\" rel=\"nofollow\">https://api.zerofra.me/</a></p>\n<p>目前主要支持：</p>\n<ul>\n<li>Codex / GPT 系列模型</li>\n<li>Claude 系列模型</li>\n</ul>\n<p>现在刚上线，想先邀请大家试用一下，也顺便帮忙反馈问题。\n新用户注册后送 $10 测试额度。</p>\n<p>如果有需要，可以注册后在帖子下面留下用户名，我这边会统一处理额度。</p>\n<p>感谢大家，欢迎提建议。</p>",
+      "ai_summary": "新上线的LLM API中转站zerofra.me，支持GPT和Claude系列，新用户注册即送$10额度。",
+      "ai_tags": [
+        "API",
+        "中转站",
+        "GPT",
+        "Claude",
+        "免费额度"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "失业后去热门景区附近卖烤肠，能轻松月入过万吗？",
-      "link": "https://www.v2ex.com/t/1209548",
-      "published_time": "2026-04-30 01:28:03",
-      "raw_content": "Void000: <p>去景区旅游的时候发现，附近有那种卖烤肠的摊主。普通淀粉肠卖 2 卖，王中王能卖到 3 块。如果是肉肠的话，更是能卖到 5 块钱一根。</p>\n<p>我好像发现了巨大的商机，然后就赶紧拿出某多多查了下价格，发现一根淀粉肠的进价撑破天也就 5 毛钱，王中王贵一点，但是成本价也才 1 块。肉肠差不多 1 块 2 、1 块 3 左右。</p>\n<p>所以此时我就在想，如果在热门景区，来来往往的这么多人，一天卖个 300 根左右，就按一根肠赚 2 块来算的话，那就是 600 块，那一个月出摊 20 天，就是 20x600=12000 了，轻松月入过万，时间还自由。</p>\n<p>v 友们，此刻你们的内心是不是已经和我一样蠢蠢欲动了🙈？</p>",
-      "ai_summary": "讨论失业后去景区卖烤肠，日卖300根可月入1.2万。",
+      "title": "鼻中隔偏曲术后归来，后悔没早点做",
+      "link": "https://www.v2ex.com/t/1209534",
+      "published_time": "2026-04-30 00:55:07",
+      "raw_content": "booyah: <h4>0.前序</h4>\n<p>接上一个帖子<a href=\"https://www.v2ex.com/t/1203953#reply59\" rel=\"nofollow\">打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX</a><br />\n我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下，<br />\n<strong>发现大家有类似交替性鼻塞的人还挺多的</strong>。<br />\n简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。  </p>\n<h4>1.手术过程</h4>\n<p>一早去医院办理入院手续，术前需要禁食禁水，一直等到下午才进手术室。<br />\n全麻进去醒来已经是出院被推回病床了，最直接的感受就是：鼻子完全不能呼吸。<br />\n<strong>两个鼻腔被塞了吸收+不可吸收的一大团棉花，只能靠嘴呼吸</strong>。<br />\n之前一直以为口呼吸会很难受的，不过习惯了其实还好。  </p>\n<h4>2.坐牢的两天住院</h4>\n<p>比手术本身更难受的，反而是住院这两天。<br />\n一个是医院的超阳",
+      "ai_summary": "分享鼻中隔偏曲手术经历，术后感受，后悔没早点做，提醒有类似症状的人参考。",
       "ai_tags": [
-        "创业",
-        "思考",
-        "烤肠"
+        "鼻中隔",
+        "手术",
+        "健康",
+        "经历分享"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "现在写中文的博客还有意义吗",
+      "link": "https://www.v2ex.com/t/1209554",
+      "published_time": "2026-04-30 01:34:40",
+      "raw_content": "koukyo: <p>大约一个月前开始写自己的第一个博客，当时 ai 建议我注意 SEO</p>\n<p>我用 semrush 看了看，似乎谷歌什么词中文都没有流量，百度又基本上死了</p>\n<p>后面就只能考虑从现有的社交平台上引流到博客了</p>\n<p>不过这好像又和一开始我设想的，细水长流获取自然流量有冲突，每次分发都得人力来很累</p>\n<p>或许现在博客这种形式在中文互联网上真的只能当作日记本了吗</p>\n<p>这是我的<a href=\"https://koukyo.site/\" rel=\"nofollow\">博客</a>，主要是写自己的从零创业经验，大家给点建议</p>",
+      "ai_summary": "博主反思中文博客SEO效果差，百度流量减少，考虑从社交平台引流，质疑博客的长期价值。",
+      "ai_tags": [
+        "博客",
+        "SEO",
+        "中文内容",
+        "引流"
       ],
       "ai_importance": 2
     },
@@ -37,12 +71,27 @@
       "link": "https://www.v2ex.com/t/1209536",
       "published_time": "2026-04-30 01:01:30",
       "raw_content": "mode171: <h2>工作这么多年，除了钱，你还沉淀下来了什么。</h2>",
-      "ai_summary": "工作多年除了钱还沉淀了什么？引发思考。",
+      "ai_summary": "探讨工作多年除了金钱之外的沉淀和收获。",
       "ai_tags": [
-        "职场",
-        "感悟"
+        "工作",
+        "沉淀",
+        "思考"
       ],
       "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "小米股票跌倒 29 了，快补仓",
+      "link": "https://www.v2ex.com/t/1209564",
+      "published_time": "2026-04-30 01:59:26",
+      "raw_content": "chouvel: 大家都是怎么换到港元的？",
+      "ai_summary": "用户讨论小米股价下跌至29港元，询问换汇至港元的方法。",
+      "ai_tags": [
+        "小米",
+        "股票",
+        "换汇"
+      ],
+      "ai_importance": 1
     },
     {
       "category": "v2ex",
@@ -50,67 +99,27 @@
       "link": "https://www.v2ex.com/t/1209550",
       "published_time": "2026-04-30 01:31:58",
       "raw_content": "xiaofangcode: <h1>🚀 五一活动 &amp; 项目进展汇报</h1>\n<p>各位 V 友大家好 👋<br />\n我们大概是<strong>第一批在 V2EX 做推广起家的服务商</strong>，一路走来非常感谢大家的支持。</p>\n<p><strong>网址： <a href=\"https://codecdn.bytecatcode.org/\" rel=\"nofollow\">https://codecdn.bytecatcode.org</a></strong></p>\n<p>这次不整虚的，简单说发展、讲清福利。</p>\n<hr />\n<h2>🧭 项目发展时间线</h2>\n<ul>\n<li>\n<p><strong>2026-01</strong></p>\n<ul>\n<li>项目成立</li>\n<li>仅 Kiro 渠道</li>\n<li>无缓存 + 香港“灵车”服务器（老用户应该有印象 😂）</li>\n</ul>\n</li>\n<li>\n<p><strong>2026-02</strong></p>\n<ul>\n<li>更换为 DMIT</li>\n<li>\n新增：<ul>",
-      "ai_summary": "Bytecat项目推广，注册送500wtoken，叠加倍率可达5000w。",
+      "ai_summary": "bytecat平台推出五一活动，注册送500万token，逆向Claude Opus0.1倍率，中奖率20%。",
       "ai_tags": [
-        "推广",
-        "AI",
-        "token"
+        "bytecat",
+        "Claude",
+        "token",
+        "活动"
       ],
       "ai_importance": 1
     },
     {
       "category": "v2ex",
-      "title": "又是恐婚恐育的一天，求 v 站网友骂醒",
-      "link": "https://www.v2ex.com/t/1209498",
-      "published_time": "2026-04-29 14:43:06",
-      "raw_content": "echo2020: <p>94 年中年女性，年入 10 ，对象年入 20 ，无房有一 10W 车，无父母帮助，准一线城市。一想到结婚生孩子就恐惧，但又担心年纪更大错失生育机会，求解</p>",
-      "ai_summary": "94年女性恐婚恐育，担心年纪大错过生育机会。",
+      "title": "失业后去热门景区附近卖烤肠，能轻松月入过万吗？",
+      "link": "https://www.v2ex.com/t/1209548",
+      "published_time": "2026-04-30 01:28:03",
+      "raw_content": "Void000: <p>去景区旅游的时候发现，附近有那种卖烤肠的摊主。普通淀粉肠卖 2 卖，王中王能卖到 3 块。如果是肉肠的话，更是能卖到 5 块钱一根。</p>\n<p>我好像发现了巨大的商机，然后就赶紧拿出某多多查了下价格，发现一根淀粉肠的进价撑破天也就 5 毛钱，王中王贵一点，但是成本价也才 1 块。肉肠差不多 1 块 2 、1 块 3 左右。</p>\n<p>所以此时我就在想，如果在热门景区，来来往往的这么多人，一天卖个 300 根左右，就按一根肠赚 2 块来算的话，那就是 600 块，那一个月出摊 20 天，就是 20x600=12000 了，轻松月入过万，时间还自由。</p>\n<p>v 友们，此刻你们的内心是不是已经和我一样蠢蠢欲动了🙈？</p>",
+      "ai_summary": "用户分析景区卖烤肠的利润，认为日赚600元，月入过万可行。",
       "ai_tags": [
-        "婚姻",
-        "生育",
-        "焦虑"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "做了一个内容极丰富的文字 roguelike 游戏，但是没人付费，问题出在哪？",
-      "link": "https://www.v2ex.com/t/1209438",
-      "published_time": "2026-04-29 09:48:08",
-      "raw_content": "zxypro: <p>花一个月做了一个 220+怪物，200+装备的 roguelike 游戏，玩的人挺多，但是没人付费，想知道是哪里有问题？</p>\n<p>目前收费策略是：免费每天能玩 3 轮，付费 9.9 解锁无限。还可以付费买复活药水，4 元 40 个。</p>\n<p>游戏链接： <a href=\"https://abyss-chronicle.top/\" rel=\"nofollow\">https://abyss-chronicle.top/</a></p>",
-      "ai_summary": "制作了220+怪物200+装备的roguelike游戏，玩的人多但付费少。",
-      "ai_tags": [
-        "游戏",
-        "开发",
-        "付费"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "裸辞之后看到原老板发的朋友圈非常不舒服，那我也在这里评价他几句",
-      "link": "https://www.v2ex.com/t/1209346",
-      "published_time": "2026-04-29 04:59:04",
-      "raw_content": "runxin: <p>他在朋友圈评论开发，那我就在这里也评论下他。</p>\n<p>我和这个人多年共事之后，非常不爽，以至于前不久终于忍不住裸辞了，原因很多，这里就随便列举几条印象比较深刻的。还有一些逆天的说不出来，不然容易被看出来这是哪家公司。</p>\n<p>他是非计算机科班，民办三本，毕业一年后赶上移动互联网风口转行产品经理，中间也自学过一点 UI 设计和网页前端，后来一家大公司的一个 App 业务被独立拆成一家小公司，从此他担任这里的老板。</p>\n<h4>不信任任何人，甚至和员工抢功劳</h4>\n<p>每次版本上线之后，如果留存率出现下滑，就让开发去检查代码，开发确认没问题，仍然逼着开发直接回退代码。</p>\n<p>如果版本上线之后，留存率未下滑，就开始吹自己 ASO 做的好，说自己这个版本又优化了 xx 关键词。</p>\n<p>但实际上 2026 年了，他还在搞 2016 年那时候的堆砌关键词的玩法，语序根本不通，人和现代的 AI 都看不懂他写的 App 描述，真的对 ASO 有效果吗？还吹自己用 python 做了什么关键词权重排序。</p>\n<p>不信任开发，我入职到离职期",
-      "ai_summary": "裸辞后吐槽原老板，不信任员工、抢功劳等行为。",
-      "ai_tags": [
-        "职场",
-        "吐槽",
-        "老板"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "新上中转站送 Token 纯血 gpt-5.5 分组倍率 0.15x",
-      "link": "https://www.v2ex.com/t/1209410",
-      "published_time": "2026-04-29 08:36:43",
-      "raw_content": "qiudemad: <p><a href=\"http://www.bossclaw.org/\" rel=\"nofollow\">www.bossclaw.org</a> 注册完评论放邮箱送 3000 万 token</p>\n<p>如有违规请管理直接删帖</p>",
-      "ai_summary": "新中转站bossclaw.org注册送3000万token，gpt-5.5倍率低。",
-      "ai_tags": [
-        "推广",
-        "AI",
-        "token"
+        "创业",
+        "烤肠",
+        "景区",
+        "收入"
       ],
       "ai_importance": 1
     }

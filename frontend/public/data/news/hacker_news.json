@@ -5,29 +5,27 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Zed 1.0",
-      "link": "https://zed.dev/blog/zed-1-0",
-      "published_time": "2026-04-29 14:34:19",
-      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1606</p>\n<p># Comments: 513</p>",
-      "ai_summary": "Zed代码编辑器发布1.0版本，获得极高关注。",
+      "title": "Where the goblins came from",
+      "link": "https://openai.com/index/where-the-goblins-came-from/",
+      "published_time": "2026-04-30 03:21:04",
+      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 595</p>\n<p># Comments: 330</p>",
+      "ai_summary": "OpenAI发布文章探讨地精的起源，引发广泛讨论。",
       "ai_tags": [
-        "编辑器",
-        "发布",
-        "Zed"
+        "OpenAI",
+        "技术文章"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "published_time": "2026-04-29 18:54:31",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1010</p>\n<p># Comments: 433</p>",
-      "ai_summary": "提交信息中的HERMES.md导致请求计费异常，引发大量讨论。",
+      "title": "Zed 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "published_time": "2026-04-29 14:34:19",
+      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1848</p>\n<p># Comments: 592</p>",
+      "ai_summary": "Zed 编辑器正式发布 1.0 版本，获得了社区高度关注。",
       "ai_tags": [
-        "Git",
-        "计费",
-        "Bug"
+        "开发工具",
+        "编辑器"
       ],
       "ai_importance": 5
     },
@@ -36,26 +34,27 @@
       "title": "Online age verification is the hill to die on",
       "link": "https://x.com/GlennMeder/status/2049088498163216560",
       "published_time": "2026-04-29 15:49:57",
-      "raw_content": "<p><a href=\"https://xcancel.com/GlennMeder/status/2049088498163216560\" rel=\"nofollow\">https://xcancel.com/GlennMeder/status/2049088498163216560</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950091\">https://news.ycombinator.com/item?id=47950091</a></p>\n<p>Points: 804</p>\n<p># Comments: 505</p>",
-      "ai_summary": "在线年龄验证是必须坚持的底线，引发热议。",
+      "raw_content": "<p><a href=\"https://xcancel.com/GlennMeder/status/2049088498163216560\" rel=\"nofollow\">https://xcancel.com/GlennMeder/status/2049088498163216560</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950091\">https://news.ycombinator.com/item?id=47950091</a></p>\n<p>Points: 886</p>\n<p># Comments: 597</p>",
+      "ai_summary": "关于在线年龄验证的争论引发大量评论，观点不一。",
       "ai_tags": [
-        "隐私",
         "年龄验证",
+        "在线安全",
         "政策"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "published_time": "2026-04-29 11:42:46",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47946958\">https://news.ycombinator.com/item?id=47946958</a></p>\n<p>Points: 396</p>\n<p># Comments: 224</p>",
-      "ai_summary": "HashiCorp联合创始人表示GitHub不再是严肃工作的场所。",
+      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "link": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "published_time": "2026-04-29 16:50:01",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing\">https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47951007\">https://news.ycombinator.com/item?id=47951007</a></p>\n<p>Points: 297</p>\n<p># Comments: 191</p>",
+      "ai_summary": "马里兰州成为美国首个禁止超市使用监控定价的州，保护消费者隐私。",
       "ai_tags": [
-        "GitHub",
-        "开发",
-        "评论"
+        "隐私",
+        "立法",
+        "监控定价",
+        "超市"
       ],
       "ai_importance": 4
     },
@@ -64,12 +63,40 @@
       "title": "Mistral Medium 3.5",
       "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
       "published_time": "2026-04-29 15:17:46",
-      "raw_content": "<p>Article URL: <a href=\"https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5\">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949642\">https://news.ycombinator.com/item?id=47949642</a></p>\n<p>Points: 436</p>\n<p># Comments: 202</p>",
-      "ai_summary": "Mistral发布Medium 3.5模型，支持远程代理。",
+      "raw_content": "<p>Article URL: <a href=\"https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5\">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949642\">https://news.ycombinator.com/item?id=47949642</a></p>\n<p>Points: 465</p>\n<p># Comments: 215</p>",
+      "ai_summary": "Mistral 发布了 Medium 3.5 模型，支持远程代理和语音交互。",
       "ai_tags": [
         "AI",
-        "模型发布",
-        "Mistral"
+        "模型发布"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+      "link": "https://jivx.com/kyoto-bloom",
+      "published_time": "2026-04-29 19:32:36",
+      "raw_content": "<p>Article URL: <a href=\"https://jivx.com/kyoto-bloom\">https://jivx.com/kyoto-bloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953275\">https://news.ycombinator.com/item?id=47953275</a></p>\n<p>Points: 328</p>\n<p># Comments: 93</p>",
+      "ai_summary": "京都樱花开花时间创1200年来最早纪录，反映气候变化影响。",
+      "ai_tags": [
+        "环境",
+        "樱花",
+        "气候变化",
+        "历史"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "link": "https://github.com/anthropics/claude-code/issues/53262",
+      "published_time": "2026-04-29 18:54:31",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1130</p>\n<p># Comments: 477</p>",
+      "ai_summary": "Claude Code中HERMES.md在提交信息中导致额外计费，引发用户关注。",
+      "ai_tags": [
+        "Claude Code",
+        "计费问题",
+        "GitHub"
       ],
       "ai_importance": 4
     },
@@ -78,68 +105,39 @@
       "title": "Bugs Rust won't catch",
       "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
       "published_time": "2026-04-29 02:19:11",
-      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 631</p>\n<p># Comments: 345</p>",
-      "ai_summary": "文章列举了Rust语言无法捕获的常见bug类型，提醒开发者注意。",
+      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 648</p>\n<p># Comments: 352</p>",
+      "ai_summary": "探讨了 Rust 语言仍然无法避免的一些常见编程错误类型。",
       "ai_tags": [
         "Rust",
-        "编程",
-        "漏洞"
+        "编程语言"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Soft launch of open-source code platform for government",
-      "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "published_time": "2026-04-29 09:14:37",
-      "raw_content": "<p>Article URL: <a href=\"https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/\">https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945918\">https://news.ycombinator.com/item?id=47945918</a></p>\n<p>Points: 530</p>\n<p># Comments: 119</p>",
-      "ai_summary": "荷兰政府软启动了一个开源代码平台，供政府部门使用。",
-      "ai_tags": [
-        "政府",
-        "开源",
-        "平台"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Copy Fail",
-      "link": "https://copy.fail/",
-      "published_time": "2026-04-29 18:13:53",
-      "raw_content": "<p>Article URL: <a href=\"https://copy.fail/\">https://copy.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a></p>\n<p>Points: 670</p>\n<p># Comments: 282</p>",
-      "ai_summary": "一个关于复制失败的网站，引发广泛讨论。",
-      "ai_tags": [
-        "技术",
-        "Bug"
-      ],
-      "ai_importance": 3
     },
     {
       "category": "hacker_news",
       "title": "We need a federation of forges",
       "link": "https://blog.tangled.org/federation/",
       "published_time": "2026-04-29 14:00:59",
-      "raw_content": "<p>Article URL: <a href=\"https://blog.tangled.org/federation/\">https://blog.tangled.org/federation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948603\">https://news.ycombinator.com/item?id=47948603</a></p>\n<p>Points: 530</p>\n<p># Comments: 335</p>",
-      "ai_summary": "呼吁建立一个代码托管平台的联合体。",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.tangled.org/federation/\">https://blog.tangled.org/federation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948603\">https://news.ycombinator.com/item?id=47948603</a></p>\n<p>Points: 570</p>\n<p># Comments: 362</p>",
+      "ai_summary": "文章呼吁建立代码托管平台的联邦化，以替代集中式服务。",
       "ai_tags": [
         "开源",
-        "代码托管",
-        "去中心化"
+        "代码托管"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Cursor Camp",
-      "link": "https://neal.fun/cursor-camp/",
-      "published_time": "2026-04-29 15:39:43",
-      "raw_content": "<p>Article URL: <a href=\"https://neal.fun/cursor-camp/\">https://neal.fun/cursor-camp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949939\">https://news.ycombinator.com/item?id=47949939</a></p>\n<p>Points: 713</p>\n<p># Comments: 116</p>",
-      "ai_summary": "一个有趣的游标营地网站。",
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "published_time": "2026-04-29 11:42:46",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47946958\">https://news.ycombinator.com/item?id=47946958</a></p>\n<p>Points: 401</p>\n<p># Comments: 227</p>",
+      "ai_summary": "HashiCorp 联合创始人称 GitHub 不再适合严肃工作，引发广泛讨论。",
       "ai_tags": [
-        "趣味",
-        "网页"
+        "GitHub",
+        "开发社区"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     }
   ]
 }
