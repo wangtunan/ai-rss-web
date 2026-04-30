@@ -5,142 +5,141 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "published_time": "2026-04-29 02:19:11",
-      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 292</p>\n<p># Comments: 121</p>",
-      "ai_summary": "文章讨论Rust语言无法捕获的bug类型，指出其内存安全优势外的局限性。",
+      "title": "Zed 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "published_time": "2026-04-29 14:34:19",
+      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1606</p>\n<p># Comments: 513</p>",
+      "ai_summary": "Zed代码编辑器发布1.0版本，获得极高关注。",
       "ai_tags": [
-        "Rust",
-        "bug",
-        "内存安全",
-        "编程"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "hacker_news",
-      "title": "Ghostty is leaving GitHub",
-      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "published_time": "2026-04-28 19:44:52",
-      "raw_content": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 2603</p>\n<p># Comments: 761</p>",
-      "ai_summary": "Ghostty项目宣布离开GitHub平台。",
-      "ai_tags": [
-        "开源",
-        "GitHub"
+        "编辑器",
+        "发布",
+        "Zed"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Who owns the code Claude Code wrote?",
-      "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "published_time": "2026-04-28 11:24:52",
-      "raw_content": "<p>Article URL: <a href=\"https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932937\">https://news.ycombinator.com/item?id=47932937</a></p>\n<p>Points: 407</p>\n<p># Comments: 380</p>",
-      "ai_summary": "探讨Claude Code生成的代码所有权归属问题。",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "link": "https://github.com/anthropics/claude-code/issues/53262",
+      "published_time": "2026-04-29 18:54:31",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1010</p>\n<p># Comments: 433</p>",
+      "ai_summary": "提交信息中的HERMES.md导致请求计费异常，引发大量讨论。",
+      "ai_tags": [
+        "Git",
+        "计费",
+        "Bug"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Online age verification is the hill to die on",
+      "link": "https://x.com/GlennMeder/status/2049088498163216560",
+      "published_time": "2026-04-29 15:49:57",
+      "raw_content": "<p><a href=\"https://xcancel.com/GlennMeder/status/2049088498163216560\" rel=\"nofollow\">https://xcancel.com/GlennMeder/status/2049088498163216560</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950091\">https://news.ycombinator.com/item?id=47950091</a></p>\n<p>Points: 804</p>\n<p># Comments: 505</p>",
+      "ai_summary": "在线年龄验证是必须坚持的底线，引发热议。",
+      "ai_tags": [
+        "隐私",
+        "年龄验证",
+        "政策"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "published_time": "2026-04-29 11:42:46",
+      "raw_content": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47946958\">https://news.ycombinator.com/item?id=47946958</a></p>\n<p>Points: 396</p>\n<p># Comments: 224</p>",
+      "ai_summary": "HashiCorp联合创始人表示GitHub不再是严肃工作的场所。",
+      "ai_tags": [
+        "GitHub",
+        "开发",
+        "评论"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Mistral Medium 3.5",
+      "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "published_time": "2026-04-29 15:17:46",
+      "raw_content": "<p>Article URL: <a href=\"https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5\">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949642\">https://news.ycombinator.com/item?id=47949642</a></p>\n<p>Points: 436</p>\n<p># Comments: 202</p>",
+      "ai_summary": "Mistral发布Medium 3.5模型，支持远程代理。",
       "ai_tags": [
         "AI",
-        "版权",
-        "代码"
+        "模型发布",
+        "Mistral"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Your phone is about to stop being yours",
-      "link": "https://keepandroidopen.org/en/",
-      "published_time": "2026-04-28 15:21:00",
-      "raw_content": "<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1373</p>\n<p># Comments: 624</p>",
-      "ai_summary": "关于安卓开放性的讨论，担忧手机控制权被剥夺。",
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "published_time": "2026-04-29 02:19:11",
+      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 631</p>\n<p># Comments: 345</p>",
+      "ai_summary": "文章列举了Rust语言无法捕获的常见bug类型，提醒开发者注意。",
       "ai_tags": [
-        "安卓",
-        "开放",
-        "隐私"
+        "Rust",
+        "编程",
+        "漏洞"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "link": "https://github.com/localsend/localsend",
-      "published_time": "2026-04-28 11:54:20",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 850</p>\n<p># Comments: 251</p>",
-      "ai_summary": "开源跨平台文件传输工具Localsend，作为AirDrop的替代品。",
+      "title": "Soft launch of open-source code platform for government",
+      "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "published_time": "2026-04-29 09:14:37",
+      "raw_content": "<p>Article URL: <a href=\"https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/\">https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945918\">https://news.ycombinator.com/item?id=47945918</a></p>\n<p>Points: 530</p>\n<p># Comments: 119</p>",
+      "ai_summary": "荷兰政府软启动了一个开源代码平台，供政府部门使用。",
+      "ai_tags": [
+        "政府",
+        "开源",
+        "平台"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Copy Fail",
+      "link": "https://copy.fail/",
+      "published_time": "2026-04-29 18:13:53",
+      "raw_content": "<p>Article URL: <a href=\"https://copy.fail/\">https://copy.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a></p>\n<p>Points: 670</p>\n<p># Comments: 282</p>",
+      "ai_summary": "一个关于复制失败的网站，引发广泛讨论。",
+      "ai_tags": [
+        "技术",
+        "Bug"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "We need a federation of forges",
+      "link": "https://blog.tangled.org/federation/",
+      "published_time": "2026-04-29 14:00:59",
+      "raw_content": "<p>Article URL: <a href=\"https://blog.tangled.org/federation/\">https://blog.tangled.org/federation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948603\">https://news.ycombinator.com/item?id=47948603</a></p>\n<p>Points: 530</p>\n<p># Comments: 335</p>",
+      "ai_summary": "呼吁建立一个代码托管平台的联合体。",
       "ai_tags": [
         "开源",
-        "文件传输",
-        "跨平台"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "An update on GitHub availability",
-      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-      "published_time": "2026-04-28 10:05:03",
-      "raw_content": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">https://github.blog/news-insights/company-news/an-update-on-github-availability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932422\">https://news.ycombinator.com/item?id=47932422</a></p>\n<p>Points: 397</p>\n<p># Comments: 237</p>",
-      "ai_summary": "GitHub 发布可用性更新，讨论近期事件和应对措施。",
-      "ai_tags": [
-        "GitHub",
-        "可用性"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-      "link": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-      "published_time": "2026-04-28 09:01:05",
-      "raw_content": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/\">https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932028\">https://news.ycombinator.com/item?id=47932028</a></p>\n<p>Points: 286</p>\n<p># Comments: 187</p>",
-      "ai_summary": "GitHub Copilot 代码审查功能将于2026年6月起消耗 GitHub Actions 分钟数。",
-      "ai_tags": [
-        "GitHub",
-        "Copilot",
-        "Actions"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "published_time": "2026-04-28 16:15:43",
-      "raw_content": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 360</p>\n<p># Comments: 76</p>",
-      "ai_summary": "GitHub远程代码执行漏洞CVE-2026-3854的技术分析。",
-      "ai_tags": [
-        "安全",
-        "漏洞",
-        "GitHub"
+        "代码托管",
+        "去中心化"
       ],
       "ai_importance": 3
     },
     {
       "category": "hacker_news",
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "published_time": "2026-04-28 15:49:22",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 293</p>\n<p># Comments: 269</p>",
-      "ai_summary": "谷歌与五角大楼达成协议，允许在'合法'范围内使用人工智能。",
+      "title": "Cursor Camp",
+      "link": "https://neal.fun/cursor-camp/",
+      "published_time": "2026-04-29 15:39:43",
+      "raw_content": "<p>Article URL: <a href=\"https://neal.fun/cursor-camp/\">https://neal.fun/cursor-camp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949939\">https://news.ycombinator.com/item?id=47949939</a></p>\n<p>Points: 713</p>\n<p># Comments: 116</p>",
+      "ai_summary": "一个有趣的游标营地网站。",
       "ai_tags": [
-        "AI",
-        "军事",
-        "谷歌"
+        "趣味",
+        "网页"
       ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "UAE Leaves OPEC",
-      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
-      "published_time": "2026-04-28 13:13:54",
-      "raw_content": "<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 330</p>\n<p># Comments: 2</p>",
-      "ai_summary": "阿联酋宣布退出石油输出国组织OPEC。",
-      "ai_tags": [
-        "OPEC",
-        "能源",
-        "国际"
-      ],
-      "ai_importance": 3
+      "ai_importance": 2
     }
   ]
 }

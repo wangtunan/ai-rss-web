@@ -5,136 +5,113 @@
   "items": [
     {
       "category": "infoq",
-      "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
-      "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa",
-      "published_time": "2026-04-29 08:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9b/93/9b374cdb571f3a4da3b2d3f4e49eca93.png\" /></p><p></p><blockquote>程序员们，先别忙着焦虑AI会抢走你的饭碗。现在更该焦虑的，可能是你们的 CTO 和 CFO了：因为让 AI 写代码，实在太烧钱了。</blockquote><p></p><p>&nbsp;</p><p>Copilot 和 Claude Code，几乎在同一时间，给行业踩了一脚刹车。</p><p>&nbsp;</p><p>今天（4月28日），GitHub 宣布从2026 年 6 月 1 日起，GitHub Copilot 将告别“无限畅饮”模式，将 Copilot 从“按请求计费”转为“按使用量计费”。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97b4f74fad3ad8f7f7dc1af108c0f37b.jpeg\" /></p><",
-      "ai_summary": "报道GitHub Copilot和Claude Code从按请求计费转为按使用量计费，引发AI写代码成本高涨，可能促使企业重新考虑聘用程序员。",
+      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+      "published_time": "2026-04-30 02:02:01",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
+      "ai_summary": "Anthropic研究显示，AI影响的高危职业群体年龄更大、教育程度和收入更高，但理论能力与实际应用存在差距。",
       "ai_tags": [
-        "AI写代码",
-        "Copilot",
-        "Claude",
-        "涨价",
-        "成本"
+        "Anthropic",
+        "AI替代",
+        "职业影响"
       ],
       "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
-      "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel",
-      "published_time": "2026-04-29 08:20:13",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/df/69/df6f6c4919f06e9560ec5a53a926de69.png\" /></p><p>过去几个月，“龙虾”类智能体产品经历了一轮从狂热到理性的过程。英特尔中国区技术部总经理高宇认为，这正是讨论“智能体PC”的时机：智能体时代的大门已经打开，但要让它从工程师和极客的“玩具”，变成大多数人都能使用的工具，行业需要在硬件、软件、产品和生态上共同补齐短板。</p><p>&nbsp;</p><p>英特尔给出的方向是端云混合AI，即让云端大模型负责更复杂、更长上下文、更高智能的任务，让本地AI模型承担一部分固定流程、隐私敏感和低延时任务，再通过智能路由机制在端侧和云端之间自动分配任务。在其看来，这将是智能体PC普及的关键。</p><p>&nbsp;</p><p></p><h2>智能体PC：不是更快的PC，而是“数字分身”</h2><p></p><p>&nbsp;</p><p>英特尔这次提出了“智能体PC”的概念，并解释称这并不是简单在AI PC上跑几个本地模型，而是面向",
-      "ai_summary": "英特尔提出“智能体PC”概念，采用端云混合AI方案，让云端大模型与本地模型协同工作，推动智能体普及。",
+      "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+      "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
+      "published_time": "2026-04-30 03:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/1e/f7507603b95d8955dd990c741d4d321e.jpg\" /></p><p>谷歌云智能体平台推出 <a href=\"https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/\">Agents CLI</a>\"，旨在简化 AI 智能体的开发生命周期，实现从本地原型设计到生产部署的无缝衔接。此次发布精准解决了智能体开发中的一大常见难题：各类工具链与基础设施往往分散在不同的服务和环境中。</p><p>&nbsp;</p><p>该工具专为与 Gemini CLI、Claude Code、Cursor 等编程智能体直接集成而设计，为谷歌云的各项服务（包括智能体平台、Cloud Run 及基础设施自动化组件）提供统一调用接口，目标是缓解开发者从实验阶段过渡到生产系统过程中遇到的各类碎片化问题。</p><p>&nbsp;</p><p",
+      "ai_summary": "谷歌云推出Agents CLI，简化AI智能体从原型到生产部署的全流程，为编程智能体提供统一接口。",
       "ai_tags": [
-        "英特尔",
-        "端云混合",
-        "智能体PC"
+        "谷歌云",
+        "Agents CLI",
+        "AI智能体"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了",
-      "link": "https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz",
-      "published_time": "2026-04-29 05:46:13",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/14/5ca664148d7a5e3daebfbe560d151414.png\" /></p><p>4 月 20 日，Amazon 宣布在已有 $80 亿投资基础上再向 Anthropic 追加最多 $250 亿，Anthropic 同步承诺未来十年在亚马逊云科技花掉 $1000 亿以上。两笔相加，Amazon 对 Anthropic 的累计承诺已经站到 $330 亿。经过多轮可转换债转股之后，Amazon 在 Anthropic 的持股，按市场估算，很可能已经超过 Google 的 14%，成为 Anthropic 上最大的外部股东。</p><p></p><p>4 月 28 日上午，距离亚马逊云科技旧金山发布会还剩不到一天，Andy Jassy 在 LinkedIn 上发了一段不到 80 个英文词的预告：</p><p></p><p>“OpenAI’s models will be available directly to customers on Bedrock in",
-      "ai_summary": "亚马逊宣布向Anthropic追加投资250亿美元，累计投资承诺达330亿美元，亚马逊成为Anthropic最大外部股东。",
+      "title": "从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台",
+      "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy",
+      "published_time": "2026-04-30 03:36:18",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/26/43/26d237fe4a3b27bd0daa289bee727043.png\" /></p><p>在传统离线数据体系下，核心数据往往需要 T+1 才能可用，难以支撑实时风控、监控告警和业务决策等关键场景。</p><p></p><p>金城银行通过引入 Apache Doris，结合 Flink CDC 重构数据链路，将端到端延迟压缩至 2-3 分钟，实现从离线批处理向准实时分析的关键跃迁。</p><p></p><p>在此过程中，平台不仅解决了实时性问题，还在高频 Schema 变更、数据一致性保障及链路稳定性方面形成了一套可规模化落地的实践方案。</p><p></p><p>目前，系统已支撑超过 2300 张表的实时处理，实时链路规模超过 150 个，总任务数 400+（包含离线），整体故障率较之前下降约 80%，数据传输成功率提升至 99.99%，重点场景下端到端延迟控制在 2 分钟以内。同时，查询效率、资源利用率和平台稳定性也得到显著提升，为后续湖仓一体、智能问数及全链",
+      "ai_summary": "金城银行使用Apache Doris和Flink CDC重构数据链路，将端到端延迟压缩至2-3分钟，支持2300+表实时处理，故障率下降80%。",
       "ai_tags": [
-        "OpenAI",
+        "Apache Doris",
+        "实时数据平台",
+        "金城银行"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "link": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs",
+      "published_time": "2026-04-30 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ee/e5/eee9c9167eda65134080dae394fdbee5.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>OPPO高级算法工程师王闯闯已确认出席 “<a href=\"http",
+      "ai_summary": "OPPO小布记忆将在AICon上海大会分享全模态碎片化内容的理解与智能整理实践。",
+      "ai_tags": [
+        "OPPO小布记忆",
+        "AICon",
+        "全模态"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx",
+      "published_time": "2026-04-30 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/65/fd/65c92e828eb42dbbc53dd81111e64afd.jpg\" /></p><p>亚马逊云科技近日宣布，<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/\">WorkMail 将停止服务，而 App Runner 将不再接受新客户并转入维护模式</a>\"。此外，还有几项相对不常用的服务和功能也即将进入维护或停用阶段，这在亚马逊云科技社区内引发了担忧和讨论。</p><p></p><p>App Runner 将于 4 月 30 日转入维护模式（现有用户仍然可以继续使用该服务），而 <a href=\"https://docs.aws.amazon.com/workmail/latest/adminguide/workmail-end-of-support.html\">WorkMail 则将于明年 3 月停止服务</a>\"。此外，还有其他多项服",
+      "ai_summary": "亚马逊云科技宣布WorkMail停止服务，App Runner转入维护模式，引发社区担忧。",
+      "ai_tags": [
         "亚马逊云科技",
-        "Anthropic",
-        "投资"
+        "WorkMail",
+        "App Runner"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "infoq",
+      "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "link": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1",
+      "published_time": "2026-04-30 01:48:56",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5d/dd/5d03d9eed6cb9c9ca7f7ec58a39e75dd.png\" /></p><p></p><h2><a href=\"https://agicamp.com/?utm_source=20260317infoQ\">模力工场</a>\"新鲜事</h2><p></p><p></p><p>极客邦科技模力工场参与北京市朝阳区OPC创新发布活动。</p><p></p><p>4月28日下午，朝阳区“科技百园”系列活动之科技园区合作伙伴招募活动在望京科技园成功举办。</p><p></p><p>活动以“与时代同行 创百园未来”为主题，广纳合作伙伴，汇聚科创资源，共同推动朝阳区科技园区全域布局、全链发展、全面升级。</p><p></p><p>现场发布了“科技百园”建设合作伙伴招募计划，重点面向园区运营及算力、数据、智能体应用等领域机构，支持线上对接参与。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b0",
+      "ai_summary": "模力工场发布038周AI应用周榜，并参与朝阳区OPC创新发布活动。",
+      "ai_tags": [
+        "模力工场",
+        "AI应用周榜",
+        "朝阳区"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "infoq",
+      "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
+      "link": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7",
+      "published_time": "2026-04-29 10:15:14",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/70/19/70cd5ffdbc531a60135a7b0de4406519.png\" /></p><p>在 AI 编程赛道白热化之际，拥有近百万活跃开发者的明星终端工具 Warp 投下了一枚重磅炸弹。</p><p>&nbsp;</p><p>Warp 是一个现代、高度集成 AI 的终端和开发平台，已被超过 70 万名来自领先企业的开发者使用。</p><p></p><h2>Altman 坐镇，现代终端神器 Warp 开源了</h2><p></p><p>&nbsp;</p><p>就在今天，这款由 Sam Altman 支持的现代终端 Warp 正式在 GitHub 开源（采用 AGPL 许可证）。更具前瞻性的是，Warp 还推出了一套由其云代理平台 Oz 管理的“代理优先（Agent-first）”协作流，邀请全球开发者与 AI 智能体共同编排软件的未来。</p><p>&nbsp;</p><p>GitHub 地址：<a href=\"https://github.com/warpdo",
+      "ai_summary": "Sam Altman支持的AI终端Warp开源，获3.5万star，推出代理优先协作流。",
+      "ai_tags": [
+        "Warp",
+        "开源",
+        "AI终端"
       ],
       "ai_importance": 5
     },
     {
       "category": "infoq",
-      "title": "从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！",
-      "link": "https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT",
-      "published_time": "2026-04-29 07:29:33",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a2/b5/a2e7745e74a7d914aa7eb8dd7ce603b5.jpg\" /></p><p>整理 | 华卫</p><p></p><p>在大多数公司还在按季度推出新产品时，Anthropic 已经把发布节奏压缩到了“按天迭代”。站在这一切背后的，是一名90后的华裔女性 Cat Wu。从工程师到Anthropic旗下两款王牌产品 Claude Code和Cowork的产品负责人，她不仅亲手推动着这一代 AI 产品的演进，也在面试成百上千位试图进入 AI 领域的产品经理，亲眼见证了哪些人在成功、哪些人已经落后。</p><p></p><p>Cat Wu全名是Catherine Wu，在加入Anthropic之前曾做了多年的工程师，还在风险投资领域短暂工作过。据了解，她本科毕业于普林斯顿大学计算机科学专业，曾担任Scale AI产品工程师、Dagster工程经理和Index Ventures风险投资人，于2024年8月加入Anthropic。2025年7月初，Cat Wu与",
-      "ai_summary": "Anthropic产品负责人Cat Wu推动Claude产品按天迭代，认为token成本比工程师工资低，并分享AI产品经理面试观察。",
+      "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+      "link": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0",
+      "published_time": "2026-04-29 10:59:11",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/53/a5/53b0c328a07b5396d3262f013a338ca5.jpg\" /></p><p>Anthropic近期发布了具备自动漏洞扫描能力的AI模型以及Claude托管代理（Managed Agents），人工智能正从“对话框里的助手”演变为“具备执行力的代理”。</p><p>&nbsp;</p><p>这一跨越式进展在极大提升生产力的同时，也引发了全球网络安全专家与架构师的深思：当AI能够自主寻找漏洞并跨环境执行任务时，现有的云架构与防御体系是否已经过时？</p><p>&nbsp;</p><p>业内一些观点认为，AI Agent的兴起正在强行驱动云计算从“中心化”向“分布式推理”转型，而安全防御也必须从“补丁模式”转向“实时拦截模式”。</p><p>&nbsp;</p><p>Akamai CEO兼联合创始人Tom Leighton博士表示：“AI安全威胁使得安全防御比以往任何时候都更加必要。”</p><p>&nbsp;</p><p>Tom Leighton博士于",
+      "ai_summary": "Akamai CEO Tom Leighton认为Agent时代云基础设施将从中心化转向分布式边缘，安全需实时拦截。",
       "ai_tags": [
-        "Anthropic",
-        "Claude",
-        "Cat Wu",
-        "迭代",
-        "AI产品"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "Snowpark 上手实战 ｜ BUILD 2025",
-      "link": "https://www.infoq.cn/article/z0MatPdw9iXUmyVRFMCs",
-      "published_time": "2026-04-29 08:14:15",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/59/6b/59239e251f8e2aa105668f10df33476b.png\" /></p><p>Apache Spark 一直是数据开发者的首选引擎，本次演讲将带你了解如何把现有的 Spark 工作流无缝接入 Snowflake；如何利用你偏好的编程语言，通过 Snowpark 构建和扩展数据管道；以及如何在同一个高标准治理的平台上统一管理数据工程和 AI/ML 任务。</p>\n<h4>嘉宾</h4>\n<p>Devin Petersohn ｜ Snowflake 高级软件工程师<br />\nShruti Anand ｜ Snowflake 产品经理</p>",
-      "ai_summary": "介绍Snowpark如何将现有Spark工作流接入Snowflake，支持多种编程语言构建数据管道，并统一管理数据工程与AI/ML任务。",
-      "ai_tags": [
-        "Snowpark",
-        "Spark",
-        "Snowflake",
-        "数据管道",
-        "AI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
-      "link": "https://www.infoq.cn/article/xzP1usT6PvgoaNt7T0Bo",
-      "published_time": "2026-04-29 08:29:33",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/17/e6/17794fb983614fee9b49a05af52e0de6.png\" /></p><p>在现代数据工程中，文档化是最常被忽视的难题。我们开发了一个直接在Snowflake内部运行的AI文档助手，该智能体能生成清晰、一致的文档，包含对象用途、参数、代码示例、故障排除指南和集成说明，帮助你减少文档负债，保留组织知识！</p>\n<h4>嘉宾</h4>\n<p>Rob Marinelli ｜ Bluewater AI 总监</p>",
-      "ai_summary": "介绍了一个直接在Snowflake中运行的AI文档智能体，能自动生成对象用途、代码示例等文档，减少文档负债。",
-      "ai_tags": [
-        "文档",
-        "AI智能体",
-        "Snowflake"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025",
-      "link": "https://www.infoq.cn/article/wV4Nmb5vpxaChAdobOUl",
-      "published_time": "2026-04-29 08:56:03",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/c3/d1/c34533efdf642462fda6e280e5baa2d1.png\" /></p><p>全球机器学习团队如何在 Snowflake ML 中加速预测模型工作流？我们将展示如何运用平台的最新创新功能，构建、部署并全程管理您的端到端机器学习生命周期，你将清晰掌握提升团队机器学习效能的架构模式与最佳实践，全面提升团队的机器学习效率。</p>\n<h4>嘉宾</h4>\n<p>James Cha-Earley ｜ Snowflake 开发者布道者<br />\nAvinash Joshi  ｜ Snowflake 高级产品经理</p>",
-      "ai_summary": "Snowflake展示了如何利用其平台的最新创新功能构建和管理端到端机器学习生命周期，提升团队效率。",
-      "ai_tags": [
-        "机器学习",
-        "Snowflake",
-        "工作流"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
-      "link": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9",
-      "published_time": "2026-04-29 07:42:54",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/0f/7a/0f5dd4a13079d61bf8e9b2964dc02d7a.jpg\" /></p><p>作者 | 华卫</p><p></p><p>“含模量以及端到端只是入场券，决定上限的是模型本身。”</p><p></p><p>在智能驾驶行业仍围绕“端到端”与“大模型上车”持续加码之际，千里科技联席董事长赵明提出了一条迈向L4更为激进的路径：从传统的“嫁接式”改良智能驾驶模型，彻底转向基于物理世界原生理解的底层重构。</p><p></p><p>就在近日，千里科技宣布与阶跃星辰达成深度合作，双方将联合打造“原生智驾基座模型”，不在基础大模型上叠加驾驶能力，而是转向让模型从诞生之初就“理解”驾驶这件事。</p><p></p><p>发布现场，兼任阶跃星辰与千里科技董事长的印奇也露面了。“我自己算是一个AI创业的老兵，一直在找中国AI商业闭环的路径。阶跃和千里，是我目前能想到的一个最优解。虽然辛苦，但是有机会形成一个好的产品、好的商业结果。”这是他第一次在公开场合解释自己出任这一双重",
-      "ai_summary": "千里科技与阶跃星辰合作打造原生智驾基座模型，从底层重构智能驾驶模型，印奇称这是中国AI商业闭环的最优解。",
-      "ai_tags": [
-        "智能驾驶",
-        "原生模型",
-        "千里科技",
-        "阶跃星辰",
-        "印奇"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025",
-      "link": "https://www.infoq.cn/article/sQoiGqlgSeJNzDlfk5Zq",
-      "published_time": "2026-04-29 08:47:39",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9c/a4/9c2bb5db3c8d2621c916579be1c336a4.png\" /></p><p>了解如何使用官方 langchain-snowflake 集成构建多智能体 AI 工作流，借助 LangGraph Studio，我们将搭建“监督者-智能体”协同架构：三个专属 Snowflake 智能体将共同完成客户流失分析任务，完整演示路由决策与多智能体协同运作机制。</p>\n<h4>嘉宾</h4>\n<p>Prathamesh Nimkar ｜ Snowflake 高级数据云架构师</p>",
-      "ai_summary": "介绍了使用LangGraph和Snowflake构建多智能体AI工作流，通过监督者-智能体架构实现客户流失分析。",
-      "ai_tags": [
-        "多智能体",
-        "LangGraph",
-        "Snowflake"
+        "Akamai",
+        "Agent",
+        "分布式边缘"
       ],
       "ai_importance": 4
     },
@@ -144,11 +121,26 @@
       "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm",
       "published_time": "2026-04-29 08:17:51",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/93/f9/934c2e58446b1966c5819c186c7611f9.png\" /></p><p></p><p>“现在的挑战是，有钱也买不到东西。从DRAM到闪存颗粒，再到硬盘和磁带，几乎所有跟存储相关的环节都面临严重供给压力。现在去下单硬盘，20T、24T硬盘的交付周期普遍在52到72周。”IBM大中华区存储事业部总经理吴磊说道。</p><p>&nbsp;</p><p>随着大模型从训练走向应用，企业AI基础设施的压力正在从算力侧扩散到数据和存储侧。过去，存储常常被视为数据中心里的“配套设备”，但如今却正在成为决定GPU利用率、数据流动效率，以及企业AI投入产出比的关键环节。尤其在供应紧张的情况下，存储的价值被重新放大。</p><p>&nbsp;</p><p>“原材料涨价是谁都躲不开的。”吴磊坦言，IBM的产品价格也会受到上游成本影响，但团队并没有简单跟随原材料价格大幅上调，而是希望通过技术手段降低客户的实际使用成本。</p><p>&nbsp;</p><p>近期，IBM",
-      "ai_summary": "IBM大中华区存储事业部表示存储供应紧张，但通过技术手段控制成本，并将AI Agent集成到存储系统中提升效率。",
+      "ai_summary": "IBM指出存储是AI基础设施的关键瓶颈，将AI Agent融入存储系统以降低成本和提升效率。",
       "ai_tags": [
         "IBM",
         "存储",
-        "AI Agent"
+        "AI Agent",
+        "基础设施"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "日均数百亿入库背后：从“人肉调度”到K8s弹性架构，度小满金融基于OceanBase重构入库架构实践",
+      "link": "https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S",
+      "published_time": "2026-04-29 10:58:17",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/91/e6/9165b60db232eff5be1fb4d44fbe87e6.png\" /></p><p></p><blockquote>作者｜潘丹，度小满金融在线存储统一项目负责人</blockquote><p></p><p></p><h2>前言</h2><p></p><p></p><p>本文所述这套基于OceaBase的海量数据入库服务，不仅仅是为了数据迁移，而是根据新存储引擎特点定制的一套高性能、高可用的架构方案。</p><p></p><p>背景源于我司海量稀疏型存储引擎正在从Eggroll迁移到OceanBase。原架构下，海量数据入库依托Hadoop集群的MapReduce能力，通过提高离线资源可大幅提升入库吞吐。但迁移到OceanBase后，问题来了——OceanBase原生提供的入库方式是一个本地脚本，没有分布式调度、没有弹性伸缩、没有高可用保障，显然扛不住日均数百亿级别的数据入库需求。</p><p></p><p>我们面临的核心挑战可以归结为一个问题：如何在Oce",
+      "ai_summary": "度小满金融基于OceanBase重构入库架构，解决日均数百亿数据入库的弹性伸缩和高可用问题。",
+      "ai_tags": [
+        "度小满金融",
+        "OceanBase",
+        "入库架构"
       ],
       "ai_importance": 4
     }

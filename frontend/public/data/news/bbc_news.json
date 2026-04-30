@@ -5,138 +5,142 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "King Charles gets ovation for Congress speech warning of volatile world",
-      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 05:55:19",
-      "raw_content": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\".",
-      "ai_summary": "查尔斯国王在美国国会演讲，强调在动荡时期英美关系的重要性。",
+      "title": "What we know about the Golders Green stabbings",
+      "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 03:53:45",
+      "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+      "ai_summary": "伦敦Golders Green两名犹太男子被刺伤，警方宣布为恐怖事件。",
       "ai_tags": [
-        "查尔斯国王",
-        "美国国会",
-        "英美关系"
+        "伦敦",
+        "刺伤",
+        "恐怖袭击",
+        "反犹"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
-      "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 10:12:46",
-      "raw_content": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-      "ai_summary": "马斯克指控奥特曼盗用慈善，OpenAI案开审，影响AI未来。",
+      "title": "Police declare terrorist incident after two Jewish men stabbed in London",
+      "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 00:29:54",
+      "raw_content": "A 45-year-old man has been arrested on suspicion of attempted murder, the Met Police says.",
+      "ai_summary": "伦敦两名犹太男子被刺伤，警方宣布为恐怖事件，一名45岁男子因涉嫌谋杀未遂被捕。",
       "ai_tags": [
-        "马斯克",
-        "OpenAI",
-        "法律纠纷"
+        "恐怖事件",
+        "伦敦",
+        "袭击"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+      "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 01:46:52",
+      "raw_content": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+      "ai_summary": "BBC探访伊拉克受严重攻击的美英基地，在停火前曾一天遭28次袭击。",
+      "ai_tags": [
+        "伊拉克",
+        "美英基地",
+        "袭击"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 02:01:50",
-      "raw_content": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation.",
-      "ai_summary": "美国前官员批评五角大楼对伊朗致命校园袭击保持沉默。",
+      "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
+      "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 00:48:47",
+      "raw_content": "Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.",
+      "ai_summary": "Meta、亚马逊、Alphabet和微软同日发布财报，投资者评估大型科技公司的人工智能支出浪潮，Meta股价下滑。",
       "ai_tags": [
-        "伊朗",
-        "校园袭击",
-        "五角大楼"
+        "科技",
+        "财报",
+        "人工智能"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-      "link": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 01:47:51",
-      "raw_content": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
-      "ai_summary": "金正恩赞扬朝军士兵为避免被乌军俘虏而“自爆”。",
+      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
+      "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 03:20:04",
+      "raw_content": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
+      "ai_summary": "美国指控墨西哥锡那罗亚州州长Rúben Rocha Moya协助贩毒集团。",
       "ai_tags": [
-        "金正恩",
-        "朝鲜军队",
-        "俄乌战争"
+        "美国指控",
+        "墨西哥",
+        "贩毒集团"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Five takeaways from the King's historic address to Congress",
-      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 08:48:08",
-      "raw_content": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
-      "ai_summary": "国王对国会历史性演讲的部分内容令民主党振奋并引发白宫关注。",
+      "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
+      "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 00:08:59",
+      "raw_content": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
+      "ai_summary": "新技术扫描可发现传统扫描遗漏的子宫内膜异位症区域，有望缩短女性确诊等待时间。",
       "ai_tags": [
-        "政治",
-        "国王演讲"
+        "医疗",
+        "技术",
+        "子宫内膜异位症"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Al Fayed survivor was modern slavery victim, says Home Office",
-      "link": "https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 05:00:12",
-      "raw_content": "Rachael Louw says she feels \"vindication\" and \"validation\" that her case has been recognised by the British government.",
-      "ai_summary": "英国内政部认定阿尔·法耶德性侵幸存者拉谢尔·洛为现代奴役受害者。",
+      "title": "Christchurch mass killer loses bid to overturn conviction",
+      "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 04:10:54",
+      "raw_content": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
+      "ai_summary": "新西兰法院驳回基督城枪击案凶手Brenton Tarrant的上诉，认为其毫无根据。",
       "ai_tags": [
-        "现代奴役",
-        "性侵",
-        "阿尔·法耶德"
+        "基督城枪击",
+        "上诉驳回",
+        "白人至上"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Wales great North to retire from rugby",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2wz08l4no?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 07:15:03",
-      "raw_content": "George North will bring down the curtain on one of the most successful careers in British professional rugby.",
-      "ai_summary": "乔治·诺斯宣布退役，结束辉煌的英式橄榄球职业生涯。",
+      "title": "'King Charles is coming to Harlem': What the royals did in the Big Apple",
+      "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 00:37:45",
+      "raw_content": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem.",
+      "ai_summary": "查尔斯国王和卡米拉王后在纽约访问9/11纪念馆、公共图书馆和哈莱姆社区组织。",
       "ai_tags": [
-        "英式橄榄球",
-        "退役",
-        "乔治·诺斯"
+        "王室",
+        "访问",
+        "纽约"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Chelsea captain Bright retires - what now for ex-England defender?",
-      "link": "https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 09:31:57",
-      "raw_content": "Chelsea captain Millie Bright announces she has retired from football with immediate effect because of injury.",
-      "ai_summary": "切尔西女足队长米莉·布莱特因伤宣布立即退役。",
+      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+      "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 01:43:40",
+      "raw_content": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "ai_summary": "美国TikTok明星D4vd被指控在线购买工具处理女孩尸体，律师称将坚决辩护。",
       "ai_tags": [
-        "足球",
-        "退役"
+        "歌手",
+        "指控",
+        "谋杀"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Afghanistan women can return to competition",
-      "link": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 08:08:14",
-      "raw_content": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
-      "ai_summary": "国际足联批准阿富汗女足重返国际赛场，前队长称其为韧性象征。",
+      "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-04-30 03:08:19",
+      "raw_content": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+      "ai_summary": "Bondi枪击案中期报告建议全国一致的枪支改革和加强犹太节日安保。",
       "ai_tags": [
-        "足球",
-        "女性权利"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "bbc_news",
-      "title": "Can Griezmann end his Atletico love story in style?",
-      "link": "https://www.bbc.com/sport/football/articles/c202l6yxvmxo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-29 05:07:15",
-      "raw_content": "Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?",
-      "ai_summary": "格列兹曼与马德里竞技的恋情即将结束，他能否以欧冠冠军告别？",
-      "ai_tags": [
-        "格列兹曼",
-        "马德里竞技",
-        "欧冠"
+        "枪支改革",
+        "安保",
+        "犹太节日"
       ],
       "ai_importance": 3
     }

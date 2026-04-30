@@ -9,11 +9,38 @@
       "link": "http://xueqiu.com/7368170779/386469504",
       "published_time": "2026-04-29 09:43:38",
       "raw_content": "",
-      "ai_summary": "对古井贡酒2025年和2026年Q1财报的预测与分析。",
+      "ai_summary": "对古井贡酒2025年和2026年第一季度财报进行分析和展望。",
       "ai_tags": [
         "古井贡酒",
-        "财报",
-        "白酒"
+        "财报"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "AI光通信不是向硅光演进，而是向PIC演进",
+      "link": "http://xueqiu.com/8755156034/386285705",
+      "published_time": "2026-04-29 09:44:40",
+      "raw_content": "",
+      "ai_summary": "AI光通信应朝向光子集成电路（PIC）而非硅光技术演进。",
+      "ai_tags": [
+        "AI",
+        "光通信",
+        "PIC",
+        "硅光"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "周期会来，周期会走",
+      "link": "http://xueqiu.com/7913104177/386431059",
+      "published_time": "2026-04-29 09:43:48",
+      "raw_content": "",
+      "ai_summary": "市场周期波动是常态，投资者应保持理性和耐心。",
+      "ai_tags": [
+        "投资",
+        "周期"
       ],
       "ai_importance": 3
     },
@@ -23,41 +50,14 @@
       "link": "http://xueqiu.com/5205526918/386435201",
       "published_time": "2026-04-29 09:44:09",
       "raw_content": "",
-      "ai_summary": "紫金矿业在勘查找矿方面的核心技术优势被详细分析。",
+      "ai_summary": "深入分析紫金矿业在勘查找矿方面的核心能力。",
       "ai_tags": [
         "紫金矿业",
-        "勘查",
-        "找矿"
+        "勘查找矿",
+        "矿业",
+        "能力"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "AI光通信不是向硅光演进，而是向PIC演进",
-      "link": "http://xueqiu.com/8755156034/386285705",
-      "published_time": "2026-04-29 09:44:40",
-      "raw_content": "",
-      "ai_summary": "AI光通信的发展方向是从硅光演进到PIC（光子集成电路）。",
-      "ai_tags": [
-        "AI光通信",
-        "硅光",
-        "PIC"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "周期会来，周期会走",
-      "link": "http://xueqiu.com/7913104177/386431059",
-      "published_time": "2026-04-29 09:43:48",
-      "raw_content": "",
-      "ai_summary": "讨论经济周期必然到来和离去，强调周期规律。",
-      "ai_tags": [
-        "周期",
-        "经济",
-        "投资"
-      ],
-      "ai_importance": 2
     },
     {
       "category": "xueqiu",
@@ -65,13 +65,14 @@
       "link": "http://xueqiu.com/3559889031/386434038",
       "published_time": "2026-04-29 09:44:03",
       "raw_content": "",
-      "ai_summary": "商品期货投资155年历史显示收益不逊于美股，但分配不均。",
+      "ai_summary": "统计155年商品期货投资，收益与美股相当但分配不均。",
       "ai_tags": [
         "商品期货",
-        "投资收益",
-        "历史"
+        "投资",
+        "收益",
+        "美股"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -79,13 +80,14 @@
       "link": "http://xueqiu.com/2351470882/386557478",
       "published_time": "2026-04-29 09:44:22",
       "raw_content": "",
-      "ai_summary": "基于四轮科技牛市规律，对光芯片主线走势进行概率判断与风险提示。",
+      "ai_summary": "基于四轮科技牛市规律分析光芯片主线走势，含概率判断与风险提示。",
       "ai_tags": [
         "光芯片",
         "科技牛市",
-        "风险提示"
+        "走势",
+        "风险"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -93,13 +95,14 @@
       "link": "http://xueqiu.com/5332385101/386565236",
       "published_time": "2026-04-29 09:44:34",
       "raw_content": "",
-      "ai_summary": "学习笔记分享：有关有色金属中黄金的投资分析。",
+      "ai_summary": "有色金属学习笔记第三篇，聚焦黄金投资分析。",
       "ai_tags": [
         "有色",
         "黄金",
-        "学习笔记"
+        "投资",
+        "笔记"
       ],
-      "ai_importance": 1
+      "ai_importance": 2
     },
     {
       "category": "xueqiu",
@@ -107,13 +110,27 @@
       "link": "http://xueqiu.com/1516479974/386560812",
       "published_time": "2026-04-29 09:44:14",
       "raw_content": "",
-      "ai_summary": "对上市公司年报和一季报的粗略印象和总结。",
+      "ai_summary": "对上市公司年报和一季报的粗略印象与点评。",
       "ai_tags": [
         "年报",
         "一季报",
-        "总结"
+        "印象",
+        "上市公司"
       ],
-      "ai_importance": 1
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "时隔两年，药明康德是时候重新估值了。",
+      "link": "http://xueqiu.com/5742069252/386155822",
+      "published_time": "2026-04-28 09:25:32",
+      "raw_content": "",
+      "ai_summary": "时隔两年，药明康德迎来重新估值的机会。",
+      "ai_tags": [
+        "药明康德",
+        "估值"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "xueqiu",
@@ -121,26 +138,11 @@
       "link": "http://xueqiu.com/4790816824/386151674",
       "published_time": "2026-04-28 09:25:09",
       "raw_content": "",
-      "ai_summary": "1.6T光模块产业链调研纪要，涉及技术、供应商及市场前景。",
+      "ai_summary": "1.6T光模块产业链调研纪要，关注技术进展。",
       "ai_tags": [
         "光模块",
         "1.6T",
-        "产业链调研"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
-      "title": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
-      "link": "http://xueqiu.com/4118099716/386161928",
-      "published_time": "2026-04-28 09:25:52",
-      "raw_content": "",
-      "ai_summary": "曹操出行的全要素闭环生态被认为比Waymo和特斯拉更接近Robotaxi终局。",
-      "ai_tags": [
-        "Robotaxi",
-        "曹操出行",
-        "Waymo",
-        "特斯拉"
+        "产业链"
       ],
       "ai_importance": 4
     }

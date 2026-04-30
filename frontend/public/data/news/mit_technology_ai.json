@@ -9,27 +9,13 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published_time": "2026-04-27 22:52:57",
       "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "马斯克与奥特曼就 OpenAI 未来走向即将对簿公堂，可能影响其 IPO 及盈利模式。",
+      "ai_summary": "马斯克与奥特曼就OpenAI未来对簿公堂，法院将裁决其盈利性及IPO前景。",
       "ai_tags": [
         "OpenAI",
-        "法律",
+        "法律纠纷",
         "IPO"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "The missing step between hype and profit",
-      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "published_time": "2026-04-27 16:13:41",
-      "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
-      "ai_summary": "探讨人工智能从炒作到盈利之间缺失的关键步骤。",
-      "ai_tags": [
-        "AI",
-        "商业",
-        "盈利"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "mit_technology_ai",
@@ -37,13 +23,27 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
       "published_time": "2026-04-27 13:00:00",
       "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
-      "ai_summary": "企业部署 AI 面临数据基础设施不足的挑战，需重建数据栈。",
+      "ai_summary": "企业AI应用的最大障碍是数据基础设施，需重建数据堆栈。",
       "ai_tags": [
         "数据",
-        "AI",
-        "企业"
+        "企业AI",
+        "基础设施"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "The missing step between hype and profit",
+      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "published_time": "2026-04-27 16:13:41",
+      "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+      "ai_summary": "探讨AI从炒作到盈利的缺失环节，反思行业现状。",
+      "ai_tags": [
+        "AI",
+        "盈利",
+        "炒作"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "mit_technology_ai",
@@ -51,10 +51,10 @@
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published_time": "2026-04-24 21:40:58",
       "raw_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
-      "ai_summary": "中国AI公司DeepSeek发布新模型V4预览版，能处理更长提示，采用新设计高效处理大量文本，且延续开源传统。",
+      "ai_summary": "DeepSeek发布V4模型，支持更长文本且开源，意义重大。",
       "ai_tags": [
         "DeepSeek",
-        "AI模型",
+        "V4",
         "开源"
       ],
       "ai_importance": 4
@@ -65,11 +65,11 @@
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published_time": "2026-04-22 10:05:06",
       "raw_content": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
-      "ai_summary": "AI在企业中从实验走向日常应用，但需要强大的数据织网来支撑业务价值。到2025年底，半数企业在至少三个业务功能中使用AI。",
+      "ai_summary": "企业AI应用需强数据织物支撑，以从实验到日常使用。",
       "ai_tags": [
-        "AI",
-        "企业",
-        "数据织网"
+        "数据织物",
+        "企业AI",
+        "商业价值"
       ],
       "ai_importance": 3
     },
@@ -79,39 +79,11 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230;",
-      "ai_summary": "深度伪造技术改进和廉价生成模型普及，使得AI生成的虚假视频、图像和音频被恶意使用，危险已成为现实。",
+      "ai_summary": "深度伪造技术被恶意使用，构成现实威胁。",
       "ai_tags": [
         "深度伪造",
-        "AI",
-        "虚假信息"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Supercharged scams",
-      "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;",
-      "ai_summary": "生成式AI能大量生成逼真文本，犯罪分子利用它制作恶意邮件，从垃圾邮件到更复杂的诈骗。",
-      "ai_tags": [
-        "生成式AI",
-        "诈骗",
-        "网络安全"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "LLMs+",
-      "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
-      "ai_summary": "ChatGPT于2022年底推出后，LLMs成为新未来，整个科技行业竞相开发类似产品。",
-      "ai_tags": [
-        "ChatGPT",
-        "LLM",
-        "AI"
+        "安全",
+        "威胁"
       ],
       "ai_importance": 4
     },
@@ -121,13 +93,41 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;",
-      "ai_summary": "AI在数字世界表现出色，但在物理世界仍面临挑战，如叠衣服或导航。世界模型是让AI理解物理世界的关键。",
+      "ai_summary": "AI在物理世界的能力不足，世界模型是关键。",
       "ai_tags": [
         "世界模型",
-        "AI",
-        "物理世界"
+        "物理世界",
+        "AI"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Supercharged scams",
+      "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+      "published_time": "2026-04-21 20:45:00",
+      "raw_content": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;",
+      "ai_summary": "生成式AI被犯罪分子用于制造更逼真的诈骗邮件。",
+      "ai_tags": [
+        "诈骗",
+        "生成式AI",
+        "安全"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "LLMs+",
+      "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+      "published_time": "2026-04-21 20:45:00",
+      "raw_content": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
+      "ai_summary": "回顾ChatGPT引发的LLM革命，行业竞争及未来方向。",
+      "ai_tags": [
+        "LLM",
+        "ChatGPT",
+        "人工智能"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "mit_technology_ai",
@@ -135,10 +135,10 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
       "published_time": "2026-04-21 20:45:00",
       "raw_content": "",
-      "ai_summary": "当前AI领域值得关注的10件大事。",
+      "ai_summary": "列举当前AI领域最重要的10件事。",
       "ai_tags": [
-        "AI",
-        "趋势"
+        "AI趋势",
+        "清单"
       ],
       "ai_importance": 3
     }

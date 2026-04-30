@@ -5,45 +5,45 @@
   "items": [
     {
       "category": "juejin",
+      "title": "别把耗时任务都丢进 async：HarmonyOS 里 TaskPool 和 Worker 的边界感",
+      "link": "https://juejin.cn/post/7633709567295012900",
+      "published_time": "2026-04-29 07:06:05",
+      "raw_content": "<p>上个月做一个数据整理页，页面本身不复杂：本地库里拉一批记录，按规则清洗，再生成一份可展示的分组列表。逻辑写起来很顺，<code>async/await</code> 一套下来，代码看着也挺规整。</p>\n<p>问题是，上真机之后不对劲。</p>\n<p>页面第一次进入会有一个很短的卡顿，列表滚动到一半偶尔掉帧，点筛选时按钮反馈慢半拍。最开始我还以为是 ArkUI 列表写得不够克制，后来把日志打细一点才发现，真正拖后腿的是那段“看起来只是处理数组”的同步计算。</p>\n<p><code>async</code> 不是多线程。这个坑，做前端或者移动端的人应该都踩过。它能把异步流程写得舒服一点，但 CPU 真在主线程上跑的时候，UI 该卡还是卡。</p>\n<p>后来这块我拆成了两层：短任务走 TaskPool，长活儿交给 Worker。不是为了显得架构高级，纯粹是被卡顿逼出来的。</p>\n<p><img alt=\"image.png\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/265e1d44e5d444d1824",
+      "ai_summary": "在HarmonyOS开发中，正确区分TaskPool和Worker的使用场景，避免主线程卡顿。",
+      "ai_tags": [
+        "HarmonyOS",
+        "TaskPool",
+        "Worker",
+        "性能优化"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "【腾讯位置服务开发者征文大赛】基于飞书 CLI + 腾讯位置的科研与产业地理情报可视化 Skill",
+      "link": "https://juejin.cn/post/7633697912285118516",
+      "published_time": "2026-04-29 02:14:16",
+      "raw_content": "<blockquote>\n<p>从飞书文档到全球产业版图，一键生成关系地图。  自动提取 -&gt; 地理编码 -&gt; 关系建模 -&gt; 地图可视化。\n<img alt=\"请在此添加图片描述\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/52c2addea86c4f84824a81f3c10bfc9e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTHVjaWFuYWlC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1778033656&amp;x-signature=KPMK1vy%2B5l4jE38r0542jAh5nKg%3D\" />\n本项目已开源👉<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Flucianaib0318%2FGeoMind\" target=\"_blank\" title=\"https://",
+      "ai_summary": "基于飞书CLI和腾讯位置服务，实现科研与产业地理情报的可视化Skill，自动提取、编码、建模并生成地图。",
+      "ai_tags": [
+        "飞书",
+        "腾讯位置服务",
+        "地理可视化",
+        "开源"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
       "title": "OpenClaw 为什么突然不火了？",
       "link": "https://juejin.cn/post/7633369483193630774",
       "published_time": "2026-04-28 04:12:55",
       "raw_content": "<p><img alt=\"OpenClaw 为什么突然不火了？\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3d24854d3b704abfb8d66235e9414871~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777961681&amp;x-signature=WHIHKpEtx0d%2FoT39mMSWg69W9II%3D\" /></p>\n<p>回想一下今年二三月份，整个前端圈、甚至整个科技圈简直陷入了一场极其狂热的 <strong>养龙虾运动</strong>。</p>\n<p>GitHub 狂飙 30 多万 Star⭐，不管是干前端的、搞后端的、还是做产品的，要是没在自己的 Mac Mini 或者树莓派上跑个 Agent，都不好意思跟人打招呼👋。</p>\n<p>当时大家都觉得，这个能接管键盘鼠标、自己查报错、自己提 P",
-      "ai_summary": "分析OpenClaw为何不再火爆：前期GitHub星数狂飙，但热度迅速消退，原因是技术局限性、生态不完善等。",
+      "ai_summary": "分析OpenClaw项目为何从火爆到突然降温，回顾AI Agent热潮的起落。",
       "ai_tags": [
         "OpenClaw",
-        "开源",
-        "热度",
-        "分析"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "juejin",
-      "title": "做了 6 年前端，技术不差却拿不到 Offer？",
-      "link": "https://juejin.cn/post/7632998012273197094",
-      "published_time": "2026-04-27 03:19:16",
-      "raw_content": "<p>最近面了一个有着 6 年工作经验的前端候选人。</p>\n<p><img alt=\"2026年4月27日 11_05_32.png\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/620d9b5cccaf41269cfce390464d1588~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777864756&amp;x-signature=9Mu6x8TXBWKmYWk8Gd65O%2F3b%2B1A%3D\" /></p>\n<p>他的简历写得很漂亮：<strong>熟练掌握 React 19 核心特性，深入理解 Fiber 调度原理，精通 Webpack/Vite 工程化调优</strong> 。前半个小时的八股文环节，他答得滴水不漏。</p>\n<p>但在最后的工程场景定级环节，我给他写了不通过❌。</p>\n<p>因为我发现，他干",
-      "ai_summary": "一位6年前端经验者因缺乏实际工程能力在面试中失败，尽管八股文熟练，但未能解决实际场景问题。",
-      "ai_tags": [
-        "前端",
-        "面试",
-        "工程能力"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "juejin",
-      "title": "长文：Claude Code 实践 Harness 工程，开发效率翻几倍",
-      "link": "https://juejin.cn/post/7632616802066530355",
-      "published_time": "2026-04-27 00:59:36",
-      "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
-      "ai_summary": "作者分享使用Claude Code实践Harness工程的经验，声称开发效率提升数倍，涉及项目开发和升级。",
-      "ai_tags": [
-        "Claude Code",
-        "Harness",
-        "开发效率",
-        "AI编程"
+        "AI Agent",
+        "技术趋势"
       ],
       "ai_importance": 3
     },
@@ -53,14 +53,42 @@
       "link": "https://juejin.cn/post/7632982183947730970",
       "published_time": "2026-04-27 03:46:35",
       "raw_content": "<h2>从 Vue 3 到 Lyt.js：无痛迁移指南</h2>\n<blockquote>\n<p>基于 Lyt.js v5.0.1 实际源码，手把手带你从 Vue 3 迁移到 Lyt.js。API 高度兼容，模板语法更简洁，迁移成本极低。</p>\n</blockquote>\n<h3>前言</h3>\n<p>如果你是一个 Vue 3 开发者，正在寻找一个更轻量、更现代的替代方案，那么 Lyt.js 值得你关注。</p>\n<p>Lyt.js v5.0.1 是一个零依赖、纯 TypeScript 实现的前端框架，核心 8 包 gzip 仅 ~35KB（Vue 3 约 ~44KB），同时提供了 Vue 3 级别的开发体验。它不仅兼容 Vue 3 的核心 API，还额外提供了 Signal 响应式、Vapor Mode（无 VDOM 渲染）、50+ 内置 UI 组件、完整 DevTools 等能力。</p>\n<p>本文将基于 Lyt.js 实际源码，从 API 对比、模板语法、路由迁移、状态管理、SSR 迁移等方面，提供一份完整的迁移指南。</p>\n<hr />\n<h3>一、API 对比：相似度有",
-      "ai_summary": "提供从Vue 3迁移到Lyt.js的无痛指南，包括API对比、模板语法、路由、状态管理等，Lyt.js更轻量且API高度兼容。",
+      "ai_summary": "提供从Vue 3迁移到Lyt.js的无痛指南，对比API、模板语法、路由、状态管理等。",
       "ai_tags": [
-        "Vue",
+        "Vue 3",
         "Lyt.js",
         "前端框架",
-        "迁移"
+        "迁移指南"
       ],
-      "ai_importance": 2
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "长文：Claude Code 实践 Harness 工程，开发效率翻几倍",
+      "link": "https://juejin.cn/post/7632616802066530355",
+      "published_time": "2026-04-27 00:59:36",
+      "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
+      "ai_summary": "分享使用Claude Code实践Harness工程的经验，开发效率提升数倍。",
+      "ai_tags": [
+        "Claude Code",
+        "Harness工程",
+        "开发效率"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "做了 6 年前端，技术不差却拿不到 Offer？",
+      "link": "https://juejin.cn/post/7632998012273197094",
+      "published_time": "2026-04-27 03:19:16",
+      "raw_content": "<p>最近面了一个有着 6 年工作经验的前端候选人。</p>\n<p><img alt=\"2026年4月27日 11_05_32.png\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/620d9b5cccaf41269cfce390464d1588~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777864756&amp;x-signature=9Mu6x8TXBWKmYWk8Gd65O%2F3b%2B1A%3D\" /></p>\n<p>他的简历写得很漂亮：<strong>熟练掌握 React 19 核心特性，深入理解 Fiber 调度原理，精通 Webpack/Vite 工程化调优</strong> 。前半个小时的八股文环节，他答得滴水不漏。</p>\n<p>但在最后的工程场景定级环节，我给他写了不通过❌。</p>\n<p>因为我发现，他干",
+      "ai_summary": "一位6年前端开发者因缺乏实战能力，面试未能通过工程场景考核。",
+      "ai_tags": [
+        "前端面试",
+        "工程能力",
+        "经验反思"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "juejin",
@@ -68,10 +96,11 @@
       "link": "https://juejin.cn/post/7632541245160030214",
       "published_time": "2026-04-26 08:50:05",
       "raw_content": "<p><img alt=\"Clipboard_Screenshot_1777193319.png\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2ce1e7a4f3774d6ab68575637cac4ac5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGYQmV0dGVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777798204&amp;x-signature=FLGtRp%2FElURD3WPi8ZljBLYk6bo%3D\" /></p>\n<blockquote>\n<p>如果你是一名前端工程师，正在考虑往后端或AI应用方向转型，这篇文章是我希望当年有人告诉我的话。不讲情怀，只讲路线、坑和解法。</p>\n</blockquote>\n<hr />\n<h2>🗺️ 完整学习路线图</h2>\n<blockquote>\n<p>先看全局，再看细节。下图是前端→Java后端→AI应用的完",
-      "ai_summary": "分享前端工程师转型AI全栈的完整路线图、常见坑点和解决方案，提供实用经验。",
+      "ai_summary": "前端工程师转型AI全栈的实战指南，涵盖从Java后端到AI应用的学习路线、常见坑点及解决方案。",
       "ai_tags": [
         "前端",
         "AI",
+        "全栈",
         "转型"
       ],
       "ai_importance": 4
@@ -82,27 +111,13 @@
       "link": "https://juejin.cn/post/7632567246008385590",
       "published_time": "2026-04-26 14:38:24",
       "raw_content": "<p>这是我们前端视角下的第二篇。接下来我还将从前端视角看 Go、C#、Rust 等不同的后端的语言，可能会有错误的地方，欢迎指正，也欢迎关注我，后期还将有分析其他语言的文章，奥利给！</p>\n<p>这篇文章不是一篇语法对比手册，也不是\"全栈学习路线图\"。它是一个前端人站在自己的视角，用望远镜眺望 Java 这片大陆的观察记录。我们会发现，前端和后端看似说着完全不同的语言，实际上却在用不同的语言讲述同一套工程内容。</p>\n<blockquote>\n<p>\"当我们面对一面镜子，不仅会看见自己的倒影，还能透过它，看见另一间屋子里从未被点亮的角落。\"</p>\n</blockquote>\n<h2>一、当我第一次打开 Java 项目</h2>\n<h3>1.1 熟悉的陌生人：TS 与 Java 的语法基因</h3>\n<p>n 年前，第一次打开一个 Spring Boot 项目，我是在风中凌乱的。</p>\n<pre><code class=\"hljs language-java\" lang=\"java\"><span class=\"hljs-meta\">@Service</span>\n<span c",
-      "ai_summary": "从前端视角观察Java后端，对比语法差异，探讨工程本质，为前端开发者提供跨语言学习视角。",
+      "ai_summary": "以前端工程师视角对比Java与TypeScript语法，分享打开Spring Boot项目时的困惑，并预告后续将分析Go、C#、Rust等语言。",
       "ai_tags": [
         "前端",
         "Java",
-        "工程"
+        "技术对比"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "juejin",
-      "title": "天下苦Token久矣，DeepSeekV4终于来了！",
-      "link": "https://juejin.cn/post/7631956346273087524",
-      "published_time": "2026-04-24 07:32:07",
-      "raw_content": "<p>“鸽王”DeepSeek V4 终于来了~!</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b5ce1087abc541fea6a41577f246603e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777620727&amp;x-signature=1MNaOlA7Ng2xISnhMzs%2FXN6mmRE%3D\" /></p>\n<p>虽然从物理时间上看，V3 到 V4 只用了一年多时间。 但是整个 AI 界已经天翻地覆了，从我们的心里感受来说，也是过了好久好久了。</p>\n<p>好不好的先不说，能更新，就是个好事情了。</p>\n<p><strong>最好是能把全球的 Token 价格打下来！</strong></p>\n<p>下面就赶紧来看一下，有哪些亮点吧！</p>\n<p>目前可以看到",
-      "ai_summary": "DeepSeek V4正式发布，代码能力升级，有望降低Token价格，引发行业关注。",
-      "ai_tags": [
-        "DeepSeek",
-        "AI模型",
-        "更新"
-      ],
-      "ai_importance": 5
     },
     {
       "category": "juejin",
@@ -110,11 +125,11 @@
       "link": "https://juejin.cn/post/7632230684447211554",
       "published_time": "2026-04-24 15:24:23",
       "raw_content": "<p>大家好，我是孟健。</p>\n<p>DeepSeek-V4-Pro 发了，官方说代码能力大幅升级。这种话我听得多了，每次新模型发布都这么说。</p>\n<p>但我确实好奇：V4 在写代码这件事上，到底有没有追上 GLM-5.1？</p>\n<p>GLM-5.1 是我日常写代码的主力模型，用了几个月了，它什么水平我心里有数。所以这次我不跑 benchmark，不拼跑分，就拿我实际工作中的四个场景，让两个模型正面硬刚。</p>\n<p><strong>四个场景：源码分析、功能实现、大文件拆分、项目架构分析。</strong></p>\n<p>最后再算笔账，看看成本谁更划算。</p>\n<h2>场景一：项目分析，分析 Claude Code 源码</h2>\n<p>前段时间 Claude Code 源码泄露，我用 GLM-5.1 完整分析了一遍 Claude Code 源码，今天 DeepSeek-V4-Pro 发布，我同样也让它分析一遍源码看看。</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6",
-      "ai_summary": "对比DeepSeek-V4-Pro与GLM-5.1在代码生成、分析等实际场景中的表现，评估能力与成本。",
+      "ai_summary": "对比DeepSeek-V4-Pro与GLM-5.1在四个实际编程场景中的表现，分析代码能力差异及成本效益。",
       "ai_tags": [
-        "AI",
-        "代码模型",
-        "对比"
+        "AI模型",
+        "代码能力",
+        "对比评测"
       ],
       "ai_importance": 4
     },
@@ -124,25 +139,12 @@
       "link": "https://juejin.cn/post/7632121609760243748",
       "published_time": "2026-04-24 08:40:56",
       "raw_content": "<h2>我如何用 AI Skill 体系让前端团队提效 50%</h2>\n<blockquote>\n<p>不是让 AI 写更多代码，而是让 AI 懂你的项目规范、设计规范、编码风格。</p>\n</blockquote>\n<h3>目录</h3>\n<ul>\n<li><a href=\"https://juejin.cn/post/7632121609760243748#%E4%BB%8Eai-%E5%86%99%E4%BB%A3%E7%A0%81%E4%B8%8D%E9%9D%A0%E8%B0%B1%E8%AF%B4%E8%B5%B7\" title=\"#%E4%BB%8Eai-%E5%86%99%E4%BB%A3%E7%A0%81%E4%B8%8D%E9%9D%A0%E8%B0%B1%E8%AF%B4%E8%B5%B7\">从「AI 写代码不靠谱」说起</a></li>\n<li><a href=\"https://juejin.cn/post/7632121609760243748#%E6%88%91%E6%90%AD%E4%BA%86%E4%BB%80%E4%B9%88%E4%B8%80%E5",
-      "ai_summary": "介绍如何构建四层AI Skill体系，让AI理解项目规范，帮助前端团队提效50%。",
+      "ai_summary": "介绍前端团队如何通过四层Skill体系（项目规范、设计规范、编码风格等）使AI提效50%，强调让AI理解团队规范而非单纯写代码。",
       "ai_tags": [
-        "AI",
         "前端",
-        "效率"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "juejin",
-      "title": "Jetpack Compose 1.11 正式版发布，下一代的全新控件和样式 API，你必须知道",
-      "link": "https://juejin.cn/post/7631745987393224745",
-      "published_time": "2026-04-24 00:46:09",
-      "raw_content": "<p><strong>我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一</strong>，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板：</p>\n<ul>\n<li>组件样式能力太依赖 modifier 和参数堆叠</li>\n<li>复杂自适应布局缺少真正的二维 Grid 和标准 FlexBox</li>\n<li>runtime 对高频随机结构编辑的底层支持不够理想</li>\n</ul>\n<p>虽然都是实验性质，但是也明确了 Jetpack Compose 接下来的方向，这也是为什么今年还没过，我就确定是最有意义的版本，因为这些 API 走到稳定，今年都够呛了：</p>\n<blockquote>\n<p><strong>Styles、MediaQuery、Grid、FlexBox 和新的 SlotTable 实现，都能看起来 Google 在把 Compose 从当前写法推向下一代写法</strong>。</p>\n</blockquote>\n<h2>Styles</h2>\n<p>首先就是 Jetpack Compose 1.11",
-      "ai_summary": "Jetpack Compose 1.11正式版发布，引入Styles、Grid等新API，推动下一代写法。",
-      "ai_tags": [
-        "Jetpack Compose",
-        "Android",
-        "更新"
+        "AI提效",
+        "团队管理",
+        "Skill体系"
       ],
       "ai_importance": 4
     }

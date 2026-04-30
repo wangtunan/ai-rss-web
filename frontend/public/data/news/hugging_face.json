@@ -5,15 +5,57 @@
   "items": [
     {
       "category": "hugging_face",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "published_time": "2026-04-29 16:45:09",
+      "raw_content": "",
+      "ai_summary": "讨论AI评估（evals）正在成为新的计算瓶颈，影响模型开发效率。",
+      "ai_tags": [
+        "AI评估",
+        "计算瓶颈",
+        "机器学习"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hugging_face",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "published_time": "2026-04-29 00:00:00",
+      "raw_content": "",
+      "ai_summary": "DeepInfra在Hugging Face推理提供商上提供模型服务，扩展AI推理能力。",
+      "ai_tags": [
+        "DeepInfra",
+        "Hugging Face",
+        "推理"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "published_time": "2026-04-29 15:01:48",
+      "raw_content": "",
+      "ai_summary": "介绍IBM Granite 4.1大语言模型的构建方法和特点。",
+      "ai_tags": [
+        "Granite",
+        "大语言模型",
+        "IBM"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hugging_face",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "published_time": "2026-04-28 15:58:57",
       "raw_content": "",
-      "ai_summary": "NVIDIA发布Nemotron 3 Nano Omni模型，支持长上下文多模态智能。",
+      "ai_summary": "NVIDIA发布Nemotron 3 Nano Omni模型，支持长上下文多模态智能，适用于文档、音频和视频代理。",
       "ai_tags": [
         "NVIDIA",
-        "AI",
-        "多模态"
+        "多模态",
+        "长上下文"
       ],
       "ai_importance": 4
     },
@@ -23,11 +65,11 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍使用OpenAI隐私过滤器构建可扩展Web应用的方法。",
+      "ai_summary": "介绍如何使用OpenAI的隐私过滤器构建可扩展的Web应用，保护用户隐私。",
       "ai_tags": [
         "OpenAI",
-        "隐私",
-        "Web开发"
+        "隐私过滤器",
+        "Web应用"
       ],
       "ai_importance": 3
     },
@@ -37,13 +79,13 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4发布，支持百万token上下文，可用于智能体。",
+      "ai_summary": "DeepSeek-V4引入百万token上下文，使智能体能够实际使用长上下文进行复杂任务。",
       "ai_tags": [
         "DeepSeek",
-        "AI",
-        "上下文长度"
+        "长上下文",
+        "智能体"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "hugging_face",
@@ -51,26 +93,13 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何在Chrome扩展中使用Transformers.js。",
+      "ai_summary": "指南：如何在Chrome扩展中使用Transformers.js进行本地机器学习推理。",
       "ai_tags": [
-        "transformers.js",
-        "chrome扩展"
+        "Transformers.js",
+        "Chrome扩展",
+        "机器学习"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "published_time": "2026-04-21 10:09:58",
-      "raw_content": "",
-      "ai_summary": "介绍首个注重质量的阿拉伯语大语言模型排行榜QIMMA。",
-      "ai_tags": [
-        "阿拉伯语",
-        "LLM",
-        "排行榜"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -78,13 +107,27 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨AI在网络安全中的未来，强调开放性的重要性。",
+      "ai_summary": "探讨开放对AI网络安全未来的重要性。",
       "ai_tags": [
         "AI",
         "网络安全",
-        "开放性"
+        "开放"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
+    },
+    {
+      "category": "hugging_face",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published_time": "2026-04-21 10:09:58",
+      "raw_content": "",
+      "ai_summary": "发布QIMMA排行榜，以质量优先评估阿拉伯语大语言模型。",
+      "ai_tags": [
+        "阿拉伯语",
+        "LLM",
+        "排行榜"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -92,57 +135,14 @@
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "讲解使用Sentence Transformers训练和微调多模态嵌入与重排模型。",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
       "ai_tags": [
         "多模态",
         "嵌入",
-        "重排",
+        "重排序",
         "Sentence Transformers"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "hugging_face",
-      "title": "The PR you would have opened yourself",
-      "link": "https://huggingface.co/blog/transformers-to-mlx",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍如何将Transformers模型转换为MLX格式的PR。",
-      "ai_tags": [
-        "transformers",
-        "MLX",
-        "模型转换"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "link": "https://huggingface.co/blog/ecom-rlve",
-      "published_time": "2026-04-16 00:00:00",
-      "raw_content": "",
-      "ai_summary": "介绍面向电商对话智能体的自适应可验证环境Ecom-RLVE。",
-      "ai_tags": [
-        "电商",
-        "对话智能体",
-        "强化学习"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hugging_face",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "published_time": "2026-04-15 12:07:25",
-      "raw_content": "",
-      "ai_summary": "深入分析VAKRA基准中智能体的推理、工具使用及失败模式。",
-      "ai_tags": [
-        "VAKRA",
-        "智能体",
-        "推理",
-        "工具使用"
-      ],
-      "ai_importance": 3
     }
   ]
 }

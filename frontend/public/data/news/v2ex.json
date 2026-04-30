@@ -1,145 +1,116 @@
 {
-  "total": 10,
+  "total": 8,
   "limit": 10,
   "offset": 0,
   "items": [
+    {
+      "category": "v2ex",
+      "title": "鼻中隔偏曲术后归来，后悔没早点做",
+      "link": "https://www.v2ex.com/t/1209534",
+      "published_time": "2026-04-30 00:55:07",
+      "raw_content": "booyah: <h4>0.前序</h4>\n<p>接上一个帖子<a href=\"https://www.v2ex.com/t/1203953#reply59\" rel=\"nofollow\">打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX</a><br />\n我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下，<br />\n<strong>发现大家有类似交替性鼻塞的人还挺多的</strong>。<br />\n简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。  </p>\n<h4>1.手术过程</h4>\n<p>一早去医院办理入院手续，术前需要禁食禁水，一直等到下午才进手术室。<br />\n全麻进去醒来已经是出院被推回病床了，最直接的感受就是：鼻子完全不能呼吸。<br />\n<strong>两个鼻腔被塞了吸收+不可吸收的一大团棉花，只能靠嘴呼吸</strong>。<br />\n之前一直以为口呼吸会很难受的，不过习惯了其实还好。  </p>\n<h4>2.坐牢的两天住院</h4>\n<p>比手术本身更难受的，反而是住院这两天。<br />\n一个是医院的超阳",
+      "ai_summary": "分享鼻中隔偏曲手术经历，术后鼻塞靠嘴呼吸，后悔没早做。",
+      "ai_tags": [
+        "健康",
+        "手术",
+        "鼻中隔"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "失业后去热门景区附近卖烤肠，能轻松月入过万吗？",
+      "link": "https://www.v2ex.com/t/1209548",
+      "published_time": "2026-04-30 01:28:03",
+      "raw_content": "Void000: <p>去景区旅游的时候发现，附近有那种卖烤肠的摊主。普通淀粉肠卖 2 卖，王中王能卖到 3 块。如果是肉肠的话，更是能卖到 5 块钱一根。</p>\n<p>我好像发现了巨大的商机，然后就赶紧拿出某多多查了下价格，发现一根淀粉肠的进价撑破天也就 5 毛钱，王中王贵一点，但是成本价也才 1 块。肉肠差不多 1 块 2 、1 块 3 左右。</p>\n<p>所以此时我就在想，如果在热门景区，来来往往的这么多人，一天卖个 300 根左右，就按一根肠赚 2 块来算的话，那就是 600 块，那一个月出摊 20 天，就是 20x600=12000 了，轻松月入过万，时间还自由。</p>\n<p>v 友们，此刻你们的内心是不是已经和我一样蠢蠢欲动了🙈？</p>",
+      "ai_summary": "讨论失业后去景区卖烤肠，日卖300根可月入1.2万。",
+      "ai_tags": [
+        "创业",
+        "思考",
+        "烤肠"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "工作这些年，除了钱，你还沉淀下来了什么？",
+      "link": "https://www.v2ex.com/t/1209536",
+      "published_time": "2026-04-30 01:01:30",
+      "raw_content": "mode171: <h2>工作这么多年，除了钱，你还沉淀下来了什么。</h2>",
+      "ai_summary": "工作多年除了钱还沉淀了什么？引发思考。",
+      "ai_tags": [
+        "职场",
+        "感悟"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "[bytecat] 逆向 Claude Opus0.1 倍率，中奖率 20%。注册送 500wtoken，叠加倍率可达 5000w~",
+      "link": "https://www.v2ex.com/t/1209550",
+      "published_time": "2026-04-30 01:31:58",
+      "raw_content": "xiaofangcode: <h1>🚀 五一活动 &amp; 项目进展汇报</h1>\n<p>各位 V 友大家好 👋<br />\n我们大概是<strong>第一批在 V2EX 做推广起家的服务商</strong>，一路走来非常感谢大家的支持。</p>\n<p><strong>网址： <a href=\"https://codecdn.bytecatcode.org/\" rel=\"nofollow\">https://codecdn.bytecatcode.org</a></strong></p>\n<p>这次不整虚的，简单说发展、讲清福利。</p>\n<hr />\n<h2>🧭 项目发展时间线</h2>\n<ul>\n<li>\n<p><strong>2026-01</strong></p>\n<ul>\n<li>项目成立</li>\n<li>仅 Kiro 渠道</li>\n<li>无缓存 + 香港“灵车”服务器（老用户应该有印象 😂）</li>\n</ul>\n</li>\n<li>\n<p><strong>2026-02</strong></p>\n<ul>\n<li>更换为 DMIT</li>\n<li>\n新增：<ul>",
+      "ai_summary": "Bytecat项目推广，注册送500wtoken，叠加倍率可达5000w。",
+      "ai_tags": [
+        "推广",
+        "AI",
+        "token"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "又是恐婚恐育的一天，求 v 站网友骂醒",
+      "link": "https://www.v2ex.com/t/1209498",
+      "published_time": "2026-04-29 14:43:06",
+      "raw_content": "echo2020: <p>94 年中年女性，年入 10 ，对象年入 20 ，无房有一 10W 车，无父母帮助，准一线城市。一想到结婚生孩子就恐惧，但又担心年纪更大错失生育机会，求解</p>",
+      "ai_summary": "94年女性恐婚恐育，担心年纪大错过生育机会。",
+      "ai_tags": [
+        "婚姻",
+        "生育",
+        "焦虑"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "做了一个内容极丰富的文字 roguelike 游戏，但是没人付费，问题出在哪？",
+      "link": "https://www.v2ex.com/t/1209438",
+      "published_time": "2026-04-29 09:48:08",
+      "raw_content": "zxypro: <p>花一个月做了一个 220+怪物，200+装备的 roguelike 游戏，玩的人挺多，但是没人付费，想知道是哪里有问题？</p>\n<p>目前收费策略是：免费每天能玩 3 轮，付费 9.9 解锁无限。还可以付费买复活药水，4 元 40 个。</p>\n<p>游戏链接： <a href=\"https://abyss-chronicle.top/\" rel=\"nofollow\">https://abyss-chronicle.top/</a></p>",
+      "ai_summary": "制作了220+怪物200+装备的roguelike游戏，玩的人多但付费少。",
+      "ai_tags": [
+        "游戏",
+        "开发",
+        "付费"
+      ],
+      "ai_importance": 3
+    },
     {
       "category": "v2ex",
       "title": "裸辞之后看到原老板发的朋友圈非常不舒服，那我也在这里评价他几句",
       "link": "https://www.v2ex.com/t/1209346",
       "published_time": "2026-04-29 04:59:04",
       "raw_content": "runxin: <p>他在朋友圈评论开发，那我就在这里也评论下他。</p>\n<p>我和这个人多年共事之后，非常不爽，以至于前不久终于忍不住裸辞了，原因很多，这里就随便列举几条印象比较深刻的。还有一些逆天的说不出来，不然容易被看出来这是哪家公司。</p>\n<p>他是非计算机科班，民办三本，毕业一年后赶上移动互联网风口转行产品经理，中间也自学过一点 UI 设计和网页前端，后来一家大公司的一个 App 业务被独立拆成一家小公司，从此他担任这里的老板。</p>\n<h4>不信任任何人，甚至和员工抢功劳</h4>\n<p>每次版本上线之后，如果留存率出现下滑，就让开发去检查代码，开发确认没问题，仍然逼着开发直接回退代码。</p>\n<p>如果版本上线之后，留存率未下滑，就开始吹自己 ASO 做的好，说自己这个版本又优化了 xx 关键词。</p>\n<p>但实际上 2026 年了，他还在搞 2016 年那时候的堆砌关键词的玩法，语序根本不通，人和现代的 AI 都看不懂他写的 App 描述，真的对 ASO 有效果吗？还吹自己用 python 做了什么关键词权重排序。</p>\n<p>不信任开发，我入职到离职期",
-      "ai_summary": "一名V2EX用户裸辞后吐槽原老板不信任员工、抢功劳，并批评其ASO方式落后。",
+      "ai_summary": "裸辞后吐槽原老板，不信任员工、抢功劳等行为。",
       "ai_tags": [
         "职场",
         "吐槽",
-        "裸辞"
+        "老板"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "人生第一辆车，如何选择？",
-      "link": "https://www.v2ex.com/t/1209326",
-      "published_time": "2026-04-29 03:40:06",
-      "raw_content": "nishuodebudui: 兄弟们，人生第一辆车如何选择？<br /><br />基本情况：对车不感兴趣，对车没有研究；<br />目前偏向：油车，电车特斯拉 modely 太贵；<br />个人预算：25w 左右；<br />用车范围：普通家庭用车。年总里程应该不会太多，可能会有通勤？可能会周末周围带媳妇儿玩儿？距离老家 100 多公里，距离媳妇家 600 多公里，；<br /><br /><br />目前在看：轿车：沃尔沃 S90 低配 SUV：奥迪 Q5L ，凯迪拉克 XT5,沃尔沃 XC60<br /><br />欢迎推荐补充，感谢提意见和建议的朋友；",
-      "ai_summary": "用户求推荐第一辆车，预算25万左右，考虑油车，目前看中沃尔沃S90、奥迪Q5L等，需兼顾通勤和长途。",
+      "title": "新上中转站送 Token 纯血 gpt-5.5 分组倍率 0.15x",
+      "link": "https://www.v2ex.com/t/1209410",
+      "published_time": "2026-04-29 08:36:43",
+      "raw_content": "qiudemad: <p><a href=\"http://www.bossclaw.org/\" rel=\"nofollow\">www.bossclaw.org</a> 注册完评论放邮箱送 3000 万 token</p>\n<p>如有违规请管理直接删帖</p>",
+      "ai_summary": "新中转站bossclaw.org注册送3000万token，gpt-5.5倍率低。",
       "ai_tags": [
-        "汽车",
-        "购车咨询",
-        "家用车"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度",
-      "link": "https://www.v2ex.com/t/1209249",
-      "published_time": "2026-04-29 01:20:23",
-      "raw_content": "superman: <h2>我们是谁？</h2>\n<p><strong>GoAPIs 中转站</strong> 👉 直达链接：<a href=\"https://goapis.vip/\" rel=\"nofollow\">https://goapis.vip/</a></p>\n<ul>\n<li>新站开业，自有 Pro 号池</li>\n<li>目前支持模型：GPT-5.5 、GPT-5.4 、GPT-5.4-mini 、GPT-5.3-codex 、GPT-5.2</li>\n<li>2 天后上满血 Claude ，敬请期待</li>\n</ul>\n<h2>定价说明</h2>\n<ul>\n<li>充值汇率固定 1:1 ，减少心智负担</li>\n<li>计费方式：按量计费，余额不过期</li>\n<li>企业客户支持开票</li>\n</ul>\n<hr />\n<h2>怎么送？直奔主题</h2>\n<h3>1️⃣ 注册账号</h3>\n<p>👉 直达链接：<a href=\"https://goapis.vip/\" rel=\"nofollow\">https://goapis.vip/</a>，免费注册</p>\n<",
-      "ai_summary": "GoAPIs中转站新站开业，主打稳定，注册送10美元额度，支持GPT-5系列模型，后续将上线Claude。",
-      "ai_tags": [
+        "推广",
         "AI",
-        "API",
-        "推广"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "Flico 突然倒闭了，时代的眼泪",
-      "link": "https://www.v2ex.com/t/1209238",
-      "published_time": "2026-04-29 00:48:05",
-      "raw_content": "dddd1919: <p>市场太卷，各种轴体客制，flico 已经被卷的有的新同事都没听说过🤣</p>\n<p>等手里的圣手挂了准备换个磁轴试试（不知道要到哪年）</p>",
-      "ai_summary": "用户感叹机械键盘品牌Flico倒闭，市场被客制化轴体卷死。",
-      "ai_tags": [
-        "机械键盘",
-        "行业动态",
-        "倒闭"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "自己做的 GPT Image 2 生图 支持场景模板了",
-      "link": "https://www.v2ex.com/t/1209237",
-      "published_time": "2026-04-29 00:38:01",
-      "raw_content": "chaoziCoder: <p>自己做的 GPT Image 2 生图网站，支持 GPT Image 2 的全部功能</p>\n<p>目前已经上线多个场景模板，支持一键复刻高级效果 <a href=\"https://gpt-image-prompt.com/templates\" rel=\"nofollow\">https://gpt-image-prompt.com/templates</a> </p>\n<p>欢迎注册体验，感兴趣的话评论区留下邮箱，我给大家发放积分</p>\n<p><img alt=\"模板功能\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://ship-image.chaozi.work/uploads/1777422845797-w-9kakb8TXLyId-hQgc-V.webp\" /></p>",
-      "ai_summary": "作者自建GPT Image 2生图网站，支持场景模板，邀请用户注册体验。",
-      "ai_tags": [
-        "AI绘图",
-        "GPT",
-        "模板"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "夏雨荷翻车了，你认为济南应该用哪个 IP？",
-      "link": "https://www.v2ex.com/t/1209236",
-      "published_time": "2026-04-29 00:37:46",
-      "raw_content": "intoext: <p>我认为可以选两个\n其一 大舜帝\n其二 辛弃疾</p>",
-      "ai_summary": "讨论济南城市IP，建议选用大舜帝或辛弃疾。",
-      "ai_tags": [
-        "城市IP",
-        "济南",
-        "文化"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "领到小米 100T 计划来集合了，我领到了个 MAX 套餐相当于 659 一月🐶",
-      "link": "https://www.v2ex.com/t/1209234",
-      "published_time": "2026-04-29 00:35:29",
-      "raw_content": "Cloud9527: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/wTahDkD.png\" /></p>",
-      "ai_summary": "用户分享领到小米100T计划MAX套餐，月费约659元。",
-      "ai_tags": [
-        "小米",
-        "套餐",
-        "分享"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气",
-      "link": "https://www.v2ex.com/t/1209195",
-      "published_time": "2026-04-28 13:24:51",
-      "raw_content": "KaiWuBOSS: <h1>我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞</h1>\n<blockquote>\n<p>本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。</p>\n</blockquote>\n<hr />\n<h2>一、我遇到了什么问题</h2>\n<p>去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。</p>\n<p>但更大的问题是：<strong>中国开发者根本没有一个好用的本地 coding agent 平台。</strong></p>\n<p>CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。</p>\n<p><strong>这是一个真实存在的空缺，没有人填。</strong></p>\n<p>本地跑 qwen3:",
-      "ai_summary": "一位开发者创建了专为本地开源模型优化的Coding Agent，呼吁华人开发者共同参与，填补国内缺乏好用的本地编程助手平台的空白。",
-      "ai_tags": [
-        "AI",
-        "开源模型",
-        "编程助手"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "v2ex",
-      "title": "[源头工厂] 顶级万号 ProMAX， $30 刀 Codex/GPT5 免费送，企业级稳定！",
-      "link": "https://www.v2ex.com/t/1209209",
-      "published_time": "2026-04-28 15:15:56",
-      "raw_content": "wtcoder: <h1>MuskAI 稳定生产力的源泉</h1>\n<ul>\n<li>💎超大源头 GPT PROMAX 池，按量 0.11 倍，tokens 吞吐量为 team/plus <strong>5 倍</strong></li>\n<li>💎超低延迟，国内专线接入（稳定不掉线）</li>\n<li>💎稳定持续可用，适合长期使用与业务接入（可开发票）</li>\n<li>💎适合需要稳定渠道的客户！</li>\n</ul>\n<h2>V 友专属福利：$30 刀 Codex/GPT5 爽用</h2>\n<h1>领取步骤</h1>\n<ul>\n<li>1 、加入 Q 群：1090132599</li>\n<li>2 、打开 <a href=\"http://muskpay.top/\" rel=\"nofollow\">http://muskpay.top</a> 注册账户</li>\n<li>3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅</li>\n</ul>\n<p>数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务</p>\n<p><img alt=\"image\" cla",
-      "ai_summary": "MuskAI推广源头GPT ProMAX服务，注册送30美元额度，强调低延迟和稳定性。",
-      "ai_tags": [
-        "AI",
-        "API",
-        "推广"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "大家最近有什么取悦自己的东西分享吗？",
-      "link": "https://www.v2ex.com/t/1209218",
-      "published_time": "2026-04-28 16:40:22",
-      "raw_content": "fjia4395: 最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。<br />好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了",
-      "ai_summary": "用户股市赚钱后想消费取悦自己，但无明确目标，求推荐。",
-      "ai_tags": [
-        "消费",
-        "取悦自己",
-        "推荐"
+        "token"
       ],
       "ai_importance": 1
     }
