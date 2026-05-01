@@ -5,30 +5,59 @@
   "items": [
     {
       "category": "the_decoder",
-      "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
-      "link": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
-      "published_time": "2026-04-30 12:14:46",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. </p>\n<p>The article <a href=\"https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-",
-      "ai_summary": "白宫因担心算力限制，拒绝Anthropic向约70家公司扩展其AI模型Mythos的访问权限。",
+      "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+      "link": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+      "published_time": "2026-05-01 08:21:14",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://the-decoder.com/wp-content/uploads/2025/09/msitral_logo.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1920\" /></p>\n<p>        Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.</p>\n<p>The article",
+      "ai_summary": "Mistral Medium 3.5将聊天、推理和代码能力整合到一个模型中。",
+      "ai_tags": [
+        "Mistral",
+        "AI model",
+        "multimodal"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+      "link": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+      "published_time": "2026-05-01 09:21:32",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/01/deepmind_logo_wall-2.jpeg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let a",
+      "ai_summary": "Deepmind的AI临床助手在盲测中超越GPT-5.4，但不及经验丰富的医生。",
+      "ai_tags": [
+        "AI",
+        "healthcare",
+        "Deepmind"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
+      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/",
+      "published_time": "2026-04-30 12:07:24",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"998\" src=\"https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1749\" /></p>\n<p>        Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. </p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over",
+      "ai_summary": "Anthropic评估投资者报价，估值超9000亿美元。",
       "ai_tags": [
         "Anthropic",
-        "白宫",
-        "AI监管"
+        "融资",
+        "估值"
       ],
       "ai_importance": 5
     },
     {
       "category": "the_decoder",
-      "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
-      "link": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/",
-      "published_time": "2026-04-30 12:45:11",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. </p>\n<p>The article <a href=\"https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/\">OpenAI says it hit",
-      "ai_summary": "OpenAI提前多年实现10吉瓦AI算力目标。",
+      "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
+      "link": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+      "published_time": "2026-04-30 12:14:46",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. </p>\n<p>The article <a href=\"https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-",
+      "ai_summary": "白宫因计算限制否决Anthropic扩大Mythos模型访问的计划。",
       "ai_tags": [
-        "OpenAI",
-        "算力"
+        "AI监管",
+        "白宫",
+        "计算资源"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "the_decoder",
@@ -36,26 +65,25 @@
       "link": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
       "published_time": "2026-04-30 12:24:34",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://the-decoder.com/wp-content/uploads/2025/07/Tencent-Logo-Wall-GPT-4o.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1536\" /></p>\n<p>        Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones.</p>\n<p>The article <a href=\"https://the-decoder.com/tencents-440-mb-ai-model-translates-33-language",
-      "ai_summary": "腾讯发布440MB离线翻译模型，支持33种语言，性能超谷歌翻译。",
+      "ai_summary": "腾讯发布440MB的AI翻译模型，可在手机上离线翻译33种语言，性能优于谷歌翻译。",
       "ai_tags": [
-        "腾讯",
-        "翻译",
-        "离线"
+        "Tencent",
+        "translation",
+        "offline"
       ],
       "ai_importance": 4
     },
     {
       "category": "the_decoder",
-      "title": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion",
-      "link": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/",
-      "published_time": "2026-04-30 12:05:10",
-      "raw_content": "<p><img alt=\"The two robots Spot and Pepper dance like cheerleaders during a baseball game.\" class=\"attachment-full size-full wp-post-image\" height=\"600\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/spot_pepper_roboter_tanz_softbank_hawks.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1000\" /></p>\n<p>        Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. </p>\n<p>The article <a href=\"ht",
-      "ai_summary": "软银计划在美国推出AI和机器人公司Roze并上市，估值高达1000亿美元。",
+      "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
+      "link": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/",
+      "published_time": "2026-04-30 12:45:11",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. </p>\n<p>The article <a href=\"https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/\">OpenAI says it hit",
+      "ai_summary": "OpenAI提前数年实现了10吉瓦AI算力目标。",
       "ai_tags": [
-        "软银",
-        "AI",
-        "机器人",
-        "IPO"
+        "OpenAI",
+        "compute",
+        "milestone"
       ],
       "ai_importance": 4
     },
@@ -65,10 +93,11 @@
       "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/",
       "published_time": "2026-04-30 17:49:04",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/microsoft_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.</p>\n<p>The article <a href=\"https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-suc",
-      "ai_summary": "微软CEO纳德拉表示AI成功关键在于获取密集用户和使用量，而非座位数。",
+      "ai_summary": "微软CEO认为AI成功取决于深度用户和使用强度而非用户数量。",
       "ai_tags": [
-        "微软",
-        "AI"
+        "Microsoft",
+        "AI",
+        "strategy"
       ],
       "ai_importance": 4
     },
@@ -78,10 +107,11 @@
       "link": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
       "published_time": "2026-04-30 13:38:54",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.</p>\n<p>The article <a href=\"https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-an",
-      "ai_summary": "谷歌CEO皮查伊称用户喜爱AI概览，并因此更频繁使用搜索。",
+      "ai_summary": "谷歌CEO表示用户喜爱AI概览并更频繁使用搜索，同时公司加大AI投资。",
       "ai_tags": [
-        "谷歌",
-        "AI"
+        "Google",
+        "AI Overviews",
+        "investment"
       ],
       "ai_importance": 4
     },
@@ -91,7 +121,7 @@
       "link": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/",
       "published_time": "2026-04-30 12:11:22",
       "raw_content": "<p><img alt=\"Lots of pills on a table\" class=\"attachment-full size-full wp-post-image\" height=\"700\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/medikamente-pillen-pexels-anna-shvets-3683074.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1200\" /></p>\n<p>        The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.</p>\n<p>The article <a ",
-      "ai_summary": "FDA启动试点项目，利用AI和云计算实时监控临床试验，旨在缩短新药审批时间。",
+      "ai_summary": "FDA启动AI和云监控临床试验试点，旨在加速药物审批。",
       "ai_tags": [
         "FDA",
         "AI",
@@ -105,41 +135,13 @@
       "link": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/",
       "published_time": "2026-04-30 12:31:31",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"959\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/Anthropic-Bioinformatic-Bench.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1705\" /></p>\n<p>        With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.</p>\n<p>The article <a href=\"https://the-decoder.com/anthropics-new-benchmark-claim",
-      "ai_summary": "Anthropic新基准显示Claude在生物信息学领域达到人类专家水平。",
+      "ai_summary": "Anthropic的新基准测试显示Claude在生物信息学任务上达到专家水平，但需注意局限性。",
       "ai_tags": [
         "Anthropic",
         "Claude",
-        "生物信息学"
+        "bioinformatics"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
-      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/",
-      "published_time": "2026-04-30 12:07:24",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"998\" src=\"https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1749\" /></p>\n<p>        Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. </p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over",
-      "ai_summary": "Anthropic正在评估投资者报价，新一轮融资估值可能超过9000亿美元。",
-      "ai_tags": [
-        "Anthropic",
-        "融资",
-        "估值"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
-      "link": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
-      "published_time": "2026-04-29 18:31:33",
-      "raw_content": "<p><img alt=\"Abstract tile pattern of orange &quot;M&quot;-shaped pixel blocks with a digital glitch effect on a white background.\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://the-decoder.com/wp-content/uploads/2025/07/Mistral-Logo-Pattern-GPT-4o.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1536\" /></p>\n<p>        A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ra",
-      "ai_summary": "NewsGuard审计显示，Mistral的Le Chat在60%的诱导提示中重复伊朗战争虚假信息，错误率高。",
-      "ai_tags": [
-        "Mistral",
-        "虚假信息",
-        "伊朗"
-      ],
-      "ai_importance": 3
     }
   ]
 }

@@ -5,11 +5,78 @@
   "items": [
     {
       "category": "xueqiu",
+      "title": "从 InP 紧缺看 1.6T 光模块：硅光路线的供给优势正在凸显",
+      "link": "http://xueqiu.com/4790816824/386955483",
+      "published_time": "2026-05-01 07:14:57",
+      "raw_content": "",
+      "ai_summary": "从InP紧缺角度分析1.6T光模块，认为硅光路线供给优势凸显。",
+      "ai_tags": [
+        "光模块",
+        "硅光",
+        "InP"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "浅谈世纪华通成长性与估值",
+      "link": "http://xueqiu.com/8942591903/386960025",
+      "published_time": "2026-05-01 07:14:35",
+      "raw_content": "",
+      "ai_summary": "对世纪华通的成长性与估值进行浅谈。",
+      "ai_tags": [
+        "世纪华通",
+        "估值"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "认真看了五粮液的财报",
+      "link": "http://xueqiu.com/8682679944/386914903",
+      "published_time": "2026-05-01 07:14:41",
+      "raw_content": "",
+      "ai_summary": "作者认真分析了五粮液的财报。",
+      "ai_tags": [
+        "五粮液",
+        "财报"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "在阳光电源上犯的三个错误，以及我的一个决定",
+      "link": "http://xueqiu.com/1064302270/386950163",
+      "published_time": "2026-05-01 07:14:29",
+      "raw_content": "",
+      "ai_summary": "作者反思在阳光电源投资上的三个错误并作出决定。",
+      "ai_tags": [
+        "阳光电源",
+        "投资反思"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "xueqiu",
+      "title": "美股五大科技企业2026 年 Q1财报全面分析20260430",
+      "link": "http://xueqiu.com/7673611233/386711023",
+      "published_time": "2026-04-30 09:20:00",
+      "raw_content": "",
+      "ai_summary": "分析美股五大科技公司2026年第一季度财报表现",
+      "ai_tags": [
+        "美股",
+        "科技",
+        "财报"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
       "title": "创业板50新高：点位、估值与波动（04.30）",
       "link": "http://xueqiu.com/9391624441/386745698",
       "published_time": "2026-04-30 09:19:34",
       "raw_content": "",
-      "ai_summary": "创业板50指数创新高，分析其点位、估值与波动情况。",
+      "ai_summary": "分析创业板50指数创下新高时的点位、估值和波动情况",
       "ai_tags": [
         "创业板50",
         "指数",
@@ -19,35 +86,15 @@
     },
     {
       "category": "xueqiu",
-      "title": "美股五大科技企业2026 年 Q1财报全面分析20260430",
-      "link": "http://xueqiu.com/7673611233/386711023",
-      "published_time": "2026-04-30 09:20:00",
-      "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "招金矿业年报解读与点评 - 第二部分",
-      "link": "http://xueqiu.com/7448161277/386469638",
-      "published_time": "2026-04-30 09:20:33",
-      "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
       "title": "格力电器2025年年度分红预案点评",
       "link": "http://xueqiu.com/6828304753/386746433",
       "published_time": "2026-04-30 09:19:40",
       "raw_content": "",
-      "ai_summary": "对格力电器2025年年度分红预案进行点评和分析。",
+      "ai_summary": "对格力电器2025年分红预案进行点评",
       "ai_tags": [
         "格力电器",
         "分红",
-        "A股"
+        "家电"
       ],
       "ai_importance": 3
     },
@@ -57,8 +104,12 @@
       "link": "http://xueqiu.com/6254064333/386626186",
       "published_time": "2026-04-30 09:19:46",
       "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
+      "ai_summary": "分析中远海控一季报表现，表达看好观点",
+      "ai_tags": [
+        "中远海控",
+        "季报",
+        "航运"
+      ],
       "ai_importance": 3
     },
     {
@@ -67,18 +118,12 @@
       "link": "http://xueqiu.com/4204263614/386800084",
       "published_time": "2026-04-30 09:19:50",
       "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "跌落神坛还是周期背锅？四大行凭什么把招行甩在身后？",
-      "link": "http://xueqiu.com/2884313460/386827261",
-      "published_time": "2026-04-30 09:20:07",
-      "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
+      "ai_summary": "通过2026年一季报数据分析固废行业发展趋势",
+      "ai_tags": [
+        "固废",
+        "环保",
+        "季报"
+      ],
       "ai_importance": 3
     },
     {
@@ -87,34 +132,11 @@
       "link": "http://xueqiu.com/1545503181/386719782",
       "published_time": "2026-04-30 09:20:38",
       "raw_content": "",
-      "ai_summary": "无内容",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "AI光通信不是向硅光演进，而是向PIC演进",
-      "link": "http://xueqiu.com/8755156034/386285705",
-      "published_time": "2026-04-29 09:44:40",
-      "raw_content": "",
-      "ai_summary": "探讨AI光通信技术发展方向，认为应从硅光转向PIC。",
+      "ai_summary": "认为算力资本开支狂飙，堪比20年前房地产，造富效应凶猛。",
       "ai_tags": [
-        "AI",
-        "光通信",
-        "PIC"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "周期会来，周期会走",
-      "link": "http://xueqiu.com/7913104177/386431059",
-      "published_time": "2026-04-29 09:43:48",
-      "raw_content": "",
-      "ai_summary": "讨论经济周期的必然性和周期性波动。",
-      "ai_tags": [
-        "经济周期",
-        "投资哲学"
+        "算力",
+        "资本开支",
+        "造富"
       ],
       "ai_importance": 3
     }

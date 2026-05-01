@@ -9,12 +9,11 @@
       "link": "https://juejin.cn/post/7633774493807362048",
       "published_time": "2026-04-29 06:15:30",
       "raw_content": "<p>依旧能记起当年 React 和 Vue 刚火时，前端之间一直有个争论：使用 React 还是使用 Vue。当年这个议题吵的热火朝天，当时就在想，为什么这两个框架会有这么大的差异？造成这些差异的原因是什么？为什么两个框架走的不同路径，但是给开发者的体验却是相似的？种种问题都在我的脑海中回荡，可惜当年还是一个初入门的小白，虽然有这些问题，但是还是没有自己找到答案。最近横向和纵向各个维度深度对比了这两个框架，答案就呼之欲出了。挺好，似乎回到了入门的起点。</p>\n<hr />\n<h2>一、为什么两种架构走向了不同的道路</h2>\n<h3>1.1 UI 的本质是什么</h3>\n<p>要理解 React Fiber 和 Vue 响应式系统为何走向截然不同的架构路径，我们必须回到一个更根本的问题：<strong>用户界面的本质是什么</strong>。React 团队给出的答案是——UI 是<strong>状态的函数</strong>（UI = f(state)）。这个看似简单的等式蕴含着深刻的架构决策：如果 UI 只是状态的纯粹映射，那么每次状态变化时，整个 UI 都应该被重新计算，框架的",
-      "ai_summary": "探讨React和Vue架构差异根源：React认为UI是状态的函数，Vue采用响应式系统。",
+      "ai_summary": "深入对比React和Vue架构差异，分析其根本原因在于对UI本质的不同理解。",
       "ai_tags": [
+        "前端",
         "React",
-        "Vue",
-        "架构",
-        "前端框架"
+        "Vue"
       ],
       "ai_importance": 3
     },
@@ -24,14 +23,13 @@
       "link": "https://juejin.cn/post/7633709567295012900",
       "published_time": "2026-04-29 07:06:05",
       "raw_content": "<p>上个月做一个数据整理页，页面本身不复杂：本地库里拉一批记录，按规则清洗，再生成一份可展示的分组列表。逻辑写起来很顺，<code>async/await</code> 一套下来，代码看着也挺规整。</p>\n<p>问题是，上真机之后不对劲。</p>\n<p>页面第一次进入会有一个很短的卡顿，列表滚动到一半偶尔掉帧，点筛选时按钮反馈慢半拍。最开始我还以为是 ArkUI 列表写得不够克制，后来把日志打细一点才发现，真正拖后腿的是那段“看起来只是处理数组”的同步计算。</p>\n<p><code>async</code> 不是多线程。这个坑，做前端或者移动端的人应该都踩过。它能把异步流程写得舒服一点，但 CPU 真在主线程上跑的时候，UI 该卡还是卡。</p>\n<p>后来这块我拆成了两层：短任务走 TaskPool，长活儿交给 Worker。不是为了显得架构高级，纯粹是被卡顿逼出来的。</p>\n<p><img alt=\"image.png\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/265e1d44e5d444d1824",
-      "ai_summary": "HarmonyOS开发中，async不是多线程，建议短任务用TaskPool，长任务用Worker。",
+      "ai_summary": "探讨HarmonyOS中TaskPool和Worker的使用边界，避免在主线程执行耗时任务导致卡顿。",
       "ai_tags": [
         "HarmonyOS",
-        "TaskPool",
-        "Worker",
-        "async"
+        "多线程",
+        "性能优化"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "juejin",
@@ -39,12 +37,11 @@
       "link": "https://juejin.cn/post/7633697912285118516",
       "published_time": "2026-04-29 02:14:16",
       "raw_content": "<blockquote>\n<p>从飞书文档到全球产业版图，一键生成关系地图。  自动提取 -&gt; 地理编码 -&gt; 关系建模 -&gt; 地图可视化。\n<img alt=\"请在此添加图片描述\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/52c2addea86c4f84824a81f3c10bfc9e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTHVjaWFuYWlC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1778033656&amp;x-signature=KPMK1vy%2B5l4jE38r0542jAh5nKg%3D\" />\n本项目已开源👉<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Flucianaib0318%2FGeoMind\" target=\"_blank\" title=\"https://",
-      "ai_summary": "开源项目，从飞书文档自动提取、地理编码、关系建模并生成地图可视化。",
+      "ai_summary": "基于飞书CLI和腾讯位置服务的地理情报可视化Skill，自动提取、地理编码并生成关系地图。",
       "ai_tags": [
-        "飞书",
-        "腾讯位置",
-        "地理情报",
-        "可视化"
+        "可视化",
+        "地理信息",
+        "飞书"
       ],
       "ai_importance": 2
     },
@@ -54,13 +51,11 @@
       "link": "https://juejin.cn/post/7633696737098481705",
       "published_time": "2026-04-29 02:25:38",
       "raw_content": "<p>前阵子做一个图片标注功能，需求听起来很简单：用户从相册里选一张图，加一层轻量处理，页面上能预览，点保存以后导出一张新图。</p>\n<p>刚开始我也没太当回事。图片选择器拿到路径，页面里解码，拿到 <code>PixelMap</code>，再做一点像素改写，最后用 <code>ImagePacker</code> 编码。跑 demo 很顺，换到真机上的 5000px 原图，问题就出来了：预览偶发卡顿，连续点两次保存会生成黑图，页面返回以后内存没有立刻下来，有时日志里还夹着一堆不稳定的 BusinessError。</p>\n<p>后来把这块重新拆了一遍，我的感受是：HarmonyOS 上做图片处理，不能把它当成“一个 API 调一下”的事情。它更像一条小型流水线，<code>ImageSource</code> 管解码入口，<code>PixelMap</code> 管内存里的像素对象，<code>ImagePacker</code> 管重新编码。中间任何一步偷懒，页面上看起来就是卡、黑、慢、偶现。</p>\n<p><img alt=\"image.png\" src=\"https://",
-      "ai_summary": "HarmonyOS图片处理需注意ImageSource、PixelMap、ImagePacker组成的流水线，避免卡顿。",
+      "ai_summary": "介绍HarmonyOS上图像处理工程化链路：ImageSource、PixelMap、ImagePacker的流水线处理。",
       "ai_tags": [
         "HarmonyOS",
-        "图片处理",
-        "ImageSource",
-        "PixelMap",
-        "ImagePacker"
+        "图像处理",
+        "工程化"
       ],
       "ai_importance": 2
     },
@@ -70,14 +65,13 @@
       "link": "https://juejin.cn/post/7633369483193630774",
       "published_time": "2026-04-28 04:12:55",
       "raw_content": "<p><img alt=\"OpenClaw 为什么突然不火了？\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3d24854d3b704abfb8d66235e9414871~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777961681&amp;x-signature=WHIHKpEtx0d%2FoT39mMSWg69W9II%3D\" /></p>\n<p>回想一下今年二三月份，整个前端圈、甚至整个科技圈简直陷入了一场极其狂热的 <strong>养龙虾运动</strong>。</p>\n<p>GitHub 狂飙 30 多万 Star⭐，不管是干前端的、搞后端的、还是做产品的，要是没在自己的 Mac Mini 或者树莓派上跑个 Agent，都不好意思跟人打招呼👋。</p>\n<p>当时大家都觉得，这个能接管键盘鼠标、自己查报错、自己提 P",
-      "ai_summary": "讨论OpenClaw从爆火到降温的原因。",
+      "ai_summary": "分析OpenClaw为何突然降温，反思AI Agent热潮的泡沫。",
       "ai_tags": [
-        "OpenClaw",
         "AI",
-        "前端",
-        "Agent"
+        "开源",
+        "社区"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "juejin",
@@ -85,13 +79,13 @@
       "link": "https://juejin.cn/post/7633205760818806827",
       "published_time": "2026-04-28 01:50:44",
       "raw_content": "<p>这事说出来挺蠢的，但我确实这么干了。</p>\n<p>前段时间，有人来收我一个老域名。价格还不错，我也没多想，就卖了。<br />\n当时的想法特别简单：</p>\n<blockquote>\n<p>反正网站代码在，换个域名不就完了？</p>\n</blockquote>\n<p>于是我做了一个现在回想起来非常离谱的操作：</p>\n<ul>\n<li>新域名上线</li>\n<li>把站点直接切过去</li>\n<li>旧域名…就这么没了</li>\n</ul>\n<p>没有做任何过渡，也没留后路。</p>\n<p>我甚至当时是有点“轻松”的感觉的：<br />\n终于不用再维护两个域名了。</p>\n<p>结果大概一两周之后，现实开始抽我脸。</p>\n<h2>收录从几万，掉到只剩几页</h2>\n<p>最开始我是在 Google Search Console 里发现不对劲的。</p>\n<p>收录在掉，而且是那种<strong>每天都在掉</strong>的节奏。</p>\n<p>一开始我还挺淡定的，觉得是波动。<br />\n后来再看：</p>\n<ul>\n<li>原来几万的页面</li>\n<li>只剩下个位数<",
-      "ai_summary": "作者卖掉老域名后更换新域名未做过渡，导致网站收录严重下降。",
+      "ai_summary": "作者分享因出售域名更换域名导致网站收录暴跌的经历，提醒注意域名迁移过渡。",
       "ai_tags": [
         "域名",
         "SEO",
-        "网站迁移"
+        "经验"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "juejin",
@@ -99,26 +93,11 @@
       "link": "https://juejin.cn/post/7632998012273197094",
       "published_time": "2026-04-27 03:19:16",
       "raw_content": "<p>最近面了一个有着 6 年工作经验的前端候选人。</p>\n<p><img alt=\"2026年4月27日 11_05_32.png\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/620d9b5cccaf41269cfce390464d1588~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777864756&amp;x-signature=9Mu6x8TXBWKmYWk8Gd65O%2F3b%2B1A%3D\" /></p>\n<p>他的简历写得很漂亮：<strong>熟练掌握 React 19 核心特性，深入理解 Fiber 调度原理，精通 Webpack/Vite 工程化调优</strong> 。前半个小时的八股文环节，他答得滴水不漏。</p>\n<p>但在最后的工程场景定级环节，我给他写了不通过❌。</p>\n<p>因为我发现，他干",
-      "ai_summary": "分析六年经验前端面试失败案例，指出工程实战能力不足。",
+      "ai_summary": "一位6年前端候选人在面试中理论扎实，但因工程实践不足被拒，提醒面试需注重实战能力。",
       "ai_tags": [
-        "前端面试",
-        "工程能力",
-        "经验反思"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "juejin",
-      "title": "从 Vue 3 到 Lyt.js：无痛迁移指南",
-      "link": "https://juejin.cn/post/7632982183947730970",
-      "published_time": "2026-04-27 03:46:35",
-      "raw_content": "<h2>从 Vue 3 到 Lyt.js：无痛迁移指南</h2>\n<blockquote>\n<p>基于 Lyt.js v5.0.1 实际源码，手把手带你从 Vue 3 迁移到 Lyt.js。API 高度兼容，模板语法更简洁，迁移成本极低。</p>\n</blockquote>\n<h3>前言</h3>\n<p>如果你是一个 Vue 3 开发者，正在寻找一个更轻量、更现代的替代方案，那么 Lyt.js 值得你关注。</p>\n<p>Lyt.js v5.0.1 是一个零依赖、纯 TypeScript 实现的前端框架，核心 8 包 gzip 仅 ~35KB（Vue 3 约 ~44KB），同时提供了 Vue 3 级别的开发体验。它不仅兼容 Vue 3 的核心 API，还额外提供了 Signal 响应式、Vapor Mode（无 VDOM 渲染）、50+ 内置 UI 组件、完整 DevTools 等能力。</p>\n<p>本文将基于 Lyt.js 实际源码，从 API 对比、模板语法、路由迁移、状态管理、SSR 迁移等方面，提供一份完整的迁移指南。</p>\n<hr />\n<h3>一、API 对比：相似度有",
-      "ai_summary": "介绍Lyt.js作为Vue3的轻量替代方案，提供迁移指南。",
-      "ai_tags": [
-        "Vue3",
-        "Lyt.js",
-        "前端框架",
-        "迁移"
+        "前端",
+        "面试",
+        "工程能力"
       ],
       "ai_importance": 4
     },
@@ -128,14 +107,13 @@
       "link": "https://juejin.cn/post/7632776346619936787",
       "published_time": "2026-04-27 00:52:41",
       "raw_content": "<p>最近 Bun 官方正式宣布，<strong>下个版本 Bun 将正式支持 Android</strong> ，当然官方也说了，不要别把「<em>能在 Android 手机上跑 Bun</em>」误解成「<em>能用 Bun 开发 Android App</em>」，用 Bun 开发 Android App 毫无意义，它的定位更多是和 Node.js 的 Android 支持类似，<strong>本质是官方把 Bun 这个 JS 运行时移植到了 Android 平台</strong>。</p>\n<p><img alt=\"\" src=\"https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6ad8d8e5979046eda9199ba147656ec5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777855961&amp;x-sig",
-      "ai_summary": "Bun官方宣布下版本支持Android，使JS运行时可在手机上运行。",
+      "ai_summary": "Bun官方宣布下个版本支持Android平台，将JS运行时移植到手机，但并非用于开发Android应用。",
       "ai_tags": [
         "Bun",
         "Android",
-        "Claude Code",
         "运行时"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "juejin",
@@ -143,14 +121,27 @@
       "link": "https://juejin.cn/post/7632616802066530355",
       "published_time": "2026-04-27 00:59:36",
       "raw_content": "<p>大家好，我是双越。<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.wangeditor.com%2F\" target=\"_blank\" title=\"https://www.wangeditor.com/\">wangEditor</a> 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.mianshipai.com%2F\" target=\"_blank\" title=\"https://www.mianshipai.com/\">前端面试派</a> 作者。</p>\n<p>我正致力于两个项目的开发和升级，感兴趣的可以私信我，加入项目小组。</p>\n<ul>\n<li><a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fwww.huashuiai.com%2F\" target=\"_blank\" title=\"https://www.huashu",
-      "ai_summary": "作者分享使用Claude Code实践Harness工程的经验，声称开发效率大幅提升。",
+      "ai_summary": "作者分享使用Claude Code实践Harness工程，显著提升开发效率。",
       "ai_tags": [
         "Claude Code",
-        "Harness",
         "开发效率",
-        "AI编程"
+        "AI辅助"
       ],
       "ai_importance": 3
+    },
+    {
+      "category": "juejin",
+      "title": "从 Vue 3 到 Lyt.js：无痛迁移指南",
+      "link": "https://juejin.cn/post/7632982183947730970",
+      "published_time": "2026-04-27 03:46:35",
+      "raw_content": "<h2>从 Vue 3 到 Lyt.js：无痛迁移指南</h2>\n<blockquote>\n<p>基于 Lyt.js v5.0.1 实际源码，手把手带你从 Vue 3 迁移到 Lyt.js。API 高度兼容，模板语法更简洁，迁移成本极低。</p>\n</blockquote>\n<h3>前言</h3>\n<p>如果你是一个 Vue 3 开发者，正在寻找一个更轻量、更现代的替代方案，那么 Lyt.js 值得你关注。</p>\n<p>Lyt.js v5.0.1 是一个零依赖、纯 TypeScript 实现的前端框架，核心 8 包 gzip 仅 ~35KB（Vue 3 约 ~44KB），同时提供了 Vue 3 级别的开发体验。它不仅兼容 Vue 3 的核心 API，还额外提供了 Signal 响应式、Vapor Mode（无 VDOM 渲染）、50+ 内置 UI 组件、完整 DevTools 等能力。</p>\n<p>本文将基于 Lyt.js 实际源码，从 API 对比、模板语法、路由迁移、状态管理、SSR 迁移等方面，提供一份完整的迁移指南。</p>\n<hr />\n<h3>一、API 对比：相似度有",
+      "ai_summary": "从Vue 3迁移到Lyt.js的无痛指南，对比API、模板语法和迁移步骤。",
+      "ai_tags": [
+        "前端",
+        "Vue",
+        "Lyt.js"
+      ],
+      "ai_importance": 2
     }
   ]
 }

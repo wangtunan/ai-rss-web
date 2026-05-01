@@ -5,29 +5,33 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 04:11:53",
-      "raw_content": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
-      "ai_summary": "缅甸前领导人昂山素季被军方转移至软禁。",
+      "title": "How MI5 foiled a Tesco worker's plan for mass gun attack",
+      "link": "https://www.bbc.com/news/articles/czxejvvk9qro?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 04:30:20",
+      "raw_content": "Police say Alfie Coleman appeared to be a normal teenager but was hiding a dark plan.",
+      "ai_summary": "MI5挫败了特斯科员工阿尔菲·科尔曼计划进行大规模枪击的阴谋，他表面看似正常。",
       "ai_tags": [
-        "缅甸",
-        "政治"
+        "恐怖袭击",
+        "MI5",
+        "特斯科",
+        "枪击"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Public told 'be alert, not alarmed' as terror threat level raised after Golders Green attack",
-      "link": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 03:41:25",
-      "raw_content": "The UK's threat level has been lifted from \"substantial\" to \"severe\" for the first time in more than four years.",
-      "ai_summary": "英国将恐怖威胁等级提升至“严重”，呼吁公众保持警惕但不必恐慌。",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 08:41:52",
+      "raw_content": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "ai_summary": "化肥公司Yara老板警告称，伊朗冲突导致的化肥短缺可能减少作物产量并推高粮价，数十亿餐饭面临风险。",
       "ai_tags": [
-        "英国",
-        "恐怖威胁"
+        "伊朗",
+        "化肥",
+        "粮食危机",
+        "价格"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "bbc_news",
@@ -35,38 +39,14 @@
       "link": "https://www.bbc.com/news/articles/clyp5v46q74o?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-01 04:09:17",
       "raw_content": "The main story for many of the papers continues to be the knife attack in Golders Green on Wednesday.",
-      "ai_summary": "英国报纸头条：首相誓言采取行动，民众需警惕更多恐怖袭击。",
+      "ai_summary": "报纸头条关注戈德斯格林持刀袭击事件，首相誓言采取行动，民众担忧更多恐怖袭击。",
       "ai_tags": [
+        "恐怖袭击",
+        "持刀",
         "英国",
-        "恐怖袭击"
+        "首相"
       ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Trump signs bill to end record shutdown over immigration enforcement",
-      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 02:21:47",
-      "raw_content": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-      "ai_summary": "特朗普签署法案结束因移民执法争议导致的创纪录政府停摆。",
-      "ai_tags": [
-        "特朗普",
-        "政府停摆"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Met chief defends knife attack officers after Greens criticism",
-      "link": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 00:06:25",
-      "raw_content": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.",
-      "ai_summary": "伦敦警察局局长为制服持刀嫌疑人的警官辩护，对绿党领袖的批评表示失望。",
-      "ai_tags": [
-        "警察",
-        "争议"
-      ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "bbc_news",
@@ -74,64 +54,104 @@
       "link": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-01 02:39:06",
       "raw_content": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
-      "ai_summary": "新监控显示特朗普晚宴枪手仅用4秒冲过安保线。",
+      "ai_summary": "新视频显示特朗普晚宴枪击案中，枪手在四秒内冲过安保，警察开枪射击。",
       "ai_tags": [
         "特朗普",
-        "安保"
+        "枪击",
+        "安保",
+        "视频"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Why was Mudryk given ban in secret and what happens now?",
+      "link": "https://www.bbc.com/sport/football/articles/cqxpry93zv1o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 08:08:52",
+      "raw_content": "Chelsea winger Mykhailo Mudryk is appealing against a four-year doping ban but why has the process been kept secret, and what happens now?",
+      "ai_summary": "切尔西边锋穆德里克因四年禁药禁令提出上诉，但过程保密；分析原因及后续。",
+      "ai_tags": [
+        "足球",
+        "穆德里克",
+        "禁药",
+        "切尔西"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "The struggle to get hold of medication in England is set to get worse",
-      "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 00:23:00",
-      "raw_content": "People living with conditions include heart problems, stroke risks, eye infections and bipolar are unable to get hold of the drugs they rely on.",
-      "ai_summary": "英格兰患者获取药物的困难将加剧，涉及心脏病、中风、眼部感染和双相情感障碍等疾病。",
+      "title": "Vonn still in 'survival mode' after Olympic crash",
+      "link": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 09:03:53",
+      "raw_content": "American skiing great Lindsey Vonn says she is still \"too emotional\" to make a decision on her future career as she faces at least 18 months of recuperation.",
+      "ai_summary": "美国滑雪名将林赛·沃恩表示，在奥运会撞车事故后仍然“情绪化”，需要至少18个月恢复，无法决定未来。",
       "ai_tags": [
-        "医疗",
-        "药物短缺"
+        "滑雪",
+        "林赛·沃恩",
+        "伤病",
+        "奥运会"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking it on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 03:02:21",
-      "raw_content": "The airline said it regrets the situation and was doing an urgent \"comprehensive internal search\" for the award.",
-      "ai_summary": "一位奥斯卡奖得主因航班不允许携带小金人而丢失奖杯，航空公司正紧急寻找。",
+      "title": "Is Saudi Arabia's sports revolution unravelling?",
+      "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 07:49:18",
+      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
+      "ai_summary": "沙特阿拉伯将撤回对LIV高尔夫数十亿美元的支持，引发对其体育投资革命是否会瓦解的疑问。",
       "ai_tags": [
-        "奥斯卡",
-        "航空"
+        "沙特",
+        "体育投资",
+        "LIV高尔夫",
+        "革命"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Chippies sell catfish as 'traditional fish supper'",
-      "link": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 00:11:27",
-      "raw_content": "A BBC investigation finds chip shop owners passing off cheaper species as \"traditional fish and chips\".",
-      "ai_summary": "BBC调查发现，一些炸鱼薯条店用便宜的鲶鱼冒充传统鱼类出售。",
+      "title": "Is Saudi Arabia's sports revolution unravelling?",
+      "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 07:49:18",
+      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
+      "ai_summary": "沙特阿拉伯将撤回对LIV高尔夫数十亿美元的支持，引发对其体育投资革命是否会瓦解的疑问。",
       "ai_tags": [
-        "食品",
-        "欺诈"
+        "沙特",
+        "体育投资",
+        "LIV高尔夫",
+        "革命"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "King arrives in Bermuda after ending US trip with visit to small town America",
-      "link": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 02:19:06",
-      "raw_content": "On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.",
-      "ai_summary": "国王在结束美国之行后抵达百慕大，此前与王后在弗吉尼亚进行了非正式访问。",
+      "title": "Pickleball and protests: How a Trump visit is roiling the world's largest retirement community",
+      "link": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 08:38:04",
+      "raw_content": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
+      "ai_summary": "特朗普访问世界最大退休社区引发匹克球和抗议活动，政治问题在该社区日益尖锐。",
       "ai_tags": [
-        "王室",
-        "美国访问"
+        "特朗普",
+        "美国政治",
+        "退休社区",
+        "抗议"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "'So stressful' - teachers and pupils say new GCSEs are leading to burnout",
+      "link": "https://www.bbc.com/news/articles/cwydyz2ej1no?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 05:12:06",
+      "raw_content": "Unions warn teachers will quit and there are fears for pupils' wellbeing as classroom tests increase.",
+      "ai_summary": "教师工会警告称，新的GCSE考试导致教师和学生压力过大，担心教师辞职和学生心理健康问题。",
+      "ai_tags": [
+        "教育",
+        "教师",
+        "学生",
+        "压力"
+      ],
+      "ai_importance": 4
     }
   ]
 }

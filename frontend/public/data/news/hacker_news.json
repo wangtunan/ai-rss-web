@@ -8,25 +8,12 @@
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "link": "https://twitter.com/theo/status/2049645973350363168",
       "published_time": "2026-04-30 14:36:58",
-      "raw_content": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1020</p>\n<p># Comments: 572</p>",
-      "ai_summary": "Claude Code对提交中提及\"OpenClaw\"的请求拒绝或额外收费，引发争议。",
+      "raw_content": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1156</p>\n<p># Comments: 635</p>",
+      "ai_summary": "Claude AI工具在识别到提交信息提及“OpenClaw”时拒绝服务或额外收费，引发争议。",
       "ai_tags": [
         "AI",
-        "收费",
-        "争议"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "published_time": "2026-04-30 02:15:47",
-      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 642</p>\n<p># Comments: 428</p>",
-      "ai_summary": "Zig 项目解释其反 AI 贡献政策背后的理由，引发社区热议。",
-      "ai_tags": [
-        "开源",
-        "AI政策"
+        "Claude",
+        "限制"
       ],
       "ai_importance": 5
     },
@@ -35,38 +22,13 @@
       "title": "Where the goblins came from",
       "link": "https://openai.com/index/where-the-goblins-came-from/",
       "published_time": "2026-04-30 03:21:04",
-      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 1021</p>\n<p># Comments: 631</p>",
-      "ai_summary": "OpenAI 发布文章探讨地精（goblins）的起源，话题有趣且讨论热烈。",
+      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 1031</p>\n<p># Comments: 631</p>",
+      "ai_summary": "OpenAI发布文章探讨地精（goblin）的起源，引发广泛讨论。",
       "ai_tags": [
-        "AI",
-        "趣味"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "published_time": "2026-04-30 07:43:55",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\">https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 605</p>\n<p># Comments: 218</p>",
-      "ai_summary": "Mozilla 公开反对 Chrome 的 Prompt API，引发广泛讨论。",
-      "ai_tags": [
-        "浏览器标准",
-        "争议"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "published_time": "2026-04-30 12:17:14",
-      "raw_content": "<p>Article URL: <a href=\"https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\">https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961319\">https://news.ycombinator.com/item?id=47961319</a></p>\n<p>Points: 773</p>\n<p># Comments: 741</p>",
-      "ai_summary": "比利时决定停止核电站退役进程，延长核能使用。",
-      "ai_tags": [
-        "核能",
-        "比利时",
-        "能源"
+        "OpenAI",
+        "地精",
+        "起源",
+        "文化"
       ],
       "ai_importance": 5
     },
@@ -75,25 +37,12 @@
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
       "published_time": "2026-04-30 16:43:47",
-      "raw_content": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 410</p>\n<p># Comments: 323</p>",
-      "ai_summary": "Linux内核漏洞修复不提前通知各发行版，引发安全协调讨论。",
+      "raw_content": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 499</p>\n<p># Comments: 390</p>",
+      "ai_summary": "Linux内核漏洞不会提前通知发行版，引发安全响应讨论。",
       "ai_tags": [
         "Linux",
-        "漏洞",
+        "内核漏洞",
         "安全"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Craig Venter has died",
-      "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "published_time": "2026-04-30 01:44:56",
-      "raw_content": "<p>Article URL: <a href=\"https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\">https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957101\">https://news.ycombinator.com/item?id=47957101</a></p>\n<p>Points: 330</p>\n<p># Comments: 81</p>",
-      "ai_summary": "基因组学先驱 Craig Venter 去世，享年79岁，科学界表示哀悼。",
-      "ai_tags": [
-        "生物技术",
-        "讣告"
       ],
       "ai_importance": 4
     },
@@ -102,11 +51,11 @@
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
       "published_time": "2026-04-30 15:31:40",
-      "raw_content": "<p>Article URL: <a href=\"https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/\">https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964034\">https://news.ycombinator.com/item?id=47964034</a></p>\n<p>Points: 430</p>\n<p># Comments: 176</p>",
-      "ai_summary": "西班牙议会将对LaLiga的大规模IP封锁行为采取措施。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/\">https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964034\">https://news.ycombinator.com/item?id=47964034</a></p>\n<p>Points: 481</p>\n<p># Comments: 188</p>",
+      "ai_summary": "西班牙议会将针对LaLiga大规模屏蔽IP的行为采取行动，引发网络中立性争议。",
       "ai_tags": [
-        "网络中立",
         "西班牙",
+        "网络封锁",
         "LaLiga"
       ],
       "ai_importance": 4
@@ -116,11 +65,11 @@
       "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
       "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
       "published_time": "2026-04-30 13:07:42",
-      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5y7yvgy0w6o\">https://www.bbc.com/news/articles/c5y7yvgy0w6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961838\">https://news.ycombinator.com/item?id=47961838</a></p>\n<p>Points: 487</p>\n<p># Comments: 391</p>",
-      "ai_summary": "Meta员工因在审核智能眼镜内容时看到用户性行为被解雇，引发争议。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5y7yvgy0w6o\">https://www.bbc.com/news/articles/c5y7yvgy0w6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961838\">https://news.ycombinator.com/item?id=47961838</a></p>\n<p>Points: 498</p>\n<p># Comments: 399</p>",
+      "ai_summary": "Meta员工因查看智能眼镜用户性行为影像被解雇，引发隐私与劳动争议。",
       "ai_tags": [
-        "Meta",
         "隐私",
+        "Meta",
         "智能眼镜"
       ],
       "ai_importance": 4
@@ -130,12 +79,71 @@
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
       "published_time": "2026-04-30 16:41:00",
-      "raw_content": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 475</p>\n<p># Comments: 155</p>",
-      "ai_summary": "书摘讲述告密者马克·克莱因如何向电子前哨基金会揭露国家安全局的监控设施。",
+      "raw_content": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 593</p>\n<p># Comments: 195</p>",
+      "ai_summary": "揭露NSA监控的线人Mark Klein如何向EFF提供关键证据的回忆录片段。",
       "ai_tags": [
         "隐私",
-        "监控",
-        "告密者"
+        "NSA",
+        "线人"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "published_time": "2026-04-30 02:15:47",
+      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 655</p>\n<p># Comments: 437</p>",
+      "ai_summary": "Zig项目解释其反AI贡献政策，强调创造性和人类贡献的价值。",
+      "ai_tags": [
+        "Zig",
+        "AI",
+        "贡献政策",
+        "开源"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "published_time": "2026-04-30 16:09:26",
+      "raw_content": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964617\">https://news.ycombinator.com/item?id=47964617</a></p>\n<p>Points: 396</p>\n<p># Comments: 135</p>",
+      "ai_summary": "PyTorch Lightning训练库中发现名为Shai-Hulud的恶意依赖，威胁AI系统安全。",
+      "ai_tags": [
+        "恶意软件",
+        "PyTorch",
+        "AI安全"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Can I disable all data collection from my vehicle?",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "published_time": "2026-04-30 20:27:22",
+      "raw_content": "<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 632</p>\n<p># Comments: 255</p>",
+      "ai_summary": "Rivian官网解答用户能否完全禁用车辆数据收集的问题，引发关于隐私的讨论。",
+      "ai_tags": [
+        "车辆隐私",
+        "数据收集",
+        "Rivian"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "published_time": "2026-04-30 07:43:55",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\">https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 621</p>\n<p># Comments: 223</p>",
+      "ai_summary": "Mozilla反对Chrome的Prompt API，认为其可能损害Web标准的开放性和用户隐私。",
+      "ai_tags": [
+        "Mozilla",
+        "Chrome",
+        "API",
+        "Web标准",
+        "隐私"
       ],
       "ai_importance": 4
     }
