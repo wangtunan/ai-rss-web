@@ -5,16 +5,25 @@
   "items": [
     {
       "category": "ft_chinese",
+      "title": "法拉帝CEO批评最大股东潍柴集团“缺乏产业远见”",
+      "link": "https://www.ftchinese.com/story/001109605",
+      "published_time": "2026-04-29 16:00:00",
+      "raw_content": "法拉帝两大股东潍柴和捷克亿万富翁科马雷克在5月14日的年度股东大会前正展开一场代理权争夺战。",
+      "ai_summary": "法拉帝CEO批评最大股东潍柴集团缺乏产业远见，代理权争夺战即将展开。",
+      "ai_tags": [
+        "ft_chinese"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "ft_chinese",
       "title": "德国、西班牙4月通胀率低于预期",
       "link": "https://www.ftchinese.com/story/001109600",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "欧元区最大和第四大经济体4月通胀率分别为2.9%和3.2%，突显中东战火导致的能源价格上涨尚未全面影响欧洲商品和服务价格。",
-      "ai_summary": "德国和西班牙4月通胀率低于预期，分别为2.9%和3.2%，显示能源价格上涨尚未全面传导。",
+      "ai_summary": "德国和西班牙4月通胀率低于预期，分别为2.9%和3.2%，中东战火尚未全面推高欧洲物价。",
       "ai_tags": [
-        "德国",
-        "西班牙",
-        "通胀",
-        "欧元区"
+        "ft_chinese"
       ],
       "ai_importance": 4
     },
@@ -24,7 +33,7 @@
       "link": "https://www.ftchinese.com/story/001109599",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "俄罗斯将留在更广泛的欧佩克+联盟内，但警告称，阿联酋不受欧佩克产量配额的限制将在中东冲突结束后压低油价。",
-      "ai_summary": "俄罗斯警告称，阿联酋退出欧佩克将导致油价在冲突结束后下跌。",
+      "ai_summary": "俄罗斯警告称，阿联酋退出欧佩克将在中东冲突结束后压低油价，而俄罗斯将继续留在欧佩克+联盟。",
       "ai_tags": [
         "俄罗斯",
         "阿联酋",
@@ -35,16 +44,27 @@
     },
     {
       "category": "ft_chinese",
+      "title": "英国威雅公学关闭一所中国分校",
+      "link": "https://www.ftchinese.com/story/001109608",
+      "published_time": "2026-04-29 16:00:00",
+      "raw_content": "南京威雅学校的关停标志着，寻求在中国扩张的国际学校集团遭遇挫折。中国家长和学生越来越倾向于选择本国教育机构。",
+      "ai_summary": "英国威雅公学关闭南京分校，显示国际学校在华扩张遇挫。",
+      "ai_tags": [
+        "ft_chinese"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "ft_chinese",
       "title": "中投公司考虑出售伦敦希思罗机场股份",
       "link": "https://www.ftchinese.com/story/001109598",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "知情人士称，由于担心希思罗机场第三条跑道的建设成本，中投公司已将其在该机场所持10%股份列入“密切关注”名单，考虑脱手。",
-      "ai_summary": "中投公司考虑出售伦敦希思罗机场10%股份，担忧第三条跑道建设成本。",
+      "ai_summary": "中投公司因担忧希思罗机场第三条跑道的建设成本，考虑出售其所持10%股份。",
       "ai_tags": [
-        "中投",
+        "中投公司",
         "希思罗机场",
-        "股份",
-        "出售"
+        "出售股份"
       ],
       "ai_importance": 3
     },
@@ -54,11 +74,11 @@
       "link": "https://www.ftchinese.com/story/001109590",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "2025年新生儿数量仅略高于65.4万，而死亡人数接近101万，突显欧洲最大经济体面临日益严峻的人口结构危机。",
-      "ai_summary": "德国2025年新生儿数量降至1946年以来最低，仅65.4万，死亡人数近101万，凸显人口结构危机。",
+      "ai_summary": "德国2025年新生儿数量降至1946年以来最低，死亡人数接近101万，凸显人口结构危机。",
       "ai_tags": [
-        "人口",
         "德国",
-        "经济"
+        "新生儿",
+        "人口危机"
       ],
       "ai_importance": 4
     },
@@ -68,11 +88,11 @@
       "link": "https://www.ftchinese.com/story/001109587",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "经合组织研究发现，越来越多的国家正在实施出口管制，发达经济体解决关键原材料供应被卡问题的努力进展甚微。",
-      "ai_summary": "经合组织报告称，自2009年以来关键原材料的出口限制增加五倍，发达国家解决供应链问题的努力进展甚微。",
+      "ai_summary": "经合组织研究显示，自2009年以来关键原材料的出口限制增加了五倍，发达经济体解决供应问题的努力进展甚微。",
       "ai_tags": [
-        "贸易",
         "经合组织",
-        "供应链"
+        "原材料",
+        "出口限制"
       ],
       "ai_importance": 4
     },
@@ -82,12 +102,13 @@
       "link": "https://www.ftchinese.com/story/001109597",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "知情人士称，这是高盛在与Anthropic磋商后，对与这家硅谷初创公司的合同做出严格解读的结果。",
-      "ai_summary": "高盛禁止香港员工使用Anthropic的Claude AI模型，基于合同解读。",
+      "ai_summary": "高盛因合同解读严格，禁止香港员工使用Anthropic Claude模型。",
       "ai_tags": [
         "高盛",
         "Anthropic",
         "Claude",
-        "AI"
+        "AI",
+        "香港"
       ],
       "ai_importance": 3
     },
@@ -97,13 +118,14 @@
       "link": "https://www.ftchinese.com/story/001109575",
       "published_time": "2026-04-27 16:00:00",
       "raw_content": "收购ARC将使壳牌的石油和天然气日产量增加约37万桶，在投资者质疑这家石油巨头的前景之际帮助提振其产量增长率。",
-      "ai_summary": "壳牌以164亿美元收购加拿大页岩油气生产商ARC，日增产约37万桶，提振产量增长。",
+      "ai_summary": "壳牌以164亿美元收购加拿大页岩油气生产商ARC，将日增产约37万桶，提振产量增长率。",
       "ai_tags": [
-        "能源",
+        "壳牌",
         "收购",
-        "石油"
+        "页岩油",
+        "加拿大"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "ft_chinese",
@@ -111,41 +133,15 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国叫停Meta以20亿美元收购AI公司Manus的交易，称违反投资规定，凸显中美技术博弈。",
+      "ai_summary": "中国叫停Meta对人工智能公司Manus的20亿美元收购交易，因违反投资规定。",
       "ai_tags": [
-        "科技",
-        "中美",
-        "监管"
+        "中国",
+        "Meta",
+        "Manus",
+        "AI",
+        "收购"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "英国承认严重低估AI数据中心碳排放",
-      "link": "https://www.ftchinese.com/story/001109564",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "英国政府承认，人工智能数据中心对气候的破坏程度可能比之前估计的高出逾100倍。",
-      "ai_summary": "英国政府承认AI数据中心的碳排放可能被低估逾100倍，对气候影响更严重。",
-      "ai_tags": [
-        "环境",
-        "AI",
-        "碳排放"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "ft_chinese",
-      "title": "美国检方终止对美联储主席鲍威尔的调查",
-      "link": "https://www.ftchinese.com/story/001109562",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "这一进展是在白宫开会并与关键参议员沟通后发生的。此前这项刑事调查促使一些共和党参议员拒绝支持总统对美联储下一任主席的提名。",
-      "ai_summary": "美国检方终止对美联储主席鲍威尔的刑事调查，此前调查影响共和党参议员对下任主席提名的支持。",
-      "ai_tags": [
-        "金融",
-        "美联储",
-        "政治"
-      ],
-      "ai_importance": 4
     }
   ]
 }

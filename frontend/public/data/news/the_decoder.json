@@ -5,77 +5,125 @@
   "items": [
     {
       "category": "the_decoder",
-      "title": "Musk and Altman face off in court over OpenAI's for-profit pivot",
-      "link": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/",
-      "published_time": "2026-04-29 12:59:56",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/Musk-vs-Altman.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.</p>\n<p>The article <a href=\"https://the-decoder.com/musk-and-altman-face-off-in-court-over",
-      "ai_summary": "马斯克起诉OpenAI营利转型，与奥特曼在联邦法院首次交锋。",
+      "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
+      "link": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+      "published_time": "2026-04-30 12:14:46",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. </p>\n<p>The article <a href=\"https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-",
+      "ai_summary": "白宫因担心算力限制，拒绝Anthropic向约70家公司扩展其AI模型Mythos的访问权限。",
       "ai_tags": [
-        "马斯克",
-        "奥特曼",
-        "OpenAI",
-        "诉讼",
-        "法庭"
+        "Anthropic",
+        "白宫",
+        "AI监管"
       ],
       "ai_importance": 5
     },
     {
       "category": "the_decoder",
-      "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
-      "link": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
-      "published_time": "2026-04-29 09:28:29",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"680\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/Nvidia-nemotron-3-release.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1280\" /></p>\n<p>        Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.</p>\n<p>The article <a hr",
-      "ai_summary": "Nvidia发布开源多模态模型Nemotron 3 Nano Omni，支持文本、图像、视频和音频，训练数据来自Qwen等。",
+      "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
+      "link": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/",
+      "published_time": "2026-04-30 12:45:11",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/openai_gpt54-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. </p>\n<p>The article <a href=\"https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/\">OpenAI says it hit",
+      "ai_summary": "OpenAI提前多年实现10吉瓦AI算力目标。",
       "ai_tags": [
-        "Nvidia",
-        "多模态模型",
-        "开源"
+        "OpenAI",
+        "算力"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "the_decoder",
+      "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
+      "link": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
+      "published_time": "2026-04-30 12:24:34",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://the-decoder.com/wp-content/uploads/2025/07/Tencent-Logo-Wall-GPT-4o.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1536\" /></p>\n<p>        Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones.</p>\n<p>The article <a href=\"https://the-decoder.com/tencents-440-mb-ai-model-translates-33-language",
+      "ai_summary": "腾讯发布440MB离线翻译模型，支持33种语言，性能超谷歌翻译。",
+      "ai_tags": [
+        "腾讯",
+        "翻译",
+        "离线"
       ],
       "ai_importance": 4
     },
     {
       "category": "the_decoder",
-      "title": "White House moves to restore Anthropic access after Pentagon standoff",
-      "link": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
-      "published_time": "2026-04-29 13:23:39",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.</p>\n<p>The article <a href=\"https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standof",
-      "ai_summary": "白宫起草指导，允许联邦机构与Anthropic合作，包括使用其新模型Mythos。",
+      "title": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion",
+      "link": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/",
+      "published_time": "2026-04-30 12:05:10",
+      "raw_content": "<p><img alt=\"The two robots Spot and Pepper dance like cheerleaders during a baseball game.\" class=\"attachment-full size-full wp-post-image\" height=\"600\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/spot_pepper_roboter_tanz_softbank_hawks.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1000\" /></p>\n<p>        Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. </p>\n<p>The article <a href=\"ht",
+      "ai_summary": "软银计划在美国推出AI和机器人公司Roze并上市，估值高达1000亿美元。",
       "ai_tags": [
-        "白宫",
-        "Anthropic",
+        "软银",
         "AI",
-        "政府",
-        "安全"
+        "机器人",
+        "IPO"
       ],
       "ai_importance": 4
     },
     {
       "category": "the_decoder",
-      "title": "OpenAI researchers explain why math is the road to AGI",
-      "link": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
-      "published_time": "2026-04-29 15:24:12",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/ai_in_science_math.jpeg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1365\" /></p>\n<p>        AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelli",
-      "ai_summary": "OpenAI研究员Bubeck和Ryu解释数学能力为何是通向AGI的关键测试。",
+      "title": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts",
+      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/",
+      "published_time": "2026-04-30 17:49:04",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/03/microsoft_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.</p>\n<p>The article <a href=\"https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-suc",
+      "ai_summary": "微软CEO纳德拉表示AI成功关键在于获取密集用户和使用量，而非座位数。",
       "ai_tags": [
-        "OpenAI",
-        "AGI",
-        "数学",
-        "AI研究"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
-      "link": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
-      "published_time": "2026-04-29 13:06:01",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1125\" src=\"https://the-decoder.com/wp-content/uploads/2025/12/openai-aws.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2000\" /></p>\n<p>        Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.</p>\n<p>The article <a href=\"https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-",
-      "ai_summary": "微软与OpenAI解除独家协议次日，AWS推出三个基于OpenAI的新服务。",
-      "ai_tags": [
-        "OpenAI",
-        "AWS",
         "微软",
-        "合作"
+        "AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more",
+      "link": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+      "published_time": "2026-04-30 13:38:54",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.</p>\n<p>The article <a href=\"https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-an",
+      "ai_summary": "谷歌CEO皮查伊称用户喜爱AI概览，并因此更频繁使用搜索。",
+      "ai_tags": [
+        "谷歌",
+        "AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
+      "link": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/",
+      "published_time": "2026-04-30 12:11:22",
+      "raw_content": "<p><img alt=\"Lots of pills on a table\" class=\"attachment-full size-full wp-post-image\" height=\"700\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/medikamente-pillen-pexels-anna-shvets-3683074.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1200\" /></p>\n<p>        The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.</p>\n<p>The article <a ",
+      "ai_summary": "FDA启动试点项目，利用AI和云计算实时监控临床试验，旨在缩短新药审批时间。",
+      "ai_tags": [
+        "FDA",
+        "AI",
+        "临床试验"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics",
+      "link": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/",
+      "published_time": "2026-04-30 12:31:31",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"959\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/Anthropic-Bioinformatic-Bench.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1705\" /></p>\n<p>        With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.</p>\n<p>The article <a href=\"https://the-decoder.com/anthropics-new-benchmark-claim",
+      "ai_summary": "Anthropic新基准显示Claude在生物信息学领域达到人类专家水平。",
+      "ai_tags": [
+        "Anthropic",
+        "Claude",
+        "生物信息学"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
+      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/",
+      "published_time": "2026-04-30 12:07:24",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"998\" src=\"https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1749\" /></p>\n<p>        Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. </p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over",
+      "ai_summary": "Anthropic正在评估投资者报价，新一轮融资估值可能超过9000亿美元。",
+      "ai_tags": [
+        "Anthropic",
+        "融资",
+        "估值"
       ],
       "ai_importance": 4
     },
@@ -85,70 +133,11 @@
       "link": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
       "published_time": "2026-04-29 18:31:33",
       "raw_content": "<p><img alt=\"Abstract tile pattern of orange &quot;M&quot;-shaped pixel blocks with a digital glitch effect on a white background.\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://the-decoder.com/wp-content/uploads/2025/07/Mistral-Logo-Pattern-GPT-4o.jpg\" style=\"height: auto; margin-bottom: 10px;\" width=\"1536\" /></p>\n<p>        A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ra",
-      "ai_summary": "审计显示Mistral的Le Chat聊天机器人有60%概率传播关于伊朗战争的虚假信息。",
+      "ai_summary": "NewsGuard审计显示，Mistral的Le Chat在60%的诱导提示中重复伊朗战争虚假信息，错误率高。",
       "ai_tags": [
         "Mistral",
-        "Le Chat",
         "虚假信息",
-        "伊朗",
-        "审计"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
-      "link": "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/",
-      "published_time": "2026-04-29 11:50:10",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Gemini can now remember your preferences and import your chat history from other AI apps.</p>\n<p>The article <a href=\"https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/\">Google rolls out Gemini memor",
-      "ai_summary": "Gemini现可记忆用户偏好，并允许导入ChatGPT聊天历史。",
-      "ai_tags": [
-        "Google",
-        "Gemini",
-        "AI记忆"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
-      "link": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
-      "published_time": "2026-04-29 17:18:57",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_shilouette.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.</p>\n<p>The article <a href=\"https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/\">Googl",
-      "ai_summary": "Google Gemini新增功能：在聊天中直接生成PDF、Word、Excel等文档。",
-      "ai_tags": [
-        "Google",
-        "Gemini",
-        "文档生成",
-        "办公"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
-      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
-      "published_time": "2026-04-28 14:58:24",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/mistral_ai_neural_network.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.</p>\n<p>The article <a href=\"https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/\">Mistral ",
-      "ai_summary": "Mistral AI推出Workflows编排层，帮助企业将AI流程投入生产。",
-      "ai_tags": [
-        "Mistral AI",
-        "工作流",
-        "企业AI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "the_decoder",
-      "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
-      "link": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
-      "published_time": "2026-04-28 18:07:13",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/04/retro_llm.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        \"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.</p>\n<p>The article <a href=\"https://the-decoder.com/here-is-what-an-llm-that-kn",
-      "ai_summary": "一个仅使用1930年前文本训练的13B参数语言模型“Talkie”对2026年的世界进行想象。",
-      "ai_tags": [
-        "语言模型",
-        "复古",
-        "想象"
+        "伊朗"
       ],
       "ai_importance": 3
     }

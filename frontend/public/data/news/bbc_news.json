@@ -5,132 +5,132 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Who is the suspect in the stabbings?",
-      "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 10:24:17",
-      "raw_content": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
-      "ai_summary": "伦敦北部两名犹太男子被刺伤，警方定性为恐怖袭击。",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 04:11:53",
+      "raw_content": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+      "ai_summary": "缅甸前领导人昂山素季被军方转移至软禁。",
       "ai_tags": [
-        "BBC新闻",
+        "缅甸",
+        "政治"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Public told 'be alert, not alarmed' as terror threat level raised after Golders Green attack",
+      "link": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 03:41:25",
+      "raw_content": "The UK's threat level has been lifted from \"substantial\" to \"severe\" for the first time in more than four years.",
+      "ai_summary": "英国将恐怖威胁等级提升至“严重”，呼吁公众保持警惕但不必恐慌。",
+      "ai_tags": [
+        "英国",
+        "恐怖威胁"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Newspaper headlines: 'PM vows to act' and 'Brace for more terror attacks'",
+      "link": "https://www.bbc.com/news/articles/clyp5v46q74o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 04:09:17",
+      "raw_content": "The main story for many of the papers continues to be the knife attack in Golders Green on Wednesday.",
+      "ai_summary": "英国报纸头条：首相誓言采取行动，民众需警惕更多恐怖袭击。",
+      "ai_tags": [
         "英国",
         "恐怖袭击"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Saudi Arabia to stop funding LIV Golf next season",
-      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 06:21:47",
-      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
-      "ai_summary": "沙特将在赛季末停止对LIV高尔夫的数十亿美元资助，系列赛未来成疑。",
+      "title": "Trump signs bill to end record shutdown over immigration enforcement",
+      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 02:21:47",
+      "raw_content": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
+      "ai_summary": "特朗普签署法案结束因移民执法争议导致的创纪录政府停摆。",
       "ai_tags": [
-        "高尔夫",
-        "沙特",
-        "LIV"
+        "特朗普",
+        "政府停摆"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Saudi Arabia to stop funding LIV Golf at end of season",
-      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 06:21:47",
-      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
-      "ai_summary": "沙特将在赛季末停止对LIV高尔夫的数十亿美元资助，系列赛未来成疑。",
-      "ai_tags": [
-        "高尔夫",
-        "沙特",
-        "LIV"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Oil price jumps after report Trump to be given new Iran options",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 10:20:44",
-      "raw_content": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "ai_summary": "报道称美国中央司令部准备对伊朗进行打击，油价应声上涨。",
-      "ai_tags": [
-        "BBC新闻",
-        "油价",
-        "伊朗"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
-      "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 10:23:14",
-      "raw_content": "It comes after legislation to remove their right to sit in the upper chamber passed last month.",
-      "ai_summary": "世袭贵族制度废除，700年历史的上议院席位传统终结。",
-      "ai_tags": [
-        "BBC新闻",
-        "英国政治"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 07:43:33",
-      "raw_content": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
-      "ai_summary": "肯尼亚选手Sabastian Sawe成为首位在正式比赛跑进2小时的马拉松选手，回国受到热烈欢迎。",
-      "ai_tags": [
-        "马拉松",
-        "破纪录",
-        "肯尼亚"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Video that police denied existed shows woman pinned down",
-      "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 05:29:41",
-      "raw_content": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces.",
-      "ai_summary": "一名女性首次讲述与两个警察机构对抗的经历，警方曾否认存在的视频显示她被压制。",
+      "title": "Met chief defends knife attack officers after Greens criticism",
+      "link": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 00:06:25",
+      "raw_content": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.",
+      "ai_summary": "伦敦警察局局长为制服持刀嫌疑人的警官辩护，对绿党领袖的批评表示失望。",
       "ai_tags": [
         "警察",
-        "视频",
         "争议"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Lomu, Wilkinson, Pollock? Rugby's search for a crossover star",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cm2p8nzm81jo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 07:49:55",
-      "raw_content": "Henry Pollock has signed with Eddie Hearn's talent agency in the hope of boosting his profile, but why has rugby found it so hard to forge mainstream figureheads?",
-      "ai_summary": "橄榄球运动员Henry Pollock签约知名经纪公司以提升知名度，文章探讨橄榄球为何难以培养出跨界明星。",
+      "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
+      "link": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 02:39:06",
+      "raw_content": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
+      "ai_summary": "新监控显示特朗普晚宴枪手仅用4秒冲过安保线。",
       "ai_tags": [
-        "橄榄球",
-        "跨界明星"
+        "特朗普",
+        "安保"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "The struggle to get hold of medication in England is set to get worse",
+      "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 00:23:00",
+      "raw_content": "People living with conditions include heart problems, stroke risks, eye infections and bipolar are unable to get hold of the drugs they rely on.",
+      "ai_summary": "英格兰患者获取药物的困难将加剧，涉及心脏病、中风、眼部感染和双相情感障碍等疾病。",
+      "ai_tags": [
+        "医疗",
+        "药物短缺"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Oscar goes missing after Academy Award winner is blocked from taking it on flight",
+      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 03:02:21",
+      "raw_content": "The airline said it regrets the situation and was doing an urgent \"comprehensive internal search\" for the award.",
+      "ai_summary": "一位奥斯卡奖得主因航班不允许携带小金人而丢失奖杯，航空公司正紧急寻找。",
+      "ai_tags": [
+        "奥斯卡",
+        "航空"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "New Arsenal deal for England captain Williamson",
-      "link": "https://www.bbc.com/sport/football/articles/c9v38vgd2jwo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 09:00:50",
-      "raw_content": "Leah Williamson is the fourth player to commit her future to the club in recent weeks, with Kim Little, Stina Blackstenius, and Steph Catley also signing new deals.",
-      "ai_summary": "",
-      "ai_tags": [],
+      "title": "Chippies sell catfish as 'traditional fish supper'",
+      "link": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 00:11:27",
+      "raw_content": "A BBC investigation finds chip shop owners passing off cheaper species as \"traditional fish and chips\".",
+      "ai_summary": "BBC调查发现，一些炸鱼薯条店用便宜的鲶鱼冒充传统鱼类出售。",
+      "ai_tags": [
+        "食品",
+        "欺诈"
+      ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Parker leaves Burnley after Premier League relegation",
-      "link": "https://www.bbc.com/sport/football/articles/c332vpz2kgmo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-04-30 09:28:51",
-      "raw_content": "Burnley head coach Scott Parker leaves the club following talks with the club's hierarchy.",
-      "ai_summary": "",
-      "ai_tags": [],
+      "title": "King arrives in Bermuda after ending US trip with visit to small town America",
+      "link": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 02:19:06",
+      "raw_content": "On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.",
+      "ai_summary": "国王在结束美国之行后抵达百慕大，此前与王后在弗吉尼亚进行了非正式访问。",
+      "ai_tags": [
+        "王室",
+        "美国访问"
+      ],
       "ai_importance": 3
     }
   ]

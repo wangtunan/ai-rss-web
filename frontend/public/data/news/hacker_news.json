@@ -5,139 +5,139 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "published_time": "2026-04-30 03:21:04",
-      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 595</p>\n<p># Comments: 330</p>",
-      "ai_summary": "OpenAI发布文章探讨地精的起源，引发广泛讨论。",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "link": "https://twitter.com/theo/status/2049645973350363168",
+      "published_time": "2026-04-30 14:36:58",
+      "raw_content": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1020</p>\n<p># Comments: 572</p>",
+      "ai_summary": "Claude Code对提交中提及\"OpenClaw\"的请求拒绝或额外收费，引发争议。",
       "ai_tags": [
-        "OpenAI",
-        "技术文章"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Zed 1.0",
-      "link": "https://zed.dev/blog/zed-1-0",
-      "published_time": "2026-04-29 14:34:19",
-      "raw_content": "<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 1848</p>\n<p># Comments: 592</p>",
-      "ai_summary": "Zed 编辑器正式发布 1.0 版本，获得了社区高度关注。",
-      "ai_tags": [
-        "开发工具",
-        "编辑器"
+        "AI",
+        "收费",
+        "争议"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Online age verification is the hill to die on",
-      "link": "https://x.com/GlennMeder/status/2049088498163216560",
-      "published_time": "2026-04-29 15:49:57",
-      "raw_content": "<p><a href=\"https://xcancel.com/GlennMeder/status/2049088498163216560\" rel=\"nofollow\">https://xcancel.com/GlennMeder/status/2049088498163216560</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950091\">https://news.ycombinator.com/item?id=47950091</a></p>\n<p>Points: 886</p>\n<p># Comments: 597</p>",
-      "ai_summary": "关于在线年龄验证的争论引发大量评论，观点不一。",
-      "ai_tags": [
-        "年龄验证",
-        "在线安全",
-        "政策"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "link": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "published_time": "2026-04-29 16:50:01",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing\">https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47951007\">https://news.ycombinator.com/item?id=47951007</a></p>\n<p>Points: 297</p>\n<p># Comments: 191</p>",
-      "ai_summary": "马里兰州成为美国首个禁止超市使用监控定价的州，保护消费者隐私。",
-      "ai_tags": [
-        "隐私",
-        "立法",
-        "监控定价",
-        "超市"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Mistral Medium 3.5",
-      "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "published_time": "2026-04-29 15:17:46",
-      "raw_content": "<p>Article URL: <a href=\"https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5\">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949642\">https://news.ycombinator.com/item?id=47949642</a></p>\n<p>Points: 465</p>\n<p># Comments: 215</p>",
-      "ai_summary": "Mistral 发布了 Medium 3.5 模型，支持远程代理和语音交互。",
-      "ai_tags": [
-        "AI",
-        "模型发布"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-      "link": "https://jivx.com/kyoto-bloom",
-      "published_time": "2026-04-29 19:32:36",
-      "raw_content": "<p>Article URL: <a href=\"https://jivx.com/kyoto-bloom\">https://jivx.com/kyoto-bloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953275\">https://news.ycombinator.com/item?id=47953275</a></p>\n<p>Points: 328</p>\n<p># Comments: 93</p>",
-      "ai_summary": "京都樱花开花时间创1200年来最早纪录，反映气候变化影响。",
-      "ai_tags": [
-        "环境",
-        "樱花",
-        "气候变化",
-        "历史"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "published_time": "2026-04-29 18:54:31",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1130</p>\n<p># Comments: 477</p>",
-      "ai_summary": "Claude Code中HERMES.md在提交信息中导致额外计费，引发用户关注。",
-      "ai_tags": [
-        "Claude Code",
-        "计费问题",
-        "GitHub"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "published_time": "2026-04-29 02:19:11",
-      "raw_content": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 648</p>\n<p># Comments: 352</p>",
-      "ai_summary": "探讨了 Rust 语言仍然无法避免的一些常见编程错误类型。",
-      "ai_tags": [
-        "Rust",
-        "编程语言"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "We need a federation of forges",
-      "link": "https://blog.tangled.org/federation/",
-      "published_time": "2026-04-29 14:00:59",
-      "raw_content": "<p>Article URL: <a href=\"https://blog.tangled.org/federation/\">https://blog.tangled.org/federation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948603\">https://news.ycombinator.com/item?id=47948603</a></p>\n<p>Points: 570</p>\n<p># Comments: 362</p>",
-      "ai_summary": "文章呼吁建立代码托管平台的联邦化，以替代集中式服务。",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "published_time": "2026-04-30 02:15:47",
+      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 642</p>\n<p># Comments: 428</p>",
+      "ai_summary": "Zig 项目解释其反 AI 贡献政策背后的理由，引发社区热议。",
       "ai_tags": [
         "开源",
-        "代码托管"
+        "AI政策"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Where the goblins came from",
+      "link": "https://openai.com/index/where-the-goblins-came-from/",
+      "published_time": "2026-04-30 03:21:04",
+      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 1021</p>\n<p># Comments: 631</p>",
+      "ai_summary": "OpenAI 发布文章探讨地精（goblins）的起源，话题有趣且讨论热烈。",
+      "ai_tags": [
+        "AI",
+        "趣味"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "published_time": "2026-04-30 07:43:55",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\">https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 605</p>\n<p># Comments: 218</p>",
+      "ai_summary": "Mozilla 公开反对 Chrome 的 Prompt API，引发广泛讨论。",
+      "ai_tags": [
+        "浏览器标准",
+        "争议"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "published_time": "2026-04-30 12:17:14",
+      "raw_content": "<p>Article URL: <a href=\"https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\">https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961319\">https://news.ycombinator.com/item?id=47961319</a></p>\n<p>Points: 773</p>\n<p># Comments: 741</p>",
+      "ai_summary": "比利时决定停止核电站退役进程，延长核能使用。",
+      "ai_tags": [
+        "核能",
+        "比利时",
+        "能源"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "published_time": "2026-04-30 16:43:47",
+      "raw_content": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 410</p>\n<p># Comments: 323</p>",
+      "ai_summary": "Linux内核漏洞修复不提前通知各发行版，引发安全协调讨论。",
+      "ai_tags": [
+        "Linux",
+        "漏洞",
+        "安全"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "published_time": "2026-04-29 11:42:46",
-      "raw_content": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47946958\">https://news.ycombinator.com/item?id=47946958</a></p>\n<p>Points: 401</p>\n<p># Comments: 227</p>",
-      "ai_summary": "HashiCorp 联合创始人称 GitHub 不再适合严肃工作，引发广泛讨论。",
+      "title": "Craig Venter has died",
+      "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "published_time": "2026-04-30 01:44:56",
+      "raw_content": "<p>Article URL: <a href=\"https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\">https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957101\">https://news.ycombinator.com/item?id=47957101</a></p>\n<p>Points: 330</p>\n<p># Comments: 81</p>",
+      "ai_summary": "基因组学先驱 Craig Venter 去世，享年79岁，科学界表示哀悼。",
       "ai_tags": [
-        "GitHub",
-        "开发社区"
+        "生物技术",
+        "讣告"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "published_time": "2026-04-30 15:31:40",
+      "raw_content": "<p>Article URL: <a href=\"https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/\">https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964034\">https://news.ycombinator.com/item?id=47964034</a></p>\n<p>Points: 430</p>\n<p># Comments: 176</p>",
+      "ai_summary": "西班牙议会将对LaLiga的大规模IP封锁行为采取措施。",
+      "ai_tags": [
+        "网络中立",
+        "西班牙",
+        "LaLiga"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "published_time": "2026-04-30 13:07:42",
+      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5y7yvgy0w6o\">https://www.bbc.com/news/articles/c5y7yvgy0w6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961838\">https://news.ycombinator.com/item?id=47961838</a></p>\n<p>Points: 487</p>\n<p># Comments: 391</p>",
+      "ai_summary": "Meta员工因在审核智能眼镜内容时看到用户性行为被解雇，引发争议。",
+      "ai_tags": [
+        "Meta",
+        "隐私",
+        "智能眼镜"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "published_time": "2026-04-30 16:41:00",
+      "raw_content": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 475</p>\n<p># Comments: 155</p>",
+      "ai_summary": "书摘讲述告密者马克·克莱因如何向电子前哨基金会揭露国家安全局的监控设施。",
+      "ai_tags": [
+        "隐私",
+        "监控",
+        "告密者"
+      ],
+      "ai_importance": 4
     }
   ]
 }

@@ -5,121 +5,112 @@
   "items": [
     {
       "category": "v2ex",
-      "title": "我的第一个 Linux 内核补丁：从一个 TCP Listener 的 Bug 说起（大家五一节前快乐）",
-      "link": "https://www.v2ex.com/t/1209526",
-      "published_time": "2026-04-30 00:28:12",
-      "raw_content": "swananan: <a href=\"https://jt26wzz.com/posts/0016-my-first-linux-kernel-patch-fixing-a-tcp-listener-bug/\" rel=\"nofollow noopener\" target=\"_blank\">https://jt26wzz.com/posts/0016-my-first-linux-kernel-patch-fixing-a-tcp-listener-bug/</a><br /><br />上面是博客地址链接，文章全程手搓，主要写了三部分：一个是怎么发现 Bug 的，然后是给内核社区提补丁的全过程（期间得到多个大佬的帮助），最后是我对开源社区运作新的理解（特别是和血汗大厂工作的区别对比）。<br /><br />上次分享博客，很多人吐槽我博客的阅读体验有点差，这次我特别用 AI 调整了一下，优化了字体和行间隔，加了侧边栏，开头加上了 TL:DR 摘要，还调整了高亮特效，这次应该好很多了。如果有什么新的反馈，随时写在下面，反正一个小小的静态博客，LLM 都能搞定😉。",
-      "ai_summary": "介绍发现TCP listener bug并提交第一个Linux内核补丁的过程，分享开源社区协作经验。",
+      "title": "Anthropic 真是绝了，刚收完钱就把我踢了",
+      "link": "https://www.v2ex.com/t/1209737",
+      "published_time": "2026-04-30 11:31:58",
+      "raw_content": "cxd8190102: <p>新人一个，还没用过 Claude ，之前有听说过它的恶名，但今天有需求，所以还是上去充了钱。</p>\n<p>结果！刚充完，它就把我踢下线了！我去！你拿钱的时候怎么不要求地域限制呢！</p>\n<p>之后就再也登不上去了。。。</p>\n<p>早上同事才在群里分享了一个新闻，说是美国有家做农业的公司，其中一个账号可能违规了，结果第二天一上班，整个团队的账号全部黑了，里面的东西直接没了，打电话也没人接。关键是，账号虽然没了，但消耗还继续，账户一直在扣钱！</p>\n<p>不得不说这个吃相实在是太难看了。</p>\n<p>现在很多公司都依赖 AI 干活吧，但 AI 公司也是越来越横行霸道了，说封禁你就封禁你，连声招呼也不打，里面多少公司的资产说没就没了，万一连个备份都没有，那损失真是亏麻了。</p>\n<p>而且还搞连坐制度，一人违规全司封号，没有预警没有提醒，你根本不知道是哪里出问题。</p>\n<p>真是太绝了，大家还是要保护好自己的数字资产啊。AI 使用安全也是安全问题。</p>\n<p>Anthropic 一生黑！</p>",
+      "ai_summary": "用户投诉Anthropic（Claude）在充值后因地域限制封禁账号，且存在连坐封号、扣费不停等问题，提醒保护数字资产。",
       "ai_tags": [
-        "Linux",
-        "内核",
-        "补丁",
-        "TCP",
-        "开源"
+        "Anthropic",
+        "封号",
+        "用户体验"
       ],
       "ai_importance": 4
     },
     {
       "category": "v2ex",
-      "title": "新上 API 中转站 zerofra.me，注册送 $10 额度，希望搞一波试运行",
-      "link": "https://www.v2ex.com/t/1209542",
-      "published_time": "2026-04-30 01:08:05",
-      "raw_content": "kian98: <p>最近搭了一个 LLM API 中转站：<a href=\"http://zerofra.me/\" rel=\"nofollow\">zerofra.me</a></p>\n<p>地址： <a href=\"https://api.zerofra.me/\" rel=\"nofollow\">https://api.zerofra.me/</a></p>\n<p>目前主要支持：</p>\n<ul>\n<li>Codex / GPT 系列模型</li>\n<li>Claude 系列模型</li>\n</ul>\n<p>现在刚上线，想先邀请大家试用一下，也顺便帮忙反馈问题。\n新用户注册后送 $10 测试额度。</p>\n<p>如果有需要，可以注册后在帖子下面留下用户名，我这边会统一处理额度。</p>\n<p>感谢大家，欢迎提建议。</p>",
-      "ai_summary": "新上线的LLM API中转站zerofra.me，支持GPT和Claude系列，新用户注册即送$10额度。",
+      "title": "从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了",
+      "link": "https://www.v2ex.com/t/1209740",
+      "published_time": "2026-04-30 11:41:30",
+      "raw_content": "gitxuzan: <p>从 2026 年后开始，就没手写过代码了，全部 ai 写，每天最多的是盯着 ai 写，我意识到的职业要完了</p>\n<p>目前 codex 5x  + claude code 5x</p>\n<p>目前已经替代我所有的需求了，我的需求还是全栈， 部分规划设计 + 前端 + 服务端 + 部分运维脚本 cicd </p>\n<p>预测一波，程序员 2 年内大部分岗位将没了</p>",
+      "ai_summary": "程序员发帖称自2026年起全程用AI写代码，认为程序员岗位将在两年内大量消失，引发职业危机讨论。",
       "ai_tags": [
-        "API",
-        "中转站",
-        "GPT",
-        "Claude",
-        "免费额度"
+        "AI编程",
+        "程序员",
+        "职业危机"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "鼻中隔偏曲术后归来，后悔没早点做",
-      "link": "https://www.v2ex.com/t/1209534",
-      "published_time": "2026-04-30 00:55:07",
-      "raw_content": "booyah: <h4>0.前序</h4>\n<p>接上一个帖子<a href=\"https://www.v2ex.com/t/1203953#reply59\" rel=\"nofollow\">打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX</a><br />\n我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下，<br />\n<strong>发现大家有类似交替性鼻塞的人还挺多的</strong>。<br />\n简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。  </p>\n<h4>1.手术过程</h4>\n<p>一早去医院办理入院手续，术前需要禁食禁水，一直等到下午才进手术室。<br />\n全麻进去醒来已经是出院被推回病床了，最直接的感受就是：鼻子完全不能呼吸。<br />\n<strong>两个鼻腔被塞了吸收+不可吸收的一大团棉花，只能靠嘴呼吸</strong>。<br />\n之前一直以为口呼吸会很难受的，不过习惯了其实还好。  </p>\n<h4>2.坐牢的两天住院</h4>\n<p>比手术本身更难受的，反而是住院这两天。<br />\n一个是医院的超阳",
-      "ai_summary": "分享鼻中隔偏曲手术经历，术后感受，后悔没早点做，提醒有类似症状的人参考。",
+      "title": "国家超算平台也出 coding plan 了",
+      "link": "https://www.v2ex.com/t/1209689",
+      "published_time": "2026-04-30 08:30:45",
+      "raw_content": "lynn1su: <a href=\"https://i.imgur.com/VJQFQyf.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/VJQFQyf.png\" /></a>",
+      "ai_summary": "国家超算平台推出coding plan，具体细节未详述，但引起社区关注。",
       "ai_tags": [
-        "鼻中隔",
-        "手术",
-        "健康",
-        "经历分享"
+        "国家超算",
+        "coding plan"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "现在写中文的博客还有意义吗",
-      "link": "https://www.v2ex.com/t/1209554",
-      "published_time": "2026-04-30 01:34:40",
-      "raw_content": "koukyo: <p>大约一个月前开始写自己的第一个博客，当时 ai 建议我注意 SEO</p>\n<p>我用 semrush 看了看，似乎谷歌什么词中文都没有流量，百度又基本上死了</p>\n<p>后面就只能考虑从现有的社交平台上引流到博客了</p>\n<p>不过这好像又和一开始我设想的，细水长流获取自然流量有冲突，每次分发都得人力来很累</p>\n<p>或许现在博客这种形式在中文互联网上真的只能当作日记本了吗</p>\n<p>这是我的<a href=\"https://koukyo.site/\" rel=\"nofollow\">博客</a>，主要是写自己的从零创业经验，大家给点建议</p>",
-      "ai_summary": "博主反思中文博客SEO效果差，百度流量减少，考虑从社交平台引流，质疑博客的长期价值。",
+      "title": "Codex 对比 Claude Code",
+      "link": "https://www.v2ex.com/t/1209638",
+      "published_time": "2026-04-30 05:37:32",
+      "raw_content": "guangcheng139: <p>这两个对比下来哪个好用呢，现在楼主用 CC 和 cursor 比较熟，听说 Codex 也很不错，想把 cursor 退订用下 Codex ，听说量大管饱，不知有人都体验过吗？直接官方订阅还是要中转</p>",
+      "ai_summary": "用户比较Codex和Claude Code，考虑从Cursor转向Codex，询问使用体验和订阅方式。",
       "ai_tags": [
-        "博客",
-        "SEO",
-        "中文内容",
-        "引流"
+        "Codex",
+        "Claude Code",
+        "AI编程工具"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "你们在用什么数据库管理软件？",
+      "link": "https://www.v2ex.com/t/1209676",
+      "published_time": "2026-04-30 07:52:54",
+      "raw_content": "bluebird007: <p>Windows</p>\n<p>需要的功能除了正常的 crud ，编辑表的时候能显示 alter 语句，最好支持数据迁移\n体验上来说不卡就行，能支持简单的自定义 ui</p>\n<p>navicat 总是很卡，而且老是黑屏\ndbeaver 也卡，而且 ui 也不如 navicat 简洁\nBeekeeper 功能有点羸弱了，换字体都不行</p>",
+      "ai_summary": "用户询问Windows下数据库管理工具推荐，希望支持CRUD、显示alter语句、数据迁移，抱怨Navicat和DBeaver卡顿。",
+      "ai_tags": [
+        "数据库工具",
+        "推荐",
+        "Windows"
       ],
       "ai_importance": 2
     },
     {
       "category": "v2ex",
-      "title": "工作这些年，除了钱，你还沉淀下来了什么？",
-      "link": "https://www.v2ex.com/t/1209536",
-      "published_time": "2026-04-30 01:01:30",
-      "raw_content": "mode171: <h2>工作这么多年，除了钱，你还沉淀下来了什么。</h2>",
-      "ai_summary": "探讨工作多年除了金钱之外的沉淀和收获。",
+      "title": "HyperAPI 订阅套餐上线，注册送 5$，评论留邮箱，发 10$兑换码",
+      "link": "https://www.v2ex.com/t/1209647",
+      "published_time": "2026-04-30 06:12:28",
+      "raw_content": "WinterLord: <h1>HyperAPI 订阅套餐</h1>\n<blockquote>\n<p>订阅套餐现已上线。进入控制台后，点击 <strong>钱包管理</strong> 即可开始订阅。</p>\n</blockquote>\n<h2>套餐一览</h2>\n<table>\n<thead>\n<tr>\n<th>套餐</th>\n<th>适用场景</th>\n<th>价格</th>\n<th>有效期</th>\n<th>总额度</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月卡套餐</td>\n<td>覆盖常规研发工作量</td>\n<td>39.90 元</td>\n<td>1 个月</td>\n<td>$480.00</td>\n</tr>\n<tr>\n<td>周卡套餐</td>\n<td>适合短周期项目</td>\n<td>9.90 元</td>\n<td>7 天</td>\n<td>$120.00</td>\n</tr>\n<tr>\n<td>日卡套餐</td>\n<td>灵活应对突发需求</td>\n<td>1.90 元</td>\n<td>1 天</td>\n<td>$20.00</td",
+      "ai_summary": "HyperAPI发布订阅套餐，包括月卡、周卡、日卡，注册送5美元，评论邮箱送10美元兑换码。",
       "ai_tags": [
+        "HyperAPI",
+        "订阅套餐",
+        "促销"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "智驾就像 ai 编程一样，越用越上瘾，直到彻底依赖",
+      "link": "https://www.v2ex.com/t/1209633",
+      "published_time": "2026-04-30 05:03:28",
+      "raw_content": "koor: 以前只敢在高速高架上开，慢慢发现在城区处理的也很不错，用得越久越知道智驾的边界在哪里，哪里需要接管，很多地方比我自己处理要好，比如说路口右转和直行电动车的博弈就非常老司机<br /><br />看到有帖子购买人生第一辆车首选合资油车的（/t/1209326 ），我的感受是，如果是新手不懂操控不懂驾驶感受的，强烈推荐国产新能源，智驾一旦试过就离不开了",
+      "ai_summary": "用户分享智驾体验，认为智驾像AI编程一样令人上瘾，推荐新手购买国产新能源车。",
+      "ai_tags": [
+        "智能驾驶",
+        "国产新能源",
+        "推荐"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "五一前的最后一个下午了，还有多少人在认真工作",
+      "link": "https://www.v2ex.com/t/1209672",
+      "published_time": "2026-04-30 07:25:58",
+      "raw_content": "gongfuxiongmao: <p>顺便说说大家五一都去哪里玩，有没有在家 Vibe coding 的</p>",
+      "ai_summary": "五一假期前最后半天，询问大家是否还在认真工作及假期计划，提及在家Vibe coding。",
+      "ai_tags": [
+        "五一",
         "工作",
-        "沉淀",
-        "思考"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "小米股票跌倒 29 了，快补仓",
-      "link": "https://www.v2ex.com/t/1209564",
-      "published_time": "2026-04-30 01:59:26",
-      "raw_content": "chouvel: 大家都是怎么换到港元的？",
-      "ai_summary": "用户讨论小米股价下跌至29港元，询问换汇至港元的方法。",
-      "ai_tags": [
-        "小米",
-        "股票",
-        "换汇"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "[bytecat] 逆向 Claude Opus0.1 倍率，中奖率 20%。注册送 500wtoken，叠加倍率可达 5000w~",
-      "link": "https://www.v2ex.com/t/1209550",
-      "published_time": "2026-04-30 01:31:58",
-      "raw_content": "xiaofangcode: <h1>🚀 五一活动 &amp; 项目进展汇报</h1>\n<p>各位 V 友大家好 👋<br />\n我们大概是<strong>第一批在 V2EX 做推广起家的服务商</strong>，一路走来非常感谢大家的支持。</p>\n<p><strong>网址： <a href=\"https://codecdn.bytecatcode.org/\" rel=\"nofollow\">https://codecdn.bytecatcode.org</a></strong></p>\n<p>这次不整虚的，简单说发展、讲清福利。</p>\n<hr />\n<h2>🧭 项目发展时间线</h2>\n<ul>\n<li>\n<p><strong>2026-01</strong></p>\n<ul>\n<li>项目成立</li>\n<li>仅 Kiro 渠道</li>\n<li>无缓存 + 香港“灵车”服务器（老用户应该有印象 😂）</li>\n</ul>\n</li>\n<li>\n<p><strong>2026-02</strong></p>\n<ul>\n<li>更换为 DMIT</li>\n<li>\n新增：<ul>",
-      "ai_summary": "bytecat平台推出五一活动，注册送500万token，逆向Claude Opus0.1倍率，中奖率20%。",
-      "ai_tags": [
-        "bytecat",
-        "Claude",
-        "token",
-        "活动"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "失业后去热门景区附近卖烤肠，能轻松月入过万吗？",
-      "link": "https://www.v2ex.com/t/1209548",
-      "published_time": "2026-04-30 01:28:03",
-      "raw_content": "Void000: <p>去景区旅游的时候发现，附近有那种卖烤肠的摊主。普通淀粉肠卖 2 卖，王中王能卖到 3 块。如果是肉肠的话，更是能卖到 5 块钱一根。</p>\n<p>我好像发现了巨大的商机，然后就赶紧拿出某多多查了下价格，发现一根淀粉肠的进价撑破天也就 5 毛钱，王中王贵一点，但是成本价也才 1 块。肉肠差不多 1 块 2 、1 块 3 左右。</p>\n<p>所以此时我就在想，如果在热门景区，来来往往的这么多人，一天卖个 300 根左右，就按一根肠赚 2 块来算的话，那就是 600 块，那一个月出摊 20 天，就是 20x600=12000 了，轻松月入过万，时间还自由。</p>\n<p>v 友们，此刻你们的内心是不是已经和我一样蠢蠢欲动了🙈？</p>",
-      "ai_summary": "用户分析景区卖烤肠的利润，认为日赚600元，月入过万可行。",
-      "ai_tags": [
-        "创业",
-        "烤肠",
-        "景区",
-        "收入"
+        "假期"
       ],
       "ai_importance": 1
     }

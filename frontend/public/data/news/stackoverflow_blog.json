@@ -5,17 +5,17 @@
   "items": [
     {
       "category": "stackoverflow_blog",
-      "title": "Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3",
-      "link": "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/",
-      "published_time": "2026-04-28 13:00:00",
-      "raw_content": "Now generally available in the 2026.3 release, Ingestion transforms siloed content into structured, verified knowledge—optimized for both your teams and AI.",
-      "ai_summary": "Stack Overflow推出Ingestion功能，将分散内容转化为结构化、经过验证的知识，优化团队和AI使用。",
+      "title": "The Worst Coder in the World goes agentic: building a leaderboard cracking AI",
+      "link": "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/",
+      "published_time": "2026-04-30 16:00:00",
+      "raw_content": "Agents are everywhere, so isn&#x27;t it fitting that the Worst Coder in the World goes agentic? A coding newbie explores the challenges and rewards of building an agent for work—and trying to learn a few things about coding along the way.",
+      "ai_summary": "编程新手尝试构建一个用于工作的AI代理，探讨其中的挑战与收获。",
       "ai_tags": [
-        "Stack Overflow",
-        "知识管理",
-        "AI"
+        "编程",
+        "AI代理",
+        "学习"
       ],
-      "ai_importance": 4
+      "ai_importance": 2
     },
     {
       "category": "stackoverflow_blog",
@@ -23,12 +23,27 @@
       "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
       "published_time": "2026-04-28 07:40:00",
       "raw_content": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
-      "ai_summary": "伦敦圣詹姆斯区出现带有班克西签名的雕塑。",
+      "ai_summary": "讨论LLM在处理实时结构化生产数据时遇到的挑战，本质是数据问题。",
       "ai_tags": [
-        "艺术",
-        "街头艺术"
+        "LLM",
+        "数据",
+        "AI"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
+    },
+    {
+      "category": "stackoverflow_blog",
+      "title": "Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3",
+      "link": "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/",
+      "published_time": "2026-04-28 13:00:00",
+      "raw_content": "Now generally available in the 2026.3 release, Ingestion transforms siloed content into structured, verified knowledge—optimized for both your teams and AI.",
+      "ai_summary": "Stack Overflow 2026.3版本发布Ingestion功能，将分散内容转化为结构化可信知识。",
+      "ai_tags": [
+        "Stack Overflow",
+        "知识管理",
+        "AI"
+      ],
+      "ai_importance": 2
     },
     {
       "category": "stackoverflow_blog",
@@ -36,12 +51,12 @@
       "link": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
       "published_time": "2026-04-27 13:56:07",
       "raw_content": "AI companies are looking a little different after going through renewal cycle.",
-      "ai_summary": "政府恐袭顾问称反犹太主义为国家安全紧急事件，但内政大臣视为优先事项而非紧急状态。",
+      "ai_summary": "AI公司经历更新周期后呈现新面貌。",
       "ai_tags": [
-        "政治",
-        "社会"
+        "AI",
+        "行业动态"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -49,12 +64,13 @@
       "link": "https://stackoverflow.blog/2026/04/24/lights-camera-open-source/",
       "published_time": "2026-04-24 07:40:00",
       "raw_content": "Ryan is joined on the show by Cult.Repo producers Emma Tracey and Josiah McGarvie to discuss making documentaries about open-source software and the people behind the major technologies that uphold the internet.",
-      "ai_summary": "法灵顿车站因疑似气体泄漏关闭，乘客被建议改道。",
+      "ai_summary": "访谈开源纪录片制作人，探讨开源软件及背后的贡献者。",
       "ai_tags": [
-        "交通",
-        "安全"
+        "开源",
+        "纪录片",
+        "社区"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -62,12 +78,13 @@
       "link": "https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/",
       "published_time": "2026-04-23 14:00:00",
       "raw_content": "Prompts go in, output comes out, and the decisions made in between are hidden from view.",
-      "ai_summary": "伯恩利主教练帕克在球队从英超降级后离职。",
+      "ai_summary": "AI工具黑箱化，设计决策无人过问。",
       "ai_tags": [
-        "体育",
-        "足球"
+        "AI",
+        "黑箱",
+        "设计"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -75,25 +92,27 @@
       "link": "https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/",
       "published_time": "2026-04-22 04:40:00",
       "raw_content": "Chase Roossin, group engineering manager, and Steven Kulesza, staff software engineer, from Intuit join the podcast to chat about what might be the hardest problem in engineering right now: getting multiple AI agents to work together in a complex system.",
-      "ai_summary": "前主帅波切蒂诺对热刺的英超保级困境表示痛心。",
+      "ai_summary": "讨论大规模多AI代理协同工作的挑战。",
       "ai_tags": [
-        "体育",
-        "足球"
+        "AI代理",
+        "协作",
+        "工程"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
       "title": "We still need developer communities",
       "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
       "published_time": "2026-04-21 07:40:00",
-      "raw_content": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
-      "ai_summary": "以色列在希腊克里特岛附近拦截前往加沙的船队，拘留175名亲巴勒斯坦活动人士。",
+      "raw_content": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MLH’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+      "ai_summary": "讨论开发者社区的必要性和MLH收购DEV。",
       "ai_tags": [
-        "国际政治",
-        "冲突"
+        "开发者社区",
+        "MLH",
+        "DEV"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -101,12 +120,13 @@
       "link": "https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/",
       "published_time": "2026-04-17 07:40:00",
       "raw_content": "Ryan welcomes Stephen Watt, distinguished engineer and VP of Red Hat’s Office of the CTO, to chat about digital sovereignty and sovereign AI.",
-      "ai_summary": "阿森纳女足与英格兰队长威廉森续约，近期已有四名球员续约。",
+      "ai_summary": "红帽高管讨论数字主权和主权AI。",
       "ai_tags": [
-        "体育",
-        "足球"
+        "主权AI",
+        "数字主权",
+        "红帽"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -114,25 +134,13 @@
       "link": "https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/",
       "published_time": "2026-04-15 13:00:00",
       "raw_content": "The most valuable AI tools in your enterprise stack do more than generate answers. They help developers determine which answers to trust.",
-      "ai_summary": "Premier Inn母公司Whitbread计划裁员3800人并改造197家酒店餐厅。",
+      "ai_summary": "AI工具的价值在于帮助开发者判断答案的可信度。",
       "ai_tags": [
-        "商业",
-        "经济"
+        "AI",
+        "人类专业知识",
+        "信任"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "stackoverflow_blog",
-      "title": "Human input needed: take our survey on AI agents",
-      "link": "https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/",
-      "published_time": "2026-04-15 14:00:00",
-      "raw_content": "Are you still &quot;human-in-the-loop,&quot; or have you moved to &quot;human-on-the-loop,&quot; overseeing a bot that’s doing the driving?",
-      "ai_summary": "纽约市长曼达尼表示将请求查尔斯国王归还光之山钻石。",
-      "ai_tags": [
-        "政治",
-        "国际"
-      ],
-      "ai_importance": 3
     }
   ]
 }
