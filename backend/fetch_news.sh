@@ -1,16 +1,23 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+set -eu
 
 cd "$(dirname "$0")"
 
-MAX_ENTRIES="${1:-20}"
+MAX_ENTRIES="20"
+case "${1:-}" in
+  ''|*[!0-9]*) ;;
+  *)
+    MAX_ENTRIES="$1"
+    shift
+    ;;
+esac
 
 mkdir -p data
 
 if command -v uv >/dev/null 2>&1; then
   uv run python -m alembic upgrade head
-  uv run python -m app.jobs.local_fetch_news --max-entries "$MAX_ENTRIES"
+  uv run python -m app.jobs.fetch_news_to_db --max-entries "$MAX_ENTRIES" "$@"
 else
   if [ -f ".venv/Scripts/activate" ]; then
     # Git Bash on Windows.
@@ -20,5 +27,5 @@ else
   fi
 
   python -m alembic upgrade head
-  python -m app.jobs.local_fetch_news --max-entries "$MAX_ENTRIES"
+  python -m app.jobs.fetch_news_to_db --max-entries "$MAX_ENTRIES" "$@"
 fi

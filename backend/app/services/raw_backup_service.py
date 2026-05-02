@@ -17,14 +17,6 @@ def _get_backup_base_dir() -> Path:
     project_root = Path(__file__).resolve().parents[3]
     return project_root / "data"
 
-
-def is_raw_backup_enabled() -> bool:
-    """
-    判断是否开启备份任务。
-    """
-    value = os.getenv("ENABLE_SUMMARIZED_BACKUP", "false").lower()
-    return value in {"1", "true", "yes", "on"}
-
 def backup_entries(summarized_entries: list[dict]) -> Path:
     """
     备份摘要数据。

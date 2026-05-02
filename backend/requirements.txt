@@ -1,10 +1,9 @@
-uvicorn
 python-dotenv
 feedparser
 openai
 pyyaml
 tzdata
 requests
-fastapi
 sqlalchemy
 alembic
+psycopg2-binary
