@@ -6,30 +6,88 @@
   "offset": 0,
   "items": [
     {
-      "category": "cls",
-      "title": "5月2日周六《新闻联播》要闻19条",
-      "link": "https://api3.cls.cn/share/article/2362145?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-02 12:23:25",
-      "raw_content": "【5月2日周六《新闻联播》要闻19条】财联社5月2日电，今天《新闻联播》主要内容有：\n1、【实干笃行创伟业 团结奋斗新征程】劳动开创美好未来 奋斗铸就时代华章；\n2、以更大力度更实举措加强基础研究——习近平总书记在加强基础研究座谈会上的重要讲话引发热烈反响；\n3、人民日报评论员文章：抓住机遇，以更大力度更实举措加强基础研究——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话；\n4、“五一”假期 各地特色文旅活动精彩纷呈；\n5、绿色出行热度攀升 多举措保障充电需求；\n6、京津冀 黄河流域国家级自然保护区生态环保成效显著；\n7、国务院安委办部署“五一”假期安全生产明查暗访工作；\n8、18个地区试点中医药服务消费和服务贸易融合发展；\n9、“五一”档电影两天票房超3亿元；\n10、今年经深圳各口岸出入境人员破1亿人次；\n11、我国首个算电协同绿电直供项目正式投运；\n12、新一轮降雨影响南方 北方多地大风降温；\n13、推动非中经贸合作迈上新台阶——非洲政要积极评价中国对非洲建交国全面实施零关税举措；\n14、中国担任安理会5月轮值主席 聚焦三项重点；\n15、伊朗提出美伊谈判最新方案 美称美伊敌对",
-      "ai_summary": "5月2日《新闻联播》主要包含：劳动开创未来、加强基础研究、五一假期文旅、绿色出行、京津冀生态、国务院安委办暗访、中医药服务试点、五一档电影票房、深圳口岸客流、算电协同项目、南方降雨、非洲评价中国零关税、中国担任安理会轮值主席、伊朗谈判等19条要闻。",
+      "category": "wsj",
+      "title": "伯克希尔股东大会来袭！巴菲特六十年来首次退居幕后，“新王”首秀看什么？",
+      "link": "https://wallstreetcn.com/articles/3771468",
+      "published_time": "2026-05-02 13:00:48",
+      "raw_content": "<p>美国中部时间5月2日周六，伯克希尔·哈撒韦公司2026年股东大会将在奥马哈举行。</p>\n<p>今年是伯克希尔自巴菲特掌舵六十年来首次“退居幕后”举行股东年会。它将成为伯克希尔完成权力交接后的首次“压力测试”。自去年末巴菲特卸任CEO后，阿贝尔（Greg Abel）将首次以CEO身份主持大会的公开问答环节，标志着巴菲特一手打造的万亿美元企业巨头正式进入“后巴菲特时代”。</p>\n<p>95岁的巴菲特将出席本次股东大会，但不再坐在台上主持问答环节，仅以董事会成员身份就座于场内，阿贝尔则将独挑大梁，主持上下半场问答。分析人士表示，大会风格预计将从巴菲特式的投资哲学与人生智慧，向更聚焦于运营、资本配置的商业议题转变。对投资者而言，这是他们首次近距离审视阿贝尔能否驾驭伯克希尔，投资者情绪的走向亦将在一定程度上取决于他的表现。</p>\n<p>伯克希尔今年第一季度财报也将于股东大会问答举行当天、美东时间本周六上午披露，为本次会议增添一层额外的市场关注。巴菲特上月在媒体采访中透露的“一笔新的小投资”尚未公开标的，预计亦将成为现场焦点。</p>\n<p>今年以来，伯克希尔A类和B类股均累计跌逾5%",
+      "ai_summary": "伯克希尔2026年股东大会将首次由阿贝尔以CEO身份主持，巴菲特退居幕后，标志着后巴菲特时代来临。",
       "ai_tags": [
-        "新闻联播",
-        "要闻",
-        "2026年5月2日"
+        "巴菲特",
+        "伯克希尔",
+        "股东大会"
       ],
       "ai_importance": 5
     },
     {
       "category": "cls",
-      "title": "伯克希尔哈撒韦一季度净利润101.06亿美元 去年同期46亿美元",
-      "link": "https://api3.cls.cn/share/article/2362146?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-02 12:01:11",
-      "raw_content": "【伯克希尔哈撒韦一季度净利润101.06亿美元 去年同期46亿美元】财联社5月2日电，伯克希尔哈撒韦第一季度营业利润113.5亿美元，同比增长18%；第一季度净利润101.06亿美元，去年同期为46亿美元；第一季度现金储备达到创纪录的3973.8亿美元。",
-      "ai_summary": "伯克希尔哈撒韦第一季度营业利润113.5亿美元同比增长18%，净利润101.06亿美元（去年同期46亿美元），现金储备达创纪录的3973.8亿美元。",
+      "title": "全球单机容量最大16兆瓦漂浮式海上风电平台“三峡领航号”完成安装",
+      "link": "https://api3.cls.cn/share/article/2362153?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 12:59:41",
+      "raw_content": "【全球单机容量最大16兆瓦漂浮式海上风电平台“三峡领航号”完成安装】财联社5月2日电，全球单机容量最大的16兆瓦漂浮式海上风电平台“三峡领航号”5月2日在广东阳江海域完成安装，标志着我国在深远海漂浮式风电技术领域取得新突破。“三峡领航号”由16兆瓦超大容量风机、半潜式浮体平台和新型系泊系统三部分组成。风机叶轮直径252米，扫风面积相当于7个标准足球场的面积，叶尖最大高度超过270米。与传统固定式风机不同，它安装在一个长80.82米、宽91米、排水量达2.41万吨的半潜式浮体平台上。平台依靠9个吸力锚，搭配国产高性能聚酯纤维缆与锚链实现海底系泊定位。",
+      "ai_summary": "全球单机容量最大的16兆瓦漂浮式海上风电平台“三峡领航号”在广东阳江完成安装，标志深远海风电技术新突破。",
       "ai_tags": [
-        "伯克希尔哈撒韦",
-        "一季度",
-        "净利润"
+        "风电",
+        "海上风电",
+        "三峡领航号"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "5月2日周六《新闻联播》要闻19条",
+      "link": "https://api3.cls.cn/share/article/2362145?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 12:23:25",
+      "raw_content": "【5月2日周六《新闻联播》要闻19条】财联社5月2日电，今天《新闻联播》主要内容有：\n1、【实干笃行创伟业 团结奋斗新征程】劳动开创美好未来 奋斗铸就时代华章；\n2、以更大力度更实举措加强基础研究——习近平总书记在加强基础研究座谈会上的重要讲话引发热烈反响；\n3、人民日报评论员文章：抓住机遇，以更大力度更实举措加强基础研究——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话；\n4、“五一”假期 各地特色文旅活动精彩纷呈；\n5、绿色出行热度攀升 多举措保障充电需求；\n6、京津冀 黄河流域国家级自然保护区生态环保成效显著；\n7、国务院安委办部署“五一”假期安全生产明查暗访工作；\n8、18个地区试点中医药服务消费和服务贸易融合发展；\n9、“五一”档电影两天票房超3亿元；\n10、今年经深圳各口岸出入境人员破1亿人次；\n11、我国首个算电协同绿电直供项目正式投运；\n12、新一轮降雨影响南方 北方多地大风降温；\n13、推动非中经贸合作迈上新台阶——非洲政要积极评价中国对非洲建交国全面实施零关税举措；\n14、中国担任安理会5月轮值主席 聚焦三项重点；\n15、伊朗提出美伊谈判最新方案 美称美伊敌对",
+      "ai_summary": "5月2日《新闻联播》要闻19条，涵盖劳动开创未来、加强基础研究、五一文旅活动、绿色出行、生态环保、安全生产、中医药服务、电影票房、出入境人次、算电协同、降雨天气、中非合作、安理会轮值主席、伊朗谈判等。",
+      "ai_tags": [
+        "新闻联播",
+        "要闻"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "reuters",
+      "title": "Germany urges stronger European defence after US announces troop drawdown - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
+      "published_time": "2026-05-02 12:05:02",
+      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5\" target=\"_blank\">Germany urges stronger European defence after US announces troop drawdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "ai_summary": "美国宣布撤军后，德国敦促加强欧洲防务。",
+      "ai_tags": [
+        "德国",
+        "欧洲防务",
+        "美国撤军",
+        "北约"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "reuters",
+      "title": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RkdWg1QTVlQmNRQkpSRFhLSmU3QTZsZmtHV016RHB2cG5FOW05bUdPN3N6ZExBVjdCR1RkdXlwLW0yZ1VGazdOVkJKNkEyWVN2V2NBUWJBX3JhREUwUUQwNlQ2RGhsaUhyb193bVRRbGVSejZZTm5QWUlBcThCRlJuajBlTXgwLXNGRmNYelNWRWFYczBDVTFDUkliRFVkQmd0UFRBZFdoOVM2YXp3eU9EZi1DNThYenRnVUE2UnY2bHNXU3FkWkVQRXg?oc=5",
+      "published_time": "2026-05-02 11:36:21",
+      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RkdWg1QTVlQmNRQkpSRFhLSmU3QTZsZmtHV016RHB2cG5FOW05bUdPN3N6ZExBVjdCR1RkdXlwLW0yZ1VGazdOVkJKNkEyWVN2V2NBUWJBX3JhREUwUUQwNlQ2RGhsaUhyb193bVRRbGVSejZZTm5QWUlBcThCRlJuajBlTXgwLXNGRmNYelNWRWFYczBDVTFDUkliRFVkQmd0UFRBZFdoOVM2YXp3eU9EZi1DNThYenRnVUE2UnY2bHNXU3FkWkVQRXg?oc=5\" target=\"_blank\">Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "ai_summary": "伊朗官员称特朗普拒绝的提议原计划在核谈前开放海峡。",
+      "ai_tags": [
+        "伊朗",
+        "特朗普",
+        "核谈判",
+        "霍尔木兹海峡"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "外交部回应赖清德窜访斯威士兰：“偷渡式”外窜闹剧 沦为国际笑柄",
+      "link": "https://api3.cls.cn/share/article/2362135?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 11:16:19",
+      "raw_content": "【外交部回应赖清德窜访斯威士兰：“偷渡式”外窜闹剧 沦为国际笑柄】财联社5月2日电，外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问。\n\n问：据报道，台湾地区领导人赖清德已于5月2日搭乘斯威士兰国王的“私人飞机”抵斯。请问中方对此有何评论？\n\n答：赖清德在宜兰发生地震后仅几小时，弃岛内民生于不顾，偷偷钻进一架外国飞机溜出台湾，大肆挥霍公帑，上演“偷渡式”外窜闹剧，沦为国际笑柄，拉长“台独”丑行清单。\n\n赖清德之流在国际上灰头土脸的遭遇再次表明，一个中国原则早已成为国际关系基本准则和国际社会普遍共识。无论民进党当局怎么勾连外部势力、以什么形式“豢养他人”，都是枉费心机，改变不了台湾是中国一部分的事实。无论“台独”分裂势力如何隐形变异，都改变不了人人喊打、抱头鼠窜的命运。\n\n我们奉劝斯威士兰等个别国家看清历史大势、顺应时代潮流，不要为少数“台独”分裂分子火中取栗。",
+      "ai_summary": "外交部回应赖清德窜访斯威士兰，指责其弃民生不顾、上演闹剧，重申一个中国原则。",
+      "ai_tags": [
+        "外交部",
+        "赖清德",
+        "台独",
+        "斯威士兰"
       ],
       "ai_importance": 5
     },
@@ -39,10 +97,55 @@
       "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 11:03:40",
       "raw_content": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "ai_summary": "以色列对黎巴嫩南部的空袭造成13人死亡，包括四名妇女和一名儿童，尽管停火协议仍在，但冲突持续。",
+      "ai_summary": "以色列对黎巴嫩南部的袭击造成13人死亡，包括4名妇女和1名儿童，冲突持续。",
       "ai_tags": [
-        "冲突",
-        "中东"
+        "以色列",
+        "黎巴嫩",
+        "冲突"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
+      "link": "https://api3.cls.cn/share/article/2362133?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 11:01:44",
+      "raw_content": "【商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问】财联社5月2日电，问：2026年5月2日，商务部发布禁令，阻断美国以参与涉伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等5家企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易制裁措施，请问有何考虑？\n\n答：2025年以来，美国根据其制裁其他国家的行政令，以参与伊朗石油交易为由，将恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等中国企业列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易等制裁措施，不当禁止或限制中国企业与第三国（地区）及其公民、法人或其他组织开展正常的经贸及相关活动，违反国际法和国际关系基本准则。\n\n为维护国家主权、安全、发展利益，保护中国公民、法人或其他组织的合法权益，根据《阻断外国法律与措施不当域外适用办法》和有关工作机制评估结果，商务部发布禁令，规定不得承认、不得执行、不得遵守",
+      "ai_summary": "商务部发布禁令，阻断美国对5家中国企业涉伊朗石油交易的制裁，维护国家主权和企业合法权益。",
+      "ai_tags": [
+        "商务部",
+        "美国制裁",
+        "伊朗石油",
+        "中国企业"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "cls",
+      "title": "商务部公告2026年第21号 公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令",
+      "link": "https://api3.cls.cn/share/article/2362132?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 11:00:55",
+      "raw_content": "【商务部公告2026年第21号 公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令】财联社5月2日电， 根据《中华人民共和国国家安全法》《中华人民共和国对外关系法》《中华人民共和国反外国制裁法》及其实施规定、《阻断外国法律与措施不当域外适用办法》（以下称《阻断办法》）等相关规定，《阻断办法》工作机制针对美国以参与伊朗石油交易为由对恒力石化（大连）炼化有限公司等企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易等制裁措施，依法开展综合评估，确认美国对上述企业的制裁措施存在不当域外适用情形。\n\n为维护国家主权、安全、发展利益，保护中国公民、法人或其他组织的合法权益，商务部根据《阻断办法》第二条、第四条、第六条、第七条和工作机制的决定，发布禁令如下：\n        \n不得承认、不得执行、不得遵守美国依据第13902号行政令、第13846号行政令等规定，以参与伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司和山东胜星化工有限公司采取的列入“特别指定国民清单”、实施冻结资产和禁止交易等制",
+      "ai_summary": "商务部根据《阻断办法》发布禁令，不得承认、执行或遵守美国因涉伊朗石油交易对5家中国企业实施的制裁措施。",
+      "ai_tags": [
+        "商务部",
+        "美国制裁",
+        "伊朗石油",
+        "阻断禁令"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "马斯克1583亿美元薪酬实际为0",
+      "link": "https://36kr.com/newsflashes/3791998099905793?f=rss",
+      "published_time": "2026-05-02 10:19:56",
+      "raw_content": "特斯拉4月30日在监管备案文件中披露了马斯克2025年的薪酬总额为1583.6亿美元，为公司普通员工中位数的250万倍。尽管这一数字十分惊人，但公司同时也披露了多项重要附加说明。特斯拉在文件中表示，公司每年公示的马斯克薪酬总额，与其实际到手价值之间可能存在“巨大偏差”。 由于特斯拉去年未达成任何市值及经营考核目标，因此去年马斯克实际到手薪酬为零。 （央视财经）",
+      "ai_summary": "特斯拉披露马斯克2025年薪酬1583亿美元，但因未达考核实际到手为零。",
+      "ai_tags": [
+        "特斯拉",
+        "马斯克",
+        "薪酬"
       ],
       "ai_importance": 5
     },
@@ -52,27 +155,26 @@
       "link": "https://wallstreetcn.com/articles/3771487",
       "published_time": "2026-05-02 10:18:55",
       "raw_content": "<p>全球原油供应缓冲正在迅速耗尽。随着霍尔木兹海峡持续封锁，国际石油巨头发出严厉警告：商业库存、战略储备与船载原油正被加速消耗，而市场尚未感受到这场能源危机的全部冲击。</p>\n<p>埃克森美孚、雪佛龙与康菲石油本周相继表示，霍尔木兹海峡每封锁一天，全球就在消耗更多的储备资源。雪佛龙首席财务官Eimear Bonner周五在接受彭博电视采访时明确表示，\"缓冲空间已所剩无几\"，并警告称，\"如果审视这场史无前例的供应中断对全球石油和天然气供给的影响，市场还远未感受到其全部冲击。\"</p>\n<p>对美国消费者而言，这场危机目前已体现为每加仑汽油价格平均上涨约1.40美元。但随着储备加速见底，分析人士担忧更大范围的价格压力正在积聚，通胀冲击波或将进一步向下游传导。</p>\n<h2>储备告急：三大石油巨头同步发出警报</h2>\n<p>霍尔木兹海峡封锁所引发的供应中断，已迫使全球市场同步动用三类储备资源——商业库存、各国战略石油储备，以及此前存放于油轮上的浮动库存。</p>\n<p>埃克森美孚、雪佛龙与康菲石油本周的表态高度一致，均指出上述三类缓冲资源正在快速消耗。Eimear Bonner的措辞",
-      "ai_summary": "全球原油库存告急，埃克森美孚、雪佛龙和康菲石油警告霍尔木兹海峡封锁导致库存加速消耗，市场尚未感受到全部冲击。",
+      "ai_summary": "埃克森美孚、雪佛龙和康菲石油警告全球原油库存正快速耗尽，霍尔木兹海峡封锁导致供应中断，市场尚未感受全部冲击。",
       "ai_tags": [
-        "原油库存",
-        "霍尔木兹海峡",
+        "原油",
         "能源危机",
-        "石油巨头"
+        "库存"
       ],
       "ai_importance": 5
     },
     {
-      "category": "zaobao_china",
-      "title": "美国脑植入公司在华对四人开展测试",
-      "link": "https://www.zaobao.com/news/china/story20260502-8987866",
-      "published_time": "2026-05-02 09:06:00",
-      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>在中美竞相发展先进神经技术之际，美国神经技术初创公司Axoft已在上海对四名中国患者进行脑植入设备测试，显示两国在这一领域仍存在有限合作空间。</p><p>据彭博社报道，Axoft本周披露，已完成5500万美元（7000万新元）融资，公司设备已在包括上海四名患者在内的11名患者身上进行临时测试。公司首席执行官弗洛克（Paul Le Floch）指出，Axoft计划今年在中国扩大测试规模，并在当地开展多项临床试验。</p><p>这是首次有美国脑植入公司披露在中国进行相关测试。在神经技术日益被视为中美科技竞争新前沿的背景下，这一进展具有重要意义。中国政府已将这项技术列为战略重点，并计划到2030年培育多家全球领先企业。</p><p>脑机接口被视为具有突破性的医疗应用前景，例如可帮助瘫痪患者操控计算机及其他电子设备。同时，这项技术也可能用于监测生产",
-      "ai_summary": "美国脑植入公司Axoft在上海对四名中国患者进行测试，显示中美在神经技术领域仍有合作。",
+      "category": "bbc_news",
+      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
+      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 09:08:43",
+      "raw_content": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
+      "ai_summary": "前F1车手及残奥冠军亚历克斯·扎纳迪去世，享年59岁。",
       "ai_tags": [
-        "脑植入",
-        "中国",
-        "美国",
-        "合作"
+        "亚历克斯·扎纳迪",
+        "F1",
+        "残奥",
+        "去世"
       ],
       "ai_importance": 5
     },
@@ -82,12 +184,28 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVlCRVpHZXFmN1F5cnRodnQzYTJwOS1KVVRnb0lldmpUT3ZWYU5aeWZCZEdzTnZ2b0VSSGd0ejlDYTh0UEZkS21XOEpSU2lHRUNKOGZ2LVdtNDJDci1zclEwcUJWNVdTTEFiUHYxck11d2Uyc2hOOUo1dmpiaGFJU25qNGlFVjBEcmlTU0tfbGZ6WGtFM3o1Zm5VVExLZDJXQjg2VE9Ob3lXRlZKNmJPS0hBZm1LWTR1eDFnMHRzN25QeXBzVGFTNDBmYw?oc=5",
       "published_time": "2026-05-02 08:41:43",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVlCRVpHZXFmN1F5cnRodnQzYTJwOS1KVVRnb0lldmpUT3ZWYU5aeWZCZEdzTnZ2b0VSSGd0ejlDYTh0UEZkS21XOEpSU2lHRUNKOGZ2LVdtNDJDci1zclEwcUJWNVdTTEFiUHYxck11d2Uyc2hOOUo1dmpiaGFJU25qNGlFVjBEcmlTU0tfbGZ6WGtFM3o1Zm5VVExLZDJXQjg2VE9Ob3lXRlZKNmJPS0hBZm1LWTR1eDFnMHRzN25QeXBzVGFTNDBmYw?oc=5\" target=\"_blank\">US, Philippines deploy anti-ship missile system in Batanes near Taiwan for war games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "ai_summary": "美菲在靠近台湾的巴坦群岛部署反舰导弹系统进行军演。",
+      "ai_summary": "美国和菲律宾在靠近台湾的巴丹群岛部署反舰导弹系统进行军演。",
       "ai_tags": [
-        "美国",
-        "菲律宾",
-        "台湾",
-        "军演"
+        "US",
+        "Philippines",
+        "Taiwan",
+        "military exercise",
+        "missile"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "chinanews",
+      "title": "经济、生态效益双赢 我国首个算电协同绿电直供项目投运",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-02/10614789.shtml",
+      "published_time": "2026-05-02 06:51:36",
+      "raw_content": "记者今天(2日)从中国大唐获悉，我国首个大规模“算电协同”绿电直供项目——中国大唐中卫云基地50万千瓦光伏电站正式投运。标志着我国“东数西算”工程实现了从沙漠风光电到数字算力的直连直通。",
+      "ai_summary": "我国首个算电协同绿电直供项目投运，实现沙漠风光电直连算力。",
+      "ai_tags": [
+        "算电协同",
+        "绿电直供",
+        "东数西算",
+        "新能源"
       ],
       "ai_importance": 5
     },
@@ -97,200 +215,80 @@
       "link": "https://wallstreetcn.com/articles/3771482",
       "published_time": "2026-05-02 06:31:15",
       "raw_content": "<p style=\"text-align: left;\">美联储的政策讨论重心正在发生根本性转变。</p>\n<p style=\"text-align: left;\">据素有“新美联储通讯社”之称的记者Nick Timiraos报道，在持续数月争论降息时机后，<strong>美联储官员已开始探讨何种条件下需要加息。三位地区联储主席的异议票，将这一内部转变公开化。</strong></p>\n<p>周五，三位联储行长发表声明，解释其为何在周三会议上反对保留暗示下一步行动为降息的政策措辞。达拉斯联储主席洛里·洛根表示，视经济走势而定，“下一次利率变动无论是加息还是降息，都有其合理性”。明尼阿波利斯联储主席尼尔·卡什卡利则进一步勾勒出需要“连续加息”的具体情景。</p>\n<p>即将卸任的主席鲍威尔承认，委员会内部正朝更中性的立场靠拢。他明确阐述了政策信号的演进路径：<strong>先从宽松偏向转向中性，再从中性转向加息偏向。</strong>这场辩论的最终走向，将由候任主席凯文·沃什接手处理。</p>\n<p>对市场而言，这一转向具有直接影响。美联储的信号正从倾向宽松转向中性，并可能进一步转向收紧",
-      "ai_summary": "新美联储通讯社报道，美联储内部讨论重心从降息转向加息条件，三位地区联储主席公开支持加息选项。",
+      "ai_summary": "美联储内部讨论重心从降息转向加息条件，三位地区联储主席公开异议，政策信号可能进一步转向收紧。",
       "ai_tags": [
         "美联储",
         "加息",
-        "货币政策",
-        "转向"
+        "货币政策"
       ],
       "ai_importance": 5
     },
     {
-      "category": "chinanews",
-      "title": "美国一小型飞机坠毁 机上5人全部遇难",
-      "link": "https://www.chinanews.com.cn/gj/2026/05-02/10614694.shtml",
-      "published_time": "2026-05-02 02:55:15",
-      "raw_content": "中新网5月2日电 据美联社当地时间1日报道，一架小型飞机在得克萨斯州首府奥斯汀附近的海斯县坠毁，机上5人全部遇难。",
-      "ai_summary": "美国得克萨斯州一架小型飞机坠毁，机上5人全部遇难。",
+      "category": "bbc_news",
+      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 05:02:14",
+      "raw_content": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "ai_summary": "加沙流离失所者营地鼠患和鼬灾肆虐，疾病传播风险加剧。",
       "ai_tags": [
-        "事故",
-        "美国",
-        "飞机坠毁"
+        "Gaza",
+        "health",
+        "refugees"
       ],
       "ai_importance": 5
     },
     {
-      "category": "the_decoder",
-      "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
-      "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
-      "published_time": "2026-05-01 16:30:38",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.</p>\n<p",
-      "ai_summary": "八家科技公司签署五角大楼协议，为美国军方机密网络提供AI，打造“AI优先战斗部队”，Anthropic拒绝参与。",
+      "category": "bbc_news",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:41:43",
+      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "ai_summary": "特朗普称停火协议意味着对伊朗动武无需国会授权，引发争议。",
       "ai_tags": [
-        "军事AI",
-        "五角大楼",
-        "科技巨头"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "the_decoder",
-      "title": "Big tech's AI spending balloons to $725 billion this year",
-      "link": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
-      "published_time": "2026-05-01 14:41:45",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/big_tech_cloud.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.</p>\n<p>The article <a href=\"https://the-decoder.com/big-tech",
-      "ai_summary": "谷歌、亚马逊、微软和Meta明年AI总预算约7250亿美元，用于数据中心、芯片和基础设施。",
-      "ai_tags": [
-        "AI投资",
-        "科技巨头",
-        "基础设施"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Grok 4.3",
-      "link": "https://docs.x.ai/developers/models/grok-4.3",
-      "published_time": "2026-05-01 08:29:31",
-      "raw_content": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 388</p>\n<p># Comments: 519</p>",
-      "ai_summary": "xAI发布Grok 4.3模型，性能提升，引发社区热议。",
-      "ai_tags": [
-        "AI",
-        "Grok",
-        "xAI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-      "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
-      "published_time": "2026-05-01 06:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/de/c1/de903853bcaa7b845518699351e03fc1.png\" /></p><p></p><p></p><blockquote>编者按：过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。但模型问题缓解之后，更深层的约束随之浮现：代码库中的业务隐知识、历史决策与架构习惯，并不会因为模型升级而自动变得可理解。本文借“AI 上下文负债”这一概念提醒我们，AI 编程的真正难点，正在从模型供给侧转向组织治理侧——从选工具，转向补文档、立规范、清理历史欠账。对企业而言，接下来的竞争不只是接入 AI 的速度，更是谁更早完成知识治理、工程规范和渐进重构。</blockquote><p></p><p></p><p>去年秋天，一个朋友所在的上市公司开始推动 AI 辅助编程。安全部门花三个月审了五款工具，结论是不能用——数",
-      "ai_summary": "国产模型追上闭源旗舰后，企业AI编程的主要障碍转向组织治理，如文档缺失、规范不足等“AI上下文负债”问题。",
-      "ai_tags": [
-        "AI编程",
-        "企业",
-        "模型",
-        "知识治理"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "xueqiu",
-      "title": "capex史诗级狂飙！算力就是20年前的房地产，这轮明牌造富比你想象的更凶猛",
-      "link": "http://xueqiu.com/1545503181/386719782",
-      "published_time": "2026-04-30 09:20:38",
-      "raw_content": "",
-      "ai_summary": "认为算力投资类似过去房地产，资本开支狂飙带来造富机会。",
-      "ai_tags": [
-        "算力",
-        "资本开支",
-        "投资"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
-      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
-      "published_time": "2026-04-30 06:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
-      "ai_summary": "Claude Code发现Linux内核中隐藏23年的NFS堆缓冲区溢出漏洞，可远程利用，目前已修复。",
-      "ai_tags": [
-        "Claude Code",
-        "Linux",
-        "漏洞",
-        "安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
-      "link": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0",
-      "published_time": "2026-04-29 10:59:11",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/53/a5/53b0c328a07b5396d3262f013a338ca5.jpg\" /></p><p>Anthropic近期发布了具备自动漏洞扫描能力的AI模型以及Claude托管代理（Managed Agents），人工智能正从“对话框里的助手”演变为“具备执行力的代理”。</p><p>&nbsp;</p><p>这一跨越式进展在极大提升生产力的同时，也引发了全球网络安全专家与架构师的深思：当AI能够自主寻找漏洞并跨环境执行任务时，现有的云架构与防御体系是否已经过时？</p><p>&nbsp;</p><p>业内一些观点认为，AI Agent的兴起正在强行驱动云计算从“中心化”向“分布式推理”转型，而安全防御也必须从“补丁模式”转向“实时拦截模式”。</p><p>&nbsp;</p><p>Akamai CEO兼联合创始人Tom Leighton博士表示：“AI安全威胁使得安全防御比以往任何时候都更加必要。”</p><p>&nbsp;</p><p>Tom Leighton博士于",
-      "ai_summary": "Akamai CEO认为AI Agent时代来临，云基础设施将从中心化转向分布式边缘，安全防御需实时拦截。",
-      "ai_tags": [
-        "AI Agent",
-        "云计算",
-        "边缘计算",
-        "安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "github",
-      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-      "published_time": "2026-04-28 15:30:00",
-      "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub在两小时内响应并修复一个关键远程代码执行漏洞，确认未被利用。",
-      "ai_tags": [
-        "GitHub",
-        "安全",
-        "漏洞"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "openai",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "link": "https://openai.com/index/openai-on-aws",
-      "published_time": "2026-04-28 00:00:00",
-      "raw_content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "ai_summary": "OpenAI的GPT模型、Codex和托管代理现已登陆AWS，企业可在AWS环境中构建安全的AI应用。",
-      "ai_tags": [
-        "AWS",
-        "企业AI",
-        "GPT",
-        "Codex"
+        "US",
+        "Iran",
+        "war powers"
       ],
       "ai_importance": 5
     },
     {
       "category": "mit_technology_ai",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "published_time": "2026-04-27 22:52:57",
-      "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "经过多年法律纠纷，马斯克和Altman即将庭审，可能影响OpenAI的IPO和营利性质。",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "published_time": "2026-05-01 22:08:19",
+      "raw_content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+      "ai_summary": "马斯克与奥特曼庭审首周：马斯克称被欺骗，警告AI可能毁灭人类，并承认xAI蒸馏OpenAI模型。",
       "ai_tags": [
-        "AI",
-        "法庭",
+        "马斯克",
         "OpenAI",
-        "马斯克"
+        "庭审",
+        "AI安全"
       ],
       "ai_importance": 5
     },
     {
-      "category": "ft_chinese",
-      "title": "壳牌164亿美元收购加拿大页岩油气生产商",
-      "link": "https://www.ftchinese.com/story/001109575",
-      "published_time": "2026-04-27 16:00:00",
-      "raw_content": "收购ARC将使壳牌的石油和天然气日产量增加约37万桶，在投资者质疑这家石油巨头的前景之际帮助提振其产量增长率。",
-      "ai_summary": "壳牌以164亿美元收购加拿大页岩油气生产商ARC，将日增产约37万桶油气。",
+      "category": "hacker_news",
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "published_time": "2026-05-01 20:06:59",
+      "raw_content": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 488</p>\n<p># Comments: 406</p>",
+      "ai_summary": "德州仪器发布Ti-84 Evo新款图形计算器，引发教育科技讨论。",
       "ai_tags": [
-        "壳牌",
-        "收购",
-        "页岩油"
+        "教育",
+        "硬件"
       ],
       "ai_importance": 5
     },
     {
-      "category": "openai",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "published_time": "2026-04-27 14:00:00",
-      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "ai_summary": "OpenAI获得FedRAMP Moderate授权，为美国联邦机构提供安全的ChatGPT Enterprise和API服务。",
+      "category": "hacker_news",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "published_time": "2026-05-01 18:37:47",
+      "raw_content": "<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 418</p>\n<p># Comments: 114</p>",
+      "ai_summary": "Flock公司未经授权访问儿童体操室摄像头作为销售演示，市议会仍续约引发争议。",
       "ai_tags": [
-        "FedRAMP",
-        "政府",
-        "安全",
-        "ChatGPT"
+        "隐私",
+        "监控"
       ],
       "ai_importance": 5
     }

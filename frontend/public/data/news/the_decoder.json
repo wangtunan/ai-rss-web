@@ -5,16 +5,31 @@
   "items": [
     {
       "category": "the_decoder",
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+      "link": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
+      "published_time": "2026-05-02 07:35:24",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.</p>\n<p>The article <a href=\"https://the-decod",
+      "ai_summary": "xAI发布Grok 4.3，大幅降价并推出Imagine Agent模式，性能仍落后于OpenAI和Anthropic。",
+      "ai_tags": [
+        "xAI",
+        "Grok4.3",
+        "降价",
+        "AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
       "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
       "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
       "published_time": "2026-05-02 10:32:09",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1440\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"2560\" /></p>\n<p>        AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.</p>\n<p>The article <a href=\"https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-t",
-      "ai_summary": "英伟达CEO黄仁勋批评科技领袖对AI导致失业的预测是“上帝情结”，认为恐吓会实际损害就业。",
+      "ai_summary": "Nvidia CEO黄仁勋批评科技领袖对AI导致失业的轻率预测，认为这种恐吓反而损害就业。",
       "ai_tags": [
-        "英伟达",
+        "Nvidia",
         "黄仁勋",
-        "AI失业",
-        "技术领袖"
+        "AI",
+        "失业"
       ],
       "ai_importance": 4
     },
@@ -24,11 +39,12 @@
       "link": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
       "published_time": "2026-05-02 08:02:06",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/meta_humanoid_robot.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.</p>\n<p>The article <a href=\"https://the-decoder.com/meta-acqui",
-      "ai_summary": "Meta收购机器人AI初创公司Assured Robot Intelligence，加速人形机器人开发，旨在打造类似Android的行业开放平台。",
+      "ai_summary": "Meta收购机器人AI初创公司Assured Robot Intelligence，加速人形机器人开发，目标打造开放平台。",
       "ai_tags": [
         "Meta",
+        "收购",
         "人形机器人",
-        "收购"
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -38,12 +54,12 @@
       "link": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
       "published_time": "2026-05-02 09:27:21",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/sam_altman_vs_elon_musk.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.</p>\n<p>The artic",
-      "ai_summary": "马斯克在法庭上称自己是傻瓜，曾给OpenAI 3800万美元，如今OpenAI估值8000亿。他承认xAI使用OpenAI模型训练。",
+      "ai_summary": "马斯克在法庭上自嘲为“傻瓜”，称给OpenAI的3800万美元如今价值8000亿美元，并警告AI的“终结者”未来。",
       "ai_tags": [
         "马斯克",
         "OpenAI",
         "诉讼",
-        "AI竞争"
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -53,12 +69,12 @@
       "link": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
       "published_time": "2026-05-02 08:30:15",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.</p>\n<p>The article <a href=\"https://t",
-      "ai_summary": "OpenAI默认对免费ChatGPT用户启用广告追踪cookies，付费用户不受影响，可在设置中关闭。",
+      "ai_summary": "ChatGPT默认追踪免费用户以投放广告，OpenAI寻求新收入来源，付费用户不受影响。",
       "ai_tags": [
-        "OpenAI",
         "ChatGPT",
-        "广告追踪",
-        "隐私"
+        "广告",
+        "追踪",
+        "OpenAI"
       ],
       "ai_importance": 4
     },
@@ -68,56 +84,13 @@
       "link": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
       "published_time": "2026-05-02 12:14:46",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/xai_gro_clone_voice.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.</p>\n<p>The article <a href=\"https://the-decoder.com/xais-new-custom-voices-feature-turns-a-m",
-      "ai_summary": "xAI推出新自定义语音功能，开发者可克隆自己声音用于AI应用。",
+      "ai_summary": "xAI推出Custom Voices功能，开发者可用一分钟语音克隆声音。",
       "ai_tags": [
         "xAI",
         "语音克隆",
-        "AI",
-        "自定义语音"
+        "CustomVoices"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "the_decoder",
-      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-      "link": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-      "published_time": "2026-05-02 07:35:24",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.</p>\n<p>The article <a href=\"https://the-decod",
-      "ai_summary": "xAI发布Grok 4.3，大幅降价并新增创意项目代理模式，但模型能力仍落后于OpenAI和Anthropic。",
-      "ai_tags": [
-        "xAI",
-        "Grok",
-        "AI模型"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "the_decoder",
-      "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
-      "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
-      "published_time": "2026-05-01 16:30:38",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.</p>\n<p",
-      "ai_summary": "八家科技公司签署五角大楼协议，为美国军方机密网络提供AI，打造“AI优先战斗部队”，Anthropic拒绝参与。",
-      "ai_tags": [
-        "军事AI",
-        "五角大楼",
-        "科技巨头"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "the_decoder",
-      "title": "Big tech's AI spending balloons to $725 billion this year",
-      "link": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
-      "published_time": "2026-05-01 14:41:45",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/big_tech_cloud.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.</p>\n<p>The article <a href=\"https://the-decoder.com/big-tech",
-      "ai_summary": "谷歌、亚马逊、微软和Meta明年AI总预算约7250亿美元，用于数据中心、芯片和基础设施。",
-      "ai_tags": [
-        "AI投资",
-        "科技巨头",
-        "基础设施"
-      ],
-      "ai_importance": 5
     },
     {
       "category": "the_decoder",
@@ -125,11 +98,40 @@
       "link": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
       "published_time": "2026-05-01 16:06:04",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/china_dragon_ai.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering d",
-      "ai_summary": "受北京监管信号影响，中国AI初创公司如Moonshot AI等考虑放弃离岸结构，直接在中国注册以谋求上市。",
+      "ai_summary": "中国AI初创公司如Moonshot AI和StepFun计划放弃离岸结构，直接在中国注册，以响应北京监管信号。",
       "ai_tags": [
         "中国AI",
         "监管",
-        "上市"
+        "离岸结构"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+      "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
+      "published_time": "2026-05-01 16:30:38",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.</p>\n<p",
+      "ai_summary": "八家科技公司签署五角大楼协议，为美国机密网络构建“AI优先”作战力量，Anthropic因拒绝使用条款被列为安全风险而缺席。",
+      "ai_tags": [
+        "AI",
+        "军事",
+        "五角大楼",
+        "科技公司"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "the_decoder",
+      "title": "Big tech's AI spending balloons to $725 billion this year",
+      "link": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+      "published_time": "2026-05-01 14:41:45",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/big_tech_cloud.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.</p>\n<p>The article <a href=\"https://the-decoder.com/big-tech",
+      "ai_summary": "谷歌、亚马逊、微软、Meta等科技巨头明年AI相关支出预算合计约7250亿美元，用于数据中心、芯片和基础设施。",
+      "ai_tags": [
+        "AI投资",
+        "数据中心",
+        "芯片"
       ],
       "ai_importance": 4
     },
@@ -139,10 +141,10 @@
       "link": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
       "published_time": "2026-05-01 13:47:57",
       "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/openai_goblins.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side eff",
-      "ai_summary": "ChatGPT模型因训练奖励信号错误而频繁输出地精等神话生物，暴露AI训练中微小激励偏差的潜在风险。",
+      "ai_summary": "ChatGPT模型因训练中错误的奖励信号而频繁生成地精等神话生物，OpenAI称这凸显了训练激励不当的副作用。",
       "ai_tags": [
-        "ChatGPT",
         "AI训练",
+        "ChatGPT",
         "奖励信号"
       ],
       "ai_importance": 3

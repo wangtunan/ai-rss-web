@@ -9,11 +9,11 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWUtYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5",
       "published_time": "2026-04-30 19:04:13",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWUtYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5\" target=\"_blank\">How people ask Claude for personal guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic发布关于人们如何向Claude寻求个人指导的研究报告。",
+      "ai_summary": "Anthropic研究了用户如何向Claude寻求个人指导，揭示了AI在个人咨询方面的应用模式。",
       "ai_tags": [
         "Anthropic",
-        "Claude",
-        "个人指导"
+        "AI指导",
+        "用户行为"
       ],
       "ai_importance": 3
     },
@@ -23,13 +23,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPb0M5dVZ5VVd6dUlWaHJoZ1NIMU9YalI2Y3VMUml0dE16UjVfT2NYbTdPd3ZUTGtiZ29OTElWa1FBYjRzR3NpYUV0ZzNyRHcxMjZEY1B3dlRBazJSMlhJZlNIME9oUGR3X2FVMUlRVUpUR0RPRlVYZ1k0S05LbzlZM0Zmb3VvYUwtV0s0dnVab2ZkYXhWTFhxQmV3RzFreHZtODNYS0NpenRyQ25tLTNxUndwM251NUc0TWZLcFBDeGVwM0pSa3dlRDZmSGRveWxKZWtkR05YX3RNQ0FodzJFN3VnbVpWaE5GcE4zZ1MyT3FQTjNfV2lJSUsyUFY2RkhBQm5JQjNiSkNrVEl0WFJ2WTlUeWppOTlTQWUyWTZzMUF0bTg?oc=5",
       "published_time": "2026-04-29 07:00:00",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPb0M5dVZ5VVd6dUlWaHJoZ1NIMU9YalI2Y3VMUml0dE16UjVfT2NYbTdPd3ZUTGtiZ29OTElWa1FBYjRzR3NpYUV0ZzNyRHcxMjZEY1B3dlRBazJSMlhJZlNIME9oUGR3X2FVMUlRVUpUR0RPRlVYZ1k0S05LbzlZM0Zmb3VvYUwtV0s0dnVab2ZkYXhWTFhxQmV3RzFreHZtODNYS0NpenRyQ25tLTNxUndwM251NUc0TWZLcFBDeGVwM0pSa3dlRDZmSGRveWxKZWtkR05YX3RNQ0FodzJFN3VnbVpWaE5GcE4zZ1MyT3FQTjNfV2lJSUsyUFY2RkhBQm5JQjNiSkNrVEl0WFJ2WTlUeWppOTlTQWUyWTZzMUF0bTg?oc=5\" target=\"_blank\">Responsible Scaling Policy Updates</",
-      "ai_summary": "Anthropic发布责任扩展政策更新。",
+      "ai_summary": "Anthropic更新了其负责任扩展政策，以更好地管理AI风险。",
       "ai_tags": [
         "Anthropic",
         "AI安全",
-        "政策"
+        "政策更新"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "anthropic",
@@ -37,12 +37,11 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2hCMF9SM3hrcWxKQzJDdzRBeTlZbTNMYmlkUzlWMWI2VldYbmwwSUlOM3E3bXZ4b1NVQzdSVmxsU3RKT0tBVVAwUEpDNFcxOHQ5aGZFVXIydUVQMWpURnlnVHZpM0JTWUJMVUwyQjFiakVJRWFSYXhHbEpYZTdLYXM4ZklCMjRUTEVsaHgyY1Zvcmtjckcw?oc=5",
       "published_time": "2026-04-29 21:39:17",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2hCMF9SM3hrcWxKQzJDdzRBeTlZbTNMYmlkUzlWMWI2VldYbmwwSUlOM3E3bXZ4b1NVQzdSVmxsU3RKT0tBVVAwUEpDNFcxOHQ5aGZFVXIydUVQMWpURnlnVHZpM0JTWUJMVUwyQjFiakVJRWFSYXhHbEpYZTdLYXM4ZklCMjRUTEVsaHgyY1Zvcmtjckcw?oc=5\" target=\"_blank\">Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic用BioMysteryBench评估Claude的生物信息学研究能力。",
+      "ai_summary": "Anthropic推出了BioMysteryBench基准测试，用于评估Claude在生物信息学研究方面的能力。",
       "ai_tags": [
         "Anthropic",
-        "Claude",
         "生物信息学",
-        "AI评估"
+        "基准测试"
       ],
       "ai_importance": 4
     },
@@ -52,12 +51,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16X0szbnNHdXJXRk1rdUJWMWhwb3EtMEw2YzVrNDluOFFIZWJLYkwzQ0I5bUhxZzFqWGU0NWV5QUlfY2FET25NNzZjb2xXVF9CYUxSUWt5VGc5REV2Ri1nLXJSalZuZllkTnR6YQ?oc=5",
       "published_time": "2026-04-28 20:51:14",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE16X0szbnNHdXJXRk1rdUJWMWhwb3EtMEw2YzVrNDluOFFIZWJLYkwzQ0I5bUhxZzFqWGU0NWV5QUlfY2FET25NNzZjb2xXVF9CYUxSUWt5VGc5REV2Ri1nLXJSalZuZllkTnR6YQ?oc=5\" target=\"_blank\">Introspection Adapters: Training LLMs to Report Their Learned Behaviors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic Alignment Science Blog</font>",
-      "ai_summary": "Anthropic提出内省适配器训练LLM报告其学到的行为，提升可解释性。",
+      "ai_summary": "Anthropic Alignment Science Blog介绍了内省适配器技术，训练LLM报告其学习到的行为，增强模型可解释性。",
       "ai_tags": [
         "Anthropic",
-        "LLM",
-        "内省适配器",
-        "AI安全"
+        "AI对齐",
+        "可解释性",
+        "内省适配器"
       ],
       "ai_importance": 4
     },
@@ -67,7 +66,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzM2N2NsMm1aZWJSekNNSTBreWJCeW41aklZQUFraWNiZGgwWEZucW5TclNpNjFFenJyTlpya3NmUGdZQ3R2UEo0OGd0Z0lpbk1tdm1RTWJHUVdNN2RQaTJwenEwRlNsRUs1UFhBZ1ZBUVVfZ204RkxSY0wxaHhWd0RrbDY?oc=5",
       "published_time": "2026-04-28 18:45:15",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzM2N2NsMm1aZWJSekNNSTBreWJCeW41aklZQUFraWNiZGgwWEZucW5TclNpNjFFenJyTlpya3NmUGdZQ3R2UEo0OGd0Z0lpbk1tdm1RTWJHUVdNN2RQaTJwenEwRlNsRUs1UFhBZ1ZBUVVfZ204RkxSY0wxaHhWd0RrbDY?oc=5\" target=\"_blank\">The Briefing: Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic发布金融服务领域简报，介绍AI在金融中的应用。",
+      "ai_summary": "Anthropic发布金融服务简报，探讨AI在该领域的应用。",
       "ai_tags": [
         "Anthropic",
         "金融服务",
@@ -81,11 +80,11 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUlZoVHFnVnNVdnZGeFBkUWJidEU0TnJ0aGdBTGNucDR2a1FLalhDT3d6emV4b1dQcGItWTc3eHZIVEt4MkN5NFVwblVmNmpURXEwX3pRZS1rdXpNX0gtbktQYVpSZw?oc=5",
       "published_time": "2026-04-28 15:14:22",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUlZoVHFnVnNVdnZGeFBkUWJidEU0TnJ0aGdBTGNucDR2a1FLalhDT3d6emV4b1dQcGItWTc3eHZIVEt4MkN5NFVwblVmNmpURXEwX3pRZS1rdXpNX0gtbktQYVpSZw?oc=5\" target=\"_blank\">Claude for Creative Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic推出Claude创意工作功能，支持创意写作等任务。",
+      "ai_summary": "Anthropic推出了针对创意工作的Claude工具，支持创意流程。",
       "ai_tags": [
         "Anthropic",
-        "Claude",
-        "创意工作"
+        "创意工具",
+        "Claude"
       ],
       "ai_importance": 3
     },
@@ -95,28 +94,27 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUJtRnRJM2RodXF0TndGOVhidDROVUU3YjVDVFJmLW94dEVXMTJqTzJhUk16WlZvNkU0cG53ZFhIaXdRZ3FWY1dVLVpMbjludGpCYWUwQ3ZpdS1pZ085aDJkS0V3X0RiYkEwdlIxZDZ5Q2FPNldhbXlScXo1azNmZ1ZObFRaYW55RFg3bA?oc=5",
       "published_time": "2026-04-27 22:49:15",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUJtRnRJM2RodXF0TndGOVhidDROVUU3YjVDVFJmLW94dEVXMTJqTzJhUk16WlZvNkU0cG53ZFhIaXdRZ3FWY1dVLVpMbjludGpCYWUwQ3ZpdS1pZ085aDJkS0V3X0RiYkEwdlIxZDZ5Q2FPNldhbXlScXo1azNmZ1ZObFRaYW55RFg3bA?oc=5\" target=\"_blank\">Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic任命Theo Hourmouzis为澳新地区总经理，并正式开设悉尼办公室。",
+      "ai_summary": "Anthropic任命Theo Hourmouzis为澳大利亚和新西兰总经理，并在悉尼开设办公室，拓展亚太业务。",
       "ai_tags": [
         "Anthropic",
-        "拓展",
-        "澳新地区"
+        "区域扩张",
+        "人事任命"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "anthropic",
-      "title": "Claude for Financial Services: Putting agents to work - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUY5NFJRdXdaQUhRc3h5UVczV3dwNkpkWDJIX0tIWDU0TDVGMEdIdVpWX0w1UER0RC1qQjRiam1SXzBadmlFYVlYWVQ5b2NKRExvVy0yZGRoMlVWVmhtQjk0bEtkY3lXQnlNcHVPQWNaWW1aYjlzWHEwdEdwWmJvT29GeTVTRzNDZF93NnlzUnU?oc=5",
-      "published_time": "2026-04-24 21:48:18",
-      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUY5NFJRdXdaQUhRc3h5UVczV3dwNkpkWDJIX0tIWDU0TDVGMEdIdVpWX0w1UER0RC1qQjRiam1SXzBadmlFYVlYWVQ5b2NKRExvVy0yZGRoMlVWVmhtQjk0bEtkY3lXQnlNcHVPQWNaWW1aYjlzWHEwdEdwWmJvT29GeTVTRzNDZF93NnlzUnU?oc=5\" target=\"_blank\">Claude for Financial Services: Putting agents to work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic介绍Claude在金融服务领域的代理应用，强调AI代理的实际部署。",
+      "title": "An update on our election safeguards - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSnc4T3NCemRxOEFvZ0wydmd2aGNNNm5qc01SdVpDb3dPQVpSblpCMGc1eXN3UWFjN1hfRXl0VHItYU8wZmJ1c1ZnSmc4T1I0TTdqWTI1WXdHZ2gzMXdsVnVxd3p3LUs0?oc=5",
+      "published_time": "2026-04-24 07:00:00",
+      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSnc4T3NCemRxOEFvZ0wydmd2aGNNNm5qc01SdVpDb3dPQVpSblpCMGc1eXN3UWFjN1hfRXl0VHItYU8wZmJ1c1ZnSmc4T1I0TTdqWTI1WXdHZ2gzMXdsVnVxd3p3LUs0?oc=5\" target=\"_blank\">An update on our election safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+      "ai_summary": "Anthropic更新了其选举安全保障措施，以应对AI在选举中的潜在滥用。",
       "ai_tags": [
         "Anthropic",
-        "Claude",
-        "金融服务",
-        "AI代理"
+        "选举安全",
+        "AI治理"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "anthropic",
@@ -124,24 +122,25 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QU25hTGJxU1F1ZnY3aHVtRGlQSVBwV0RXVkdoQTVWM3NNTGl5aHZlYzdwd2pHMjMzYUNaSkxrVHZBaHYzTUdEZWZmS21sNVZyZnc1YzdYUQ?oc=5",
       "published_time": "2026-04-24 04:13:35",
       "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QU25hTGJxU1F1ZnY3aHVtRGlQSVBwV0RXVkdoQTVWM3NNTGl5aHZlYzdwd2pHMjMzYUNaSkxrVHZBaHYzTUdEZWZmS21sNVZyZnc1YzdYUQ?oc=5\" target=\"_blank\">Anthropic and NEC partner to build AI-native engineering at scale in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic与NEC合作在日本大规模建设AI原生工程。",
+      "ai_summary": "Anthropic与NEC合作在日本大规模构建AI原生工程。",
       "ai_tags": [
         "合作",
-        "日本",
-        "AI工程"
+        "AI",
+        "日本"
       ],
       "ai_importance": 4
     },
     {
       "category": "anthropic",
-      "title": "An update on our election safeguards - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSnc4T3NCemRxOEFvZ0wydmd2aGNNNm5qc01SdVpDb3dPQVpSblpCMGc1eXN3UWFjN1hfRXl0VHItYU8wZmJ1c1ZnSmc4T1I0TTdqWTI1WXdHZ2gzMXdsVnVxd3p3LUs0?oc=5",
-      "published_time": "2026-04-24 13:51:05",
-      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSnc4T3NCemRxOEFvZ0wydmd2aGNNNm5qc01SdVpDb3dPQVpSblpCMGc1eXN3UWFjN1hfRXl0VHItYU8wZmJ1c1ZnSmc4T1I0TTdqWTI1WXdHZ2gzMXdsVnVxd3p3LUs0?oc=5\" target=\"_blank\">An update on our election safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "ai_summary": "Anthropic更新选举保障措施。",
+      "title": "Claude for Financial Services: Putting agents to work - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUY5NFJRdXdaQUhRc3h5UVczV3dwNkpkWDJIX0tIWDU0TDVGMEdIdVpWX0w1UER0RC1qQjRiam1SXzBadmlFYVlYWVQ5b2NKRExvVy0yZGRoMlVWVmhtQjk0bEtkY3lXQnlNcHVPQWNaWW1aYjlzWHEwdEdwWmJvT29GeTVTRzNDZF93NnlzUnU?oc=5",
+      "published_time": "2026-04-24 21:48:18",
+      "raw_content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUY5NFJRdXdaQUhRc3h5UVczV3dwNkpkWDJIX0tIWDU0TDVGMEdIdVpWX0w1UER0RC1qQjRiam1SXzBadmlFYVlYWVQ5b2NKRExvVy0yZGRoMlVWVmhtQjk0bEtkY3lXQnlNcHVPQWNaWW1aYjlzWHEwdEdwWmJvT29GeTVTRzNDZF93NnlzUnU?oc=5\" target=\"_blank\">Claude for Financial Services: Putting agents to work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+      "ai_summary": "Anthropic介绍了Claude在金融服务中的智能代理应用，提高工作效率。",
       "ai_tags": [
-        "选举",
-        "安全保障"
+        "Anthropic",
+        "金融服务",
+        "智能代理"
       ],
       "ai_importance": 3
     }

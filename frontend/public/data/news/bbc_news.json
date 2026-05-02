@@ -5,29 +5,60 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 11:03:40",
-      "raw_content": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "ai_summary": "以色列对黎巴嫩南部的空袭造成13人死亡，包括四名妇女和一名儿童，尽管停火协议仍在，但冲突持续。",
+      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
+      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 09:08:43",
+      "raw_content": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
+      "ai_summary": "前F1车手及残奥冠军亚历克斯·扎纳迪去世，享年59岁。",
       "ai_tags": [
-        "冲突",
-        "中东"
+        "亚历克斯·扎纳迪",
+        "F1",
+        "残奥",
+        "去世"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 09:08:43",
-      "raw_content": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
-      "ai_summary": "前F1车手和残奥冠军亚历克斯·扎纳尔迪去世，享年59岁。",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 11:03:40",
+      "raw_content": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "ai_summary": "以色列对黎巴嫩南部的袭击造成13人死亡，包括4名妇女和1名儿童，冲突持续。",
       "ai_tags": [
-        "体育",
-        "去世"
+        "以色列",
+        "黎巴嫩",
+        "冲突"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:41:43",
+      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "ai_summary": "特朗普称停火协议意味着对伊朗动武无需国会授权，引发争议。",
+      "ai_tags": [
+        "US",
+        "Iran",
+        "war powers"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 05:02:14",
+      "raw_content": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "ai_summary": "加沙流离失所者营地鼠患和鼬灾肆虐，疾病传播风险加剧。",
+      "ai_tags": [
+        "Gaza",
+        "health",
+        "refugees"
+      ],
+      "ai_importance": 5
     },
     {
       "category": "bbc_news",
@@ -35,10 +66,39 @@
       "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 12:02:43",
       "raw_content": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
-      "ai_summary": "亚历克斯·扎纳尔迪，一位21世纪的英雄，以不屈精神面对逆境，激励了数百万人。",
+      "ai_summary": "亚历克斯·扎纳迪以不屈精神面对逆境，激励数百万人，被称为21世纪英雄。",
       "ai_tags": [
-        "体育",
+        "亚历克斯·扎纳迪",
+        "F1",
         "英雄"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Football awash with Guardiola exit talk as Man City plan for life without him",
+      "link": "https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 13:10:03",
+      "raw_content": "We will know in a matter of weeks whether Pep Guardiola's reign at Manchester City has run its course, writes Sami Mokbel.",
+      "ai_summary": "曼城考虑瓜迪奥拉离任后的生活，未来几周将知悉其任期是否结束。",
+      "ai_tags": [
+        "足球",
+        "曼城",
+        "瓜迪奥拉"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
+      "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 09:04:48",
+      "raw_content": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
+      "ai_summary": "英国首相斯塔默在采访中回应近期事件，包括战争和反犹太主义抬头。",
+      "ai_tags": [
+        "UK",
+        "politics",
+        "antisemitism"
       ],
       "ai_importance": 4
     },
@@ -48,96 +108,41 @@
       "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 10:25:06",
       "raw_content": "The PM tells the BBC he is concerned about the \"cumulative\" effect of marches on the Jewish community.",
-      "ai_summary": "首相表示担心亲巴勒斯坦游行对犹太社区的累积影响，暗示某些抗议可能需要停止。",
+      "ai_summary": "首相暗示某些抗议活动需停止，因对犹太社区的累积影响担忧。",
       "ai_tags": [
+        "抗议",
+        "巴勒斯坦",
+        "首相"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
+      "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 05:00:19",
+      "raw_content": "British Jews tell the BBC they are agonising over whether to stick to their usual routine this Sabbath.",
+      "ai_summary": "伦敦戈尔德斯格林袭击后，犹太人在首个安息日面临是否隐藏宗教标识的纠结。",
+      "ai_tags": [
+        "antisemitism",
+        "UK",
+        "religion"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Winners, losers and a PM on the brink - what to expect in next week's elections",
+      "link": "https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 11:03:41",
+      "raw_content": "Believe it or not, Thursday’s local elections aren’t just about the PM’s fate - there’s plenty more at stake.",
+      "ai_summary": "下周地方选举不仅关乎首相命运，还有更多利害攸关。",
+      "ai_tags": [
+        "选举",
         "政治",
-        "抗议"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 00:41:43",
-      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "ai_summary": "特朗普告知国会停火协议意味着他无需国会批准对伊朗开战。",
-      "ai_tags": [
-        "特朗普",
-        "伊朗",
-        "停火",
-        "国会"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:02:14",
-      "raw_content": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "ai_summary": "加沙流离失所者营地中老鼠和鼬鼠肆虐，传播疾病。",
-      "ai_tags": [
-        "加沙",
-        "老鼠",
-        "害虫",
-        "疾病"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 08:14:09",
-      "raw_content": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-      "ai_summary": "美国计划从德国撤军5000人，此举发生在与德国领导人默茨就伊朗问题发生争执之际。",
-      "ai_tags": [
-        "政治",
-        "军事"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Allen holds on as Wu dazzles - semi-final on a knife edge",
-      "link": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 12:21:14",
-      "raw_content": "Wu Yize and Mark Allen are locked at 11-11 in their World Championship semi-final at the Crucible Theatre - and a late night could be on the cards.",
-      "ai_summary": "斯诺克世锦赛半决赛吴宜泽与马克·艾伦战成11-11平，竞争激烈。",
-      "ai_tags": [
-        "斯诺克",
-        "世锦赛",
-        "半决赛"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "bbc_news",
-      "title": "These twins were born within minutes of each other - but have different dads",
-      "link": "https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 07:59:50",
-      "raw_content": "Lavinia and Michelle are the only case of twins with different fathers to be recorded in the UK.",
-      "ai_summary": "英国首次记录一对出生仅相差几分钟但父亲不同的双胞胎。",
-      "ai_tags": [
-        "双胞胎",
-        "不同父亲",
         "英国"
       ],
-      "ai_importance": 3
-    },
-    {
-      "category": "bbc_news",
-      "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
-      "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 09:04:48",
-      "raw_content": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
-      "ai_summary": "首相基尔·斯塔默在采访中回应近期事件，包括战争和反犹太主义上升，试图与党内外的批评者划清界限。",
-      "ai_tags": [
-        "政治",
-        "分析"
-      ],
-      "ai_importance": 3
+      "ai_importance": 4
     }
   ]
 }

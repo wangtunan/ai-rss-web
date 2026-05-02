@@ -5,16 +5,59 @@
   "items": [
     {
       "category": "xueqiu",
-      "title": "【财报】分众传媒2025年年报&2026年一季报分析",
-      "link": "http://xueqiu.com/5241127869/386778024",
-      "published_time": "2026-05-01 13:13:34",
+      "title": "再谈存储周期论：旧时代周期游戏的终结与AI时代产业格局的重塑",
+      "link": "http://xueqiu.com/3333339788/387031536",
+      "published_time": "2026-05-02 13:08:31",
       "raw_content": "",
-      "ai_summary": "分众传媒2025年年报及2026年一季报分析。",
+      "ai_summary": "探讨存储周期论的终结以及AI时代存储产业格局的重塑。",
       "ai_tags": [
-        "财报",
-        "分众传媒"
+        "存储",
+        "AI",
+        "产业周期"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "跨国资金出现重要拐点！对A股的影响很大",
+      "link": "http://xueqiu.com/1843761023/387024597",
+      "published_time": "2026-05-02 13:09:06",
+      "raw_content": "",
+      "ai_summary": "跨国资金出现重要拐点，对A股市场影响重大，投资者需关注。",
+      "ai_tags": [
+        "跨国资金",
+        "A股",
+        "投资"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "如何用简单的方法大致估算上市公司的估值？",
+      "link": "http://xueqiu.com/7881199090/387026631",
+      "published_time": "2026-05-02 13:08:48",
+      "raw_content": "",
+      "ai_summary": "介绍简单估算上市公司估值的方法，帮助投资者快速判断。",
+      "ai_tags": [
+        "估值",
+        "上市公司",
+        "投资方法"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "银行的发展趋势与资产配置",
+      "link": "http://xueqiu.com/7297620365/387036907",
+      "published_time": "2026-05-02 13:08:39",
+      "raw_content": "",
+      "ai_summary": "分析银行发展趋势与资产配置策略，提供投资参考。",
+      "ai_tags": [
+        "银行",
+        "资产配置",
+        "投资"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -22,7 +65,7 @@
       "link": "http://xueqiu.com/4790816824/386955483",
       "published_time": "2026-05-01 07:14:57",
       "raw_content": "",
-      "ai_summary": "探讨InP紧缺背景下，硅光路线在1.6T光模块中的供给优势。",
+      "ai_summary": "分析InP紧缺背景下1.6T光模块中硅光路线的供给优势。",
       "ai_tags": [
         "光模块",
         "硅光",
@@ -32,40 +75,15 @@
     },
     {
       "category": "xueqiu",
-      "title": "在阳光电源上犯的三个错误，以及我的一个决定",
-      "link": "http://xueqiu.com/1064302270/386950163",
-      "published_time": "2026-05-01 07:14:29",
-      "raw_content": "",
-      "ai_summary": "作者反思在阳光电源投资中犯的三个错误并作出决定。",
-      "ai_tags": [
-        "阳光电源",
-        "投资反思"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "xueqiu",
       "title": "AI时代，数字生活基础设施尚能饭否？",
       "link": "http://xueqiu.com/9742512811/386951187",
       "published_time": "2026-05-01 13:13:05",
       "raw_content": "",
-      "ai_summary": "探讨AI时代数字生活基础设施的现状与前景。",
+      "ai_summary": "讨论AI时代数字生活基础设施的发展现状与未来前景。",
       "ai_tags": [
         "AI",
-        "数字基础设施"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "浅谈世纪华通成长性与估值",
-      "link": "http://xueqiu.com/8942591903/386960025",
-      "published_time": "2026-05-01 07:14:35",
-      "raw_content": "",
-      "ai_summary": "对世纪华通的成长性和估值进行简要分析。",
-      "ai_tags": [
-        "世纪华通",
-        "估值"
+        "数字生活",
+        "基础设施"
       ],
       "ai_importance": 3
     },
@@ -75,10 +93,10 @@
       "link": "http://xueqiu.com/8682679944/386914903",
       "published_time": "2026-05-01 07:14:41",
       "raw_content": "",
-      "ai_summary": "作者对五粮液财报的分析和看法。",
+      "ai_summary": "对五粮液财报的详细分析。",
       "ai_tags": [
         "五粮液",
-        "财报"
+        "财报分析"
       ],
       "ai_importance": 3
     },
@@ -88,10 +106,24 @@
       "link": "http://xueqiu.com/6146592061/386949593",
       "published_time": "2026-05-01 13:12:37",
       "raw_content": "",
-      "ai_summary": "2025年及2026年一季度归母净利润初步分析。",
+      "ai_summary": "对2025年及2026年第一季度归母净利润进行初步分析。",
       "ai_tags": [
-        "财报",
+        "财报分析",
         "净利润"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "【财报】分众传媒2025年年报&2026年一季报分析",
+      "link": "http://xueqiu.com/5241127869/386778024",
+      "published_time": "2026-05-01 13:13:34",
+      "raw_content": "",
+      "ai_summary": "分析分众传媒2025年年报及2026年一季报的财务状况和业绩表现。",
+      "ai_tags": [
+        "分众传媒",
+        "财报",
+        "分析"
       ],
       "ai_importance": 3
     },
@@ -101,40 +133,12 @@
       "link": "http://xueqiu.com/1936609590/386927404",
       "published_time": "2026-05-01 13:12:01",
       "raw_content": "",
-      "ai_summary": "探讨市场状态与估值之间的矛盾。",
+      "ai_summary": "讨论当前市场状态与估值之间的矛盾。",
       "ai_tags": [
-        "投资",
-        "估值"
+        "估值",
+        "市场状态"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "capex史诗级狂飙！算力就是20年前的房地产，这轮明牌造富比你想象的更凶猛",
-      "link": "http://xueqiu.com/1545503181/386719782",
-      "published_time": "2026-04-30 09:20:38",
-      "raw_content": "",
-      "ai_summary": "认为算力投资类似过去房地产，资本开支狂飙带来造富机会。",
-      "ai_tags": [
-        "算力",
-        "资本开支",
-        "投资"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "xueqiu",
-      "title": "美股五大科技企业2026 年 Q1财报全面分析20260430",
-      "link": "http://xueqiu.com/7673611233/386711023",
-      "published_time": "2026-04-30 09:20:00",
-      "raw_content": "",
-      "ai_summary": "全面分析美股五大科技企业2026年Q1财报。",
-      "ai_tags": [
-        "美股",
-        "科技股",
-        "财报"
-      ],
-      "ai_importance": 4
     }
   ]
 }
