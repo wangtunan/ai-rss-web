@@ -5,43 +5,40 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 08:14:09",
-      "raw_content": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-      "ai_summary": "美国计划从德国撤军5000人，正值特朗普与德国候任总理默茨因伊朗问题发生争执。",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 11:03:40",
+      "raw_content": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "ai_summary": "以色列对黎巴嫩南部的空袭造成13人死亡，包括四名妇女和一名儿童，尽管停火协议仍在，但冲突持续。",
       "ai_tags": [
-        "美国",
-        "德国",
-        "驻军"
+        "冲突",
+        "中东"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Ex-F1 driver and Paralympic cycling champion Zanardi dies",
+      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
       "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 09:08:43",
       "raw_content": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
       "ai_summary": "前F1车手和残奥冠军亚历克斯·扎纳尔迪去世，享年59岁。",
       "ai_tags": [
-        "F1",
-        "残奥",
+        "体育",
         "去世"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
-      "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 09:04:48",
-      "raw_content": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
-      "ai_summary": "斯塔默首相接受采访，就战争和反犹主义等问题与批评者划清界限。",
+      "title": "The remarkable life of Zanardi, a 21st century hero who inspired millions",
+      "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 12:02:43",
+      "raw_content": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
+      "ai_summary": "亚历克斯·扎纳尔迪，一位21世纪的英雄，以不屈精神面对逆境，激励了数百万人。",
       "ai_tags": [
-        "英国政治",
-        "斯塔默",
-        "反犹主义"
+        "体育",
+        "英雄"
       ],
       "ai_importance": 4
     },
@@ -49,13 +46,12 @@
       "category": "bbc_news",
       "title": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
       "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:00:13",
+      "published_time": "2026-05-02 10:25:06",
       "raw_content": "The PM tells the BBC he is concerned about the \"cumulative\" effect of marches on the Jewish community.",
-      "ai_summary": "英国首相表示担忧抗议活动对犹太社区的累积影响。",
+      "ai_summary": "首相表示担心亲巴勒斯坦游行对犹太社区的累积影响，暗示某些抗议可能需要停止。",
       "ai_tags": [
-        "UK",
-        "protest",
-        "antisemitism"
+        "政治",
+        "抗议"
       ],
       "ai_importance": 4
     },
@@ -65,11 +61,12 @@
       "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 00:41:43",
       "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "ai_summary": "特朗普认为停火后无需国会授权对伊朗动武。",
+      "ai_summary": "特朗普告知国会停火协议意味着他无需国会批准对伊朗开战。",
       "ai_tags": [
-        "US politics",
-        "Iran",
-        "war"
+        "特朗普",
+        "伊朗",
+        "停火",
+        "国会"
       ],
       "ai_importance": 4
     },
@@ -79,66 +76,66 @@
       "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
       "published_time": "2026-05-02 05:02:14",
       "raw_content": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "ai_summary": "加沙地带难民与老鼠、鼬鼠等害虫斗争，疾病蔓延。",
+      "ai_summary": "加沙流离失所者营地中老鼠和鼬鼠肆虐，传播疾病。",
       "ai_tags": [
-        "Gaza",
-        "health",
-        "crisis"
+        "加沙",
+        "老鼠",
+        "害虫",
+        "疾病"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "DeChambeau denies 'completely untrue' PGA talks",
-      "link": "https://www.bbc.com/sport/golf/articles/c7074n81eyzo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 08:25:20",
-      "raw_content": "American Bryson DeChambeau says it is \"completely untrue\" he is looking to leave LIV Golf before the end of the year.",
-      "ai_summary": "美国球手德尚博否认年底前离开LIV高尔夫重返PGA的传闻。",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 08:14:09",
+      "raw_content": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "ai_summary": "美国计划从德国撤军5000人，此举发生在与德国领导人默茨就伊朗问题发生争执之际。",
       "ai_tags": [
-        "高尔夫",
-        "德尚博",
-        "LIV"
+        "政治",
+        "军事"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "Allen holds on as Wu dazzles - semi-final on a knife edge",
+      "link": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 12:21:14",
+      "raw_content": "Wu Yize and Mark Allen are locked at 11-11 in their World Championship semi-final at the Crucible Theatre - and a late night could be on the cards.",
+      "ai_summary": "斯诺克世锦赛半决赛吴宜泽与马克·艾伦战成11-11平，竞争激烈。",
+      "ai_tags": [
+        "斯诺克",
+        "世锦赛",
+        "半决赛"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "The striker quietly making a big noise at Arsenal",
-      "link": "https://www.bbc.com/sport/football/articles/c3e29017vp1o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:40:37",
-      "raw_content": "As Arsenal travel to Lyon in the Champions League semi-final second leg, BBC Sport assesses the importance of unsung striker Stina Blackstenius.",
-      "ai_summary": "BBC体育评估阿森纳前锋斯蒂娜·布莱克斯特纽斯在欧冠半决赛中的作用。",
+      "title": "These twins were born within minutes of each other - but have different dads",
+      "link": "https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 07:59:50",
+      "raw_content": "Lavinia and Michelle are the only case of twins with different fathers to be recorded in the UK.",
+      "ai_summary": "英国首次记录一对出生仅相差几分钟但父亲不同的双胞胎。",
       "ai_tags": [
-        "阿森纳",
-        "欧冠",
-        "女足"
+        "双胞胎",
+        "不同父亲",
+        "英国"
       ],
       "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "'Shy' Anderson on England nerves and becoming a leader",
-      "link": "https://www.bbc.com/sport/football/articles/c0rx21dj1q7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:15:35",
-      "raw_content": "Nottingham Forest midfielder Elliot Anderson tells Kelly Somers about coming out of his shell to become a leader.",
-      "ai_summary": "诺丁汉森林中场埃利奥特·安德森谈走出内向成为领袖。",
+      "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
+      "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 09:04:48",
+      "raw_content": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
+      "ai_summary": "首相基尔·斯塔默在采访中回应近期事件，包括战争和反犹太主义上升，试图与党内外的批评者划清界限。",
       "ai_tags": [
-        "football",
-        "leadership"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "bbc_news",
-      "title": "England's Wood hoping to bowl again this summer",
-      "link": "https://www.bbc.com/sport/cricket/articles/c8e8kkj81j7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 06:51:59",
-      "raw_content": "England pace bowler Mark Wood says he is hoping to bowl later in the summer as he looks to come back from the knee injury that ruined his Ashes.",
-      "ai_summary": "英格兰投手马克·伍德希望今夏伤愈复出，此前膝伤影响了澳斯赛。",
-      "ai_tags": [
-        "板球",
-        "马克·伍德",
-        "伤病"
+        "政治",
+        "分析"
       ],
       "ai_importance": 3
     }

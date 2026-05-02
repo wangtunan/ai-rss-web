@@ -5,29 +5,46 @@
   "items": [
     {
       "category": "infoq",
-      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
-      "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag",
-      "published_time": "2026-05-01 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/dc/29/dc7f9489378a47053a174743b833b629.jpg\" /></p><p>Mistral AI 推出 <a href=\"https://mistral.ai/news/workflows\">Workflows</a>\"，一个面向企业 AI 的编排层，目前已进入公开预览阶段。尽管 AI 模型和智能体的能力愈发先进，但要将它们可靠地部署到生产环境中仍然存在不小难度，核心原因是缺少用于协调调度、全程监控和故障恢复的配套基础设施。此次发布正是为了解决这一重大挑战。</p><p>&nbsp;</p><p>Workflows 是 Mistral Studio 平台的一部分，旨在通过持久性、可观测性和容错能力来管理多步骤 AI 流程。开发者可以使用 Python 定义工作流，将模型、智能体和外部连接器等组件组合成结构化流程。这些工作流随后可通过 <a href=\"https://chat.mistral.ai/chat\">Le Chat</a>\" 在整个组织内",
-      "ai_summary": "Mistral AI推出Workflows，提供编排、监控和容错能力，简化企业AI工作流部署。",
+      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+      "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
+      "published_time": "2026-05-01 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/de/c1/de903853bcaa7b845518699351e03fc1.png\" /></p><p></p><p></p><blockquote>编者按：过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。但模型问题缓解之后，更深层的约束随之浮现：代码库中的业务隐知识、历史决策与架构习惯，并不会因为模型升级而自动变得可理解。本文借“AI 上下文负债”这一概念提醒我们，AI 编程的真正难点，正在从模型供给侧转向组织治理侧——从选工具，转向补文档、立规范、清理历史欠账。对企业而言，接下来的竞争不只是接入 AI 的速度，更是谁更早完成知识治理、工程规范和渐进重构。</blockquote><p></p><p></p><p>去年秋天，一个朋友所在的上市公司开始推动 AI 辅助编程。安全部门花三个月审了五款工具，结论是不能用——数",
+      "ai_summary": "国产模型追上闭源旗舰后，企业AI编程的主要障碍转向组织治理，如文档缺失、规范不足等“AI上下文负债”问题。",
       "ai_tags": [
-        "Mistral AI",
-        "Workflows",
-        "企业AI"
+        "AI编程",
+        "企业",
+        "模型",
+        "知识治理"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "infoq",
+      "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE",
+      "published_time": "2026-05-01 01:49:44",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f2/66/f22ea705a2341ca37b6eff150c386e66.jpg\" /></p><p></p><h2>引言</h2><p></p><p>在我们的一条推荐流水线中，有一个简单的需求，那就是不能向用户展示他们已经浏览过的文章。在流量峰值时，Feed服务每秒处理约18000个请求，每个请求需要评估约120个候选内容。这意味着每秒需要执行约216万次检查。然而，该工作负载分布极不均匀，大约97%-98%的检查结果都是用户未浏览。</p><p></p><p>我们最初的设计是对每个候选内容执行精确查询（缓存 + 后端存储）。该方案功能上可行，但是在大量查询结果都是否定结果的项目中效率较低。每次未命中仍然会产生网络与存储开销，导致I/O上升。在流量高峰期，这表现为p95延迟升高（从约85ms升至140ms）、后端读取请求激增，以及基础设施成本持续上涨。</p><p></p><p>为了解决该问题，我们在精确查询路径前引入了布隆过滤器（Bloom filter）。过滤器在内存",
+      "ai_summary": "通过布隆过滤器优化推荐系统的未命中查询，大幅降低延迟和成本。",
+      "ai_tags": [
+        "布隆过滤器",
+        "推荐系统",
+        "性能优化",
+        "Go"
       ],
       "ai_importance": 4
     },
     {
       "category": "infoq",
-      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-      "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
-      "published_time": "2026-05-01 06:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/de/c1/de903853bcaa7b845518699351e03fc1.png\" /></p><p></p><p></p><blockquote>编者按：过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。但模型问题缓解之后，更深层的约束随之浮现：代码库中的业务隐知识、历史决策与架构习惯，并不会因为模型升级而自动变得可理解。本文借“AI 上下文负债”这一概念提醒我们，AI 编程的真正难点，正在从模型供给侧转向组织治理侧——从选工具，转向补文档、立规范、清理历史欠账。对企业而言，接下来的竞争不只是接入 AI 的速度，更是谁更早完成知识治理、工程规范和渐进重构。</blockquote><p></p><p></p><p>去年秋天，一个朋友所在的上市公司开始推动 AI 辅助编程。安全部门花三个月审了五款工具，结论是不能用——数",
-      "ai_summary": "国产模型接近闭源旗舰后，企业AI编程的障碍转向组织治理，如知识治理和工程规范。",
+      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag",
+      "published_time": "2026-05-01 02:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/dc/29/dc7f9489378a47053a174743b833b629.jpg\" /></p><p>Mistral AI 推出 <a href=\"https://mistral.ai/news/workflows\">Workflows</a>\"，一个面向企业 AI 的编排层，目前已进入公开预览阶段。尽管 AI 模型和智能体的能力愈发先进，但要将它们可靠地部署到生产环境中仍然存在不小难度，核心原因是缺少用于协调调度、全程监控和故障恢复的配套基础设施。此次发布正是为了解决这一重大挑战。</p><p>&nbsp;</p><p>Workflows 是 Mistral Studio 平台的一部分，旨在通过持久性、可观测性和容错能力来管理多步骤 AI 流程。开发者可以使用 Python 定义工作流，将模型、智能体和外部连接器等组件组合成结构化流程。这些工作流随后可通过 <a href=\"https://chat.mistral.ai/chat\">Le Chat</a>\" 在整个组织内",
+      "ai_summary": "Mistral AI 推出 Workflows，用于编排企业AI工作流，支持持久性、可观测性和容错能力。",
       "ai_tags": [
-        "AI编程",
-        "企业",
-        "组织治理"
+        "Mistral AI",
+        "工作流",
+        "企业AI",
+        "编排"
       ],
       "ai_importance": 4
     },
@@ -37,11 +54,12 @@
       "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj",
       "published_time": "2026-05-01 01:36:10",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/8d/37/8db22f44256dd6265a12223fa1f2ba37.jpg\" /></p><p>GitHub 已通过一个名为 <a href=\"https://github.github.com/gh-stack/\">gh-stack</a>\" 的新 CLI 扩展推出原生的堆叠式拉取请求工作流，填补了多年来一直由第三方工具弥补的空白。该方案的目的是解决大型拉取请求难以审查、合并缓慢且容易产生冲突的问题；GitHub 表示，在这种情况下，审查者会丢失上下文，反馈质量下降，整个团队的效率也会随之降低。</p><p></p><p>堆叠式拉取请求（有时也称为依赖式或链式 PR）是一种代码评审模式，在这种模式中，每个分支并不是直接指向主分支，而是按顺序指向其下方的前一个分支。该方法使开发者能够在较早层仍在审查时，继续推进功能后续层的开发工作。</p><p></p><p></p><blockquote>我曾花费大量时间等待代码评审完成，这也是我构建这个工具的主要动机。Phabri",
-      "ai_summary": "GitHub推出gh-stack扩展实现堆叠式PR工作流，解决大型PR难以审查的问题。",
+      "ai_summary": "GitHub 推出 gh-stack CLI 扩展，原生支持堆叠式拉取请求，解决“大PR地狱”问题。",
       "ai_tags": [
         "GitHub",
-        "堆叠式PR",
-        "代码审查"
+        "堆叠PR",
+        "代码审查",
+        "效率"
       ],
       "ai_importance": 4
     },
@@ -51,75 +69,28 @@
       "link": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl",
       "published_time": "2026-05-01 01:40:26",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/9a/6f/9ab7ccef41760ebc0000750b2c32886f.jpeg\" /></p><p></p><h4>Spring Boot</h4><p></p><p><a href=\"https://spring.io/projects/spring-boot\">Spring Boot</a>\" 4.1.0 <a href=\"https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now\">首个候选版本</a>\"（RC）发布，带来了 Bug 修复、文档改进、依赖项升级以及一些新功能，例如：支持 OpenTelemetry 协议（OTLP）SDK <a href=\"https://opentelemetry.io/docs/languages/sdk-configuration/otlp-exporter/\">导出器环境变量</a>\"；为改进事务管理，支持 Spring Framework 的 ",
-      "ai_summary": "Spring Boot 4.1.0 RC1发布，支持OTLP导出器环境变量和改进事务管理。",
+      "ai_summary": "Spring Boot 4.1.0 发布首个候选版本，带来新功能和依赖升级。",
       "ai_tags": [
         "Spring Boot",
-        "RC发布",
-        "OTLP"
+        "候选版本",
+        "更新"
       ],
       "ai_importance": 3
     },
     {
       "category": "infoq",
-      "title": "布隆过滤器：理论、工程权衡与Go语言实现",
-      "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE",
-      "published_time": "2026-05-01 01:49:44",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f2/66/f22ea705a2341ca37b6eff150c386e66.jpg\" /></p><p></p><h2>引言</h2><p></p><p>在我们的一条推荐流水线中，有一个简单的需求，那就是不能向用户展示他们已经浏览过的文章。在流量峰值时，Feed服务每秒处理约18000个请求，每个请求需要评估约120个候选内容。这意味着每秒需要执行约216万次检查。然而，该工作负载分布极不均匀，大约97%-98%的检查结果都是用户未浏览。</p><p></p><p>我们最初的设计是对每个候选内容执行精确查询（缓存 + 后端存储）。该方案功能上可行，但是在大量查询结果都是否定结果的项目中效率较低。每次未命中仍然会产生网络与存储开销，导致I/O上升。在流量高峰期，这表现为p95延迟升高（从约85ms升至140ms）、后端读取请求激增，以及基础设施成本持续上涨。</p><p></p><p>为了解决该问题，我们在精确查询路径前引入了布隆过滤器（Bloom filter）。过滤器在内存",
-      "ai_summary": "推荐系统中使用布隆过滤器避免用户重复浏览，降低延迟和成本，每秒支持216万次检查。",
+      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+      "published_time": "2026-04-30 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
+      "ai_summary": "Claude Code发现Linux内核中隐藏23年的NFS堆缓冲区溢出漏洞，可远程利用，目前已修复。",
       "ai_tags": [
-        "布隆过滤器",
-        "推荐系统",
-        "性能优化"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Meta 收购 Manus 这事儿泡汤了",
-      "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT",
-      "published_time": "2026-04-30 07:05:52",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>刚刚，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6d/6d147a7a6c75d40f1769918e64c662dc.jpeg\" /></p><p>&nbsp;</p><p>去年12月底，科技巨头Meta宣布完成对AI初创公司Manus的收购，交易对价超过20亿美元（约合人民币140亿元），跻身Meta史上第三大并购案。这场由CEO马克·扎克伯格亲自操盘的谈判仅用十余天便迅速敲定，为Meta 2025年的激进AI布局画上收官句号。据知情人士披露，此次交易规模仅次于2014年对WhatsApp的190亿美元收购及2025年6月对Scale AI的战略投资。</p><p>&n",
-      "ai_summary": "Meta收购Manus因中国外商投资审查被禁止，交易金额超20亿美元。",
-      "ai_tags": [
-        "Meta",
-        "Manus",
-        "收购被禁"
+        "Claude Code",
+        "Linux",
+        "漏洞",
+        "安全"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "infoq",
-      "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
-      "link": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO",
-      "published_time": "2026-04-30 12:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ff/a9/ffd591b4bdd2b391692b8e9643981ca9.jpg\" /></p><p>近日，北京中关村学院信息智能团队自主研发的智能体系统Milkyway，在FutureX评测中凭借60.9分登全球榜首。</p><p></p><p>FutureX是专门考验“AI预言能力”的国际动态评测基准，由字节跳动、斯坦福、复旦、普林斯顿大学等顶尖学术机构团队联合发起，在HuggingFace上公开数据集，用尚未揭晓的真实事件考验AI预测能力&nbsp;——地缘博弈、政策走向、经济波动，答案由现实裁定，没有模糊空间。首期冠军是埃隆·马斯克公司（Elon Musk）旗下的Grok4，马斯克本人曾在社交媒体公开表示：“预测未来的能力，是对模型智能性最好的测试”。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6e/6e7ca647b478435eb347ffb0286bf913.png\" /></p><",
-      "ai_summary": "北京中关村学院团队开发的Milkyway在FutureX评测中获全球第一，考验AI预测能力。",
-      "ai_tags": [
-        "AI预测",
-        "FutureX",
-        "Milkyway"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "infoq",
-      "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
-      "link": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs",
-      "published_time": "2026-04-30 02:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/ee/e5/eee9c9167eda65134080dae394fdbee5.jpg\" /></p><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？</p><p></p><p>6月26日-6月27日，<a href=\"https://aicon.infoq.cn/2026/shanghai/track\">AICon全球人工智能开发与应用大会</a>\"将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。</p><p></p><p>OPPO高级算法工程师王闯闯已确认出席 “<a href=\"http",
-      "ai_summary": "",
-      "ai_tags": [],
-      "ai_importance": 3
-    },
-    {
-      "category": "infoq",
-      "title": "Slack 长时运行多智能体系统的上下文管理方案",
-      "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg",
-      "published_time": "2026-04-30 05:00:00",
-      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/5c/dc/5c8d9c2c500909a1ef1079a60bc957dc.jpeg\" /></p><p>为了在长时间运行的智能体系统中保持效率，Slack 工程师放弃了累积聊天记录的做法，转而采用<a href=\"https://slack.engineering/managing-context-in-long-run-agentic-applications/\">结构化记忆、验证与蒸馏事实</a>\"的方式来维持长时间运行智能体系统的连贯性与准确性。</p><p>&nbsp;</p><p>虽然短时间的 LLM 会话通常不需要显式的上下文管理，但在长时间运行的会话中，要保持会话连贯性，上下文管理就变得至关重要——因为随着消息历史不断增加，每次请求都附带完整上下文会变得不切实际：</p><p></p><blockquote>智能体框架会在 API 调用之间累积消息历史，以此为用户解决状态管理问题。但这会占用并填满智能体的上下文窗口，而上下文窗口对智能体可处理的信息总量存在硬性",
-      "ai_summary": "",
-      "ai_tags": [],
-      "ai_importance": 3
     },
     {
       "category": "infoq",
@@ -127,13 +98,60 @@
       "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b",
       "published_time": "2026-04-30 10:06:28",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/a1/6c/a1ff4c2644f66b50932be0f63a18066c.jpg\" /></p><p>如果你关注的不只是“AI 能做什么”，更想知道怎么把模型真正跑起来、调起来、用起来，那这波内容建议直接码住。</p><p></p><p>AMD AI 开发者日，八大硬核 GPU Workshop 全部揭晓，同时技术专题以及“作品说话”主题分论坛嘉宾阵容与分享话题也一起放出！从本地 AI Agent、RLHF、模型微调，到推理优化、Kernel Agent、MoE 大规模训练，覆盖当下 AI 开发者们最关注的前沿技术领域。</p><p></p><h2>八大主题 GPU Workshop</h2><p></p><p></p><p>Workshop 1：基于 Agentic AI 的大模型推理自优化实践</p><p></p><p>由 Vincent Fang 主讲，通过 Agentic Al，对关键大模型推理工作负载进行自动化问题诊断、根因分析、性能分析与优化，实现 7×24 小",
-      "ai_summary": "AMD AI开发者日将举办八大GPU Workshop，涵盖AI Agent、RLHF、MoE等实战话题。",
+      "ai_summary": "AMD AI开发者日公布八大GPU Workshop，涵盖AI Agent、RLHF、MoE训练等实战话题。",
       "ai_tags": [
         "AMD",
-        "AI开发者日",
-        "GPU Workshop"
+        "GPU",
+        "AI训练",
+        "Workshop",
+        "开发者"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+      "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK",
+      "published_time": "2026-04-30 07:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f2/e4/f2902d1d602820da950d792ac252c0e4.png\" /></p><p></p><h2>结束18年热爱，Ghostty 逃离 GitHub</h2><p></p><p></p><p>“有些告别，并不是因为不再热爱，而是因为再也无法继续留下。”</p><p></p><p>这是 Ghostty 项目创始人 Mitchell Hashimoto 在宣布项目即将逃离 GitHub 时写下的开头。整篇长文没有技术细节的铺陈，反而像一封写给过去18年的“告别信”，甚至，他在写这封“告别信”时是哭着写完的！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/55/55322f2120e649b7bd6fd58e2b6b3160.png\" /></p><p></p><p>Mitchell Hashimoto 出生于 1990 年，是一位典型的“从开源社区成长起来”的工程师。</p><p></",
+      "ai_summary": "5.5万Star开源项目Ghostty因GitHub问题决定离开，创始人含泪宣布迁移。",
+      "ai_tags": [
+        "Ghostty",
+        "GitHub",
+        "开源",
+        "迁移"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Meta 收购 Manus 这事儿泡汤了",
+      "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT",
+      "published_time": "2026-04-30 07:05:52",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>刚刚，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6d/6d147a7a6c75d40f1769918e64c662dc.jpeg\" /></p><p>&nbsp;</p><p>去年12月底，科技巨头Meta宣布完成对AI初创公司Manus的收购，交易对价超过20亿美元（约合人民币140亿元），跻身Meta史上第三大并购案。这场由CEO马克·扎克伯格亲自操盘的谈判仅用十余天便迅速敲定，为Meta 2025年的激进AI布局画上收官句号。据知情人士披露，此次交易规模仅次于2014年对WhatsApp的190亿美元收购及2025年6月对Scale AI的战略投资。</p><p>&n",
+      "ai_summary": "Meta收购AI初创公司Manus因外商投资安全审查被禁止。",
+      "ai_tags": [
+        "Meta",
+        "Manus",
+        "收购",
+        "安全审查"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "infoq",
+      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+      "published_time": "2026-04-30 02:02:01",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
+      "ai_summary": "Anthropic研究显示AI当前影响的高薪高学历人群，点名10大高危职业，但许多人尚未被替代。",
+      "ai_tags": [
+        "Anthropic",
+        "AI",
+        "职业替代",
+        "研究"
+      ],
+      "ai_importance": 4
     }
   ]
 }

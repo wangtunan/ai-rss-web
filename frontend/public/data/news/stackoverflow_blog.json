@@ -5,31 +5,31 @@
   "items": [
     {
       "category": "stackoverflow_blog",
-      "title": "Time is a construct but it can still break your software",
-      "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
-      "published_time": "2026-05-01 07:40:00",
-      "raw_content": "Ryan welcomes  Jason Williams, senior software engineer at Bloomberg and  the creator of Rust-based JavaScript engine Boa, to the show to dive into why date and time handling in JavaScript is so difficult and how the Temporal proposal aims to fix it.",
-      "ai_summary": "Ghostty项目创始人Mitchell Hashimoto含泪宣布项目将逃离GitHub，反映对开源社区变化的感慨。",
+      "title": "Dispatches from O'Reilly: Fast Paths and Slow Paths",
+      "link": "https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/",
+      "published_time": "2026-05-01 14:00:00",
+      "raw_content": "Selective control in autonomous AI systems: Why governing every decision breaks autonomy—and how runtime control actually works at scale",
+      "ai_summary": "自主AI系统中无需控制每一步决策，运行时控制能有效实现规模化自主性。",
       "ai_tags": [
-        "开源",
-        "GitHub",
-        "Ghostty"
+        "AI",
+        "自主系统",
+        "运行时控制"
       ],
       "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
-      "title": "Dispatches from O'Reilly: Fast Paths and Slow Paths",
-      "link": "https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/",
-      "published_time": "2026-05-01 14:00:00",
-      "raw_content": "Selective control in autonomous AI systems: Why governing every decision breaks autonomy—and how runtime control actually works at scale",
-      "ai_summary": "探讨自主AI系统中快速和慢速路径的选择性控制，强调运行时控制实现自主性。",
+      "title": "Time is a construct but it can still break your software",
+      "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
+      "published_time": "2026-05-01 07:40:00",
+      "raw_content": "Ryan welcomes  Jason Williams, senior software engineer at Bloomberg and  the creator of Rust-based JavaScript engine Boa, to the show to dive into why date and time handling in JavaScript is so difficult and how the Temporal proposal aims to fix it.",
+      "ai_summary": "JavaScript日期时间处理复杂，Temporal提案旨在解决该问题。",
       "ai_tags": [
-        "AI",
-        "自主系统",
-        "控制"
+        "JavaScript",
+        "日期时间",
+        "Temporal"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -37,12 +37,24 @@
       "link": "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/",
       "published_time": "2026-04-30 16:00:00",
       "raw_content": "Agents are everywhere, so isn&#x27;t it fitting that the Worst Coder in the World goes agentic? A coding newbie explores the challenges and rewards of building an agent for work—and trying to learn a few things about coding along the way.",
-      "ai_summary": "谷歌推出整合云、库、引擎和AI的Agent Skill超级工具箱，应对竞争并简化智能体开发。",
+      "ai_summary": "编程新手尝试构建AI代理，探索挑战与学习收获。",
       "ai_tags": [
-        "谷歌",
-        "开源",
-        "AI Agent",
-        "云服务"
+        "AI代理",
+        "编程学习"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "stackoverflow_blog",
+      "title": "Your LLM issues are really data issues",
+      "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
+      "published_time": "2026-04-28 07:40:00",
+      "raw_content": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+      "ai_summary": "LLM问题本质是数据问题，探讨AI与实时结构化生产数据的冲突。",
+      "ai_tags": [
+        "LLM",
+        "数据",
+        "实时数据"
       ],
       "ai_importance": 4
     },
@@ -52,29 +64,13 @@
       "link": "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/",
       "published_time": "2026-04-28 13:00:00",
       "raw_content": "Now generally available in the 2026.3 release, Ingestion transforms siloed content into structured, verified knowledge—optimized for both your teams and AI.",
-      "ai_summary": "Anthropic研究员用Claude Code发现Linux内核中一个存在23年的堆缓冲区溢出漏洞，可远程利用，已修复。",
+      "ai_summary": "Stack Internal 2026.3版本发布Ingestion功能，将分散知识转化为结构化可信知识，优化团队与AI使用。",
       "ai_tags": [
-        "AI",
-        "安全漏洞",
-        "Linux内核",
-        "Claude"
+        "知识管理",
+        "Ingestion",
+        "Stack Internal"
       ],
-      "ai_importance": 5
-    },
-    {
-      "category": "stackoverflow_blog",
-      "title": "Your LLM issues are really data issues",
-      "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
-      "published_time": "2026-04-28 07:40:00",
-      "raw_content": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
-      "ai_summary": "Slack工程师提出结构化记忆与蒸馏事实方法，替代累积聊天记录以维持长时运行智能体系统的连贯性。",
-      "ai_tags": [
-        "Slack",
-        "多智能体",
-        "上下文管理",
-        "AI应用"
-      ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -82,14 +78,12 @@
       "link": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
       "published_time": "2026-04-27 13:56:07",
       "raw_content": "AI companies are looking a little different after going through renewal cycle.",
-      "ai_summary": "金城银行通过Apache Doris和Flink CDC将数据延迟从T+1降至2-3分钟，故障率下降80%，支撑2300+张表实时处理。",
+      "ai_summary": "AI公司经历更新周期后呈现新面貌。",
       "ai_tags": [
-        "Apache Doris",
-        "实时数据",
-        "银行",
-        "数据平台"
+        "AI",
+        "行业趋势"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -97,14 +91,12 @@
       "link": "https://stackoverflow.blog/2026/04/24/lights-camera-open-source/",
       "published_time": "2026-04-24 07:40:00",
       "raw_content": "Ryan is joined on the show by Cult.Repo producers Emma Tracey and Josiah McGarvie to discuss making documentaries about open-source software and the people behind the major technologies that uphold the internet.",
-      "ai_summary": "谷歌云推出Agents CLI工具，统一智能体开发流程，从本地原型到生产部署，解决工具链碎片化问题。",
+      "ai_summary": "采访纪录片制作人，讨论开源软件及其背后人物的纪录。",
       "ai_tags": [
-        "谷歌云",
-        "AI Agent",
-        "CLI",
-        "开发工具"
+        "开源",
+        "纪录片"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "stackoverflow_blog",
@@ -112,14 +104,13 @@
       "link": "https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/",
       "published_time": "2026-04-23 14:00:00",
       "raw_content": "Prompts go in, output comes out, and the decisions made in between are hidden from view.",
-      "ai_summary": "Anthropic研究显示AI更易影响高学历高收入人群，但实际覆盖有限，公司公开不利数据。",
+      "ai_summary": "AI工具黑箱决策导致设计漂移，中间决策不透明。",
       "ai_tags": [
-        "AI影响",
-        "职业",
-        "Anthropic",
-        "Claude"
+        "AI",
+        "设计决策",
+        "透明度"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -127,14 +118,13 @@
       "link": "https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/",
       "published_time": "2026-04-22 04:40:00",
       "raw_content": "Chase Roossin, group engineering manager, and Steven Kulesza, staff software engineer, from Intuit join the podcast to chat about what might be the hardest problem in engineering right now: getting multiple AI agents to work together in a complex system.",
-      "ai_summary": "亚马逊云科技宣布WorkMail停止服务，App Runner转入维护模式，引发社区讨论。",
+      "ai_summary": "讨论如何让多个AI代理在复杂系统中协同工作。",
       "ai_tags": [
-        "亚马逊云科技",
-        "服务终止",
-        "WorkMail",
-        "App Runner"
+        "AI代理",
+        "协作",
+        "规模化"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -142,14 +132,14 @@
       "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
       "published_time": "2026-04-21 07:40:00",
       "raw_content": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MLH’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
-      "ai_summary": "AICon大会将在上海举办，OPPO将分享全模态碎片化内容理解与智能整理实践。",
+      "ai_summary": "开发者社区仍重要，MLH收购DEV旨在创建共享知识平台，AI时代下程序员既是工匠也是建设者。",
       "ai_tags": [
-        "OPPO",
-        "AI",
-        "记忆",
-        "会议"
+        "开发者社区",
+        "MLH",
+        "DEV",
+        "AI工具"
       ],
-      "ai_importance": 2
+      "ai_importance": 4
     }
   ]
 }
