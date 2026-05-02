@@ -22,7 +22,3 @@ sources:
   - name: The Decoder
     url: https://the-decoder.com/feed/
     category: the_decoder
-
-  - name: VentureBeat AI
-    url: https://venturebeat.com/category/ai/feed
-    category: venturebeat_ai

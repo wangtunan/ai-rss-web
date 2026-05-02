@@ -41,8 +41,8 @@
   const navTypes = new Set<string>(Object.values(NavType))
   
   const routeNav = computed(() => {
-    const nav = route.query.nav
-    return typeof nav === 'string' && navTypes.has(nav) ? (nav as NavType) : NavType.Default
+    const nav = route.query.nav as string
+    return navTypes.has(nav) ? (nav as NavType) : NavType.Selected
   })
   const activeNav = ref<NavType>(routeNav.value)
 

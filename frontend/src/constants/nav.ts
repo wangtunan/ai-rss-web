@@ -3,10 +3,6 @@ import { NavType } from '@/types/nav'
 
 export const NAV_LIST: NavItem[] = [
   {
-    key: NavType.Default,
-    label: '全部',
-  },
-  {
     key: NavType.Selected,
     label: '精选',
   },
@@ -19,10 +15,6 @@ export const NAV_LIST: NavItem[] = [
     label: '社区',
   },
   {
-    key: NavType.Blog,
-    label: '博客',
-  },
-  {
     key: NavType.InnerNews,
     label: '国内新闻',
   },
@@ -33,5 +25,9 @@ export const NAV_LIST: NavItem[] = [
   {
     key: NavType.Finance,
     label: '财经',
+  },
+  {
+    key: NavType.Blog,
+    label: '博客',
   },
 ]
