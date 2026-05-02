@@ -1,0 +1,13 @@
+sources:
+  - name: Hacker News
+    url: https://hnrss.org/best
+    category: hacker_news
+  
+  - name: V2EX
+    url: https://rsshub.rssforever.com/v2ex/topics/hot
+    category: v2ex
+  
+  - name: 掘金
+    url: https://rsshub.bestblogs.dev/juejin/trending/all/weekly
+    category: juejin
+  

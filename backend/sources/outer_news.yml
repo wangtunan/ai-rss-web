@@ -1,0 +1,16 @@
+sources:
+  - name: 路透社
+    url: https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen
+    category: reuters
+  
+  - name: BBC News
+    url: https://feeds.bbci.co.uk/news/rss.xml
+    category: bbc_news
+  
+  - name: 华尔街见闻
+    url: https://dedicated.wallstreetcn.com/rss.xml
+    category: wsj
+  
+  - name: Financial Times 中文网
+    url: https://www.ftchinese.com/rss/news
+    category: ft_chinese

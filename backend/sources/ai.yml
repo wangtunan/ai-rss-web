@@ -1,0 +1,28 @@
+sources:
+  - name: OpenAI
+    url: https://www.openai.com/blog/rss.xml
+    category: openai
+  
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    category: hugging_face
+  
+  - name: Anthropic
+    url: https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US%3Aen
+    category: anthropic
+
+  - name: Google AI
+    url: https://blog.google/technology/ai/rss/
+    category: google_ai
+
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+    category: mit_technology_ai
+
+  - name: The Decoder
+    url: https://the-decoder.com/feed/
+    category: the_decoder
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed
+    category: venturebeat_ai

@@ -1,7 +1,8 @@
 export enum NavType {
   Community = 'community',
   AI = 'ai',
-  News = 'news',
+  OuterNews = 'outer_news',
+  InnerNews = 'inner_news',
   Blog = 'blog',
   Finance = 'finance',
   Default = 'default',

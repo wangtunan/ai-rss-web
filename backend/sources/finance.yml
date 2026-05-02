@@ -1,0 +1,12 @@
+sources:
+  - name: 财联社
+    url: https://rsshub.rssforever.com/cls/telegraph
+    category: cls
+
+  - name: 雪球
+    url: https://xueqiu.com/hots/topic/rss
+    category: xueqiu
+  
+  - name: 36氪
+    url: https://36kr.com/feed
+    category: 36kr

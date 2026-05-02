@@ -1,0 +1,11 @@
+sources:
+  - name: InfoQ
+    url: https://plink.anyfeeder.com/infoq/recommend
+    category: infoq
+  - name: 联合早报
+    url: https://plink.anyfeeder.com/zaobao/realtime/china
+    category: zaobao_china
+  
+  - name: 中国新闻网
+    url: https://www.chinanews.com.cn/rss/importnews.xml
+    category: chinanews
