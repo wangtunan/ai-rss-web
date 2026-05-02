@@ -65,8 +65,6 @@ export type CuratedPeriod = 'today' | 'week'
 export interface CuratedNewsRequest {
   /** 时间范围 */
   period: CuratedPeriod
-  /** 分类范围 */
-  scope?: string
   /** 每页条数 */
   limit?: number
   /** 偏移量 */
@@ -76,8 +74,6 @@ export interface CuratedNewsRequest {
 export interface CuratedNewsResponse extends NewsListResponse {
   /** 时间范围 */
   period: CuratedPeriod
-  /** 分类范围 */
-  scope: string
 }
 
 export interface CategoryMeta {

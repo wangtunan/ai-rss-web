@@ -1,11 +1,11 @@
 import argparse
 import sys
 
-from app.services.ingest_service import cron_fetch_news
+from app.services.ingest_service import fetch_news_to_db
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Fetch RSS news and export static JSON.")
+    parser = argparse.ArgumentParser(description="Fetch RSS news and store into the configured database.")
     parser.add_argument("--max-entries", type=int, default=20, help="Max entries per source")
     parser.add_argument(
         "--source-file",
@@ -17,9 +17,9 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        cron_fetch_news(max_entries=args.max_entries, source_files=[*args.source_file, *args.source_files])
+        fetch_news_to_db(max_entries=args.max_entries, source_files=[*args.source_file, *args.source_files])
     except Exception as e:
-        print(f"[cron_fetch_news] failed: {e}", file=sys.stderr)
+        print(f"[fetch_news_to_db] failed: {e}", file=sys.stderr)
         sys.exit(1)
 
 

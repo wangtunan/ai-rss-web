@@ -26,11 +26,7 @@ def upgrade() -> None:
     columns = {column["name"] for column in inspector.get_columns("news_items")}
 
     if "ingest_date" not in columns:
-        if bind.dialect.name == "sqlite":
-            op.add_column("news_items", sa.Column("ingest_date", sa.Date(), nullable=True))
-            op.execute("UPDATE news_items SET ingest_date = CURRENT_DATE WHERE ingest_date IS NULL")
-        else:
-            op.add_column("news_items", sa.Column("ingest_date", sa.Date(), server_default=sa.text("CURRENT_DATE"), nullable=False))
+        op.add_column("news_items", sa.Column("ingest_date", sa.Date(), server_default=sa.text("CURRENT_DATE"), nullable=False))
 
     indexes = {index["name"] for index in inspector.get_indexes("news_items")}
     if op.f("ix_news_items_ingest_date") not in indexes:
