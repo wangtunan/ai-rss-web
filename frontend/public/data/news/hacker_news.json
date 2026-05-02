@@ -5,29 +5,69 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "published_time": "2026-05-01 16:08:53",
-      "raw_content": "<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 372</p>\n<p># Comments: 432</p>",
-      "ai_summary": "Uber在四个月内将2026年全部AI预算用于Anthropic的Claude Code，引发讨论。",
+      "title": "Ask.com has closed",
+      "link": "https://www.ask.com/",
+      "published_time": "2026-05-02 04:12:35",
+      "raw_content": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 240</p>\n<p># Comments: 125</p>",
+      "ai_summary": "问答网站Ask.com宣布关闭。",
       "ai_tags": [
-        "AI",
-        "Uber",
-        "财务"
+        "Ask.com",
+        "关闭"
       ],
-      "ai_importance": 5
+      "ai_importance": 3
     },
     {
       "category": "hacker_news",
       "title": "Apple accidentally left Claude.md files Apple Support app",
       "link": "https://x.com/aaronp613/status/2049986504617820551",
       "published_time": "2026-05-01 11:08:32",
-      "raw_content": "<p><a href=\"https://xcancel.com/aaronp613/status/2049986504617820551\" rel=\"nofollow\">https://xcancel.com/aaronp613/status/2049986504617820551</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973378\">https://news.ycombinator.com/item?id=47973378</a></p>\n<p>Points: 367</p>\n<p># Comments: 304</p>",
-      "ai_summary": "Apple在Apple Support应用中意外留入了Claude.md配置文件，暗示内部使用AI。",
+      "raw_content": "<p><a href=\"https://xcancel.com/aaronp613/status/2049986504617820551\" rel=\"nofollow\">https://xcancel.com/aaronp613/status/2049986504617820551</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973378\">https://news.ycombinator.com/item?id=47973378</a></p>\n<p>Points: 371</p>\n<p># Comments: 310</p>",
+      "ai_summary": "苹果在Apple支持应用中意外包含Claude.md文件，引发隐私关注。",
       "ai_tags": [
-        "Apple",
+        "苹果",
+        "隐私泄露"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Grok 4.3",
+      "link": "https://docs.x.ai/developers/models/grok-4.3",
+      "published_time": "2026-05-01 08:29:31",
+      "raw_content": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 386</p>\n<p># Comments: 516</p>",
+      "ai_summary": "xAI发布Grok 4.3模型，详情可查阅文档，讨论热烈。",
+      "ai_tags": [
         "AI",
-        "意外泄露"
+        "模型发布"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "published_time": "2026-05-01 17:47:42",
+      "raw_content": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 326</p>\n<p># Comments: 189</p>",
+      "ai_summary": "新研究显示人在做梦时能够进行沟通和技能练习。",
+      "ai_tags": [
+        "梦境",
+        "睡眠学习",
+        "研究"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "published_time": "2026-05-01 16:08:53",
+      "raw_content": "<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 379</p>\n<p># Comments: 448</p>",
+      "ai_summary": "Uber在四个月内将2026年AI预算全部用于Claude Code。",
+      "ai_tags": [
+        "Uber",
+        "AI",
+        "预算",
+        "Claude"
       ],
       "ai_importance": 4
     },
@@ -36,26 +76,53 @@
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
       "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "published_time": "2026-05-01 18:37:47",
-      "raw_content": "<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 327</p>\n<p># Comments: 94</p>",
-      "ai_summary": "城市发现Flock公司未经授权访问儿童体操室摄像头作为销售演示，但仍续约合同。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 399</p>\n<p># Comments: 103</p>",
+      "ai_summary": "Flock公司以销售演示为由访问儿童体操房摄像头，城市知情后仍续约。",
       "ai_tags": [
         "隐私",
         "监控",
-        "安全"
+        "儿童安全"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "The gay jailbreak technique",
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "link": "https://news.ycombinator.com/item?id=47975571",
+      "published_time": "2026-05-01 15:00:07",
+      "raw_content": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job",
+      "ai_summary": "Hacker News发布2026年5月招聘帖，要求公司直招并注明地点及远程或现场工作形式。",
+      "ai_tags": [
+        "招聘",
+        "远程工作"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "link": "https://github.com/darrylmorley/whatcable",
+      "published_time": "2026-05-01 08:43:45",
+      "raw_content": "<p>USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.<p>WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.<p>Built in Swift/SwiftUI. Open source, free, no tracking.<p>GitHub: <a href=\"https://github.com/darrylmorley/whatcable\" rel=\"nofollow\">ht",
+      "ai_summary": "开源免费应用WhatCable，通过读取Mac数据，在菜单栏显示USB-C线缆的充电功率、数据传输速度等能力。",
+      "ai_tags": [
+        "USB-C",
+        "工具",
+        "开源"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "The gay jailbreak technique (2025)",
       "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "published_time": "2026-05-01 16:59:35",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\">https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977134\">https://news.ycombinator.com/item?id=47977134</a></p>\n<p>Points: 410</p>\n<p># Comments: 158</p>",
-      "ai_summary": "一种名为'同性恋越狱'的新方法声称能绕过AI内容限制。",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\">https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977134\">https://news.ycombinator.com/item?id=47977134</a></p>\n<p>Points: 517</p>\n<p># Comments: 212</p>",
+      "ai_summary": "一种名为“同性恋越狱”的AI越狱技术被公开。",
       "ai_tags": [
-        "AI",
-        "安全",
-        "越狱"
+        "AI安全",
+        "越狱",
+        "LGBTQ+"
       ],
       "ai_importance": 4
     },
@@ -64,83 +131,14 @@
       "title": "Ti-84 Evo",
       "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
       "published_time": "2026-05-01 20:06:59",
-      "raw_content": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 337</p>\n<p># Comments: 315</p>",
-      "ai_summary": "德州仪器推出新款Ti-84 Evo图形计算器，功能升级。",
+      "raw_content": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 435</p>\n<p># Comments: 373</p>",
+      "ai_summary": "德州仪器发布新款Ti-84 Evo图形计算器。",
       "ai_tags": [
-        "科技",
         "计算器",
-        "教育"
+        "德州仪器",
+        "Ti-84"
       ],
       "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Grok 4.3",
-      "link": "https://docs.x.ai/developers/models/grok-4.3",
-      "published_time": "2026-05-01 08:29:31",
-      "raw_content": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 381</p>\n<p># Comments: 508</p>",
-      "ai_summary": "xAI发布Grok 4.3模型，引发社区广泛讨论。",
-      "ai_tags": [
-        "AI",
-        "模型",
-        "xAI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "AI uses less water than the public thinks",
-      "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "published_time": "2026-05-01 17:18:58",
-      "raw_content": "<p>Article URL: <a href=\"https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/\">https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977383\">https://news.ycombinator.com/item?id=47977383</a></p>\n<p>Points: 352</p>\n<p># Comments: 312</p>",
-      "ai_summary": "文章指出AI的实际用水量远低于公众普遍认为的水平。",
-      "ai_tags": [
-        "AI",
-        "环境",
-        "水资源"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "published_time": "2026-05-01 17:47:42",
-      "raw_content": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 265</p>\n<p># Comments: 142</p>",
-      "ai_summary": "新研究表明人在梦境中可以进行交流并练习技能。",
-      "ai_tags": [
-        "睡眠",
-        "学习",
-        "研究"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Your website is not for you",
-      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "published_time": "2026-05-01 11:08:20",
-      "raw_content": "<p>Article URL: <a href=\"https://websmith.studio/blog/your-website-is-not-for-you/\">https://websmith.studio/blog/your-website-is-not-for-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973376\">https://news.ycombinator.com/item?id=47973376</a></p>\n<p>Points: 245</p>\n<p># Comments: 176</p>",
-      "ai_summary": "文章指出网站应以用户为中心，而非开发者个人偏好，强调用户体验的重要性。",
-      "ai_tags": [
-        "设计",
-        "用户体验"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "hacker_news",
-      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-      "link": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-      "published_time": "2026-05-01 16:17:55",
-      "raw_content": "<p>Article URL: <a href=\"https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/\">https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976529\">https://news.ycombinator.com/item?id=47976529</a></p>\n<p>Points: 246</p>\n<p># Comments: 103</p>",
-      "ai_summary": "警察使用车牌读取器至少14次跟踪个人浪漫关系，引发隐私担忧。",
-      "ai_tags": [
-        "隐私",
-        "执法",
-        "滥用"
-      ],
-      "ai_importance": 3
     }
   ]
 }

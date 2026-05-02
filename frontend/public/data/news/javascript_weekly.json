@@ -9,10 +9,10 @@
       "link": "https://javascriptweekly.com/issues/783",
       "published_time": "2026-04-28 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​783 — April 28, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/184459/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "介绍JavaScript最新动态及未来即将推出的新特性。",
+      "ai_summary": "JavaScript Weekly 第783期，介绍JavaScript的最新变化和未来发展方向。",
       "ai_tags": [
         "JavaScript",
-        "语言更新"
+        "前沿技术"
       ],
       "ai_importance": 3
     },
@@ -22,10 +22,11 @@
       "link": "https://javascriptweekly.com/issues/782",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​782 — April 21, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/184040/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "HyperFrames工具允许使用HTML和JavaScript创建视频内容。",
+      "ai_summary": "HyperFrames 允许使用 HTML 和 JavaScript 创建视频，JavaScript Weekly 第782期介绍。",
       "ai_tags": [
         "JavaScript",
-        "工具"
+        "视频制作",
+        "HyperFrames"
       ],
       "ai_importance": 2
     },
@@ -35,13 +36,14 @@
       "link": "https://javascriptweekly.com/issues/781",
       "published_time": "2026-04-14 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​781 — April 14, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183753/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScrip",
-      "ai_summary": "MDN前端重构中弃用React，改用Web Components技术。",
+      "ai_summary": "MDN 在前端重构中放弃 React，转向使用 Web Components，JavaScript Weekly 第781期报道。",
       "ai_tags": [
         "MDN",
+        "React",
         "Web Components",
-        "React"
+        "前端"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "javascript_weekly",
@@ -49,9 +51,10 @@
       "link": "https://javascriptweekly.com/issues/780",
       "published_time": "2026-04-07 00:00:00",
       "raw_content": "<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  <div>    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr>\n<td align=\"left\"><p>#​780 — April 7, 2026</p></td>\n<td align=\"right\"><p><a href=\"https://javascriptweekly.com/link/183301/rss\" style=\"color: #3366aa;\">Read on the Web</a></p></td>\n</tr></table>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td></td></tr></table>\n    \n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td><p>JavaScript",
-      "ai_summary": "总结2026年JavaScript开发者需要关注的重要变化和趋势。",
+      "ai_summary": "JavaScript Weekly 第780期介绍2026年JavaScript的发展趋势和重要变化。",
       "ai_tags": [
         "JavaScript",
+        "年度总结",
         "趋势"
       ],
       "ai_importance": 3

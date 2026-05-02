@@ -5,17 +5,30 @@
   "items": [
     {
       "category": "xueqiu",
-      "title": "从 InP 紧缺看 1.6T 光模块：硅光路线的供给优势正在凸显",
-      "link": "http://xueqiu.com/4790816824/386955483",
-      "published_time": "2026-05-01 07:14:57",
+      "title": "在阳光电源上犯的三个错误，以及我的一个决定",
+      "link": "http://xueqiu.com/1064302270/386950163",
+      "published_time": "2026-05-01 07:14:29",
       "raw_content": "",
-      "ai_summary": "从InP紧缺看，硅光路线在1.6T光模块中供给优势凸显。",
+      "ai_summary": "作者反思在阳光电源投资中犯的三个错误，并做出一个决定。",
       "ai_tags": [
-        "光模块",
-        "硅光",
-        "1.6T"
+        "阳光电源",
+        "投资反思"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "xueqiu",
+      "title": "AI时代，数字生活基础设施尚能饭否？",
+      "link": "http://xueqiu.com/9742512811/386951187",
+      "published_time": "2026-05-01 13:13:05",
+      "raw_content": "",
+      "ai_summary": "探讨在AI时代，数字生活基础设施的发展现状与面临的挑战。",
+      "ai_tags": [
+        "AI",
+        "数字生活",
+        "基础设施"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "xueqiu",
@@ -26,7 +39,6 @@
       "ai_summary": "浅谈世纪华通的成长性和估值情况。",
       "ai_tags": [
         "世纪华通",
-        "游戏",
         "估值"
       ],
       "ai_importance": 3
@@ -37,53 +49,12 @@
       "link": "http://xueqiu.com/8682679944/386914903",
       "published_time": "2026-05-01 07:14:41",
       "raw_content": "",
-      "ai_summary": "作者认真审视了五粮液的财报表现。",
+      "ai_summary": "作者认真分析了五粮液的财报，可能涉及业绩、估值等方面。",
       "ai_tags": [
         "五粮液",
-        "财报",
-        "白酒"
+        "财报分析"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "在阳光电源上犯的三个错误，以及我的一个决定",
-      "link": "http://xueqiu.com/1064302270/386950163",
-      "published_time": "2026-05-01 07:14:29",
-      "raw_content": "",
-      "ai_summary": "作者总结在阳光电源投资中犯的三个错误及后续决定。",
-      "ai_tags": [
-        "阳光电源",
-        "光伏",
-        "投资反思"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "AI时代，数字生活基础设施尚能饭否？",
-      "link": "http://xueqiu.com/9742512811/386951187",
-      "published_time": "2026-05-01 13:13:05",
-      "raw_content": "",
-      "ai_summary": "讨论AI时代数字生活基础设施的现状。",
-      "ai_tags": [
-        "AI",
-        "基础设施"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "xueqiu",
-      "title": "2025年暨26Q1归母净利润初析",
-      "link": "http://xueqiu.com/6146592061/386949593",
-      "published_time": "2026-05-01 13:12:37",
-      "raw_content": "",
-      "ai_summary": "2025年及2026Q1归母净利润初步分析。",
-      "ai_tags": [
-        "财务分析",
-        "净利润"
-      ],
-      "ai_importance": 2
     },
     {
       "category": "xueqiu",
@@ -91,10 +62,40 @@
       "link": "http://xueqiu.com/5241127869/386778024",
       "published_time": "2026-05-01 13:13:34",
       "raw_content": "",
-      "ai_summary": "分众传媒2025年年报和2026年一季报分析。",
+      "ai_summary": "对分众传媒2025年年报及2026年一季报的财务数据进行分析。",
       "ai_tags": [
+        "分众传媒",
         "财报",
-        "分众传媒"
+        "股票分析"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "从 InP 紧缺看 1.6T 光模块：硅光路线的供给优势正在凸显",
+      "link": "http://xueqiu.com/4790816824/386955483",
+      "published_time": "2026-05-01 07:14:57",
+      "raw_content": "",
+      "ai_summary": "分析在InP材料紧缺背景下，硅光路线在1.6T光模块中的供给优势。",
+      "ai_tags": [
+        "光模块",
+        "InP",
+        "硅光",
+        "供给"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
+      "title": "2025年暨26Q1归母净利润初析",
+      "link": "http://xueqiu.com/6146592061/386949593",
+      "published_time": "2026-05-01 13:12:37",
+      "raw_content": "",
+      "ai_summary": "初步分析2025年全年及2026年第一季度归母净利润情况。",
+      "ai_tags": [
+        "净利润",
+        "财报分析",
+        "投资"
       ],
       "ai_importance": 2
     },
@@ -104,26 +105,27 @@
       "link": "http://xueqiu.com/1936609590/386927404",
       "published_time": "2026-05-01 13:12:01",
       "raw_content": "",
-      "ai_summary": "讨论估值与状态的关系。",
+      "ai_summary": "讨论市场最佳状态与最低估值同时出现时的矛盾逻辑。",
       "ai_tags": [
-        "投资",
-        "估值"
+        "市场估值",
+        "投资逻辑",
+        "状态"
       ],
       "ai_importance": 2
     },
     {
       "category": "xueqiu",
-      "title": "capex史诗级狂飙！算力就是20年前的房地产，这轮明牌造富比你想象的更凶猛",
-      "link": "http://xueqiu.com/1545503181/386719782",
-      "published_time": "2026-04-30 09:20:38",
+      "title": "创业板50新高：点位、估值与波动（04.30）",
+      "link": "http://xueqiu.com/9391624441/386745698",
+      "published_time": "2026-04-30 09:19:34",
       "raw_content": "",
-      "ai_summary": "资本开支史诗级增长，算力被视为20年前的房地产，明牌造富。",
+      "ai_summary": "创业板50指数创历史新高，分析其点位、估值和波动情况。",
       "ai_tags": [
-        "算力",
-        "资本开支",
-        "AI基建"
+        "创业板50",
+        "股市",
+        "新高"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "xueqiu",
@@ -131,11 +133,11 @@
       "link": "http://xueqiu.com/7673611233/386711023",
       "published_time": "2026-04-30 09:20:00",
       "raw_content": "",
-      "ai_summary": "对美股五大科技企业2026年Q1财报进行全面分析。",
+      "ai_summary": "对美股五大科技企业2026年第一季度财报进行全面分析。",
       "ai_tags": [
         "美股",
-        "科技",
-        "财报"
+        "科技股",
+        "财报分析"
       ],
       "ai_importance": 4
     }

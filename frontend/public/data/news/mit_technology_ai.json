@@ -9,41 +9,14 @@
       "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "published_time": "2026-05-01 22:08:19",
       "raw_content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
-      "ai_summary": "马斯克在庭审中声称被奥特曼欺骗，警告AI可能毁灭人类，并承认xAI蒸馏了OpenAI的模型。",
+      "ai_summary": "马斯克在OpenAI诉讼第一周出庭作证，声称被奥特曼和布罗克曼欺骗而投资，并警告AI可能毁灭人类，同时承认其公司xAI蒸馏了OpenAI的模型。",
       "ai_tags": [
+        "AI",
+        "法律",
         "马斯克",
-        "OpenAI",
-        "庭审",
-        "AI风险"
+        "OpenAI"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Cyber-Insecurity in the AI Era",
-      "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "published_time": "2026-05-01 15:54:01",
-      "raw_content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
-      "ai_summary": "AI时代网络安全面临新挑战，传统方法不足以应对，需重新思考以AI为核心的安全。",
-      "ai_tags": [
-        "网络安全",
-        "AI"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "published_time": "2026-05-01 15:31:09",
-      "raw_content": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
-      "ai_summary": "企业通过掌控自身数据定制AI，需平衡所有权与高质量数据流通。",
-      "ai_tags": [
-        "AI运营",
-        "数据主权",
-        "规模化"
-      ],
-      "ai_importance": 3
     },
     {
       "category": "mit_technology_ai",
@@ -51,11 +24,38 @@
       "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
       "published_time": "2026-05-01 09:00:00",
       "raw_content": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
-      "ai_summary": "美国推出首个面向基督徒的移动网络，在运营商层面屏蔽色情和性别相关内容。",
+      "ai_summary": "美国首个针对基督徒的手机网络推出，网络级屏蔽色情和性别相关内容，且成人用户无法关闭，引发争议。",
       "ai_tags": [
-        "手机网络",
-        "内容过滤",
-        "基督教"
+        "网络",
+        "宗教",
+        "内容过滤"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Cyber-Insecurity in the AI Era",
+      "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "published_time": "2026-05-01 15:54:01",
+      "raw_content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+      "ai_summary": "AI时代网络安全面临新挑战，攻击面扩大，传统方法失效，需将安全内嵌于AI核心而非事后补充。",
+      "ai_tags": [
+        "AI",
+        "网络安全"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "published_time": "2026-05-01 15:31:09",
+      "raw_content": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+      "ai_summary": "企业通过AI工厂掌控数据以定制AI，需平衡数据所有权与安全流动，实现规模化、可持续性和治理。",
+      "ai_tags": [
+        "AI",
+        "数据治理",
+        "企业"
       ],
       "ai_importance": 3
     },
@@ -65,11 +65,11 @@
       "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
       "published_time": "2026-04-30 15:59:41",
       "raw_content": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
-      "ai_summary": "初创公司Goodfire发布工具Silico，可在训练过程中调整模型参数，提供细粒度控制。",
+      "ai_summary": "初创公司Goodfire发布可解释性工具Silico，允许研究人员在训练中调整LLM参数，实现更细粒度控制。",
       "ai_tags": [
+        "AI",
         "可解释性",
-        "LLM",
-        "调试"
+        "创业"
       ],
       "ai_importance": 4
     },
@@ -79,27 +79,14 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published_time": "2026-04-27 22:52:57",
       "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "马斯克与奥特曼就OpenAI未来走向对簿公堂，案件可能影响OpenAI的IPO和营利性质。",
+      "ai_summary": "马斯克诉奥特曼案开庭，将决定OpenAI能否以营利企业形式存在，并影响其即将到来的IPO。",
       "ai_tags": [
-        "马斯克",
+        "AI",
+        "法律",
         "OpenAI",
-        "诉讼"
+        "马斯克"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "The missing step between hype and profit",
-      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "published_time": "2026-04-27 16:13:41",
-      "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
-      "ai_summary": "探讨AI从炒作到盈利之间缺失的一环，批判AI泡沫。",
-      "ai_tags": [
-        "AI商业",
-        "盈利",
-        "炒作"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "mit_technology_ai",
@@ -107,13 +94,26 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
       "published_time": "2026-04-27 13:00:00",
       "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
-      "ai_summary": "企业部署AI面临数据基础设施的障碍，需重建数据栈以支持规模化AI。",
+      "ai_summary": "企业部署AI的最大障碍是数据基础设施不足，需重建数据栈以支撑规模化AI应用。",
       "ai_tags": [
-        "数据栈",
-        "AI部署",
+        "AI",
+        "数据",
         "企业"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "The missing step between hype and profit",
+      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "published_time": "2026-04-27 16:13:41",
+      "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+      "ai_summary": "文章探讨AI领域从炒作到盈利之间缺失的环节，反思行业现状。",
+      "ai_tags": [
+        "AI",
+        "商业"
+      ],
+      "ai_importance": 2
     },
     {
       "category": "mit_technology_ai",
@@ -121,9 +121,9 @@
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published_time": "2026-04-24 21:40:58",
       "raw_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
-      "ai_summary": "DeepSeek发布V4模型，支持更长上下文，开源，性能提升。",
+      "ai_summary": "DeepSeek发布V4模型预览，支持更长提示且保持开源，具有重要技术意义。",
       "ai_tags": [
-        "DeepSeek",
+        "AI",
         "开源",
         "大模型"
       ],
@@ -135,11 +135,11 @@
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published_time": "2026-04-22 10:05:06",
       "raw_content": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
-      "ai_summary": "AI在企业中快速应用，需要强大的数据架构来确保数据质量和治理。",
+      "ai_summary": "AI要交付商业价值需要强大的数据架构（数据编织）支撑，企业正加速采用AI但数据仍是关键。",
       "ai_tags": [
-        "数据架构",
         "AI",
-        "企业价值"
+        "数据",
+        "企业"
       ],
       "ai_importance": 3
     }

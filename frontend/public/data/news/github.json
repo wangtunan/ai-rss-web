@@ -9,7 +9,7 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
       "published_time": "2026-04-30 16:09:02",
       "raw_content": "<p>Learn the difference between CLI interactive v. non-interactive modes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/\">GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "介绍 GitHub Copilot CLI 的交互式与非交互式模式的区别。",
+      "ai_summary": "介绍GitHub Copilot CLI的交互式与非交互模式的区别，适合初学者。",
       "ai_tags": [
         "GitHub Copilot",
         "CLI",
@@ -23,11 +23,10 @@
       "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "published_time": "2026-04-28 15:30:00",
       "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub 描述如何快速验证、修复并调查一个严重的远程代码执行漏洞，确认未被利用。",
+      "ai_summary": "GitHub如何在两小时内验证、修复并调查一个关键的远程代码执行漏洞，确认未被利用。",
       "ai_tags": [
         "安全",
-        "漏洞",
-        "远程代码执行"
+        "漏洞修复"
       ],
       "ai_importance": 5
     },
@@ -37,13 +36,12 @@
       "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
       "published_time": "2026-04-28 10:01:37",
       "raw_content": "<p>Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">An update on GitHub availability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub 分享其为提升平台可用性和可靠性所做的改进。",
+      "ai_summary": "GitHub已采取并将持续采取改进可用性和可靠性的措施。",
       "ai_tags": [
-        "GitHub",
         "可用性",
         "可靠性"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "github",
@@ -51,13 +49,12 @@
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
       "published_time": "2026-04-28 18:00:00",
       "raw_content": "<p>Discover how to format and edit your comments and posts using Markdown.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/\">GitHub for Beginners: Getting started with Markdown</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "解释如何使用 Markdown 格式化评论和帖子，适合 GitHub 新手。",
+      "ai_summary": "面向初学者的Markdown格式化与编辑入门指南。",
       "ai_tags": [
         "Markdown",
-        "初学者",
-        "GitHub"
+        "教程"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "github",
@@ -65,25 +62,10 @@
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "published_time": "2026-04-27 15:58:22",
       "raw_content": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub Copilot 将于6月1日起改为基于使用量的计费模式，消耗 AI Credits。",
+      "ai_summary": "自6月1日起，GitHub Copilot将转为基于使用量的计费，消耗AI Credits。",
       "ai_tags": [
-        "GitHub Copilot",
-        "计费",
-        "使用量"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "github",
-      "title": "Changes to GitHub Copilot Individual plans",
-      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-      "published_time": "2026-04-20 18:15:28",
-      "raw_content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub 调整 Copilot 个人计划，以确保现有客户获得可靠且可预测的体验。",
-      "ai_tags": [
-        "GitHub Copilot",
-        "个人计划",
-        "变更"
+        "Copilot",
+        "计费变更"
       ],
       "ai_importance": 4
     },
@@ -93,11 +75,23 @@
       "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
       "published_time": "2026-04-20 16:43:57",
       "raw_content": "<p>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "介绍 Git 2.54 版本中的新功能和变更。",
+      "ai_summary": "介绍Git 2.54版本中一些最有趣的特性和变更。",
       "ai_tags": [
         "Git",
-        "版本更新",
-        "新功能"
+        "版本更新"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "github",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "published_time": "2026-04-20 18:15:28",
+      "raw_content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "ai_summary": "GitHub Copilot个人计划变更，旨在为现有客户确保可靠且可预测的体验。",
+      "ai_tags": [
+        "Copilot",
+        "计划变更"
       ],
       "ai_importance": 3
     },
@@ -107,10 +101,9 @@
       "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
       "published_time": "2026-04-17 16:00:00",
       "raw_content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub 更新状态页面以提供更具体的数据，增强平台健康度的透明度。",
+      "ai_summary": "GitHub状态页面更新，提供更具体的数据以增强平台健康度的透明度。",
       "ai_tags": [
-        "GitHub",
-        "状态页",
+        "状态页面",
         "透明度"
       ],
       "ai_importance": 3
@@ -121,12 +114,11 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
       "published_time": "2026-04-17 18:00:00",
       "raw_content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "展示如何使用 GitHub Copilot CLI 创建一个表情符号列表生成器。",
+      "ai_summary": "展示如何使用GitHub Copilot CLI在直播中创建一个表情符号列表生成器。",
       "ai_tags": [
-        "GitHub Copilot",
+        "Copilot",
         "CLI",
-        "表情符号",
-        "项目"
+        "示例"
       ],
       "ai_importance": 2
     },
@@ -136,12 +128,10 @@
       "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
       "published_time": "2026-04-16 16:00:00",
       "raw_content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub 说明如何使用 eBPF 检测并防止部署工具中的循环依赖，提高部署安全性。",
+      "ai_summary": "GitHub使用eBPF检测并防止部署工具中的循环依赖，提高部署安全性。",
       "ai_tags": [
         "eBPF",
-        "部署",
-        "安全",
-        "依赖检测"
+        "部署安全"
       ],
       "ai_importance": 4
     }
