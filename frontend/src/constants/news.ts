@@ -3,6 +3,7 @@ import { NavType } from '@/types/nav'
 
 export const MAX_ITEMS_PER_CATEGORY = 10
 
+// AI 分类元信息
 export const AI_CATEGORY_META: Record<string, CategoryMeta> = {
   openai: {
     label: 'OpenAI 官方动态',
@@ -14,6 +15,12 @@ export const AI_CATEGORY_META: Record<string, CategoryMeta> = {
     label: 'Hugging Face 动态',
     subtitle: 'Hugging Face',
     icon: '/logo/hugging_face.ico',
+    belong_to: [NavType.AI],
+  },
+  anthropic: {
+    label: 'Anthropic 动态',
+    subtitle: 'Anthropic',
+    icon: '/logo/anthropic.png',
     belong_to: [NavType.AI],
   },
   google_ai: {
@@ -42,6 +49,7 @@ export const AI_CATEGORY_META: Record<string, CategoryMeta> = {
   },
 }
 
+// Community 分类元信息
 export const COMMUNITY_CATEGORY_META: Record<string, CategoryMeta> = {
   hacker_news: {
     label: 'Hacker News 热榜',
@@ -63,6 +71,7 @@ export const COMMUNITY_CATEGORY_META: Record<string, CategoryMeta> = {
   },
 }
 
+// Blog 分类元信息
 export const BLOG_CATEGORY_META: Record<string, CategoryMeta> = {
   stackoverflow_blog: {
     label: 'Stack Overflow Blog',
@@ -90,45 +99,57 @@ export const BLOG_CATEGORY_META: Record<string, CategoryMeta> = {
   },
 }
 
-export const NEWS_CATEGORY_META: Record<string, CategoryMeta> = {
+// 国内新闻 分类元信息
+export const INNER_NEWS_CATEGORY_META: Record<string, CategoryMeta> = {
+  chinanews: {
+    label: '中国新闻网',
+    subtitle: '中国新闻网',
+    icon: '/logo/chinanews.png',
+    belong_to: [NavType.InnerNews],
+  },
   infoq: {
     label: 'InfoQ',
     subtitle: 'InfoQ',
     icon: '/logo/infoq.webp',
-    belong_to: [NavType.News],
-  },
-  wsj: {
-    label: '华尔街见闻',
-    subtitle: '华尔街见闻',
-    icon: '/logo/wsj.png',
-    belong_to: [NavType.News],
-  },
-  ft_chinese: {
-    label: 'Financial Times 中文网',
-    subtitle: 'FT 中文网',
-    icon: '/logo/ft.png',
-    belong_to: [NavType.News],
+    belong_to: [NavType.InnerNews],
   },
   zaobao_china: {
     label: '联合早报',
     subtitle: '联合早报',
     icon: '/logo/zaobao_china.ico',
-    belong_to: [NavType.News],
-  },
-  '36kr': {
-    label: '36氪',
-    subtitle: '36氪',
-    icon: '/logo/36kr.ico',
-    belong_to: [NavType.News],
+    belong_to: [NavType.InnerNews],
+  }
+}
+
+// 海外新闻 分类元信息
+export const OUTER_NEWS_CATEGORY_META: Record<string, CategoryMeta> = {
+  reuters: {
+    label: '路透社',
+    subtitle: '路透社',
+    icon: '/logo/reuters.png',
+    belong_to: [NavType.OuterNews],
   },
   bbc_news: {
     label: 'BBC News',
     subtitle: 'BBC News',
     icon: '/logo/bbs.png',
-    belong_to: [NavType.News],
+    belong_to: [NavType.OuterNews],
+  },
+  wsj: {
+    label: '华尔街见闻',
+    subtitle: '华尔街见闻',
+    icon: '/logo/wsj.png',
+    belong_to: [NavType.OuterNews],
+  },
+  ft_chinese: {
+    label: 'Financial Times 中文网',
+    subtitle: 'FT 中文网',
+    icon: '/logo/ft.png',
+    belong_to: [NavType.OuterNews],
   },
 }
 
+// Finance 分类元信息
 export const FINANCE_CATEGORY_META: Record<string, CategoryMeta> = {
   cls: {
     label: '财联社',
@@ -154,7 +175,8 @@ export const CATEGORY_META: Record<string, CategoryMeta> = {
   ...AI_CATEGORY_META,
   ...COMMUNITY_CATEGORY_META,
   ...BLOG_CATEGORY_META,
-  ...NEWS_CATEGORY_META,
+  ...INNER_NEWS_CATEGORY_META,
+  ...OUTER_NEWS_CATEGORY_META,
   ...FINANCE_CATEGORY_META,
 }
 

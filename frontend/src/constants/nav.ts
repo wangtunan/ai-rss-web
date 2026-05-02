@@ -23,8 +23,12 @@ export const NAV_LIST: NavItem[] = [
     label: '博客',
   },
   {
-    key: NavType.News,
-    label: '新闻',
+    key: NavType.InnerNews,
+    label: '国内新闻',
+  },
+  {
+    key: NavType.OuterNews,
+    label: '海外新闻',
   },
   {
     key: NavType.Finance,

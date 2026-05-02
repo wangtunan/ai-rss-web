@@ -1,0 +1,7 @@
+include:
+  - ai.yml
+  - blog.yml
+  - community.yml
+  - finance.yml
+  - inner_news.yml
+  - outer_news.yml
