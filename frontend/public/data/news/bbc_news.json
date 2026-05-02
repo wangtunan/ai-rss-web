@@ -5,151 +5,140 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "How MI5 foiled a Tesco worker's plan for mass gun attack",
-      "link": "https://www.bbc.com/news/articles/czxejvvk9qro?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 04:30:20",
-      "raw_content": "Police say Alfie Coleman appeared to be a normal teenager but was hiding a dark plan.",
-      "ai_summary": "MI5挫败了特斯科员工阿尔菲·科尔曼计划进行大规模枪击的阴谋，他表面看似正常。",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:41:43",
+      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "ai_summary": "特朗普告知国会，因停火协议存在，对伊朗的敌对行动已终止，因此无需国会授权。",
       "ai_tags": [
-        "恐怖袭击",
-        "MI5",
-        "特斯科",
-        "枪击"
+        "国际",
+        "政治",
+        "中东"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 08:41:52",
-      "raw_content": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "ai_summary": "化肥公司Yara老板警告称，伊朗冲突导致的化肥短缺可能减少作物产量并推高粮价，数十亿餐饭面临风险。",
+      "title": "The Papers:  'Burnham plans to return' and 'Four weeks from crunch'",
+      "link": "https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:29:37",
+      "raw_content": "Labour grandee Andy Burnham \"plans to return to Westminster\" and oil crunch looms lead Saturday's papers.",
+      "ai_summary": "英国工党资深人士安迪·伯纳姆计划重返威斯敏斯特，石油危机临近成为报纸头条。",
       "ai_tags": [
-        "伊朗",
-        "化肥",
-        "粮食危机",
-        "价格"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Newspaper headlines: 'PM vows to act' and 'Brace for more terror attacks'",
-      "link": "https://www.bbc.com/news/articles/clyp5v46q74o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 04:09:17",
-      "raw_content": "The main story for many of the papers continues to be the knife attack in Golders Green on Wednesday.",
-      "ai_summary": "报纸头条关注戈德斯格林持刀袭击事件，首相誓言采取行动，民众担忧更多恐怖袭击。",
-      "ai_tags": [
-        "恐怖袭击",
-        "持刀",
         "英国",
-        "首相"
+        "政治",
+        "经济"
       ],
-      "ai_importance": 5
+      "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
-      "link": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 02:39:06",
-      "raw_content": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
-      "ai_summary": "新视频显示特朗普晚宴枪击案中，枪手在四秒内冲过安保，警察开枪射击。",
+      "title": "Peter Kay show evacuated and man held after police investigate 'suspicious bag'",
+      "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:04:46",
+      "raw_content": "A 19-year-old man is in custody and the Birmingham site has been searched.",
+      "ai_summary": "彼得·凯的演出因可疑包裹被疏散，一名19岁男子被拘留。",
       "ai_tags": [
-        "特朗普",
-        "枪击",
-        "安保",
-        "视频"
+        "英国",
+        "社会",
+        "安全"
       ],
-      "ai_importance": 5
+      "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Why was Mudryk given ban in secret and what happens now?",
-      "link": "https://www.bbc.com/sport/football/articles/cqxpry93zv1o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 08:08:52",
-      "raw_content": "Chelsea winger Mykhailo Mudryk is appealing against a four-year doping ban but why has the process been kept secret, and what happens now?",
-      "ai_summary": "切尔西边锋穆德里克因四年禁药禁令提出上诉，但过程保密；分析原因及后续。",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 02:22:57",
+      "raw_content": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
+      "ai_summary": "美国法院限制通过邮寄获取堕胎药米非司酮，此举将影响药物流产这一最常见的堕胎方式。",
       "ai_tags": [
-        "足球",
-        "穆德里克",
-        "禁药",
-        "切尔西"
+        "美国",
+        "堕胎",
+        "法律"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "bbc_news",
-      "title": "Vonn still in 'survival mode' after Olympic crash",
-      "link": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 09:03:53",
-      "raw_content": "American skiing great Lindsey Vonn says she is still \"too emotional\" to make a decision on her future career as she faces at least 18 months of recuperation.",
-      "ai_summary": "美国滑雪名将林赛·沃恩表示，在奥运会撞车事故后仍然“情绪化”，需要至少18个月恢复，无法决定未来。",
+      "title": "Boats, dancing and cake-cutting: Bermuda welcomes King Charles",
+      "link": "https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:43:08",
+      "raw_content": "Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome.",
+      "ai_summary": "百慕大以游船、舞蹈和切蛋糕仪式欢迎查尔斯国王到访，学校儿童、 exotic鸟类和鲍勃·马利音乐成为欢迎活动亮点。",
       "ai_tags": [
-        "滑雪",
-        "林赛·沃恩",
-        "伤病",
-        "奥运会"
+        "英国王室",
+        "访问"
       ],
-      "ai_importance": 4
+      "ai_importance": 2
     },
     {
       "category": "bbc_news",
-      "title": "Is Saudi Arabia's sports revolution unravelling?",
-      "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 07:49:18",
-      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
-      "ai_summary": "沙特阿拉伯将撤回对LIV高尔夫数十亿美元的支持，引发对其体育投资革命是否会瓦解的疑问。",
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 02:43:48",
+      "raw_content": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+      "ai_summary": "特朗普声称其他总统违反战争权力法，但历史记录显示情况不一，部分总统获得授权，部分未遵循。",
       "ai_tags": [
-        "沙特",
-        "体育投资",
-        "LIV高尔夫",
-        "革命"
+        "政治",
+        "美国"
       ],
-      "ai_importance": 4
+      "ai_importance": 2
     },
     {
       "category": "bbc_news",
-      "title": "Is Saudi Arabia's sports revolution unravelling?",
-      "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 07:49:18",
-      "raw_content": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
-      "ai_summary": "沙特阿拉伯将撤回对LIV高尔夫数十亿美元的支持，引发对其体育投资革命是否会瓦解的疑问。",
+      "title": "BBC tracking US warships using blurry pixels and AI",
+      "link": "https://www.bbc.com/news/videos/cd7pnyd8z11o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 23:55:07",
+      "raw_content": "The BBC Verify team built an AI model to track US aircraft carrier Abraham Lincoln.",
+      "ai_summary": "BBC验证团队利用模糊像素和AI模型追踪美国航母亚伯拉罕·林肯号。",
       "ai_tags": [
-        "沙特",
-        "体育投资",
-        "LIV高尔夫",
-        "革命"
+        "科技",
+        "军事",
+        "媒体"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Pickleball and protests: How a Trump visit is roiling the world's largest retirement community",
-      "link": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 08:38:04",
-      "raw_content": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
-      "ai_summary": "特朗普访问世界最大退休社区引发匹克球和抗议活动，政治问题在该社区日益尖锐。",
+      "title": "Oscars says AI actors, writing cannot win awards",
+      "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 22:30:59",
+      "raw_content": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "ai_summary": "奥斯卡奖主办方宣布，使用人工智能创作的演员或编剧将无法获得奖项。",
       "ai_tags": [
-        "特朗普",
-        "美国政治",
-        "退休社区",
-        "抗议"
+        "奥斯卡",
+        "AI",
+        "电影"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "'So stressful' - teachers and pupils say new GCSEs are leading to burnout",
-      "link": "https://www.bbc.com/news/articles/cwydyz2ej1no?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 05:12:06",
-      "raw_content": "Unions warn teachers will quit and there are fears for pupils' wellbeing as classroom tests increase.",
-      "ai_summary": "教师工会警告称，新的GCSE考试导致教师和学生压力过大，担心教师辞职和学生心理健康问题。",
+      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
+      "link": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 21:16:44",
+      "raw_content": "The Bank of England's latest report reveals some interesting details on how our finances will be affected due to the Iran war.",
+      "ai_summary": "英格兰银行报告指出，伊朗战争将影响抵押贷款、就业和能源账单等个人财务。",
       "ai_tags": [
-        "教育",
-        "教师",
-        "学生",
-        "压力"
+        "经济",
+        "伊朗",
+        "战争"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "bbc_news",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-01 22:35:07",
+      "raw_content": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "ai_summary": "美国计划将驻德美军削减5000人，此举正值美国与德国因伊朗问题发生争执。",
+      "ai_tags": [
+        "军事",
+        "美国",
+        "德国",
+        "伊朗"
       ],
       "ai_importance": 4
     }

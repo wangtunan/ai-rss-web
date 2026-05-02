@@ -9,11 +9,25 @@
       "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
       "published_time": "2026-05-01 07:40:00",
       "raw_content": "Ryan welcomes  Jason Williams, senior software engineer at Bloomberg and  the creator of Rust-based JavaScript engine Boa, to the show to dive into why date and time handling in JavaScript is so difficult and how the Temporal proposal aims to fix it.",
-      "ai_summary": "讨论JavaScript中日期和时间处理的复杂性以及Temporal提案的改进方案。",
+      "ai_summary": "JavaScript中日期时间处理的难点及Temporal提案如何解决这一问题。",
       "ai_tags": [
         "JavaScript",
         "日期时间",
         "Temporal"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "stackoverflow_blog",
+      "title": "Dispatches from O'Reilly: Fast Paths and Slow Paths",
+      "link": "https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/",
+      "published_time": "2026-05-01 14:00:00",
+      "raw_content": "Selective control in autonomous AI systems: Why governing every decision breaks autonomy—and how runtime control actually works at scale",
+      "ai_summary": "自治AI系统中选择性控制的重要性：为何控制每个决策会破坏自主性，以及运行时控制如何在大规模下有效运作。",
+      "ai_tags": [
+        "AI",
+        "自主系统",
+        "运行时控制"
       ],
       "ai_importance": 4
     },
@@ -23,13 +37,13 @@
       "link": "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/",
       "published_time": "2026-04-30 16:00:00",
       "raw_content": "Agents are everywhere, so isn&#x27;t it fitting that the Worst Coder in the World goes agentic? A coding newbie explores the challenges and rewards of building an agent for work—and trying to learn a few things about coding along the way.",
-      "ai_summary": "Anthropic研究科学家使用Claude Code在Linux内核中发现多个可远程利用的漏洞，其中包括一个自2003年就存在的NFS堆缓冲区溢出漏洞。目前已修复5个漏洞，另有数百个潜在崩溃点待验证。",
+      "ai_summary": "编程新手探索构建AI代理的挑战与收获，并在此过程中学习编码。",
       "ai_tags": [
-        "AI安全",
-        "Linux内核",
-        "漏洞利用"
+        "AI代理",
+        "编程学习",
+        "经验分享"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -37,14 +51,13 @@
       "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
       "published_time": "2026-04-28 07:40:00",
       "raw_content": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
-      "ai_summary": "金城银行通过引入Apache Doris和Flink CDC重构数据链路，将数据延迟从T+1降至2-3分钟，实现准实时分析。系统已支撑2300多张表实时处理，故障率下降约80%，数据传输成功率提升至99.99%。",
+      "ai_summary": "LLM问题本质上是数据问题，讨论AI与LLM在处理实时、结构化生产数据时面临的挑战。",
       "ai_tags": [
-        "实时数据平台",
-        "Apache Doris",
-        "Flink CDC",
-        "金融科技"
+        "LLM",
+        "数据质量",
+        "AI挑战"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "stackoverflow_blog",
@@ -52,13 +65,13 @@
       "link": "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/",
       "published_time": "2026-04-28 13:00:00",
       "raw_content": "Now generally available in the 2026.3 release, Ingestion transforms siloed content into structured, verified knowledge—optimized for both your teams and AI.",
-      "ai_summary": "Slack工程师提出采用结构化记忆、验证与蒸馏事实的方式来管理长时间运行智能体系统的上下文，避免累积聊天记录导致的上下文窗口占满问题，从而保持系统连贯性与准确性。",
+      "ai_summary": "Stack Internal 2026.3发布，通过Ingestion将零散内容转化为结构化、可信的知识，优化团队与AI的使用。",
       "ai_tags": [
-        "上下文管理",
-        "多智能体",
-        "AI工程"
+        "知识管理",
+        "AI",
+        "产品更新"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -66,13 +79,12 @@
       "link": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
       "published_time": "2026-04-27 13:56:07",
       "raw_content": "AI companies are looking a little different after going through renewal cycle.",
-      "ai_summary": "谷歌云推出Agents CLI，旨在简化AI智能体开发生命周期，实现从本地原型到生产部署的无缝衔接。该工具与Gemini CLI、Claude Code等编程智能体集成，为谷歌云服务提供统一接口。",
+      "ai_summary": "AI公司经历更新周期后呈现新面貌，进入“发现”阶段。",
       "ai_tags": [
-        "谷歌云",
-        "AI智能体",
-        "CLI工具"
+        "AI行业",
+        "发展趋势"
       ],
-      "ai_importance": 3
+      "ai_importance": 5
     },
     {
       "category": "stackoverflow_blog",
@@ -80,13 +92,13 @@
       "link": "https://stackoverflow.blog/2026/04/24/lights-camera-open-source/",
       "published_time": "2026-04-24 07:40:00",
       "raw_content": "Ryan is joined on the show by Cult.Repo producers Emma Tracey and Josiah McGarvie to discuss making documentaries about open-source software and the people behind the major technologies that uphold the internet.",
-      "ai_summary": "Anthropic研究显示，当前AI更容易影响高学历、高收入人群，其收入比平均水平高47%。同时，AI实际覆盖范围有限，受限于模型能力、法规、人工核验等多重因素。Anthropic公开了这项不利自身的数据。",
+      "ai_summary": "探讨制作关于开源软件及其背后人物的纪录片，介绍Cult.Repo项目。",
       "ai_tags": [
-        "AI影响",
-        "就业",
-        "Anthropic"
+        "开源",
+        "纪录片",
+        "社区"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "stackoverflow_blog",
@@ -94,13 +106,13 @@
       "link": "https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/",
       "published_time": "2026-04-23 14:00:00",
       "raw_content": "Prompts go in, output comes out, and the decisions made in between are hidden from view.",
-      "ai_summary": "亚马逊云科技宣布终止WorkMail服务，并将App Runner转入维护模式（不再接受新客户），同时还有多项服务即将停用或维护，在社区引发担忧。",
+      "ai_summary": "AI工具的黑盒漂移导致做出无人期望的设计决策，讨论其隐藏决策过程的问题。",
       "ai_tags": [
-        "亚马逊云科技",
-        "WorkMail",
-        "App Runner"
+        "AI",
+        "黑盒问题",
+        "设计决策"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "stackoverflow_blog",
@@ -108,13 +120,13 @@
       "link": "https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/",
       "published_time": "2026-04-22 04:40:00",
       "raw_content": "Chase Roossin, group engineering manager, and Steven Kulesza, staff software engineer, from Intuit join the podcast to chat about what might be the hardest problem in engineering right now: getting multiple AI agents to work together in a complex system.",
-      "ai_summary": "OPPO高级算法工程师将在AICon上海大会分享全模态碎片化内容的理解与智能整理实践，探讨Agent从Demo到工程化的挑战。",
+      "ai_summary": "如何让多个AI代理在大规模系统中协同工作，Intuit工程师分享经验。",
       "ai_tags": [
-        "AICon",
-        "OPPO",
-        "多模态"
+        "AI代理",
+        "协作",
+        "复杂系统"
       ],
-      "ai_importance": 2
+      "ai_importance": 5
     },
     {
       "category": "stackoverflow_blog",
@@ -122,26 +134,13 @@
       "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
       "published_time": "2026-04-21 07:40:00",
       "raw_content": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MLH’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
-      "ai_summary": "模力工场038周AI应用周榜显示工具在消失、工作流在出现，同时模力工场参与北京市朝阳区OPC创新发布活动。",
+      "ai_summary": "开发者社区依然重要，MLH CEO讨论社区价值、收购DEV以及AI工具时代下构建者的机遇。",
       "ai_tags": [
-        "模力工场",
-        "AI应用"
+        "开发者社区",
+        "MLH",
+        "AI工具"
       ],
-      "ai_importance": 2
-    },
-    {
-      "category": "stackoverflow_blog",
-      "title": "No country left behind with sovereign AI",
-      "link": "https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/",
-      "published_time": "2026-04-17 07:40:00",
-      "raw_content": "Ryan welcomes Stephen Watt, distinguished engineer and VP of Red Hat’s Office of the CTO, to chat about digital sovereignty and sovereign AI.",
-      "ai_summary": "Akamai CEO Tom Leighton表示，AI Agent时代到来，驱动云计算从中心化向分布式边缘转型，安全防御需从补丁模式转向实时拦截模式。",
-      "ai_tags": [
-        "AI Agent",
-        "云计算",
-        "边缘计算"
-      ],
-      "ai_importance": 3
+      "ai_importance": 4
     }
   ]
 }

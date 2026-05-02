@@ -5,18 +5,57 @@
   "items": [
     {
       "category": "mit_technology_ai",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "published_time": "2026-05-01 22:08:19",
+      "raw_content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+      "ai_summary": "马斯克在庭审中声称被奥特曼欺骗，警告AI可能毁灭人类，并承认xAI蒸馏了OpenAI的模型。",
+      "ai_tags": [
+        "马斯克",
+        "OpenAI",
+        "庭审",
+        "AI风险"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Cyber-Insecurity in the AI Era",
+      "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "published_time": "2026-05-01 15:54:01",
+      "raw_content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+      "ai_summary": "AI时代网络安全面临新挑战，传统方法不足以应对，需重新思考以AI为核心的安全。",
+      "ai_tags": [
+        "网络安全",
+        "AI"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "published_time": "2026-05-01 15:31:09",
+      "raw_content": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+      "ai_summary": "企业通过掌控自身数据定制AI，需平衡所有权与高质量数据流通。",
+      "ai_tags": [
+        "AI运营",
+        "数据主权",
+        "规模化"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "mit_technology_ai",
       "title": "A new US phone network for Christians aims to block porn and gender-related content",
       "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
       "published_time": "2026-05-01 09:00:00",
       "raw_content": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
-      "ai_summary": "美国一家针对基督徒的新手机网络将屏蔽色情和性别相关内容，这是美国首个使用网络级屏蔽此类内容且成年用户无法关闭的移动套餐。",
+      "ai_summary": "美国推出首个面向基督徒的移动网络，在运营商层面屏蔽色情和性别相关内容。",
       "ai_tags": [
-        "美国",
-        "基督徒",
         "手机网络",
         "内容过滤",
-        "色情",
-        "性别"
+        "基督教"
       ],
       "ai_importance": 3
     },
@@ -26,13 +65,11 @@
       "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
       "published_time": "2026-04-30 15:59:41",
       "raw_content": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
-      "ai_summary": "旧金山初创公司Goodfire发布新工具Silico，允许研究人员在训练期间查看和调整AI模型参数，实现对模型行为的更精细控制。",
+      "ai_summary": "初创公司Goodfire发布工具Silico，可在训练过程中调整模型参数，提供细粒度控制。",
       "ai_tags": [
-        "AI",
         "可解释性",
-        "工具",
-        "调试",
-        "模型控制"
+        "LLM",
+        "调试"
       ],
       "ai_importance": 4
     },
@@ -42,30 +79,13 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published_time": "2026-04-27 22:52:57",
       "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "埃隆·马斯克与OpenAI CEO萨姆·奥尔特曼将在北加州法庭对决，案件可能影响OpenAI的IPO及其作为营利性企业的合法性。",
+      "ai_summary": "马斯克与奥特曼就OpenAI未来走向对簿公堂，案件可能影响OpenAI的IPO和营利性质。",
       "ai_tags": [
         "马斯克",
         "OpenAI",
-        "法庭",
-        "IPO",
-        "营利性"
+        "诉讼"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Rebuilding the data stack for AI",
-      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "published_time": "2026-04-27 13:00:00",
-      "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
-      "ai_summary": "企业AI应用面临数据挑战，部署可扩展AI需重建数据基础设施，确保数据质量和可用性。",
-      "ai_tags": [
-        "AI",
-        "企业",
-        "数据基础设施",
-        "数据质量"
-      ],
-      "ai_importance": 3
     },
     {
       "category": "mit_technology_ai",
@@ -73,14 +93,27 @@
       "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
       "published_time": "2026-04-27 16:13:41",
       "raw_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
-      "ai_summary": "文章讨论AI从炒作到盈利之间的缺失环节，引用伦敦反AI游行中的传单，探讨AI行业现状。",
+      "ai_summary": "探讨AI从炒作到盈利之间缺失的一环，批判AI泡沫。",
       "ai_tags": [
-        "AI",
-        "炒作",
+        "AI商业",
         "盈利",
-        "反思"
+        "炒作"
       ],
-      "ai_importance": 2
+      "ai_importance": 4
+    },
+    {
+      "category": "mit_technology_ai",
+      "title": "Rebuilding the data stack for AI",
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "published_time": "2026-04-27 13:00:00",
+      "raw_content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
+      "ai_summary": "企业部署AI面临数据基础设施的障碍，需重建数据栈以支持规模化AI。",
+      "ai_tags": [
+        "数据栈",
+        "AI部署",
+        "企业"
+      ],
+      "ai_importance": 4
     },
     {
       "category": "mit_technology_ai",
@@ -88,13 +121,11 @@
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published_time": "2026-04-24 21:40:58",
       "raw_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
-      "ai_summary": "中国AI公司DeepSeek发布新旗舰模型V4预览版，支持更长提示词处理，采用新设计提高效率，并继续开源。",
+      "ai_summary": "DeepSeek发布V4模型，支持更长上下文，开源，性能提升。",
       "ai_tags": [
         "DeepSeek",
-        "AI",
-        "模型",
         "开源",
-        "长文本"
+        "大模型"
       ],
       "ai_importance": 4
     },
@@ -104,56 +135,11 @@
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published_time": "2026-04-22 10:05:06",
       "raw_content": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
-      "ai_summary": "AI在企业中快速普及，但需强大的数据编织架构才能实现业务价值，确保数据集成、治理和安全。",
+      "ai_summary": "AI在企业中快速应用，需要强大的数据架构来确保数据质量和治理。",
       "ai_tags": [
+        "数据架构",
         "AI",
-        "企业",
-        "数据编织",
-        "业务价值"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "Supercharged scams",
-      "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;",
-      "ai_summary": "生成式AI被犯罪分子利用进行诈骗，包括垃圾邮件和更复杂的欺诈邮件，需警惕AI增强的诈骗。",
-      "ai_tags": [
-        "生成式AI",
-        "诈骗",
-        "网络安全",
-        "犯罪"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "LLMs+",
-      "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
-      "ai_summary": "回顾ChatGPT发布后LLM引发的行业变革，探讨LLM+时代的影响。",
-      "ai_tags": [
-        "ChatGPT",
-        "LLM",
-        "AI",
-        "变革"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "mit_technology_ai",
-      "title": "10 Things That Matter in AI Right Now",
-      "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "published_time": "2026-04-21 20:45:00",
-      "raw_content": "",
-      "ai_summary": "当前人工智能领域的10个重要趋势和技术。",
-      "ai_tags": [
-        "AI",
-        "趋势",
-        "技术"
+        "企业价值"
       ],
       "ai_importance": 3
     }

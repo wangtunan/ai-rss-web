@@ -1,103 +1,142 @@
 {
-  "total": 7,
+  "total": 10,
   "limit": 10,
   "offset": 0,
   "items": [
     {
       "category": "v2ex",
-      "title": "iOS 无法收到 TG 的通知",
-      "link": "https://www.v2ex.com/t/1209797",
-      "published_time": "2026-05-01 00:36:38",
-      "raw_content": "klii: <blockquote>\n<p>苹果🍎用户注意：Telegram 消息推送服务疑似出现异常，部分用户可能遇到消息通知不显示、推送延迟或无法及时收到提醒的问题，建议临时打开应用内查看消息，避免遗漏重要信息</p>\n</blockquote>\n<p>已经测试了，确实收不到 TG 的推送了，</p>\n<p>加入代理列表，依旧无法收到 TG 消息，目前国内应用推送正常</p>\n<pre><code>DOMAIN-SUFFIX,push.apple.com,PROXY\nIP-CIDR,17.0.0.0/8,PROXY,no-resolve\n\n</code></pre>\n<p>TG 为 DC4/5\n美区账号\n肉身国内</p>",
-      "ai_summary": "iOS用户反映Telegram推送异常，消息通知不显示或延迟，国内应用推送正常。",
+      "title": "MiMo-V2.5-Pro，一句提问掉了 90000000（千万）token",
+      "link": "https://www.v2ex.com/t/1209866",
+      "published_time": "2026-05-01 10:33:42",
+      "raw_content": "flymeto: <p>今天也是人傻了，前天领额度，昨天刚配置上，一共提问了七八次，今天下午随口问了句火车区间能中途上车吗，然后 mimo 就开始无限搜索，一开始没在意，手机屏幕一关去忙别的了，再一开软件人傻了\n<img alt=\"cac490206548953eb51573e1f9f1a87d.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://iimg.116818.xyz/file/1777631585915_cac490206548953eb51573e1f9f1a87d.png\" />\n<img alt=\"1b73a1fc9948a76fbbe24c73f5a5410a.jpg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://iimg.116818.xyz/file/1777631589318_1b73a1fc9948a76fbbe24c73f5a5410a.jpg\" />\n<img alt=\"432bc6412fb17921414538ccfb7d16",
+      "ai_summary": "用户使用MiMo-V2.5-Pro时，因一次普通提问触发无限搜索，消耗了约9000万token，导致资源严重浪费。",
+      "ai_tags": [
+        "AI",
+        "漏洞",
+        "资源消耗"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "一个希望能解决经济和就业的开源项目",
+      "link": "https://www.v2ex.com/t/1209842",
+      "published_time": "2026-05-01 07:05:58",
+      "raw_content": "alphabird: <h1>BCS 逆向货币 N 系统</h1>\n<h2>中文说明</h2>\n<h3>1. 项目目的</h3>\n<p>现在很多人面临失业、年龄歧视和就业机会收缩，尤其是 35 岁以后很难再找到稳定工作。有人说“不雇佣 35 岁以上员工的公司，就不要买它们的产品”，但现实中很难执行，因为普通消费者无法把每次购买和就业责任稳定连接起来。本项目希望用 N 货币把这种关系抽象出来：你不是直接和某家公司签一份就业承诺，而是在货币规则中加入“被需要”的结算维度，让消费、销售、就业和 N 流动形成可验证的经济反馈。</p>\n<p>这个项目不是为了让人一夜暴富，也不是为了给普通人增加负担。它只是使用了区块链和数字货币的技术形式，但和挖矿、炒币、算力竞争没有关系。它的目标是让货币重新成为更平衡的社会资源分配工具，用逆向货币 N 调节现行单向 D 货币长期积累下来的失衡，减少人被市场经济淘汰的风险，并为避免经济危机提供一种新的制度工具。</p>\n<p>当前项目还只是一个很初级的开始。它不是最终答案，而是一个可以运行、可以讨论、可以改进的原型。就像早期比特币只是一个很小的实验，后来改变了很",
+      "ai_summary": "一个名为BCS逆向货币N系统的开源项目，旨在通过区块链技术重新分配社会资源，解决经济和就业问题。",
+      "ai_tags": [
+        "开源",
+        "区块链",
+        "经济",
+        "就业"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "感慨下，假期第一天，被裁了",
+      "link": "https://www.v2ex.com/t/1209838",
+      "published_time": "2026-05-01 06:44:24",
+      "raw_content": "0987363: 最近合同到期，要转签无固定期限合同时，老板不续签合同了。<br /><br />在公司待了 10 年，都 40 了，时间是飞快。<br />从后端到产品，从产品到技术总监，啥都干过了，啥都经历了。<br /><br />感慨下，被裁的原因不是因为公司业绩不行，而是“方法”不对，没能给出完美的“PPT”。<br /><br />人生短短几十年不应该只有工作，家庭才是最重要的。<br />慢慢思考下以后能做点什么有意义的事，不想再做些心里不认可，但又不得不做的事。",
+      "ai_summary": "一位40岁员工在公司工作10年后，因合同到期不续签被裁，感慨职场不易，决定更重视家庭。",
+      "ai_tags": [
+        "裁员",
+        "职场",
+        "家庭"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "iOS 屏蔽更新的描述文件（tvOS26 Beta）今天失效了",
+      "link": "https://www.v2ex.com/t/1209846",
+      "published_time": "2026-05-01 07:25:33",
+      "raw_content": "34: <p>有新的文件吗，更新提示有点难受</p>",
+      "ai_summary": "iOS屏蔽更新的描述文件tvOS26 Beta已失效，用户寻求新的屏蔽方法以去除更新提示。",
       "ai_tags": [
         "iOS",
-        "Telegram",
-        "推送异常"
+        "屏蔽更新",
+        "描述文件"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "领到小米 MIMO 的额度了，大家领了多少？",
-      "link": "https://www.v2ex.com/t/1209799",
-      "published_time": "2026-05-01 01:11:49",
-      "raw_content": "coreJK: <a href=\"https://i.imgur.com/aGwLOne.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/aGwLOne.jpeg\" /></a><br />真“大方”<br /><br /><a href=\"https://i.imgur.com/0NkFuFp.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/0NkFuFp.jpeg\" /></a>",
-      "ai_summary": "用户讨论小米MIMO额度，显示额度较少。",
+      "title": "恳请过来人分享面瘫治疗经验",
+      "link": "https://www.v2ex.com/t/1209832",
+      "published_time": "2026-05-01 05:35:52",
+      "raw_content": "W4J1e: <p>我 30 岁出头，4 月 22 日感觉很不舒服，起初以为是没睡好，23 号去医院检查，被确诊。具体症状：右侧面瘫，抬额右侧无额纹，皱眉左右极不对称，右眼睑闭合不完全，右眼吹风刺激性强，右侧嘴角漏气，无法鼓气，伴有后脑勺头痛，无耳痛。核磁共振报告显示颅内未发现异常。致病原因至今不明。</p>\n<p>24 号中午去办理住院输液，输了两次后，25 号办理出院，改为服用药物。医生给我开的口服药：碳酸钙 D3 片，一天一次，一次一片；醋酸泼尼松片，一天一次，一次 8 粒，共 40mg ；复合维生素 B 片，一天三次，每次两粒；甲钴胺片，一天三次，一次一粒。阿昔洛韦片一日三次，一次两粒，共吃 7 天。泼尼松片每五天减一片，直到减完为止停止所有用药（共计四十天）。</p>\n<p>截至今天（ 5 月 1 日），我的右眼睑闭合还是不完全，但只有微小的缝了，可以往右侧咧嘴，脸颊肌肉有明显的变化，抬额时右侧额头也有了一道额纹，总之就是已经恢复了将近一半。</p>\n<p>昨天我首先去了中医院老同学（曾在那个医院任职）推荐的中医那去，医生说：针灸两周，每周四次，扎一次几分钟搞定，建议针药并用",
+      "ai_summary": "30多岁用户分享面瘫治疗经历，从确诊到住院、服药，现恢复近半，并咨询中医针灸等进一步治疗建议。",
       "ai_tags": [
-        "小米",
-        "MIMO",
-        "额度"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "顺风车已经变味了",
-      "link": "https://www.v2ex.com/t/1209795",
-      "published_time": "2026-05-01 00:22:39",
-      "raw_content": "nododo: 今天忙，想给家人约个顺风车（私享）回老家。<br /><br />结果顺风车全被滴滴型司机占据了，还有私信加要感谢费，还有提出价格翻倍的（因为节假日？）还有防止被别的正常车主接单，接单立马取消的，之前的沟通全部作废。",
-      "ai_summary": "用户抱怨顺风车变味，司机加价、取消订单等。",
-      "ai_tags": [
-        "顺风车",
-        "滴滴",
-        "吐槽"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "家在小县城的农村，老婆在省会的郊区，如果把我的户口迁过来是不是违背祖宗了？",
-      "link": "https://www.v2ex.com/t/1209774",
-      "published_time": "2026-04-30 15:45:39",
-      "raw_content": "weishao666: <p>我家是一个小农村，基本上没啥发展的那种，房子在乡里边，有几亩田地，基本上没啥征收的可能</p>\n<p>媳妇儿家是在省会的郊区，周边不少地方都征收了，传了挺久要征收了，估计后续征收的可能性确实也比较大</p>\n<p>后面小孩为了教育问题，小孩肯定是想落省会的户口了，可能落到老妈那边去？不然的话怎么操作？</p>\n<p>又考虑是不是一般娃娃户口都跟爹走？不知道家里会不会有意见？我情况还比较特殊，父亲不在了，独生子，还没开口跟家里提过，也不知道该找谁聊聊</p>\n<p>进一步的，我那户口是不是也可以迁出来？迁到老婆这边是不是违背祖宗了，一般印象会认为与入赘一样么？像我这种单亲，如果我迁出来了，百年后母上大人也不在了，房子和土地怎么办？收归集体了？</p>\n<p>V 友们有没有想法的，可否交流一下，哪怕想法不妥，就骂上两句也行</p>",
-      "ai_summary": "用户咨询将户口从小农村迁到省会郊区的妻子家的可行性，担心违背传统、影响土地权益，并讨论孩子教育问题。",
-      "ai_tags": [
-        "户口迁移",
-        "家庭",
-        "土地权益"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了",
-      "link": "https://www.v2ex.com/t/1209740",
-      "published_time": "2026-04-30 11:41:30",
-      "raw_content": "gitxuzan: <p>从 2026 年后开始，就没手写过代码了，全部 ai 写，每天最多的是盯着 ai 写，我意识到的职业要完了</p>\n<p>目前 codex 5x  + claude code 5x</p>\n<p>目前已经替代我所有的需求了，我的需求还是全栈， 部分规划设计 + 前端 + 服务端 + 部分运维脚本 cicd </p>\n<p>预测一波，程序员 2 年内大部分岗位将没了</p>",
-      "ai_summary": "从2026年起完全依赖AI写代码，预测程序员岗位将在两年内大量消失。",
-      "ai_tags": [
-        "AI编程",
-        "程序员",
-        "职业前景"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "Anthropic 真是绝了，刚收完钱就把我踢了",
-      "link": "https://www.v2ex.com/t/1209737",
-      "published_time": "2026-04-30 11:31:58",
-      "raw_content": "cxd8190102: <p>新人一个，还没用过 Claude ，之前有听说过它的恶名，但今天有需求，所以还是上去充了钱。</p>\n<p>结果！刚充完，它就把我踢下线了！我去！你拿钱的时候怎么不要求地域限制呢！</p>\n<p>之后就再也登不上去了。。。</p>\n<p>早上同事才在群里分享了一个新闻，说是美国有家做农业的公司，其中一个账号可能违规了，结果第二天一上班，整个团队的账号全部黑了，里面的东西直接没了，打电话也没人接。关键是，账号虽然没了，但消耗还继续，账户一直在扣钱！</p>\n<p>不得不说这个吃相实在是太难看了。</p>\n<p>现在很多公司都依赖 AI 干活吧，但 AI 公司也是越来越横行霸道了，说封禁你就封禁你，连声招呼也不打，里面多少公司的资产说没就没了，万一连个备份都没有，那损失真是亏麻了。</p>\n<p>而且还搞连坐制度，一人违规全司封号，没有预警没有提醒，你根本不知道是哪里出问题。</p>\n<p>真是太绝了，大家还是要保护好自己的数字资产啊。AI 使用安全也是安全问题。</p>\n<p>Anthropic 一生黑！</p>",
-      "ai_summary": "用户充值Claude后遭封禁，批评Anthropic封号连坐且无预警，提醒保护数字资产。",
-      "ai_tags": [
-        "Anthropic",
-        "封号",
-        "AI安全"
+        "面瘫",
+        "治疗",
+        "经验分享"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "很多人把 Claude 读成 cloud",
-      "link": "https://www.v2ex.com/t/1209761",
-      "published_time": "2026-04-30 14:27:35",
-      "raw_content": "fcoo: 这两个词的读音还是有区别的，但是我看到很多的自媒体大部分都是 cloud 的读音",
-      "ai_summary": "指出许多自媒体将'Claude'误读为'cloud'，强调两者发音不同。",
+      "title": "为什么现在的机场都自研客户端了啊？",
+      "link": "https://www.v2ex.com/t/1209864",
+      "published_time": "2026-05-01 10:11:54",
+      "raw_content": "colaaaa: <p>之前直接导入 clash 客户端就能用，现在怎么都是自己的客户端，问题是不是那么好用啊？</p>",
+      "ai_summary": "用户抱怨当前许多机场服务商放弃通用客户端，转而开发自家客户端，但体验不佳。",
       "ai_tags": [
-        "Claude",
-        "读音",
-        "自媒体"
+        "机场",
+        "客户端",
+        "抱怨"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "Codex 登录需要验证手机号了",
+      "link": "https://www.v2ex.com/t/1209905",
+      "published_time": "2026-05-01 14:34:36",
+      "raw_content": "UnicellularSU: <p>天才程序员陨落了，只能买接码平台，但是就怕二验啊，有遇到相同情况的大佬吗</p>",
+      "ai_summary": "Codex登录要求验证手机号，用户担心二次验证，考虑接码平台。",
+      "ai_tags": [
+        "技术",
+        "验证"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "异地组网方案怎么选？从 n2n 到 WireGuard，折腾一圈后的真实记录",
+      "link": "https://www.v2ex.com/t/1209892",
+      "published_time": "2026-05-01 13:21:35",
+      "raw_content": "unmayx: <p>最近手上管着几台散落在不同地方的机器，为了能让它们像在同一个交换机下那样互访，我决定自己组一个虚拟局域网。</p>\n<p>起初我用的是老牌工具 <strong>n2n</strong>，P2P 二层网络，配置极其简单。可惜项目停更了，NAT 后的设备间偶尔会莫名掉线，可靠性还是打了折扣。</p>\n<p>后来全面转向了现在更火的 <strong>WireGuard</strong>。虽然它默认是三层网络、不带 NAT 穿透，但生态是真的好，配置成星形网络也很简洁。帖子重点记录了我在两个特殊环境下的踩坑经验：</p>\n<ul>\n<li><strong>红米 AX3000 刷 OpenWrt</strong>：内核模块缺失，最后靠 <code>wireguard-go</code> 的用户空间方案救急成功。</li>\n<li><strong>openEuler 22.03 LTS</strong>：官方源没有包，内核编译时还故意没带模块。我分享了从编译内核源码到成功加载 <code>wireguard.ko</code> 的全过程，光是编译就花了一整天。</li>\n</",
+      "ai_summary": "异地组网方案从n2n转向WireGuard，记录在红米AX3000和openEuler上的配置踩坑经验。",
+      "ai_tags": [
+        "技术",
+        "网络"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "chatgpt 代充这是常规操作 还是我被坑了",
+      "link": "https://www.v2ex.com/t/1209887",
+      "published_time": "2026-05-01 12:49:20",
+      "raw_content": "layman3612: 在 <a href=\"https://www.naifeistation.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.naifeistation.com/</a> （星际放映厅） 充值的 三个月的 chatgpt pro 账号代充<br />价格是 2600+<br />只用了一个星期就停了<br />客服说他们是一个月一个月的充值，只是今天官方风控的原因， 这是常规操作还是我被坑了。<br /><br /><br /><a href=\"https://i.imgur.com/fQaBZkj.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/fQaBZkj.jpg\" /></a><br /><a href=\"https://i.imgur.com/dkGYZWY.jpg\" rel=\"nofollow noopene",
+      "ai_summary": "用户以2600+元代充ChatGPT Pro三个月，仅用一周被封，客服称是风控问题。",
+      "ai_tags": [
+        "消费",
+        "代充"
+      ],
+      "ai_importance": 1
+    },
+    {
+      "category": "v2ex",
+      "title": "海鲜市场花 1700 大洋买了个苏州电信的老号",
+      "link": "https://www.v2ex.com/t/1209871",
+      "published_time": "2026-05-01 11:24:44",
+      "raw_content": "bingo619: <p>海鲜市场花 1700 大洋买了个苏州电信的 20 年的老号，1000m 宽带只需要 30 一个月，大家说值不值？</p>",
+      "ai_summary": "用户花1700元购买苏州电信20年老号，1000M宽带仅30元/月。",
+      "ai_tags": [
+        "电信",
+        "宽带"
       ],
       "ai_importance": 1
     }

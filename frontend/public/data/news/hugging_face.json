@@ -9,13 +9,12 @@
       "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
       "published_time": "2026-04-29 16:45:09",
       "raw_content": "",
-      "ai_summary": "AI评估正成为新的计算瓶颈，引发对成本和效率的讨论。",
+      "ai_summary": "AI评估正在成为新的计算瓶颈，凸显了评估成本对AI发展的限制。",
       "ai_tags": [
         "AI评估",
-        "计算瓶颈",
-        "成本"
+        "计算瓶颈"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -23,13 +22,13 @@
       "link": "https://huggingface.co/blog/inference-providers-deepinfra",
       "published_time": "2026-04-29 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepInfra加入Hugging Face推理提供商，扩展模型服务能力。",
+      "ai_summary": "DeepInfra成为Hugging Face的推理提供商，提供模型推理服务。",
       "ai_tags": [
         "DeepInfra",
-        "Hugging Face",
-        "推理"
+        "推理提供商",
+        "Hugging Face"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -37,13 +36,13 @@
       "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "published_time": "2026-04-29 15:01:48",
       "raw_content": "",
-      "ai_summary": "介绍IBM Granite 4.1 LLMs的构建方法和技术细节。",
+      "ai_summary": "IBM介绍了Granite 4.1大型语言模型的构建方法。",
       "ai_tags": [
         "IBM",
-        "Granite 4.1",
+        "Granite",
         "LLM"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -51,13 +50,13 @@
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "published_time": "2026-04-28 15:58:57",
       "raw_content": "",
-      "ai_summary": "NVIDIA推出Nemotron 3 Nano Omni多模态模型，支持长上下文文档、音频和视频。",
+      "ai_summary": "NVIDIA推出Nemotron 3 Nano Omni，具备长上下文多模态智能，适用于文档、音频和视频代理。",
       "ai_tags": [
         "NVIDIA",
         "多模态",
         "长上下文"
       ],
-      "ai_importance": 3
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -65,13 +64,13 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "教程：利用OpenAI隐私过滤器构建可扩展的Web应用。",
+      "ai_summary": "介绍如何使用OpenAI的隐私过滤器构建可扩展的Web应用。",
       "ai_tags": [
         "OpenAI",
         "隐私过滤器",
         "Web应用"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -79,13 +78,13 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4发布，支持百万token上下文，赋能智能体实际使用。",
+      "ai_summary": "DeepSeek-V4实现了百万token上下文，代理可实际使用。",
       "ai_tags": [
-        "DeepSeek-V4",
+        "DeepSeek",
         "长上下文",
-        "AI智能体"
+        "AI代理"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "hugging_face",
@@ -93,13 +92,13 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "介绍如何在Chrome扩展中使用Transformers.js进行AI推理。",
+      "ai_summary": "教程：如何在Chrome扩展中使用Transformers.js。",
       "ai_tags": [
         "Transformers.js",
         "Chrome扩展",
-        "AI"
+        "教程"
       ],
-      "ai_importance": 4
+      "ai_importance": 2
     },
     {
       "category": "hugging_face",
@@ -107,13 +106,13 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨AI在网络安全中的作用，强调开放性的重要性。",
+      "ai_summary": "讨论AI与网络安全的未来，强调开放性的重要性。",
       "ai_tags": [
         "AI",
         "网络安全",
         "开放性"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "hugging_face",
@@ -121,14 +120,13 @@
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published_time": "2026-04-21 10:09:58",
       "raw_content": "",
-      "ai_summary": "推出一个以质量为先的阿拉伯语大语言模型排行榜QIMMA，促进阿拉伯语AI发展。",
+      "ai_summary": "QIMMA是首个质量优先的阿拉伯语LLM排行榜。",
       "ai_tags": [
         "阿拉伯语",
-        "LLM",
-        "排行榜",
-        "QIMMA"
+        "LLM排行榜",
+        "质量"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "hugging_face",
@@ -136,13 +134,11 @@
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排序模型。",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入与重排模型。",
       "ai_tags": [
-        "多模态",
-        "嵌入",
-        "重排序",
-        "训练",
-        "微调"
+        "Sentence Transformers",
+        "多模态嵌入",
+        "重排模型"
       ],
       "ai_importance": 4
     }

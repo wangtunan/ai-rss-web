@@ -5,147 +5,142 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "link": "https://twitter.com/theo/status/2049645973350363168",
-      "published_time": "2026-04-30 14:36:58",
-      "raw_content": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1156</p>\n<p># Comments: 635</p>",
-      "ai_summary": "Claude AI工具在识别到提交信息提及“OpenClaw”时拒绝服务或额外收费，引发争议。",
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "published_time": "2026-05-01 16:08:53",
+      "raw_content": "<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 372</p>\n<p># Comments: 432</p>",
+      "ai_summary": "Uber在四个月内将2026年全部AI预算用于Anthropic的Claude Code，引发讨论。",
       "ai_tags": [
         "AI",
-        "Claude",
-        "限制"
+        "Uber",
+        "财务"
       ],
       "ai_importance": 5
     },
     {
       "category": "hacker_news",
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "published_time": "2026-04-30 03:21:04",
-      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 1031</p>\n<p># Comments: 631</p>",
-      "ai_summary": "OpenAI发布文章探讨地精（goblin）的起源，引发广泛讨论。",
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "link": "https://x.com/aaronp613/status/2049986504617820551",
+      "published_time": "2026-05-01 11:08:32",
+      "raw_content": "<p><a href=\"https://xcancel.com/aaronp613/status/2049986504617820551\" rel=\"nofollow\">https://xcancel.com/aaronp613/status/2049986504617820551</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973378\">https://news.ycombinator.com/item?id=47973378</a></p>\n<p>Points: 367</p>\n<p># Comments: 304</p>",
+      "ai_summary": "Apple在Apple Support应用中意外留入了Claude.md配置文件，暗示内部使用AI。",
       "ai_tags": [
-        "OpenAI",
-        "地精",
-        "起源",
-        "文化"
+        "Apple",
+        "AI",
+        "意外泄露"
       ],
-      "ai_importance": 5
+      "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "published_time": "2026-04-30 16:43:47",
-      "raw_content": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 499</p>\n<p># Comments: 390</p>",
-      "ai_summary": "Linux内核漏洞不会提前通知发行版，引发安全响应讨论。",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "published_time": "2026-05-01 18:37:47",
+      "raw_content": "<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 327</p>\n<p># Comments: 94</p>",
+      "ai_summary": "城市发现Flock公司未经授权访问儿童体操室摄像头作为销售演示，但仍续约合同。",
       "ai_tags": [
-        "Linux",
-        "内核漏洞",
+        "隐私",
+        "监控",
         "安全"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "published_time": "2026-04-30 15:31:40",
-      "raw_content": "<p>Article URL: <a href=\"https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/\">https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964034\">https://news.ycombinator.com/item?id=47964034</a></p>\n<p>Points: 481</p>\n<p># Comments: 188</p>",
-      "ai_summary": "西班牙议会将针对LaLiga大规模屏蔽IP的行为采取行动，引发网络中立性争议。",
+      "title": "The gay jailbreak technique",
+      "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "published_time": "2026-05-01 16:59:35",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\">https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977134\">https://news.ycombinator.com/item?id=47977134</a></p>\n<p>Points: 410</p>\n<p># Comments: 158</p>",
+      "ai_summary": "一种名为'同性恋越狱'的新方法声称能绕过AI内容限制。",
       "ai_tags": [
-        "西班牙",
-        "网络封锁",
-        "LaLiga"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "published_time": "2026-04-30 13:07:42",
-      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5y7yvgy0w6o\">https://www.bbc.com/news/articles/c5y7yvgy0w6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961838\">https://news.ycombinator.com/item?id=47961838</a></p>\n<p>Points: 498</p>\n<p># Comments: 399</p>",
-      "ai_summary": "Meta员工因查看智能眼镜用户性行为影像被解雇，引发隐私与劳动争议。",
-      "ai_tags": [
-        "隐私",
-        "Meta",
-        "智能眼镜"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "published_time": "2026-04-30 16:41:00",
-      "raw_content": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 593</p>\n<p># Comments: 195</p>",
-      "ai_summary": "揭露NSA监控的线人Mark Klein如何向EFF提供关键证据的回忆录片段。",
-      "ai_tags": [
-        "隐私",
-        "NSA",
-        "线人"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "hacker_news",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "published_time": "2026-04-30 02:15:47",
-      "raw_content": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 655</p>\n<p># Comments: 437</p>",
-      "ai_summary": "Zig项目解释其反AI贡献政策，强调创造性和人类贡献的价值。",
-      "ai_tags": [
-        "Zig",
         "AI",
-        "贡献政策",
-        "开源"
+        "安全",
+        "越狱"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "published_time": "2026-04-30 16:09:26",
-      "raw_content": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964617\">https://news.ycombinator.com/item?id=47964617</a></p>\n<p>Points: 396</p>\n<p># Comments: 135</p>",
-      "ai_summary": "PyTorch Lightning训练库中发现名为Shai-Hulud的恶意依赖，威胁AI系统安全。",
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "published_time": "2026-05-01 20:06:59",
+      "raw_content": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 337</p>\n<p># Comments: 315</p>",
+      "ai_summary": "德州仪器推出新款Ti-84 Evo图形计算器，功能升级。",
       "ai_tags": [
-        "恶意软件",
-        "PyTorch",
-        "AI安全"
+        "科技",
+        "计算器",
+        "教育"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Can I disable all data collection from my vehicle?",
-      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "published_time": "2026-04-30 20:27:22",
-      "raw_content": "<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 632</p>\n<p># Comments: 255</p>",
-      "ai_summary": "Rivian官网解答用户能否完全禁用车辆数据收集的问题，引发关于隐私的讨论。",
+      "title": "Grok 4.3",
+      "link": "https://docs.x.ai/developers/models/grok-4.3",
+      "published_time": "2026-05-01 08:29:31",
+      "raw_content": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 381</p>\n<p># Comments: 508</p>",
+      "ai_summary": "xAI发布Grok 4.3模型，引发社区广泛讨论。",
       "ai_tags": [
-        "车辆隐私",
-        "数据收集",
-        "Rivian"
+        "AI",
+        "模型",
+        "xAI"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "published_time": "2026-04-30 07:43:55",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\">https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 621</p>\n<p># Comments: 223</p>",
-      "ai_summary": "Mozilla反对Chrome的Prompt API，认为其可能损害Web标准的开放性和用户隐私。",
+      "title": "AI uses less water than the public thinks",
+      "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "published_time": "2026-05-01 17:18:58",
+      "raw_content": "<p>Article URL: <a href=\"https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/\">https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977383\">https://news.ycombinator.com/item?id=47977383</a></p>\n<p>Points: 352</p>\n<p># Comments: 312</p>",
+      "ai_summary": "文章指出AI的实际用水量远低于公众普遍认为的水平。",
       "ai_tags": [
-        "Mozilla",
-        "Chrome",
-        "API",
-        "Web标准",
-        "隐私"
+        "AI",
+        "环境",
+        "水资源"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "published_time": "2026-05-01 17:47:42",
+      "raw_content": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 265</p>\n<p># Comments: 142</p>",
+      "ai_summary": "新研究表明人在梦境中可以进行交流并练习技能。",
+      "ai_tags": [
+        "睡眠",
+        "学习",
+        "研究"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Your website is not for you",
+      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "published_time": "2026-05-01 11:08:20",
+      "raw_content": "<p>Article URL: <a href=\"https://websmith.studio/blog/your-website-is-not-for-you/\">https://websmith.studio/blog/your-website-is-not-for-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973376\">https://news.ycombinator.com/item?id=47973376</a></p>\n<p>Points: 245</p>\n<p># Comments: 176</p>",
+      "ai_summary": "文章指出网站应以用户为中心，而非开发者个人偏好，强调用户体验的重要性。",
+      "ai_tags": [
+        "设计",
+        "用户体验"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
+      "link": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+      "published_time": "2026-05-01 16:17:55",
+      "raw_content": "<p>Article URL: <a href=\"https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/\">https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976529\">https://news.ycombinator.com/item?id=47976529</a></p>\n<p>Points: 246</p>\n<p># Comments: 103</p>",
+      "ai_summary": "警察使用车牌读取器至少14次跟踪个人浪漫关系，引发隐私担忧。",
+      "ai_tags": [
+        "隐私",
+        "执法",
+        "滥用"
+      ],
+      "ai_importance": 3
     }
   ]
 }

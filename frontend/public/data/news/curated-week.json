@@ -7,145 +7,228 @@
   "items": [
     {
       "category": "cls",
-      "title": "阿联酋正式退出欧佩克 中东能源格局进入变数时代",
-      "link": "https://api3.cls.cn/share/article/2361851?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-01 09:55:06",
-      "raw_content": "【阿联酋正式退出欧佩克 中东能源格局进入变数时代】财联社5月1日电，今天（5月1日），阿联酋正式退出石油输出国组织（欧佩克）及“欧佩克+”机制。这一决定，结束了其长达近60年的成员国身份，也标志着中东能源格局进入了一个全新的、充满变数的时代。\n\n阿联酋虽然拥有接近每天480万桶的原油产能，但长期产量被限制在约每天340万桶左右。退出后，这一行政性约束不复存在，意味着阿联酋从现在起获得了完全的“产油自由”，可以根据市场情况自主决定是否增产、何时增产以及增产幅度，这让阿联酋具备在高油价周期中扩大市场份额的能力。 (央视新闻)",
-      "ai_summary": "阿联酋5月1日退出欧佩克及欧佩克+机制，结束近60年成员身份，获得产油自由，中东能源格局生变。",
+      "title": "美滥用人工智能谋求技术军事霸权",
+      "link": "https://api3.cls.cn/share/article/2362066?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 03:47:55",
+      "raw_content": "【美滥用人工智能谋求技术军事霸权】财联社5月2日电，美国多家媒体披露，伊朗前任最高领袖哈梅内伊在空袭中遇害，正是美以依托人工智能技术与网络间谍手段实现的。而就在同一天，伊朗南部一所小学遭袭，导致160多名学生遇难。美国《大西洋》月刊记者泰勒·奥斯汀·哈珀将这一事件定性为人工智能技术应用“目标识别错误”导致的平民伤亡事故。分析认为，美国在军事行动中使用人工智能技术凸显出技术滥用的伦理与安全风险，美国正企图通过无节制地在军用领域使用人工智能技术，谋求技术霸权与军事霸权，人工智能技术的军事应用无序发展严重冲击全球战略稳定。 (CCTV国际时讯)",
+      "ai_summary": "美国在军事行动中使用AI导致平民伤亡，旨在谋求技术军事霸权。",
       "ai_tags": [
-        "阿联酋",
-        "欧佩克",
-        "能源"
+        "人工智能",
+        "军事霸权",
+        "平民伤亡"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+      "link": "https://36kr.com/p/3791460373929221?f=rss",
+      "published_time": "2026-05-02 01:25:01",
+      "raw_content": "<p>编辑：桃子</p>\n  <p><strong>【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。</strong></p>\n  <p>对薄公堂第四天，马斯克爆出了大瓜！</p>\n  <p>4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。</p>\n  <p>现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：</p>\n  <p>xAI是否蒸馏了OpenAI的模型？</p>\n  <p>马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？</p>\n  <p>部分如此（Partly）。</p>\n  <p>此话一出，全网瞬间看呆！</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_96c10b33bc7d4f698846598c64847507@5579416_oswg618204oswg1080oswg1",
+      "ai_summary": "在马斯克诉OpenAI案中，马斯克承认xAI蒸馏了ChatGPT。",
+      "ai_tags": [
+        "AI",
+        "马斯克",
+        "OpenAI"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "36kr",
+      "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+      "link": "https://36kr.com/newsflashes/3790945973296131?f=rss",
+      "published_time": "2026-05-02 01:00:23",
+      "raw_content": "当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。（央视新闻）",
+      "ai_summary": "特朗普称因欧盟未履行贸易协议，将于下周对欧盟汽车加征25%关税。",
+      "ai_tags": [
+        "贸易",
+        "关税",
+        "欧盟"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中国代表：当务之急是维持伊朗战争停火",
+      "link": "https://www.zaobao.com/news/china/story20260502-8986303",
+      "published_time": "2026-05-02 00:52:32",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/4007bb2837f8e65731464e0d2a921d60c12d73a3a960932f2005d2a9e3657bf3\" /><figcaption></figcaption></figure><div><div><p>中国常驻联合国代表傅聪强调，维持伊朗战争停火是当务之急，如果美国总统特朗普本月访华时霍尔木兹海峡仍处于关闭状态，相关问题势必成为双方议程重点。</p><p>据路透社报道，傅聪星期五（5月1日）在联合国受访时说，霍尔木兹海峡应尽快恢复通行。针对近期有关停火仅属暂时、甚至可能重启军事行动的言论，中国深感关切。</p><p>他说：“伊朗需要解除对霍尔木兹海峡的限制，美国需要解除海上封锁。当前最紧迫的问题是维持停火，而且停火必须持续下去，双方应本着诚意开展谈判。”他还呼吁国际社会共同发声，反对战事重启。</p><p>谈及特朗普本月访华，傅聪说：“我相信，如果特朗普总统访华时霍尔木兹海峡仍然关闭，这一问题将成为双边会谈的重要议题。”</p>",
+      "ai_summary": "中国常驻联合国代表傅聪强调维持伊朗战争停火是当务之急，若特朗普访华时霍尔木兹海峡仍关闭，将成为会谈重点。",
+      "ai_tags": [
+        "伊朗",
+        "停火",
+        "霍尔木兹海峡"
       ],
       "ai_importance": 5
     },
     {
       "category": "cls",
-      "title": "Susquehanna将闪迪目标价从1000美元翻倍上调至2000美元",
-      "link": "https://api3.cls.cn/share/article/2361838?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-01 09:05:04",
-      "raw_content": "【Susquehanna将闪迪目标价从1000美元翻倍上调至2000美元】财联社5月1日电，量化交易公司Susquehanna将闪迪目标价从1000美元翻倍上调至2000美元。这是财联社统计到所有机构中，对闪迪给出的最高目标价。闪迪最新收盘价为1096.51美元。\n\n4月30日，闪迪(SNDK.US)发布了2026财年第一季度财报。闪迪第一季度营收59.5亿美元，比分析师预期的51.01亿美元高出16.6%，比市场整体预期的47.81亿美元高出24.5%。毛利率达到78.4%，比分析师预期的69.8%高出近9个百分点。非GAAP每股收益23.41美元，比分析师预期的17.00美元高出37.7%，比市场整体预期的15.11美元高出近55%。<br /><img src=\"https://image.cls.cn/images/20260501/2gDY0IXX4i_1280x752.png\" />",
-      "ai_summary": "Susquehanna将闪迪目标价从1000美元上调至2000美元，财报超预期。",
+      "title": "特朗普称美国“几乎能立即接管”古巴",
+      "link": "https://api3.cls.cn/share/article/2362044?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published_time": "2026-05-02 00:49:51",
+      "raw_content": "【特朗普称美国“几乎能立即接管”古巴】当地时间5月1日，特朗普在发表讲话时宣称，美国“几乎能立即”接管古巴。他同时表示：“我们会先解决一个目标（伊朗）——我向来喜欢把事情做完。”特朗普还表示，美国将把“亚伯拉罕·林肯”号航空母舰部署在古巴海岸。在发表上述言论前，特朗普当天早些时候签署了一项行政命令，扩大美国对古巴政府的制裁。 (央视新闻)",
+      "ai_summary": "特朗普称美国几乎能立即接管古巴，并计划部署航母，扩大对古巴制裁。",
       "ai_tags": [
-        "金融",
-        "科技"
+        "国际政治",
+        "美国"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 08:41:52",
-      "raw_content": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "ai_summary": "化肥公司Yara老板警告称，伊朗冲突导致的化肥短缺可能减少作物产量并推高粮价，数十亿餐饭面临风险。",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 00:41:43",
+      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "ai_summary": "特朗普告知国会，因停火协议存在，对伊朗的敌对行动已终止，因此无需国会授权。",
       "ai_tags": [
-        "伊朗",
-        "化肥",
-        "粮食危机",
-        "价格"
+        "国际",
+        "政治",
+        "中东"
       ],
       "ai_importance": 5
     },
     {
-      "category": "bbc_news",
-      "title": "How MI5 foiled a Tesco worker's plan for mass gun attack",
-      "link": "https://www.bbc.com/news/articles/czxejvvk9qro?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 04:30:20",
-      "raw_content": "Police say Alfie Coleman appeared to be a normal teenager but was hiding a dark plan.",
-      "ai_summary": "MI5挫败了特斯科员工阿尔菲·科尔曼计划进行大规模枪击的阴谋，他表面看似正常。",
+      "category": "mit_technology_ai",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "published_time": "2026-05-01 22:08:19",
+      "raw_content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+      "ai_summary": "马斯克在庭审中声称被奥特曼欺骗，警告AI可能毁灭人类，并承认xAI蒸馏了OpenAI的模型。",
       "ai_tags": [
-        "恐怖袭击",
-        "MI5",
-        "特斯科",
-        "枪击"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "美拟限制中国实验室认证电子产品 中方称冲击两国经贸稳定",
-      "link": "https://www.zaobao.com/news/china/story20260501-8983179",
-      "published_time": "2026-05-01 04:20:53",
-      "raw_content": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>美国联邦通信委员会（FCC）通过措施，增加中国输美电子产品认证限制，并进一步限制中国电信公司在美运营。中国商务部表示，美方限制措施冲击中美经贸关系来之不易的稳定，违背两国元首达成的共识，中方对此高度关注，坚决反对。</p><p>据法新社报道，FCC在美国时间星期四（4月30日）审议通过一项提案，拟不再承认中国等未与美国签署互认协议国家的实验室和认证机构。如果新规最终实施，中国相关实验室将不能再为输美电子设备提供被FCC承认的测试认证。</p><p>FCC估计，在美国获得FCC认证的电子设备中，大约75%的测试工作是在中国境内实验室完成的。</p><p>FCC同时也表示，可能禁止三家中国大型电信公司在美国运营数据中心，并禁止其他运营商与它们在美国境内进行互联。</p><p>中国商务部新闻发言人星期五（5月1日）就FCC审议通过检测认证和电信领域",
-      "ai_summary": "美国FCC拟限制中国实验室认证电子产品，并进一步限制中国电信公司在美运营，中方表示坚决反对。",
-      "ai_tags": [
-        "中美关系",
-        "电子产品认证",
-        "FCC"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Newspaper headlines: 'PM vows to act' and 'Brace for more terror attacks'",
-      "link": "https://www.bbc.com/news/articles/clyp5v46q74o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 04:09:17",
-      "raw_content": "The main story for many of the papers continues to be the knife attack in Golders Green on Wednesday.",
-      "ai_summary": "报纸头条关注戈德斯格林持刀袭击事件，首相誓言采取行动，民众担忧更多恐怖袭击。",
-      "ai_tags": [
-        "恐怖袭击",
-        "持刀",
-        "英国",
-        "首相"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
-      "link": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-01 02:39:06",
-      "raw_content": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
-      "ai_summary": "新视频显示特朗普晚宴枪击案中，枪手在四秒内冲过安保，警察开枪射击。",
-      "ai_tags": [
-        "特朗普",
-        "枪击",
-        "安保",
-        "视频"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "zaobao_china",
-      "title": "中美高层通话互提不满 但“习特会”或按计划推进",
-      "link": "https://www.zaobao.com/news/china/story20260501-8982576",
-      "published_time": "2026-05-01 01:51:22",
-      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/01bd32488957c903c9c21c0d9720739421feff41e3b1749b52393542188b3969\" /><figcaption></figcaption></figure><div><div><p>中美最高经济官员在星期四晚间举行了“坦诚”会谈，双方都对彼此的贸易政策提出不满，但分析认为，中国国家主席习近平和美国总统特朗普原定5月举行的会晤或仍按计划推进。</p><p>中国副总理何立峰晚与美国财政部长贝森特星期四（4月30日）晚间进行视频通话。贝森特在社交平台X发文称，他与中国副总理何立峰通话，讨论特朗普计划于5月14日至15日访问北京一事。</p><p>贝森特说：“我们的会谈既坦诚又全面。我强调，中国近期具有挑衅性的域外监管规定，对全球供应链产生了寒蝉效应。”</p><p>路透社报道指，他的这番表态打破了特朗普政府此前对北京新供应链规则近乎沉默的态度。这些新规已令美国企业感到警惕。分析人士认为，这是一次重大升级，可能严重削",
-      "ai_summary": "中美高层经济官员通话互提不满，但分析称“习特会”或仍按计划推进。",
-      "ai_tags": [
-        "中美通话",
-        "何立峰",
-        "贝森特",
-        "习特会"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "link": "https://twitter.com/theo/status/2049645973350363168",
-      "published_time": "2026-04-30 14:36:58",
-      "raw_content": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1156</p>\n<p># Comments: 635</p>",
-      "ai_summary": "Claude AI工具在识别到提交信息提及“OpenClaw”时拒绝服务或额外收费，引发争议。",
-      "ai_tags": [
-        "AI",
-        "Claude",
-        "限制"
+        "马斯克",
+        "OpenAI",
+        "庭审",
+        "AI风险"
       ],
       "ai_importance": 5
     },
     {
       "category": "the_decoder",
-      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
-      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/",
-      "published_time": "2026-04-30 12:07:24",
-      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"998\" src=\"https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1749\" /></p>\n<p>        Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. </p>\n<p>The article <a href=\"https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over",
-      "ai_summary": "Anthropic评估投资者报价，估值超9000亿美元。",
+      "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+      "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
+      "published_time": "2026-05-01 16:30:38",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.</p>\n<p",
+      "ai_summary": "八家科技公司为美国军方机密网络提供AI，打造“AI优先战斗力量”，Anthropic因拒绝条款被排除。",
       "ai_tags": [
-        "Anthropic",
-        "融资",
-        "估值"
+        "AI",
+        "军事",
+        "美国国防部",
+        "Anthropic"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "published_time": "2026-05-01 16:08:53",
+      "raw_content": "<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 372</p>\n<p># Comments: 432</p>",
+      "ai_summary": "Uber在四个月内将2026年全部AI预算用于Anthropic的Claude Code，引发讨论。",
+      "ai_tags": [
+        "AI",
+        "Uber",
+        "财务"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "the_decoder",
+      "title": "Big tech's AI spending balloons to $725 billion this year",
+      "link": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+      "published_time": "2026-05-01 14:41:45",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/big_tech_cloud.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.</p>\n<p>The article <a href=\"https://the-decoder.com/big-tech",
+      "ai_summary": "四家科技巨头（谷歌、亚马逊、微软、Meta）明年AI支出合计约7250亿美元，持续投资数据中心和基础设施。",
+      "ai_tags": [
+        "AI",
+        "投资",
+        "科技巨头",
+        "基础设施"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "中美高层通话为“习特会”铺路 双方在经贸议题互表不满",
+      "link": "https://www.zaobao.com/news/china/story20260501-8983889",
+      "published_time": "2026-05-01 14:11:22",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/3d1e0564b5ec331c7d89f4e143683789b77263642956a2821406effcc93d3f59\" /><figcaption></figcaption></figure><div><div><p>中美高层星期四通话，为<a href=\"https://www.zaobao.com/news/china/story20260326-8797159?ref=article-inline\" target=\"_blank\">美国总统特朗普与中国国家主席习近平即将举行的会晤</a>铺路。双方在通话中谈及台湾问题与中东局势，并在经贸议题上互表不满。 </p><p>基于中东局势持续动荡，受访学者认为，不排除这场战事为习特会再添变数的可能性。与此同时，中美也可能在元首会晤前展开一轮较低层级的磋商，以梳理分歧、寻找共识。</p><p>美国财政部长贝森特和贸易代表格里尔星期四（4月30日）与中国副总理何立峰举行视频通话；美国国务卿鲁比奥同一天",
+      "ai_summary": "中美高层通话为习特会铺垫，双方在经贸、台湾、中东议题上互表不满。",
+      "ai_tags": [
+        "中美关系",
+        "习特会",
+        "经贸"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "the_decoder",
+      "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+      "link": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+      "published_time": "2026-05-01 10:25:37",
+      "raw_content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1376\" /></p>\n<p>        OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GP",
+      "ai_summary": "英国AI安全研究所发现，OpenAI的GPT-5.5能够自主解决完整的网络攻击模拟，性能接近Anthropic的Claude Mythos。",
+      "ai_tags": [
+        "AI",
+        "网络安全",
+        "GPT-5.5",
+        "Claude Mythos"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "zaobao_china",
+      "title": "俄罗斯日渐依赖中国供应关键战争物资",
+      "link": "https://www.zaobao.com/news/china/story20260501-8983860",
+      "published_time": "2026-05-01 10:16:09",
+      "raw_content": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/9e232b66269bd709fd71252ab4f564aa1410eafebd7215fb499035932a21c60e\" /><figcaption></figcaption></figure><div><div><p>（布鲁塞尔/北京综合讯）俄罗斯从中国进口超过90%的受制裁技术，显示随着俄乌战争持续，莫斯科日渐依赖北京提供所需的战争物资。</p><p>彭博社星期四（4月30日）引述知情人士称，在欧盟严厉打击俄罗斯获得受限物品渠道的背景下，莫斯科从北京获得受制裁的科技较去年增加80%。俄罗斯凭此援助增加导弹和无人机等多种武器的产量。</p><p>欧盟持续通过制裁措施，尝试阻止俄罗斯获得半导体、集成电路和机电等技术，以用来使用或制造上述武器。欧盟也指中国大陆、香港等地的实体协助俄罗斯规避制裁，而对它们实施制裁。</p><p>不过，中国并未因此停止向俄罗斯供应关键物资。彭博社曾报道，虽然削减对乌克兰和其他国家的出口，北京仍向俄罗斯提供地理空间情报、",
+      "ai_summary": "俄罗斯从中国进口受制裁技术增加80%，依赖中国供应战争物资用于俄乌战争。",
+      "ai_tags": [
+        "俄乌战争",
+        "中俄关系",
+        "制裁"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "stackoverflow_blog",
+      "title": "Time is a construct but it can still break your software",
+      "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
+      "published_time": "2026-05-01 07:40:00",
+      "raw_content": "Ryan welcomes  Jason Williams, senior software engineer at Bloomberg and  the creator of Rust-based JavaScript engine Boa, to the show to dive into why date and time handling in JavaScript is so difficult and how the Temporal proposal aims to fix it.",
+      "ai_summary": "JavaScript中日期时间处理的难点及Temporal提案如何解决这一问题。",
+      "ai_tags": [
+        "JavaScript",
+        "日期时间",
+        "Temporal"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "published_time": "2026-04-30 16:43:47",
+      "raw_content": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 581</p>\n<p># Comments: 525</p>",
+      "ai_summary": "Linux内核漏洞修复未事先通知发行版，引发安全风险讨论。",
+      "ai_tags": [
+        "安全",
+        "Linux",
+        "内核"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "xueqiu",
+      "title": "capex史诗级狂飙！算力就是20年前的房地产，这轮明牌造富比你想象的更凶猛",
+      "link": "http://xueqiu.com/1545503181/386719782",
+      "published_time": "2026-04-30 09:20:38",
+      "raw_content": "",
+      "ai_summary": "资本开支史诗级增长，算力被视为20年前的房地产，明牌造富。",
+      "ai_tags": [
+        "算力",
+        "资本开支",
+        "AI基建"
       ],
       "ai_importance": 5
     },
@@ -155,147 +238,57 @@
       "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT",
       "published_time": "2026-04-30 07:05:52",
       "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/2c/9c/2c7db8bc67b259296f5cd549faa15b9c.jpg\" /></p><p>刚刚，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6d/6d147a7a6c75d40f1769918e64c662dc.jpeg\" /></p><p>&nbsp;</p><p>去年12月底，科技巨头Meta宣布完成对AI初创公司Manus的收购，交易对价超过20亿美元（约合人民币140亿元），跻身Meta史上第三大并购案。这场由CEO马克·扎克伯格亲自操盘的谈判仅用十余天便迅速敲定，为Meta 2025年的激进AI布局画上收官句号。据知情人士披露，此次交易规模仅次于2014年对WhatsApp的190亿美元收购及2025年6月对Scale AI的战略投资。</p><p>&n",
-      "ai_summary": "中国外商投资安全审查办公室禁止Meta收购AI初创公司Manus，该交易曾超过20亿美元。",
+      "ai_summary": "国家发展改革委禁止外资收购Manus项目，Meta此前宣布以超20亿美元收购该AI初创公司，现交易被撤销。",
       "ai_tags": [
         "Meta",
         "Manus",
-        "收购",
-        "外商投资",
-        "禁止"
+        "收购被禁",
+        "外商投资"
       ],
       "ai_importance": 5
     },
     {
-      "category": "hacker_news",
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "published_time": "2026-04-30 03:21:04",
-      "raw_content": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 1031</p>\n<p># Comments: 631</p>",
-      "ai_summary": "OpenAI发布文章探讨地精（goblin）的起源，引发广泛讨论。",
+      "category": "infoq",
+      "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+      "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+      "published_time": "2026-04-30 06:00:00",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/f7/cd/f7da52b95616b3111672d0680c5948cd.jpg\" /></p><p>Anthropic研究科学家Nicholas Carlini在[un]prompted AI安全会议上表示，他使用Claude Code在Linux内核中发现了多个可远程利用的安全漏洞，其中包括NFS驱动里一个自2003年就存在的堆缓冲区溢出问题。该漏洞现已修复。到目前为止，Carlini总共识别出5个Linux内核漏洞，另有数百个潜在崩溃点仍在等待人工验证。</p><p></p><p>Michael Lynch基于Carlini的会议演讲撰写了一篇详细拆解的文章。这次发现的特别之处不仅在于漏洞存在时间之久，还在于Claude Code在极少人工监督下就找到了它。Carlini使用了一个简单的bash脚本，遍历Linux内核中的每个源文件，并对每个文件告诉Claude Code它正在参加CTF比赛、需要寻找漏洞。没有自定义工具，也没有复杂提示词，只是把模型注意力限制到“一<",
+      "ai_summary": "Anthropic研究员使用Claude Code在Linux内核中发现多个可远程利用漏洞，其中一个NFS驱动漏洞自2003年存在，现已修复。",
       "ai_tags": [
-        "OpenAI",
-        "地精",
-        "起源",
-        "文化"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "published_time": "2026-04-29 18:54:31",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1233</p>\n<p># Comments: 516</p>",
-      "ai_summary": "GitHub提交信息中含“HERMES.md”会导致请求路由到额外计费，涉及Anthropic的Claude Code。",
-      "ai_tags": [
-        "HERMES.md",
         "Claude Code",
-        "计费",
-        "GitHub"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Copy Fail",
-      "link": "https://copy.fail/",
-      "published_time": "2026-04-29 18:13:53",
-      "raw_content": "<p>Article URL: <a href=\"https://copy.fail/\">https://copy.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a></p>\n<p>Points: 1390</p>\n<p># Comments: 489</p>",
-      "ai_summary": "Copy Fail网站展示了网页上复制功能的各种失败案例。",
-      "ai_tags": [
-        "复制",
-        "UX",
-        "失败",
-        "网页"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "github",
-      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-      "published_time": "2026-04-28 15:30:00",
-      "raw_content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "ai_summary": "GitHub在两个小时内部署修复并确认未发生利用，保障了git推送管道安全。",
-      "ai_tags": [
-        "安全",
+        "Linux内核",
         "漏洞",
-        "GitHub"
+        "安全"
       ],
       "ai_importance": 5
     },
     {
-      "category": "mit_technology_ai",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "published_time": "2026-04-27 22:52:57",
-      "raw_content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
-      "ai_summary": "埃隆·马斯克与OpenAI CEO萨姆·奥尔特曼将在北加州法庭对决，案件可能影响OpenAI的IPO及其作为营利性企业的合法性。",
+      "category": "infoq",
+      "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+      "published_time": "2026-04-30 02:02:01",
+      "raw_content": "<p><img src=\"https://static001.infoq.cn/resource/image/be/50/beb71ff169a5ce5ee6fd0449a2de6050.jpg\" /></p><p>整理 | 华卫</p><p></p><p>近日，Anthropic发布了一项研究，精确描绘了当前 AI 正在替代哪些工作。最容易受到影响的群体出乎意料：他们更年长、受教育程度更高、收入也更高（比平均水平高出 47%）。并且，他们拥有研究生学历的概率几乎是那些尚未被 AI 影响人群的四倍。</p><p></p><p>而研究显示，AI 远未达到其理论能力上限，当前实际覆盖范围也只是可实现场景的一小部分。具体来说，部分任务虽具备理论 AI 落地可行性，却未形成规模化实际应用，核心原因包括模型本身的功能局限、法律法规约束、专用软件适配门槛、人工核验硬性要求等多重阻碍。</p><p></p><p>值得注意的是，发布这项研究的公司，正是出售知名大模型Claude的公司。一家卖AI的公司，发布了最不利自己的数据。Anthropic 本可以出于商业动机弱化这些结论，但它依然选择了公开。</",
+      "ai_summary": "Anthropic研究显示，AI替代工作主要影响年长、高学历、高收入人群，且当前AI实际应用有限。",
       "ai_tags": [
-        "马斯克",
-        "OpenAI",
-        "法庭",
-        "IPO",
-        "营利性"
+        "Anthropic",
+        "AI替代",
+        "就业影响"
       ],
       "ai_importance": 5
     },
     {
       "category": "openai",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "published_time": "2026-04-27 06:00:00",
-      "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI和微软宣布修订合作协议，简化合作结构，提供长期清晰度，并支持持续的大规模AI创新。",
+      "title": "Introducing Advanced Account Security",
+      "link": "https://openai.com/index/advanced-account-security",
+      "published_time": "2026-04-30 00:00:00",
+      "raw_content": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "ai_summary": "OpenAI推出高级账户安全功能，包括防钓鱼登录、更强恢复机制和增强保护，防止账户接管和数据泄露。",
       "ai_tags": [
-        "合作",
-        "AI",
-        "微软"
+        "OpenAI",
+        "安全",
+        "账户保护"
       ],
       "ai_importance": 5
-    },
-    {
-      "category": "ft_chinese",
-      "title": "中国叫停Meta对人工智能公司Manus的收购交易",
-      "link": "https://www.ftchinese.com/story/001109573",
-      "published_time": "2026-04-26 16:00:00",
-      "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国监管机构叫停Meta收购Manus，因违反投资规定，中美博弈新兴技术。",
-      "ai_tags": [
-        "中国",
-        "Meta",
-        "Manus",
-        "收购叫停"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "cls",
-      "title": "SpaceX：星舰项目累计投入超150亿美元 计划在2026年下半年发射“星链 V3”卫星",
-      "link": "https://api3.cls.cn/share/article/2361853?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-01 10:04:45",
-      "raw_content": "【SpaceX：星舰项目累计投入超150亿美元 计划在2026年下半年发射“星链 V3”卫星】财联社5月1日电，SpaceX的IPO注册文件显示，SpaceX星舰项目累计投入突破150亿美元，公司即将推出升级版原型机。SpaceX计划在2026年下半年发射首批新的、更强大的“星链 V3”卫星。",
-      "ai_summary": "SpaceX星舰项目累计投入超150亿美元，计划2026年下半年发射首批“星链 V3”卫星。",
-      "ai_tags": [
-        "SpaceX",
-        "星舰",
-        "星链"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "cls",
-      "title": "报道：沙特4月原油出口量出现回升 4月油运量已达到战前总量60%",
-      "link": "https://api3.cls.cn/share/article/2361852?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published_time": "2026-05-01 09:58:48",
-      "raw_content": "【报道：沙特4月原油出口量出现回升 4月油运量已达到战前总量60%】财联社5月1日电，据报道，4月份沙特原油出口量出现回升。该国将原油运力转向延布红海港口后，原油发运量恢复至战前水平的约60%，但仍较沙特红海航运出口目标缺口约20%。数据显示，沙特上月原油总出口量约396万桶/日，3月修正后出口量为364万桶/日。受霍尔木兹海峡封锁影响，目前仍有约4400万桶沙特原油滞留波斯湾无法外运。",
-      "ai_summary": "沙特4月原油出口量回升至约396万桶/日，运量恢复至战前60%，但仍有4400万桶滞留波斯湾。",
-      "ai_tags": [
-        "沙特",
-        "原油",
-        "出口"
-      ],
-      "ai_importance": 4
     }
   ]
 }
