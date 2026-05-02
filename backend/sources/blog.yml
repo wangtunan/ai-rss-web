@@ -10,8 +10,4 @@ sources:
   - name: JavaScript Weekly
     url: https://cprss.s3.amazonaws.com/javascriptweekly.com.xml
     category: javascript_weekly
-
-  - name: Vue Blog
-    url: https://blog.vuejs.org/feed.rss
-    category: vue_blog
   

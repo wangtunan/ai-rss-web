@@ -40,13 +40,7 @@ export const AI_CATEGORY_META: Record<string, CategoryMeta> = {
     subtitle: 'The Decoder',
     icon: '/logo/decoder.png',
     belong_to: [NavType.AI],
-  },
-  venturebeat_ai: {
-    label: 'VentureBeat AI',
-    subtitle: 'VentureBeat',
-    icon: '/logo/vb.png',
-    belong_to: [NavType.AI],
-  },
+  }
 }
 
 // Community 分类元信息
@@ -83,12 +77,6 @@ export const BLOG_CATEGORY_META: Record<string, CategoryMeta> = {
     label: 'GitHub Blog 动态',
     subtitle: 'GitHub',
     icon: '/logo/github.ico',
-    belong_to: [NavType.Blog],
-  },
-  vue_blog: {
-    label: 'Vue Blog 动态',
-    subtitle: 'Vue Blog',
-    icon: '/logo/vue.ico',
     belong_to: [NavType.Blog],
   },
   javascript_weekly: {
