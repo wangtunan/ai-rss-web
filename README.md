@@ -60,13 +60,14 @@ DATABASE_URL=postgresql://postgres.<project-ref>:<password>@<region>.pooler.supa
 OPENAI_API_KEY=
 OPENAI_BASE_URL=
 OPENAI_MODEL=
+RSS_SOURCE_MODE=auto
 ```
 
 说明：
 
 - 写入 Supabase/Postgres 时需要 `DATABASE_URL`。
 - 生成 AI 摘要时需要 `OPENAI_API_KEY`。
-- RSS 源配置在 `backend/sources/*.yml`。
+- `RSS_SOURCE_MODE` 可选值：`auto`、`db`、`yml`。默认 `auto`，优先读数据库，失败或为空时回退 `backend/sources/*.yml`。
 
 ## 3. 数据获取
 
@@ -108,6 +109,13 @@ sh fetch_news_to_db.sh
 ```sh
 cd backend
 sh fetch_news_to_json.sh
+```
+
+导入 yml RSS 源到数据库：
+
+```sh
+cd backend
+sh import_rss_sources.sh
 ```
 
 常用参数：

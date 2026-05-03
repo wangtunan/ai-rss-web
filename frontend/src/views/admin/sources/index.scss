@@ -1,0 +1,229 @@
+.sources-admin {
+  --admin-width: 88rem;
+  --admin-panel: color-mix(in srgb, var(--surface) 94%, transparent);
+  --admin-panel-strong: color-mix(in srgb, var(--surface-2) 86%, transparent);
+  --admin-muted: var(--text-soft);
+  --admin-rail: color-mix(in srgb, var(--line) 80%, transparent);
+  --metric-total: #38bdf8;
+  --metric-enabled: #34d399;
+  --metric-disabled: #fb7185;
+  --metric-visible: #fbbf24;
+
+  min-height: 100vh;
+  box-sizing: border-box;
+  padding: 1.4rem;
+  color: var(--text);
+  font-family:
+    'Segoe UI',
+    'PingFang SC',
+    'Hiragino Sans GB',
+    'Microsoft YaHei',
+    'Noto Sans CJK SC',
+    sans-serif;
+
+  :deep(.el-button) {
+    border-radius: 7px;
+    font-weight: 680;
+  }
+
+  :deep(.el-button:not(.el-button--primary):not(.el-button--danger)) {
+    --el-button-bg-color: color-mix(in srgb, var(--surface-2) 74%, transparent);
+    --el-button-border-color: var(--admin-rail);
+    --el-button-hover-bg-color: color-mix(in srgb, var(--accent) 12%, var(--surface-2));
+    --el-button-hover-border-color: color-mix(in srgb, var(--accent) 48%, transparent);
+    --el-button-hover-text-color: var(--text);
+    --el-button-active-bg-color: color-mix(in srgb, var(--accent) 18%, var(--surface-2));
+    --el-button-active-border-color: var(--accent);
+    --el-button-text-color: var(--text);
+  }
+
+  :deep(.el-button--primary) {
+    --el-button-bg-color: var(--accent);
+    --el-button-border-color: color-mix(in srgb, var(--accent) 72%, transparent);
+    --el-button-hover-bg-color: color-mix(in srgb, var(--accent) 88%, white 12%);
+    --el-button-hover-border-color: var(--accent);
+    --el-button-active-bg-color: color-mix(in srgb, var(--accent) 80%, black 20%);
+    --el-button-active-border-color: var(--accent);
+    --el-button-text-color: #051316;
+  }
+
+  :deep(.el-button--danger) {
+    --el-button-bg-color: color-mix(in srgb, var(--danger) 12%, transparent);
+    --el-button-border-color: color-mix(in srgb, var(--danger) 40%, transparent);
+    --el-button-hover-bg-color: color-mix(in srgb, var(--danger) 88%, white 12%);
+    --el-button-hover-border-color: var(--danger);
+    --el-button-hover-text-color: #fff;
+    --el-button-active-bg-color: color-mix(in srgb, var(--danger) 82%, black 18%);
+    --el-button-active-border-color: var(--danger);
+    --el-button-text-color: var(--danger);
+  }
+
+  :deep(.el-input__wrapper),
+  :deep(.el-select__wrapper),
+  :deep(.el-input-number .el-input__wrapper) {
+    border-radius: 7px;
+    background: color-mix(in srgb, var(--bg-soft) 88%, transparent);
+    box-shadow: 0 0 0 1px var(--admin-rail) inset;
+  }
+
+  :deep(.el-input__wrapper.is-focus),
+  :deep(.el-select__wrapper.is-focused) {
+    box-shadow:
+      0 0 0 1px var(--accent) inset,
+      0 0 0 3px var(--accent-soft);
+  }
+
+  :deep(.el-input__inner),
+  :deep(.el-select__placeholder),
+  :deep(.el-select__selected-item),
+  :deep(.el-checkbox__label),
+  :deep(.el-pagination__total),
+  :deep(.el-pagination__jump) {
+    color: var(--text);
+  }
+
+  :deep(.el-radio-button__inner) {
+    background: color-mix(in srgb, var(--bg-soft) 80%, transparent);
+    border-color: var(--admin-rail);
+    color: var(--admin-muted);
+    font-weight: 700;
+  }
+
+  :deep(.el-radio-button__original-radio:checked + .el-radio-button__inner) {
+    background: var(--accent-soft);
+    border-color: color-mix(in srgb, var(--accent) 60%, transparent);
+    box-shadow: -1px 0 0 0 color-mix(in srgb, var(--accent) 60%, transparent);
+    color: var(--accent);
+  }
+
+  :deep(.el-switch.is-checked .el-switch__core) {
+    background-color: color-mix(in srgb, var(--metric-enabled) 76%, #064e3b);
+    border-color: color-mix(in srgb, var(--metric-enabled) 84%, transparent);
+  }
+
+  :deep(.el-tag) {
+    --el-tag-bg-color: color-mix(in srgb, var(--accent) 10%, transparent);
+    --el-tag-border-color: color-mix(in srgb, var(--accent) 34%, transparent);
+    --el-tag-text-color: var(--accent);
+    font-weight: 700;
+  }
+
+  :deep(.el-link.el-link--primary) {
+    --el-link-text-color: color-mix(in srgb, var(--accent) 82%, var(--text));
+    --el-link-hover-text-color: var(--accent);
+  }
+
+  :deep(.el-table) {
+    --el-table-bg-color: transparent;
+    --el-table-tr-bg-color: transparent;
+    --el-table-header-bg-color: color-mix(in srgb, var(--surface-2) 82%, var(--bg) 18%);
+    --el-table-row-hover-bg-color: color-mix(in srgb, var(--accent) 7%, transparent);
+    --el-table-border-color: var(--admin-rail);
+    --el-table-text-color: var(--text);
+    --el-table-header-text-color: var(--admin-muted);
+    background: transparent;
+  }
+
+  :deep(.el-table th) {
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+  }
+
+  :deep(.el-table .cell) {
+    min-width: 0;
+  }
+
+  :deep(.el-table__row.is-disabled) {
+    opacity: 0.54;
+  }
+
+  :deep(.el-pagination.is-background .el-pager li),
+  :deep(.el-pagination.is-background button) {
+    background: color-mix(in srgb, var(--surface-2) 78%, transparent);
+    color: var(--admin-muted);
+  }
+
+  :deep(.el-pagination.is-background .el-pager li.is-active) {
+    background: var(--accent);
+    color: #051316;
+    font-weight: 800;
+  }
+
+  :deep(.el-form-item__label) {
+    color: var(--admin-muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+  }
+
+  &__header,
+  &__section {
+    width: min(100%, var(--admin-width));
+    margin-inline: auto;
+  }
+
+  &__header {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: end;
+    margin-bottom: 1rem;
+  }
+
+  &__section {
+    margin-bottom: 0.8rem;
+  }
+
+  &__section:last-of-type {
+    margin-bottom: 0;
+  }
+
+  &__title {
+    display: grid;
+    gap: 0.28rem;
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.65rem, 3vw, 2.35rem);
+      font-weight: 760;
+      letter-spacing: 0;
+      line-height: 1.06;
+    }
+
+    span {
+      color: var(--admin-muted);
+      font-size: 0.9rem;
+    }
+  }
+
+  &__eyebrow {
+    margin: 0;
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.16em;
+  }
+
+  &__header-actions {
+    display: flex;
+    gap: 0.55rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .sources-admin {
+    padding: 1rem;
+
+    &__header {
+      grid-template-columns: 1fr;
+    }
+
+    &__header-actions {
+      justify-content: stretch;
+
+      :deep(.el-button) {
+        flex: 1;
+      }
+    }
+  }
+}

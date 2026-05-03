@@ -1,0 +1,137 @@
+.source-editor-dialog {
+  &__form {
+    display: grid;
+    gap: 0.95rem;
+  }
+
+  &__head {
+    display: grid;
+    gap: 0.26rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid var(--admin-rail);
+
+    p {
+      margin: 0;
+      color: var(--accent);
+      font-size: 0.74rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+    }
+
+    h2 {
+      margin: 0;
+      overflow-wrap: anywhere;
+      font-size: 1.18rem;
+      letter-spacing: 0;
+      line-height: 1.22;
+    }
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+
+    :deep(.el-input-number) {
+      width: 100%;
+    }
+  }
+
+  &__actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.65rem;
+  }
+}
+
+:global(.source-editor-dialog) {
+  border: 1px solid color-mix(in srgb, var(--line-strong) 62%, transparent);
+  border-radius: 8px;
+  background: var(--el-dialog-bg-color) !important;
+  color: var(--text);
+  box-shadow:
+    0 28px 72px rgba(0, 0, 0, 0.38),
+    0 0 0 1px color-mix(in srgb, var(--accent) 9%, transparent) inset;
+}
+
+:global(.source-editor-dialog .el-dialog__header) {
+  padding: 1rem 1rem 0;
+  border-radius: 8px 8px 0 0;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--accent) 7%, transparent), transparent);
+}
+
+:global(.source-editor-dialog .el-dialog__title) {
+  color: var(--text);
+  font-weight: 760;
+}
+
+:global(.source-editor-dialog .el-dialog__body) {
+  padding: 1rem;
+}
+
+:global(.source-editor-dialog .el-dialog__footer) {
+  padding: 0 1rem 1rem;
+}
+
+:global(.source-editor-dialog .el-input__wrapper),
+:global(.source-editor-dialog .el-input-number .el-input__wrapper) {
+  --el-input-bg-color: color-mix(in srgb, var(--surface-2) 58%, var(--surface) 42%);
+  --el-input-border-color: color-mix(in srgb, var(--line-strong) 42%, transparent);
+  --el-input-hover-border-color: color-mix(in srgb, var(--accent) 48%, transparent);
+  --el-input-focus-border-color: var(--accent);
+
+  background: var(--el-input-bg-color);
+  box-shadow: 0 0 0 1px var(--el-input-border-color) inset;
+}
+
+:global(.source-editor-dialog .el-input__wrapper.is-focus) {
+  box-shadow:
+    0 0 0 1px var(--accent) inset,
+    0 0 0 3px var(--accent-soft);
+}
+
+:global(.source-editor-dialog .el-input-number__increase),
+:global(.source-editor-dialog .el-input-number__decrease) {
+  --el-fill-color-light: color-mix(in srgb, var(--surface-2) 70%, white 16%);
+  --el-border-color: color-mix(in srgb, var(--line-strong) 42%, transparent);
+
+  color: var(--text);
+}
+
+:global(.source-editor-dialog .el-checkbox__input.is-checked .el-checkbox__inner) {
+  background-color: color-mix(in srgb, #409eff 88%, white 12%);
+  border-color: color-mix(in srgb, #409eff 88%, white 12%);
+}
+
+:global(.source-editor-dialog .el-dialog__headerbtn .el-dialog__close) {
+  color: color-mix(in srgb, var(--text-soft) 74%, white 26%);
+}
+
+:global(:root[data-theme='light'] .source-editor-dialog) {
+  --el-dialog-bg-color: var(--surface);
+
+  border-color: var(--admin-rail);
+  box-shadow: 0 24px 58px rgba(25, 42, 70, 0.16);
+}
+
+:global(:root[data-theme='light'] .source-editor-dialog .el-input__wrapper),
+:global(:root[data-theme='light'] .source-editor-dialog .el-input-number .el-input__wrapper) {
+  --el-input-bg-color: var(--bg-soft);
+  --el-input-border-color: var(--admin-rail);
+
+  background: var(--el-input-bg-color);
+}
+
+:global(:root[data-theme='light'] .source-editor-dialog .el-input-number__increase),
+:global(:root[data-theme='light'] .source-editor-dialog .el-input-number__decrease) {
+  --el-fill-color-light: var(--surface-2);
+  --el-border-color: var(--admin-rail);
+}
+
+@media (max-width: 560px) {
+  .source-editor-dialog {
+    &__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+}

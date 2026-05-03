@@ -1,0 +1,28 @@
+.source-toolbar {
+  display: grid;
+  grid-template-columns: minmax(18rem, 1fr) 13rem auto;
+  gap: 0.75rem;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid var(--admin-rail);
+  border-radius: 8px;
+  padding: 0.85rem;
+  background: var(--admin-panel);
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 900px) {
+  .source-toolbar {
+    grid-template-columns: 1fr 1fr;
+
+    :deep(.el-radio-group) {
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+@media (max-width: 560px) {
+  .source-toolbar {
+    grid-template-columns: 1fr;
+  }
+}

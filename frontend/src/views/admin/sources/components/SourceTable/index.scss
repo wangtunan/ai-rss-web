@@ -1,0 +1,58 @@
+.source-table {
+  overflow: hidden;
+  border: 1px solid var(--admin-rail);
+  border-radius: 8px;
+  background: var(--admin-panel);
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.2);
+
+  &__state {
+    display: flex;
+    align-items: center;
+  }
+
+  &__source-name {
+    display: grid;
+    gap: 0.18rem;
+    min-width: 0;
+
+    strong,
+    span {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    strong {
+      font-size: 0.92rem;
+      letter-spacing: 0;
+    }
+
+    span {
+      color: var(--admin-muted);
+      font-size: 0.76rem;
+    }
+  }
+
+  &__row-actions {
+    display: inline-flex;
+    gap: 0.45rem;
+    justify-content: flex-end;
+  }
+
+  &__pagination {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.85rem;
+    border-top: 1px solid var(--admin-rail);
+    background: color-mix(in srgb, var(--surface-2) 56%, transparent);
+  }
+}
+
+@media (max-width: 900px) {
+  .source-table {
+    &__pagination {
+      justify-content: flex-start;
+      overflow-x: auto;
+    }
+  }
+}
