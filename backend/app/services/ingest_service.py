@@ -7,7 +7,7 @@ from time import perf_counter
 from typing import Sequence
 
 from app.db.session import SessionLocal
-from app.repositories.news_repository import delete_old_news_items, save_news_items
+from app.repositories.news_repository import delete_old_news_items, get_existing_links, save_news_items
 from app.services.feed_service import parse_feeds
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
@@ -179,18 +179,43 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
 def fetch_news_to_db(max_entries: int = 20, source_files: Sequence[str] | None = None) -> dict:
     """
     执行一次抓取 -> 摘要 -> 入库流程。
-    返回统计信息，供 job 命令输出。
+    摘要前先查库过滤已有条目，避免重复调用 AI。
     """
     started_at = perf_counter()
     print("🚀 开始执行抓取任务...")
-    summarized_entries, sources, stats = _collect_summarized_entries(
-        max_entries=max_entries,
-        source_files=source_files,
-    )
 
-    print("💾 正在写入数据库（自动去重）...")
+    if max_entries < 1:
+        raise ValueError("max_entries 必须 >= 1")
+
+    print("📦 正在加载 feed 源配置...")
+    sources = load_sources(source_files=source_files)
+    print(f"✅ 已加载 {len(sources)} 个源（每源最多抓取 {max_entries} 条）")
+
+    print("🌐 正在抓取并解析 RSS...")
+    raw_entries = parse_feeds(sources, max_entries=max_entries)
+    print(f"✅ 抓取完成，共 {len(raw_entries)} 条")
+
+    raw_entries = _attach_source_name(raw_entries, sources)
+
     session: Session = SessionLocal()
     try:
+        all_links = list({(e.get("link") or "").strip() for e in raw_entries if e.get("link")})
+        existing_links = get_existing_links(session, all_links)
+
+        new_entries = [e for e in raw_entries if (e.get("link") or "").strip() not in existing_links]
+        dup_count = len(raw_entries) - len(new_entries)
+        if dup_count:
+            print(f"⏭️ 已跳过 {dup_count} 条数据库中已存在的条目")
+
+        if new_entries:
+            print(f"🤖 正在调用 AI 生成 {len(new_entries)} 条摘要（这一步可能较慢）...")
+            summarized_entries = summary_entries(new_entries)
+            print(f"✅ 摘要完成，共 {len(summarized_entries)} 条")
+        else:
+            print("✅ 没有新条目需要摘要")
+            summarized_entries = []
+
+        print("💾 正在写入数据库（自动去重）...")
         inserted, skipped = save_news_items(session, summarized_entries)
 
         print("🗑️ 正在清理超过 7 天的旧数据...")
@@ -205,16 +230,19 @@ def fetch_news_to_db(max_entries: int = 20, source_files: Sequence[str] | None =
         raise
     finally:
         session.close()
-    
+
     elapsed = perf_counter() - started_at
     print(
         f"🎉 任务完成：新增 {inserted} 条，跳过重复 {skipped} 条，耗时 {elapsed:.1f}s"
     )
-    
+
     return {
-        **stats,
+        "source_count": len(sources),
+        "fetched_count": len(raw_entries),
+        "new_count": len(new_entries),
+        "summarized_count": len(summarized_entries),
         "inserted_count": inserted,
-        "skipped_count": skipped
+        "skipped_count": skipped,
     }
 
 
