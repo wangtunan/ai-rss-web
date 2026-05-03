@@ -1,21 +1,18 @@
 import json
 
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 from pathlib import Path
 from sqlalchemy.orm import Session
 from time import perf_counter
+from typing import Sequence
 
 from app.db.session import SessionLocal
 from app.repositories.news_repository import save_news_items
 from app.services.feed_service import parse_feeds
-from app.services.raw_backup_service import backup_entries, is_raw_backup_enabled
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
 
-CURATED_STATIC_LIMITS = {
-    "today": 20,
-    "week": 20,
-}
+CURATED_LIMIT = 20
 
 
 def _project_root() -> Path:
@@ -41,12 +38,15 @@ def _attach_source_name(entries: list[dict], sources: list[dict]) -> list[dict]:
     ]
 
 
-def _collect_summarized_entries(max_entries: int = 20) -> tuple[list[dict], list[dict], dict]:
+def _collect_summarized_entries(
+    max_entries: int = 20,
+    source_files: Sequence[str] | None = None,
+) -> tuple[list[dict], list[dict], dict]:
     if max_entries < 1:
         raise ValueError("max_entries 必须 >= 1")
 
     print("📦 正在加载 feed 源配置...")
-    sources = load_sources()
+    sources = load_sources(source_files=source_files)
     print(f"✅ 已加载 {len(sources)} 个源（每源最多抓取 {max_entries} 条）")
 
     print("🌐 正在抓取并解析 RSS...")
@@ -57,10 +57,6 @@ def _collect_summarized_entries(max_entries: int = 20) -> tuple[list[dict], list
     raw_entries = _attach_source_name(raw_entries, sources)
     summarized_entries = summary_entries(raw_entries)
     print(f"✅ 摘要完成，共 {len(summarized_entries)} 条")
-
-    if is_raw_backup_enabled():
-        print("💾 正在备份摘要数据...")
-        backup_entries(summarized_entries)
 
     return summarized_entries, sources, {
         "source_count": len(sources),
@@ -96,20 +92,19 @@ def _curated_sort_key(item: dict) -> tuple[int, str, str]:
     return (importance, published_time, link)
 
 
-def _select_curated_items(items: list[dict], period: str, limit: int, now: datetime) -> list[dict]:
+def _select_curated_items(items: list[dict], limit: int, now: datetime) -> list[dict]:
     today = now.date()
-    start_date = today if period == "today" else today - timedelta(days=6)
 
-    period_items = [
+    today_items = [
         item
         for item in items
-        if (item_date := _parse_item_date(item)) is not None and start_date <= item_date <= today
+        if (item_date := _parse_item_date(item)) is not None and item_date == today
     ]
 
-    if not period_items:
-        period_items = items
+    if not today_items:
+        today_items = items
 
-    return sorted(period_items, key=_curated_sort_key, reverse=True)[:limit]
+    return sorted(today_items, key=_curated_sort_key, reverse=True)[:limit]
 
 
 def _export_summarized_news_json(summarized_entries: list[dict], sources: list[dict], limit: int = 500) -> tuple[Path, int]:
@@ -166,31 +161,32 @@ def _export_summarized_news_json(summarized_entries: list[dict], sources: list[d
             },
         )
 
-    for period, curated_limit in CURATED_STATIC_LIMITS.items():
-        curated_items = _select_curated_items(sorted_items, period, curated_limit, updated_at)
-        _write_json(
-            category_dir / f"curated-{period}.json",
-            {
-                "period": period,
-                "scope": "all",
-                "total": len(curated_items),
-                "limit": curated_limit,
-                "offset": 0,
-                "items": curated_items,
-            },
-        )
+    curated_items = _select_curated_items(sorted_items, CURATED_LIMIT, updated_at)
+    _write_json(
+        category_dir / "curated-today.json",
+        {
+            "period": "today",
+            "total": len(curated_items),
+            "limit": CURATED_LIMIT,
+            "offset": 0,
+            "items": curated_items,
+        },
+    )
 
     return output_path, min(len(sorted_items), limit)
 
 
-def local_fetch_news(max_entries: int = 20) -> dict:
+def fetch_news_to_db(max_entries: int = 20, source_files: Sequence[str] | None = None) -> dict:
     """
     执行一次抓取 -> 摘要 -> 入库流程。
     返回统计信息，供 job 命令输出。
     """
     started_at = perf_counter()
     print("🚀 开始执行抓取任务...")
-    summarized_entries, sources, stats = _collect_summarized_entries(max_entries=max_entries)
+    summarized_entries, sources, stats = _collect_summarized_entries(
+        max_entries=max_entries,
+        source_files=source_files,
+    )
 
     print("💾 正在写入数据库（自动去重）...")
     session: Session = SessionLocal()
@@ -215,13 +211,16 @@ def local_fetch_news(max_entries: int = 20) -> dict:
     }
 
 
-def cron_fetch_news(max_entries: int = 20) -> dict:
+def fetch_news_to_json(max_entries: int = 20, source_files: Sequence[str] | None = None) -> dict:
     """
     执行一次抓取 -> 摘要 -> 导出静态 JSON 流程（不写数据库）。
     """
     started_at = perf_counter()
     print("🚀 开始执行静态导出任务...")
-    summarized_entries, sources, stats = _collect_summarized_entries(max_entries=max_entries)
+    summarized_entries, sources, stats = _collect_summarized_entries(
+        max_entries=max_entries,
+        source_files=source_files,
+    )
 
     print("🧾 正在导出前端静态 JSON...")
     output_path, exported_count = _export_summarized_news_json(summarized_entries, sources)

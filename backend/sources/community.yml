@@ -8,6 +8,6 @@ sources:
     category: v2ex
   
   - name: 掘金
-    url: https://rsshub.bestblogs.dev/juejin/trending/all/weekly
+    url: https://juejin.cn/rss
     category: juejin
   

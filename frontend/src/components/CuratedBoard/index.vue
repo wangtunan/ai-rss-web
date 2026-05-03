@@ -170,7 +170,6 @@
     try {
       const result = await fetchCuratedNewsPayload({
         period: section.period,
-        scope: 'all',
         limit: section.limit,
         offset: 0,
       })

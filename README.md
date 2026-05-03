@@ -1,91 +1,179 @@
-# AI 资讯看板
+# AI RSS Web
 
-一个基于 AI 的资讯看板，分为两种运行模式：
+一个 AI RSS 聚合页面。
 
-- 本地 API 模式：使用 FastAPI + SQLite，抓取任务只负责写入数据库，前端通过 API 请求数据。
-- 线上静态模式：使用 GitHub Actions 定时抓取并生成静态 JSON，前端直接读取静态资源。
+## 当前模式
 
-## 项目结构
+- 本地开发默认使用静态 JSON：`frontend/public/data/news/*.json`。
+- 线上使用 Supabase：前端直接读取 `public.public_news_items`。
+- Python 后端只负责抓取 RSS、调用模型总结、写入 Supabase Postgres。
+- 项目只保留前端页面和 Python 抓取任务这两条运行路径。
 
-- `frontend/`: Vue 3 前端
-- `backend/`: FastAPI + SQLAlchemy 后端
-- `backend/app/jobs/local_fetch_news.py`: 本地抓取、摘要并写入 SQLite 的任务命令（用于 API 模式）
-- `backend/app/jobs/cron_fetch_news.py`: 线上抓取并导出静态 JSON 的任务命令（不写 DB）
-- `backend/app/main.py`: API 入口
-- `frontend/public/data/news/*.json`: 按分类生成的静态列表接口数据
+## 本地前端开发
 
-## 前端本地开发
-```sh
-$ cd frontend
-$ npm install
-$ npm run dev
-```
-
-## 后端本地开发
-
-本地默认使用 SQLite：`sqlite:///./data/news.db`。如果需要覆盖数据库地址，可以在 `backend/.env` 中配置 `DATABASE_URL`。
+默认不需要配置数据库，也不需要启动后端 API。
 
 ```sh
-$ cd backend
-$ uv sync
-$ python -m alembic upgrade head
-$ python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+cd frontend
+npm install
+npm run dev
 ```
 
-## 运行抓取任务（本地）
-
-该命令会抓取 RSS、生成 AI 摘要并写入 SQLite（不导出静态 JSON）。
-
-```sh
-$ cd backend
-$ python -m app.jobs.local_fetch_news --max-entries 20
-```
-
-## 运行纯 JSON 导出（不写 DB）
-
-该命令会抓取 RSS 并导出静态 JSON，同时可选写入根目录 `data/` 备份，仅用于线上定时任务，不依赖数据库。
-
-```sh
-$ cd backend
-$ python -m app.jobs.cron_fetch_news --max-entries 20
-```
-
-## API 示例
-
-- 健康检查: `GET /health`
-- 新闻列表: `GET /api/v1/news?limit=100`
-- 分类列表: `GET /api/v1/news/list?category=openai&limit=10`
-
-## 前端数据源模式
-
-前端通过环境变量决定读取本地 API 还是静态 JSON。
-
-本地 API 模式：
-
-```env
-VITE_DATA_MODE=api
-VITE_API_BASE_URL=http://localhost:8000
-```
-
-线上静态模式：
+本地默认数据源等价于：
 
 ```env
 VITE_DATA_MODE=static
 VITE_STATIC_NEWS_LIST_BASE_URL=/data/news
 ```
 
-## 线上部署（GitHub + 静态 JSON）
+## 线上前端配置
 
-线上不部署 Python 服务。GitHub Actions 会定时运行 `backend/app/jobs/cron_fetch_news.py`，更新 `frontend/public/data` 下的静态 JSON，并将可选备份写入根目录 `data/` 后一并提交。
+线上部署时配置 Supabase 读取模式：
 
-需要在 GitHub Secrets 中配置：
+```env
+VITE_DATA_MODE=supabase
+VITE_SUPABASE_URL=https://<project-ref>.supabase.co
+VITE_SUPABASE_PUBLISHABLE_KEY=<publishable-key>
+```
 
-- `OPENAI_API_KEY`
-- `OPENAI_BASE_URL`
-- `OPENAI_MODEL`
-- `ENABLE_SUMMARIZED_BACKUP`（建议线上设为 `true` 用于备份）
+前端会读取 Supabase REST API：
 
-前端部署到 GitHub Pages、Vercel 或 Cloudflare Pages 时，将数据源模式设置为：
+```text
+/rest/v1/public_news_items
+```
 
-- `VITE_DATA_MODE=static`
-- `VITE_STATIC_NEWS_LIST_BASE_URL=/data/news`
+## 抓取数据到 Supabase
+
+后端需要配置 `backend/.env`：
+
+```env
+DATABASE_URL=postgresql://postgres.<project-ref>:<password>@<region>.pooler.supabase.com:5432/postgres?sslmode=require
+OPENAI_API_KEY=
+OPENAI_BASE_URL=
+OPENAI_MODEL=
+```
+
+全量抓取：
+
+```sh
+cd backend
+sh fetch_news_to_db.sh
+```
+
+限制每个源抓取数量：
+
+```sh
+sh fetch_news_to_db.sh 5
+```
+
+只抓某个 yml：
+
+```sh
+sh fetch_news_to_db.sh community.yml
+```
+
+只抓某个 yml，并限制每个源数量：
+
+```sh
+sh fetch_news_to_db.sh 5 community.yml
+```
+
+也可以直接运行 Python 入口：
+
+```sh
+python -m app.jobs.fetch_news_to_db --max-entries 5 community.yml
+```
+
+## 导出本地 JSON
+
+如果不需要数据库，只想抓取 RSS 并导出前端可用的静态 JSON 文件，使用 `fetch_news_to_json.sh`。该脚本会抓取 RSS、调用 AI 生成摘要，然后输出到 `frontend/public/data/news/` 目录，前端直接读取即可。
+
+后端需要配置 `backend/.env`（不需要 `DATABASE_URL`）：
+
+```env
+OPENAI_API_KEY=
+OPENAI_BASE_URL=
+OPENAI_MODEL=
+```
+
+全量导出：
+
+```sh
+cd backend
+sh fetch_news_to_json.sh
+```
+
+限制每个源抓取数量：
+
+```sh
+sh fetch_news_to_json.sh 5
+```
+
+只抓某个 yml：
+
+```sh
+sh fetch_news_to_json.sh community.yml
+```
+
+只抓某个 yml，并限制每个源数量：
+
+```sh
+sh fetch_news_to_json.sh 5 community.yml
+```
+
+也可以直接运行 Python 入口：
+
+```sh
+python -m app.jobs.fetch_news_to_json --max-entries 5 community.yml
+```
+
+导出完成后，启动前端即可看到最新数据：
+
+```sh
+cd frontend
+npm run dev
+```
+
+### 输出文件说明
+
+导出后 `frontend/public/data/news/` 下会生成以下文件：
+
+| 文件 | 说明 |
+| --- | --- |
+| `all.json` | 全量新闻（默认最多 500 条） |
+| `<category>.json` | 按分类拆分的新闻（如 `ai.json`、`community.json`） |
+| `curated-today.json` | 今日精选（按重要性排序，最多 20 条） |
+
+每条新闻包含以下字段：
+
+```json
+{
+  "category": "分类标识",
+  "source": "来源名称",
+  "title": "标题",
+  "link": "原文链接",
+  "published_time": "发布时间",
+  "raw_content": "原始内容摘要",
+  "ai_summary": "AI 生成的中文摘要",
+  "ai_tags": ["标签1", "标签2"],
+  "ai_importance": 4
+}
+```
+
+## GitHub Actions
+
+`.github/workflows/corn.yml` 会定时执行：
+
+```text
+alembic upgrade head
+python -m app.jobs.fetch_news_to_db --max-entries 20
+```
+
+需要配置 GitHub Secrets：
+
+```text
+DATABASE_URL
+OPENAI_API_KEY
+OPENAI_BASE_URL
+OPENAI_MODEL
+```

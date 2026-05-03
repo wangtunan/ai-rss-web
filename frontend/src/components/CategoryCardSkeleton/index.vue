@@ -32,7 +32,7 @@
       rowCount?: number
     }>(),
     {
-      rowCount: 4,
+      rowCount: 10,
     },
   )
 </script>

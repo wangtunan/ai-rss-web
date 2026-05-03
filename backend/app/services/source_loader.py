@@ -1,6 +1,7 @@
 import yaml
 
 from pathlib import Path
+from typing import Sequence
 
 
 def _sources_dir() -> Path:
@@ -16,12 +17,34 @@ def _load_single_file(file_path: Path) -> list[dict]:
     return sources
 
 
-def load_sources() -> list[dict]:
+def _resolve_source_file(source_file: str, sources_dir: Path) -> Path:
+    source_name = source_file.strip()
+    if not source_name:
+        raise ValueError("Source file name cannot be empty")
+
+    source_path = Path(source_name)
+    if not source_path.suffix:
+        source_path = source_path.with_suffix(".yml")
+
+    file_path = source_path if source_path.is_absolute() else sources_dir / source_path.name
+    if not file_path.exists():
+        raise FileNotFoundError(f"Source file not found: {file_path}")
+
+    return file_path
+
+
+def load_sources(source_files: Sequence[str] | None = None) -> list[dict]:
     """
     读取 sources/sources.yml 入口文件，解析 include 列表，
     逐个加载子文件并合并返回 feed 列表。
     """
     sources_dir = _sources_dir()
+    if source_files:
+        selected_sources: list[dict] = []
+        for source_file in source_files:
+            selected_sources.extend(_load_single_file(_resolve_source_file(source_file, sources_dir)))
+        return selected_sources
+
     entry_path = sources_dir / "sources.yml"
 
     if not entry_path.exists():

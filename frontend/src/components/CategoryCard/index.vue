@@ -1,7 +1,7 @@
 <template>
   <CategoryCardSkeleton v-if="loading" />
 
-  <section v-else class="category-card">
+  <section v-else-if="error || items.length > 0" class="category-card">
     <header class="category-card__header">
       <div class="category-card__header-main">
         <h2 class="category-card__title">
