@@ -10,6 +10,7 @@ export const useTheme = () => {
   const applyTheme = (mode: ThemeMode) => {
     theme.value = mode
     document.documentElement.setAttribute('data-theme', mode)
+    document.documentElement.classList.toggle('dark', mode === 'dark')
     localStorage.setItem(THEME_STORAGE_KEY, mode)
   }
 

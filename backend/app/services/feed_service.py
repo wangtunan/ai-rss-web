@@ -4,9 +4,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from time import strftime
 
 
+def _resolve_max_entries(feed_item: dict, default: int) -> int:
+    value = feed_item.get("max_entries")
+    if value is None or value == "":
+        return default
+    try:
+        return max(1, int(value))
+    except (TypeError, ValueError):
+        return default
+
+
 def _parse_one_feed(feed_item: dict, max_entries: int = 10) -> list[dict]:
     feed_url = feed_item.get("url")
     feed_category = feed_item.get("category", "")
+    feed_max_entries = _resolve_max_entries(feed_item, max_entries)
 
     if not feed_url:
         return []
@@ -19,7 +30,7 @@ def _parse_one_feed(feed_item: dict, max_entries: int = 10) -> list[dict]:
     )
 
     result: list[dict] = []
-    for entry in sorted_entries[:max_entries]:
+    for entry in sorted_entries[:feed_max_entries]:
         content = entry.get("summary", "") or entry.get("description", "")
         time_struct = entry.get("published_parsed") or entry.get("updated_parsed")
         formatted_time = strftime("%Y-%m-%d %H:%M:%S", time_struct) if time_struct else ""
