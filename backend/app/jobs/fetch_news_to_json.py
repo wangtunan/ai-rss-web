@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-from app.services.ingest_service import cron_fetch_news
+from app.services.ingest_service import fetch_news_to_json
 
 
 def main() -> None:
@@ -17,9 +17,9 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        cron_fetch_news(max_entries=args.max_entries, source_files=[*args.source_file, *args.source_files])
+        fetch_news_to_json(max_entries=args.max_entries, source_files=[*args.source_file, *args.source_files])
     except Exception as e:
-        print(f"[cron_fetch_news] failed: {e}", file=sys.stderr)
+        print(f"[fetch_news_to_json] failed: {e}", file=sys.stderr)
         sys.exit(1)
 
 
