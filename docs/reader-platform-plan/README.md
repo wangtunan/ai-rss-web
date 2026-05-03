@@ -30,12 +30,15 @@ ai-rss-web/
   docs/
     reader-platform-plan/
       README.md
+      roadmap.md
       homepage-plan.md
       mobile-app-plan.md
       cli-reader-plan.md
       ide-extension-plan.md
       browser-extension-plan.md
 ```
+
+难度划分和实施顺序见 [roadmap.md](./roadmap.md)。
 
 ## 应用职责
 
