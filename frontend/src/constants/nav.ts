@@ -16,11 +16,11 @@ export const NAV_LIST: NavItem[] = [
   },
   {
     key: NavType.InnerNews,
-    label: '国内新闻',
+    label: '国内',
   },
   {
     key: NavType.OuterNews,
-    label: '海外新闻',
+    label: '海外',
   },
   {
     key: NavType.Finance,
