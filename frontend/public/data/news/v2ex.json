@@ -1,49 +1,103 @@
 {
-  "total": 10,
+  "total": 9,
   "limit": 10,
   "offset": 0,
   "items": [
+    {
+      "category": "v2ex",
+      "title": "接龙了，兄弟们， dnshe 域名可永久了",
+      "link": "https://www.v2ex.com/t/1210050",
+      "published_time": "2026-05-03 01:20:44",
+      "raw_content": "pks: 新注册是十年到期，到期后可手动免费续期<br /><br />现在有活动，按如下操作，可变成永久域名<br /><br />抓紧！！！<br /><br />每个域名互助 5 次可永久使用 <br /><br />今年注册的可以互相互助一下 <br /><br />先选择您的域名-功能中心-域名永久升级-创建助力任务<br /><br />达到 5 次好友助力后将自动升级为永久有效。 <br /><br />每位用户最多可为好友助力 10 次。<br /><br />我的助力码<br /><br />助力码：BWPGA2Y3YC<br />助力码：KJGH9HJ3NP<br /><br />助力码：T65TZRMN32<br />助力码：6VQSDPPR4L<br />助力码：QV5Y6F4TJR<br /><br />助力码：VTKVXBTLR4<br />助力码：MQ5NU6CRAJ<br />助力码：6Y2QWZG6AQ<br /><br />抓紧！！！",
+      "ai_summary": "分享dnshe域名升级永久有效的互助活动及助力码。",
+      "ai_tags": [
+        "域名",
+        "活动",
+        "互助"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "v2ex",
+      "title": "因为买房的事情快要吵到离婚，求支招",
+      "link": "https://www.v2ex.com/t/1210039",
+      "published_time": "2026-05-02 19:55:43",
+      "raw_content": "LINAICAI: 夫妻两一直在广州租房过的，现在因为买房的事情吵架，原因是因为房东要赶我们走了，51 看好了房子，我当时说不要着急回去考虑一天，老婆非要下定，结果因为某些原因（我也上头了）真下定了，结果第二天我感觉买完房给完首付后，月供压力很大，剩余现金如果我失业了只能支撑 2 年（老家已有一套房，打算卖但是估计不好出，还有车贷没还完，另有一娃在读幼儿园中班），现在吵到要离婚，买也不是不买也不是，大家说说，真能买吗。",
+      "ai_summary": "夫妻因购房压力大、担心失业而争吵，求网友建议。",
+      "ai_tags": [
+        "买房",
+        "家庭",
+        "压力"
+      ],
+      "ai_importance": 4
+    },
     {
       "category": "v2ex",
       "title": "安卓的权限管理是假的，拒绝了仍然可以获取",
       "link": "https://www.v2ex.com/t/1210002",
       "published_time": "2026-05-02 11:11:43",
       "raw_content": "NekoBoss: <p>123 云盘 app ，在拒绝了获取访问剪贴板之后，仍然可以读取。\n起因是在酷安找到一个 app 旧版本的链接，是 123 云盘的，于是就复制了链接去浏览器下载，但是现在不能直接下载，需要用账号密码登录，不记得密码，于是就去 123 云盘 app 去设置密码。\n然后发现 app 直接弹窗提醒刚才复制的链接。\n于是之后进行更完整的测试：重新下载 app ，启动之前就拒绝权限，然后把手机上唯一一个可以写入和读取的输入法 app 也给拒绝。\n再次测试之后，仍然可以读取复制的链接。\n在手机权限记录中，可以看到 123 云盘读取剪贴板-已允许，点击进去之后，发现仍然是拒绝的。\n系统版本是小米澎湃 os3 。\n反观 iOS ，iOS 默认不显示从未申请过的权限，于是我创建了快捷指令，在 app 第一次申请剪贴板时，一键跳转到系统设置对应的 app 中选择永久拒绝。</p>\n<p>再次补充一点：国产安卓中还有拒绝访问应用列表的权限,如果拒绝了该权限，那么像酷安，taptap 这些软件就不知道手机上有什么 app 了。\n但是，有一个例外，那就是腾讯的应用宝 app ，无论你怎",
-      "ai_summary": "用户发现123云盘在拒绝剪贴板权限后仍可读取，疑似系统权限漏洞。",
+      "ai_summary": "123云盘App无视剪贴板权限限制，安卓权限管理存在漏洞。",
       "ai_tags": [
-        "安卓",
+        "Android",
         "隐私",
-        "权限",
-        "剪贴板"
+        "权限管理"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "v2ex",
+      "title": "买了一台 256G 显存, 96G 内存电脑放家里, 如何对外出租出售剩余算力?",
+      "link": "https://www.v2ex.com/t/1210021",
+      "published_time": "2026-05-02 14:30:17",
+      "raw_content": "Hermitist: 打算通过 ddns 搞一个出租页面, 可以在平时不用的时候把算力出租出去回点血, 请问这个方案可行吗?",
+      "ai_summary": "想通过DDNS出租闲置算力回血，询问可行性。",
+      "ai_tags": [
+        "算力出租",
+        "电脑",
+        "DDNS"
       ],
       "ai_importance": 3
     },
     {
       "category": "v2ex",
-      "title": "AI 时代， Java 中短期的地位不降反增",
-      "link": "https://www.v2ex.com/t/1209937",
-      "published_time": "2026-05-02 02:37:01",
-      "raw_content": "JieyueXing: AI 的兴起在 Java 面前只能算是一个稚童。<br />一些人借 AI 炒热度造铲子，搞得像新兴的邪修门派功法，并借此开宗立派喊口号，一度造成了几十年的名门正派中的内外门弟子都感觉马上要被颠覆的错觉。<br />但在真正的 AGI 到来前，AI 不会颠覆现在的传统编程语言，只会融入到传统编程语言中，这种新兴的理念会被名门正派所吸收。<br />Java 在企业级场景下占据主导地位。现实世界的逻辑是大量 Java 基建项目与 AI 结合，在原有的商业闭环中迭代与进步，这也是 Java 8 这些年屹立不动的原因——而不是幻想着用 AI 加上一门轻量快速的编程语言，就能随时造出商业铲子、一人 OPC 改变命运。<br />商业的本质是闭环。AI 是放大器，放大个人和已有的商业闭环的效率，而不是因为新时代造楼效率有突破，就跟随喊高口号的人流，把原有的大楼推翻，再建一个自认为创新的小屋等着别人住进来。",
-      "ai_summary": "作者认为AI不会颠覆Java，而是融入其中，Java在企业级场景仍主导。",
+      "title": "2026 年了， Notepad++ 对比 VSCode ，优势在哪？",
+      "link": "https://www.v2ex.com/t/1210012",
+      "published_time": "2026-05-02 13:05:58",
+      "raw_content": "BenjaminSu: <p>讨论如题，优势在哪？\n身边的同事，不少人还在用着 Notepad++,刚微信文章也在说 Notepad++有 Mac 版本了，然后想到了这个问题。</p>\n<p>用过一段时间的 Notepad ，并没有感觉有非用不可得地步。\n本着工作流做减法的原则，然后就卸载了，统一用 VSCode 了。</p>\n<p>在我看来，Notepad 已经是上一代的产品了。</p>",
+      "ai_summary": "讨论Notepad++在2026年对比VSCode的优势。",
       "ai_tags": [
-        "Java",
+        "Notepad++",
+        "VSCode",
+        "编辑器对比"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "有人在推特展示深圳高中的情况...",
+      "link": "https://www.v2ex.com/t/1210004",
+      "published_time": "2026-05-02 11:22:25",
+      "raw_content": "beasnail: <p>老外很疑惑，为什么他们晚上还要上学</p>\n<p>😰😰😰😰😰</p>\n<p><a href=\"https://x.com/ed_dems/status/2050423204036911109\" rel=\"nofollow\">https://x.com/ed_dems/status/2050423204036911109</a></p>",
+      "ai_summary": "深圳高中晚自习情况在推特引发讨论。",
+      "ai_tags": [
+        "教育",
+        "深圳",
+        "高中"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "v2ex",
+      "title": "大家现在都是用什么办法订阅 gpt pro 的？",
+      "link": "https://www.v2ex.com/t/1209979",
+      "published_time": "2026-05-02 07:38:22",
+      "raw_content": "inyfee: <p>这两天 plus 过期了，之前是找代充的，最近这几天有点封得太狠了。不太敢找代充买 pro 。</p>\n<p>现在什么办法可以稳定买 pro 啊，早上研究了一圈，太麻烦了，想花钱都这么难。</p>",
+      "ai_summary": "用户因代充被封，寻求稳定订阅GPT Pro的方法，感叹花钱都难。",
+      "ai_tags": [
+        "GPT订阅",
         "AI",
-        "编程语言",
-        "企业级"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "2026 年 5 月，最新的穷鬼 AI 套餐有哪些？",
-      "link": "https://www.v2ex.com/t/1209933",
-      "published_time": "2026-05-02 01:46:37",
-      "raw_content": "clacf: 月租 50 人民币以内，之前有 codex plus ， 现在已经没法开通了。<br />还有没有其他的平替呢？天才程序员已经陨落了两天了。",
-      "ai_summary": "用户询问月租50元以内的AI套餐，提及Codex Plus已无法开通，寻求替代方案。",
-      "ai_tags": [
-        "AI套餐",
-        "Codex",
-        "平替"
+        "代充"
       ],
       "ai_importance": 3
     },
@@ -53,14 +107,13 @@
       "link": "https://www.v2ex.com/t/1209961",
       "published_time": "2026-05-02 05:43:40",
       "raw_content": "tokas93: <p>准备的子弹是 50w ，但是一个月只定投 1w ，这样的话今年开始的话，其实只有 6 个月，所以预留了 10w ，6w 拿来定投 1w ，4w 拿来补充回撤</p>",
-      "ai_summary": "用户准备50万元，每月定投1万元，预留10万元应对回撤。",
+      "ai_summary": "计划用50万资金定投标普500和纳指100，每月定投1万，预留资金应对回撤。",
       "ai_tags": [
+        "投资",
         "定投",
-        "美股",
-        "标普500",
-        "纳指100"
+        "美股"
       ],
-      "ai_importance": 2
+      "ai_importance": 3
     },
     {
       "category": "v2ex",
@@ -68,84 +121,11 @@
       "link": "https://www.v2ex.com/t/1209960",
       "published_time": "2026-05-02 05:35:17",
       "raw_content": "xyzzyssd: <p>单位环境不能装 vpn ，但我自己账户还是订阅了 codex 等服务。想问下有没有什么优雅的方式使用原版服务呢？我目前有两种想法：</p>\n<ol>\n<li>海外搞个服务器，上面跑一个 CLI ，本地通过 ssh 连接</li>\n<li>海外服务器上部署 CLIProxyAPI 把 codex 转成 api 然后本地 codex 修改供应商到这个 api</li>\n</ol>\n<p>这两种办法有尝试过吗？感觉第二个更方便但第一个更安全？大佬们有什么经验吗？</p>",
-      "ai_summary": "用户询问在不能安装VPN的单位环境下如何优雅使用Claude/Codex，提出两种方案。",
+      "ai_summary": "在受限网络环境下，提出通过海外服务器CLI或部署CLIProxyAPI两种方式使用官方Claude或Codex。",
       "ai_tags": [
         "AI",
-        "网络",
-        "Claude",
-        "Codex"
-      ],
-      "ai_importance": 2
-    },
-    {
-      "category": "v2ex",
-      "title": "ChatGPT Pro 低价兑换 最后的绝唱了 全网唯一 ku0.com 抽奖送一个 Pro 5x",
-      "link": "https://www.v2ex.com/t/1209942",
-      "published_time": "2026-05-02 02:50:02",
-      "raw_content": "livib: 市面上仅存的所有货全部扫光<br /><br /><br /><a href=\"https://ku0.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://ku0.com</a> 库 可信任资源库<br /><br /><br />ChatGPT Pro 5x / 20x （已经孤品，未上架）<br /><br />V 友购买返现 20 红包 <br /><br />最后的狂欢了 团队也准备撤了 一个时代就此落幕<br /><br /><br />-----<br /><br /> 随机楼层抽奖先送 1 个 Pro 5x 后续奖品看活动情况",
-      "ai_summary": "推广ChatGPT Pro兑换，声称最后机会，并抽奖送Pro 5x。",
-      "ai_tags": [
-        "ChatGPT",
-        "兑换",
-        "广告"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "5.5 codex 模型是不是更耗流量了......",
-      "link": "https://www.v2ex.com/t/1209935",
-      "published_time": "2026-05-02 01:50:08",
-      "raw_content": "joye1230: <p>我感覺燒的比 5.4 更快，但是我的提升不是很明顯，你們感覺呢。</p>",
-      "ai_summary": "用户感觉5.5版本比5.4更耗流量，但提升不明显。",
-      "ai_tags": [
-        "Codex",
-        "流量",
-        "模型"
-      ],
-      "ai_importance": 1
-    },
-    {
-      "category": "v2ex",
-      "title": "[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下",
-      "link": "https://www.v2ex.com/t/1209921",
-      "published_time": "2026-05-01 18:04:31",
-      "raw_content": "LINAICAI: 大家好，最近把自己一直在做的一个 iOS 播放器 App 打磨到一个相对稳定的阶段了，想来 V2EX 发个帖，求一波真实反馈。<br /><br />App 叫 QuietBox ，主要是给 iPhone / iPad 用的本地视频播放器。最开始做它的原因其实挺简单：我自己平时会在手机和 iPad 上看不少本地视频、网盘视频和局域网媒体，但一直没找到一个在“本地播放、文件管理、媒体服务器、投屏、画质体验”之间比较均衡的播放器，所以干脆自己做了。<br /><br />现在 QuietBox 已经比较完整的能力大概有这些：<br /><br />本地视频播放，支持常见视频格式<br />4K / 高码率视频播放优化<br />两套播放内核可选：原生内核 / 高阶内核<br />媒体服务器接入：适合挂在 NAS 或远程媒体库场景<br />IPTV 支持<br />DLNA / Chromecast 投屏<br />字幕、音轨、倍速、后台播放等基础播放器能力<br />iPhone / iPad 适配和偏本地文件管理的使用体验<br />这段时间我也在持续打磨几个方向：",
-      "ai_summary": "作者推广其开发的iOS本地4K视频播放器QuietBox，支持多种播放内核、NAS、投屏等，寻求反馈。",
-      "ai_tags": [
-        "播放器",
-        "iOS",
-        "4K",
-        "QuietBox"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "v2ex",
-      "title": "glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？",
-      "link": "https://www.v2ex.com/t/1209926",
-      "published_time": "2026-05-01 23:38:05",
-      "raw_content": "malagebidi: <a href=\"https://www.v2ex.com/i/7ksTRf68.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 7ksTRf68.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/7ksTRf68.png\" /></a><br /><br />真的假的？",
-      "ai_summary": "用户询问GLM-5.1与Kimi-K2.6在Code Arena React项目中的排名真实性。",
-      "ai_tags": [
-        "AI模型",
-        "Code Arena",
-        "GLM",
-        "Kimi"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "v2ex",
-      "title": "Codex 登录需要验证手机号了",
-      "link": "https://www.v2ex.com/t/1209905",
-      "published_time": "2026-05-01 14:34:36",
-      "raw_content": "UnicellularSU: <p>天才程序员陨落了，只能买接码平台，但是就怕二验啊，有遇到相同情况的大佬吗</p>",
-      "ai_summary": "Codex要求手机号验证，用户担心二次验证，寻求解决方案。",
-      "ai_tags": [
-        "Codex",
-        "验证",
-        "接码"
+        "网络工具",
+        "代理"
       ],
       "ai_importance": 3
     }

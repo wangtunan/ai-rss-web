@@ -5,14 +5,88 @@
   "items": [
     {
       "category": "hacker_news",
-      "title": "Why does it take so long to release black fan versions?",
-      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "published_time": "2026-05-02 04:38:04",
-      "raw_content": "<p>Article URL: <a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983352\">https://news.ycombinator.com/item?id=47983352</a></p>\n<p>Points: 376</p>\n<p># Comments: 170</p>",
-      "ai_summary": "Noctua解释了为何黑色风扇版本发布耗时较长，涉及生产工艺和材料测试等复杂流程。",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "published_time": "2026-05-02 19:57:26",
+      "raw_content": "<p>Article URL: <a href=\"https://github.com/microsoft/vscode/pull/310226\">https://github.com/microsoft/vscode/pull/310226</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47989883\">https://news.ycombinator.com/item?id=47989883</a></p>\n<p>Points: 926</p>\n<p># Comments: 458</p>",
+      "ai_summary": "VS Code在提交中自动插入“Co-Authored-by Copilot”引发争议，用户质疑即使未使用Copilot也会被添加。",
       "ai_tags": [
-        "硬件",
-        "产品开发"
+        "VS Code",
+        "Copilot",
+        "争议",
+        "自动提交"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "link": "https://arxiv.org/abs/2509.00462",
+      "published_time": "2026-05-02 15:28:13",
+      "raw_content": "<p>Article URL: <a href=\"https://arxiv.org/abs/2509.00462\">https://arxiv.org/abs/2509.00462</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47987256\">https://news.ycombinator.com/item?id=47987256</a></p>\n<p>Points: 319</p>\n<p># Comments: 170</p>",
+      "ai_summary": "研究表明AI招聘算法存在自我偏好现象，为自身生成的内容提供更高评分。",
+      "ai_tags": [
+        "AI",
+        "招聘",
+        "偏见",
+        "实证研究"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "hacker_news",
+      "title": "America's Expanding Domestic Surveillance",
+      "link": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "published_time": "2026-05-02 15:02:13",
+      "raw_content": "<p>Article URL: <a href=\"https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187\">https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47987006\">https://news.ycombinator.com/item?id=47987006</a></p>\n<p>Points: 224</p>\n<p># Comments: 129</p>",
+      "ai_summary": "美国国内监控范围扩大，引发隐私与安全讨论。",
+      "ai_tags": [
+        "监控",
+        "美国",
+        "隐私"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "published_time": "2026-05-02 01:46:24",
+      "raw_content": "<p>Article URL: <a href=\"https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/\">https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982512\">https://news.ycombinator.com/item?id=47982512</a></p>\n<p>Points: 225</p>\n<p># Comments: 142</p>",
+      "ai_summary": "软件工程师招聘需求迅速增长，就业市场火热。",
+      "ai_tags": [
+        "就业",
+        "软件工程师",
+        "招聘"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "Russia Poisons Wikipedia",
+      "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "published_time": "2026-05-02 13:07:50",
+      "raw_content": "<p>Article URL: <a href=\"https://www.bettedangerous.com/p/russia-poisons-wikipedia\">https://www.bettedangerous.com/p/russia-poisons-wikipedia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47986083\">https://news.ycombinator.com/item?id=47986083</a></p>\n<p>Points: 246</p>\n<p># Comments: 190</p>",
+      "ai_summary": "俄罗斯被指控操纵维基百科内容，进行信息战。",
+      "ai_tags": [
+        "俄罗斯",
+        "维基百科",
+        "信息战"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "hacker_news",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "published_time": "2026-05-02 17:59:18",
+      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/clypjx3rg2go\">https://www.bbc.com/news/articles/clypjx3rg2go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988742\">https://news.ycombinator.com/item?id=47988742</a></p>\n<p>Points: 268</p>\n<p># Comments: 277</p>",
+      "ai_summary": "加州将对违反交通法规的无人驾驶汽车开罚单，加强监管。",
+      "ai_tags": [
+        "无人驾驶",
+        "交通法规",
+        "加州",
+        "监管"
       ],
       "ai_importance": 4
     },
@@ -21,121 +95,58 @@
       "title": "Ask.com has closed",
       "link": "https://www.ask.com/",
       "published_time": "2026-05-02 04:12:35",
-      "raw_content": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 317</p>\n<p># Comments: 173</p>",
-      "ai_summary": "老牌问答网站Ask.com已关闭，引发网友对网络变迁的讨论。",
+      "raw_content": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 440</p>\n<p># Comments: 222</p>",
+      "ai_summary": "老牌问答网站Ask.com宣布关闭服务。",
       "ai_tags": [
-        "互联网",
-        "关停"
+        "Ask.com",
+        "关闭",
+        "互联网"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "link": "https://x.com/aaronp613/status/2049986504617820551",
-      "published_time": "2026-05-01 11:08:32",
-      "raw_content": "<p><a href=\"https://xcancel.com/aaronp613/status/2049986504617820551\" rel=\"nofollow\">https://xcancel.com/aaronp613/status/2049986504617820551</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973378\">https://news.ycombinator.com/item?id=47973378</a></p>\n<p>Points: 372</p>\n<p># Comments: 311</p>",
-      "ai_summary": "Apple意外在Apple Support应用中保留了Claude.md文件，引发关注。",
+      "title": "NetHack 5.0.0",
+      "link": "https://nethack.org/v500/release.html",
+      "published_time": "2026-05-02 18:03:42",
+      "raw_content": "<p>Article URL: <a href=\"https://nethack.org/v500/release.html\">https://nethack.org/v500/release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988776\">https://news.ycombinator.com/item?id=47988776</a></p>\n<p>Points: 401</p>\n<p># Comments: 124</p>",
+      "ai_summary": "经典Roguelike游戏NetHack发布5.0.0版本，带来重大更新。",
       "ai_tags": [
-        "Apple",
-        "Claude",
-        "泄露"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "published_time": "2026-05-01 16:08:53",
-      "raw_content": "<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 384</p>\n<p># Comments: 456</p>",
-      "ai_summary": "Uber在四个月内将2026年AI预算全部用于Claude Code，引发热议。",
-      "ai_tags": [
-        "AI",
-        "预算",
-        "Uber"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "published_time": "2026-05-01 18:37:47",
-      "raw_content": "<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 418</p>\n<p># Comments: 114</p>",
-      "ai_summary": "Flock公司未经授权访问儿童体操室摄像头作为销售演示，市议会仍续约引发争议。",
-      "ai_tags": [
-        "隐私",
-        "监控"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "The gay jailbreak technique (2025)",
-      "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "published_time": "2026-05-01 16:59:35",
-      "raw_content": "<p>Article URL: <a href=\"https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\">https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977134\">https://news.ycombinator.com/item?id=47977134</a></p>\n<p>Points: 544</p>\n<p># Comments: 225</p>",
-      "ai_summary": "一种名为“同性恋越狱”的技术被公布，声称可绕过AI模型限制，引发安全讨论。",
-      "ai_tags": [
-        "AI",
-        "安全"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Ti-84 Evo",
-      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "published_time": "2026-05-01 20:06:59",
-      "raw_content": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 488</p>\n<p># Comments: 406</p>",
-      "ai_summary": "德州仪器发布Ti-84 Evo新款图形计算器，引发教育科技讨论。",
-      "ai_tags": [
-        "教育",
-        "硬件"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "Grok 4.3",
-      "link": "https://docs.x.ai/developers/models/grok-4.3",
-      "published_time": "2026-05-01 08:29:31",
-      "raw_content": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 388</p>\n<p># Comments: 520</p>",
-      "ai_summary": "xAI发布Grok 4.3模型，引起大量讨论。",
-      "ai_tags": [
-        "AI",
-        "模型",
-        "xAI"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "hacker_news",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "published_time": "2026-05-01 17:47:42",
-      "raw_content": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 376</p>\n<p># Comments: 219</p>",
-      "ai_summary": "新研究表明人们可以在梦中进行沟通和练习技能，引发学习与睡眠的新思考。",
-      "ai_tags": [
-        "科学",
-        "睡眠",
-        "学习"
+        "NetHack",
+        "游戏",
+        "开源",
+        "更新"
       ],
       "ai_importance": 4
     },
     {
       "category": "hacker_news",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "link": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "published_time": "2026-05-01 16:42:41",
-      "raw_content": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5yerr4m1yno\">https://www.bbc.com/news/articles/c5yerr4m1yno</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976856\">https://news.ycombinator.com/item?id=47976856</a></p>\n<p>Points: 248</p>\n<p># Comments: 272</p>",
-      "ai_summary": "Spotify推出“已验证”徽章，以区分人类艺术家和AI生成音乐。",
+      "title": "Why does it take so long to release black fan versions?",
+      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "published_time": "2026-05-02 04:38:04",
+      "raw_content": "<p>Article URL: <a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983352\">https://news.ycombinator.com/item?id=47983352</a></p>\n<p>Points: 711</p>\n<p># Comments: 291</p>",
+      "ai_summary": "Noctua解释为何黑色风扇版本发布耗时较长。",
       "ai_tags": [
-        "音乐",
-        "AI"
+        "Noctua",
+        "风扇",
+        "产品发布"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
+    },
+    {
+      "category": "hacker_news",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "published_time": "2026-05-02 21:14:29",
+      "raw_content": "<p>Article URL: <a href=\"https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/\">https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990606\">https://news.ycombinator.com/item?id=47990606</a></p>\n<p>Points: 213</p>\n<p># Comments: 44</p>",
+      "ai_summary": "作者六年打磨WatchOS地图应用的经验总结，分享设计和优化心得。",
+      "ai_tags": [
+        "WatchOS",
+        "地图",
+        "用户体验",
+        "开发经验"
+      ],
+      "ai_importance": 3
     }
   ]
 }

@@ -9,12 +9,40 @@
       "link": "https://juejin.cn/post/7634480683300028450",
       "published_time": "2026-05-02 01:46:01",
       "raw_content": "<p>做跨应用数据流转，最容易写歪。</p>\n<p>我之前接过一个看起来挺小的需求：在一个资料管理类应用里，用户长按一张资料卡片，可以把标题、摘要、来源链接带到另一个应用里；如果接收方是富文本编辑器，就尽量保留链接；如果只是普通输入框，至少要落成一段可读文本。产品说得很轻松，“就跟复制粘贴差不多”。真写起来才发现，复制一段字符串只是最糙的那种做法。</p>\n<p>一开始我们做得也简单：把业务对象转成 JSON，再塞到剪贴板或者路由参数里。自己应用内跳转没问题，一跨应用就开始出幺蛾子：有的地方只能拿到纯文本，有的地方把 JSON 原样贴出来，文件路径到了接收方读不了，用户一取消操作，页面状态还以为已经分享成功。更麻烦的是，后来又加了拖拽入口，同一份数据要走复制、拖拽、分享面板几套逻辑，越写越像补丁。</p>\n<p>这类场景就不太适合继续“拼字符串”。HarmonyOS 里 UDMF（Unified Data Management Framework，统一数据管理框架）真正有价值的地方，不是让你少写几行代码，而是把跨应用流转这件事变成一套标准化数据契约：数据是什么类型、里面有哪些记录、接收",
-      "ai_summary": "HarmonyOS 的 UDMF 框架提供标准化数据契约，解决跨应用数据流转中拼 JSON 的弊端，提升开发效率。",
+      "ai_summary": "HarmonyOS UDMF实现跨应用数据流转，避免手动拼JSON的痛点。",
       "ai_tags": [
         "HarmonyOS",
         "UDMF",
-        "跨应用",
-        "数据流转"
+        "跨应用数据流转"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "为什么 React 和 Vue 不一样？",
+      "link": "https://juejin.cn/post/7633774493807362048",
+      "published_time": "2026-04-29 06:15:30",
+      "raw_content": "<p>依旧能记起当年 React 和 Vue 刚火时，前端之间一直有个争论：使用 React 还是使用 Vue。当年这个议题吵的热火朝天，当时就在想，为什么这两个框架会有这么大的差异？造成这些差异的原因是什么？为什么两个框架走的不同路径，但是给开发者的体验却是相似的？种种问题都在我的脑海中回荡，可惜当年还是一个初入门的小白，虽然有这些问题，但是还是没有自己找到答案。最近横向和纵向各个维度深度对比了这两个框架，答案就呼之欲出了。挺好，似乎回到了入门的起点。</p>\n<hr />\n<h2>一、为什么两种架构走向了不同的道路</h2>\n<h3>1.1 UI 的本质是什么</h3>\n<p>要理解 React Fiber 和 Vue 响应式系统为何走向截然不同的架构路径，我们必须回到一个更根本的问题：<strong>用户界面的本质是什么</strong>。React 团队给出的答案是——UI 是<strong>状态的函数</strong>（UI = f(state)）。这个看似简单的等式蕴含着深刻的架构决策：如果 UI 只是状态的纯粹映射，那么每次状态变化时，整个 UI 都应该被重新计算，框架的",
+      "ai_summary": "深入分析React和Vue架构差异的根本原因：UI= f(state) vs 响应式系统。",
+      "ai_tags": [
+        "React",
+        "Vue",
+        "前端框架",
+        "架构对比"
+      ],
+      "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "程序员最常用的10个AI提示词",
+      "link": "https://juejin.cn/post/7633725015481729030",
+      "published_time": "2026-04-29 02:16:10",
+      "raw_content": "<h2>前言</h2>\n<p>2026年，AI编程已经像Git一样成为标配。</p>\n<p>但很多人发现：同一个需求，别人问AI几分钟搞定，自己问AI却要反复改好几轮。</p>\n<p>区别不在模型，而在<strong>提示词</strong>。</p>\n<p>好的提示词不是“请写代码”，而是<strong>带约束、给示例、明确输出格式</strong>。</p>\n<p>今天，我从日常高频场景中提炼了10个最实用的提示词模板，希望对你会有所帮助。</p>\n<p>更多项目实战在Java突击队网：susan.net.cn</p>\n<h2>一、为什么你的提示词总“差点意思”？</h2>\n<p>很多小伙伴习惯这样问：</p>\n<pre><code class=\"hljs language-bash\" lang=\"bash\">写一个计算订单金额的Java方法\n</code></pre>\n<p>AI会给你一段代码，但大概率不符合你的项目规范：没用BigDecimal、异常处理缺失、参数校验没有……本质上，AI不知道你的代码风格和边界条件。</p>\n<p>优秀的提示词遵循<strong>STAR原则<",
+      "ai_summary": "总结程序员最常用的10个AI提示词模板，遵循STAR原则提高效率。",
+      "ai_tags": [
+        "AI",
+        "提示词",
+        "编程效率"
       ],
       "ai_importance": 4
     },
@@ -24,12 +52,12 @@
       "link": "https://juejin.cn/post/7633709567295012900",
       "published_time": "2026-04-29 07:06:05",
       "raw_content": "<p>上个月做一个数据整理页，页面本身不复杂：本地库里拉一批记录，按规则清洗，再生成一份可展示的分组列表。逻辑写起来很顺，<code>async/await</code> 一套下来，代码看着也挺规整。</p>\n<p>问题是，上真机之后不对劲。</p>\n<p>页面第一次进入会有一个很短的卡顿，列表滚动到一半偶尔掉帧，点筛选时按钮反馈慢半拍。最开始我还以为是 ArkUI 列表写得不够克制，后来把日志打细一点才发现，真正拖后腿的是那段“看起来只是处理数组”的同步计算。</p>\n<p><code>async</code> 不是多线程。这个坑，做前端或者移动端的人应该都踩过。它能把异步流程写得舒服一点，但 CPU 真在主线程上跑的时候，UI 该卡还是卡。</p>\n<p>后来这块我拆成了两层：短任务走 TaskPool，长活儿交给 Worker。不是为了显得架构高级，纯粹是被卡顿逼出来的。</p>\n<p><img alt=\"image.png\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/265e1d44e5d444d1824",
-      "ai_summary": "HarmonyOS 开发中应将短耗时任务用 TaskPool 处理，长任务用 Worker，避免 async/await 导致的主线程阻塞。",
+      "ai_summary": "HarmonyOS中合理使用TaskPool和Worker处理耗时任务，避免UI卡顿。",
       "ai_tags": [
         "HarmonyOS",
         "TaskPool",
         "Worker",
-        "异步编程"
+        "性能优化"
       ],
       "ai_importance": 4
     },
@@ -39,10 +67,11 @@
       "link": "https://juejin.cn/post/7633696737098481705",
       "published_time": "2026-04-29 02:25:38",
       "raw_content": "<p>前阵子做一个图片标注功能，需求听起来很简单：用户从相册里选一张图，加一层轻量处理，页面上能预览，点保存以后导出一张新图。</p>\n<p>刚开始我也没太当回事。图片选择器拿到路径，页面里解码，拿到 <code>PixelMap</code>，再做一点像素改写，最后用 <code>ImagePacker</code> 编码。跑 demo 很顺，换到真机上的 5000px 原图，问题就出来了：预览偶发卡顿，连续点两次保存会生成黑图，页面返回以后内存没有立刻下来，有时日志里还夹着一堆不稳定的 BusinessError。</p>\n<p>后来把这块重新拆了一遍，我的感受是：HarmonyOS 上做图片处理，不能把它当成“一个 API 调一下”的事情。它更像一条小型流水线，<code>ImageSource</code> 管解码入口，<code>PixelMap</code> 管内存里的像素对象，<code>ImagePacker</code> 管重新编码。中间任何一步偷懒，页面上看起来就是卡、黑、慢、偶现。</p>\n<p><img alt=\"image.png\" src=\"https://",
-      "ai_summary": "HarmonyOS 图片处理应构建 ImageSource、PixelMap、ImagePacker 的流水线，避免内存和性能问题。",
+      "ai_summary": "HarmonyOS图片处理流水线：ImageSource、PixelMap、ImagePacker的工程化实践。",
       "ai_tags": [
         "HarmonyOS",
         "图片处理",
+        "ImageSource",
         "PixelMap",
         "ImagePacker"
       ],
@@ -54,42 +83,11 @@
       "link": "https://juejin.cn/post/7634002571019911187",
       "published_time": "2026-04-29 12:34:04",
       "raw_content": "<p>GPT5.4出来后，吸引力很多用户使用Codex，但最近OpenAI对Codex增加了风控，要求验证手机号了。不少用户在使用Codex 时发现：<br />\n👉 必须先完成手机号验证，才能正常使用Codex相关功能。但很多同学无法正常验证OpenAI的手机号，选中国号码却无法发送验证码，自己的86手机号验证不了OpenAI的Codex，怎么才能通过Codex的注册验证呢？</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8ac2763a50445079e66abf7e940685d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTWFj55qE5a6e6aqM5a6k:q75.awebp?rk3s=f64ab15b&amp;x-expires=1778070844&amp;x-signature=DPl1Ni0MFqqp92akxh6NCCkAQpw%3D\" /></p>\n<p>OpenAI给C",
-      "ai_summary": "OpenAI 对 Codex 增加手机号验证，用户需解决验证问题，文章提供注册验证的应对方法。",
+      "ai_summary": "OpenAI对Codex增加手机号验证，提供解决办法。",
       "ai_tags": [
         "ChatGPT",
         "Codex",
-        "手机验证",
-        "OpenAI"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "juejin",
-      "title": "为什么 React 和 Vue 不一样？",
-      "link": "https://juejin.cn/post/7633774493807362048",
-      "published_time": "2026-04-29 06:15:30",
-      "raw_content": "<p>依旧能记起当年 React 和 Vue 刚火时，前端之间一直有个争论：使用 React 还是使用 Vue。当年这个议题吵的热火朝天，当时就在想，为什么这两个框架会有这么大的差异？造成这些差异的原因是什么？为什么两个框架走的不同路径，但是给开发者的体验却是相似的？种种问题都在我的脑海中回荡，可惜当年还是一个初入门的小白，虽然有这些问题，但是还是没有自己找到答案。最近横向和纵向各个维度深度对比了这两个框架，答案就呼之欲出了。挺好，似乎回到了入门的起点。</p>\n<hr />\n<h2>一、为什么两种架构走向了不同的道路</h2>\n<h3>1.1 UI 的本质是什么</h3>\n<p>要理解 React Fiber 和 Vue 响应式系统为何走向截然不同的架构路径，我们必须回到一个更根本的问题：<strong>用户界面的本质是什么</strong>。React 团队给出的答案是——UI 是<strong>状态的函数</strong>（UI = f(state)）。这个看似简单的等式蕴含着深刻的架构决策：如果 UI 只是状态的纯粹映射，那么每次状态变化时，整个 UI 都应该被重新计算，框架的",
-      "ai_summary": "从 UI 本质出发，分析 React 与 Vue 架构差异的根本原因，探讨两者不同路径但相似体验的根源。",
-      "ai_tags": [
-        "React",
-        "Vue",
-        "前端框架",
-        "架构对比"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "juejin",
-      "title": "程序员最常用的10个AI提示词",
-      "link": "https://juejin.cn/post/7633725015481729030",
-      "published_time": "2026-04-29 02:16:10",
-      "raw_content": "<h2>前言</h2>\n<p>2026年，AI编程已经像Git一样成为标配。</p>\n<p>但很多人发现：同一个需求，别人问AI几分钟搞定，自己问AI却要反复改好几轮。</p>\n<p>区别不在模型，而在<strong>提示词</strong>。</p>\n<p>好的提示词不是“请写代码”，而是<strong>带约束、给示例、明确输出格式</strong>。</p>\n<p>今天，我从日常高频场景中提炼了10个最实用的提示词模板，希望对你会有所帮助。</p>\n<p>更多项目实战在Java突击队网：susan.net.cn</p>\n<h2>一、为什么你的提示词总“差点意思”？</h2>\n<p>很多小伙伴习惯这样问：</p>\n<pre><code class=\"hljs language-bash\" lang=\"bash\">写一个计算订单金额的Java方法\n</code></pre>\n<p>AI会给你一段代码，但大概率不符合你的项目规范：没用BigDecimal、异常处理缺失、参数校验没有……本质上，AI不知道你的代码风格和边界条件。</p>\n<p>优秀的提示词遵循<strong>STAR原则<",
-      "ai_summary": "总结程序员使用 AI 的 10 个实用提示词模板，强调遵循 STAR 原则以提升效率和代码质量。",
-      "ai_tags": [
-        "AI",
-        "提示词",
-        "编程",
-        "效率"
+        "手机号验证"
       ],
       "ai_importance": 3
     },
@@ -99,12 +97,12 @@
       "link": "https://juejin.cn/post/7633697912285118516",
       "published_time": "2026-04-29 02:14:16",
       "raw_content": "<blockquote>\n<p>从飞书文档到全球产业版图，一键生成关系地图。  自动提取 -&gt; 地理编码 -&gt; 关系建模 -&gt; 地图可视化。\n<img alt=\"请在此添加图片描述\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/52c2addea86c4f84824a81f3c10bfc9e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTHVjaWFuYWlC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1778033656&amp;x-signature=KPMK1vy%2B5l4jE38r0542jAh5nKg%3D\" />\n本项目已开源👉<a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Flucianaib0318%2FGeoMind\" target=\"_blank\" title=\"https://",
-      "ai_summary": "介绍基于飞书CLI和腾讯位置服务的科研与产业地理情报可视化Skill，实现从文档到地图的一键生成。",
+      "ai_summary": "结合飞书CLI和腾讯位置服务实现地理情报可视化，支持自动提取到地图生成。",
       "ai_tags": [
-        "GIS",
-        "飞书",
         "腾讯位置服务",
-        "可视化"
+        "飞书",
+        "地理可视化",
+        "开发者工具"
       ],
       "ai_importance": 3
     },
@@ -114,15 +112,28 @@
       "link": "https://juejin.cn/post/7633624091766161418",
       "published_time": "2026-04-28 12:29:01",
       "raw_content": "<blockquote>\n<p>大家好 👋，我是 Moment，目前正在使用 Next.js、NestJS、LangChain 开发 <a href=\"https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fxun082%2FDocFlow\" target=\"_blank\" title=\"https://github.com/xun082/DocFlow\">DocFlow</a>。这是一个面向 AI 场景的协同文档平台，集成了基于 <code>Tiptap</code> 的富文本编辑、<code>NestJS</code> 后端服务、实时协作与智能化工作流等核心模块。</p>\n<p>在这个项目的持续打磨过程中，我积累了不少实战经验，不只是 <code>Tiptap</code> 的深度定制、编辑器性能优化和协同方案设计，也包括前端工程化建设、React 源码理解以及复杂项目架构实践。</p>\n<p>如果你对 AI 全栈开发、文档编辑器、前端工程化或者 React 源码相关内容感兴趣，欢迎添加我的微信 <code>yunmz77",
-      "ai_summary": "文章建议前端开发者学习全栈和AI技术，以DocFlow为例展示AI协同文档平台开发。",
+      "ai_summary": "作者呼吁前端开发者拓展AI全栈技能，分享其构建AI协同文档平台的实战经验。",
       "ai_tags": [
+        "AI",
+        "全栈",
         "前端",
-        "AI全栈",
-        "Next.js",
-        "NestJS",
-        "LangChain"
+        "开发"
       ],
       "ai_importance": 4
+    },
+    {
+      "category": "juejin",
+      "title": "完了！我要背弃Opus4.7叛逃到GPT5.5+Codex了",
+      "link": "https://juejin.cn/post/7633612374839017526",
+      "published_time": "2026-04-28 13:09:13",
+      "raw_content": "<p>这几天一直在测国产模型，GPT5.5 都没怎么玩！</p>\n<p>抽空玩了下 Codex + GPT5.5 + Browser Use 做开发太香了！</p>\n<p>最重要的一点是 <strong>GPT5.5 好像不那么油腻，爱废话了</strong>。</p>\n<p>感觉就像变了一个人！</p>\n<p>我们先来看一下网页版。</p>\n<p>我提了一个问题：</p>\n<blockquote>\n<p>Claude Code 是什么？可以吃么？</p>\n</blockquote>\n<p>这是新版 Auto：</p>\n<p><img alt=\"\" src=\"https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6689b781ebd84580b60aafb2e7a5ef39~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777986553&amp;x-",
+      "ai_summary": "作者认为GPT5.5+Codex开发体验优于Opus4.7，且GPT5.5更简洁。",
+      "ai_tags": [
+        "AI",
+        "GPT",
+        "开发工具"
+      ],
+      "ai_importance": 3
     },
     {
       "category": "juejin",
@@ -130,28 +141,13 @@
       "link": "https://juejin.cn/post/7633369483193630774",
       "published_time": "2026-04-28 04:12:55",
       "raw_content": "<p><img alt=\"OpenClaw 为什么突然不火了？\" src=\"https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3d24854d3b704abfb8d66235e9414871~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRXJwYW5PbWVy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1777961681&amp;x-signature=WHIHKpEtx0d%2FoT39mMSWg69W9II%3D\" /></p>\n<p>回想一下今年二三月份，整个前端圈、甚至整个科技圈简直陷入了一场极其狂热的 <strong>养龙虾运动</strong>。</p>\n<p>GitHub 狂飙 30 多万 Star⭐，不管是干前端的、搞后端的、还是做产品的，要是没在自己的 Mac Mini 或者树莓派上跑个 Agent，都不好意思跟人打招呼👋。</p>\n<p>当时大家都觉得，这个能接管键盘鼠标、自己查报错、自己提 P",
-      "ai_summary": "分析OpenClaw曾经火爆但迅速降温的原因，回顾其兴起与衰落。",
+      "ai_summary": "OpenClaw曾火爆但热度下降，文章分析其兴衰原因。",
       "ai_tags": [
-        "OpenClaw",
-        "前端",
-        "开源",
-        "热度"
+        "技术热点",
+        "AI",
+        "OpenClaw"
       ],
-      "ai_importance": 4
-    },
-    {
-      "category": "juejin",
-      "title": "我把域名卖了，顺手换了个新域名，然后站就没了",
-      "link": "https://juejin.cn/post/7633205760818806827",
-      "published_time": "2026-04-28 01:50:44",
-      "raw_content": "<p>这事说出来挺蠢的，但我确实这么干了。</p>\n<p>前段时间，有人来收我一个老域名。价格还不错，我也没多想，就卖了。<br />\n当时的想法特别简单：</p>\n<blockquote>\n<p>反正网站代码在，换个域名不就完了？</p>\n</blockquote>\n<p>于是我做了一个现在回想起来非常离谱的操作：</p>\n<ul>\n<li>新域名上线</li>\n<li>把站点直接切过去</li>\n<li>旧域名…就这么没了</li>\n</ul>\n<p>没有做任何过渡，也没留后路。</p>\n<p>我甚至当时是有点“轻松”的感觉的：<br />\n终于不用再维护两个域名了。</p>\n<p>结果大概一两周之后，现实开始抽我脸。</p>\n<h2>收录从几万，掉到只剩几页</h2>\n<p>最开始我是在 Google Search Console 里发现不对劲的。</p>\n<p>收录在掉，而且是那种<strong>每天都在掉</strong>的节奏。</p>\n<p>一开始我还挺淡定的，觉得是波动。<br />\n后来再看：</p>\n<ul>\n<li>原来几万的页面</li>\n<li>只剩下个位数<",
-      "ai_summary": "分享因域名迁移不当导致SEO严重损失的惨痛教训。",
-      "ai_tags": [
-        "域名",
-        "SEO",
-        "网站运营"
-      ],
-      "ai_importance": 4
+      "ai_importance": 3
     }
   ]
 }

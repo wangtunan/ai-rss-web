@@ -5,40 +5,11 @@
   "items": [
     {
       "category": "ft_chinese",
-      "title": "英国威雅公学关闭一所中国分校",
-      "link": "https://www.ftchinese.com/story/001109608",
-      "published_time": "2026-04-29 16:00:00",
-      "raw_content": "南京威雅学校的关停标志着，寻求在中国扩张的国际学校集团遭遇挫折。中国家长和学生越来越倾向于选择本国教育机构。",
-      "ai_summary": "南京威雅学校关停，反映国际学校在华扩张受挫，家长和学生更倾向本国教育。",
-      "ai_tags": [
-        "国际学校",
-        "中国教育",
-        "扩张受阻"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "ft_chinese",
-      "title": "德国、西班牙4月通胀率低于预期",
-      "link": "https://www.ftchinese.com/story/001109600",
-      "published_time": "2026-04-29 16:00:00",
-      "raw_content": "欧元区最大和第四大经济体4月通胀率分别为2.9%和3.2%，突显中东战火导致的能源价格上涨尚未全面影响欧洲商品和服务价格。",
-      "ai_summary": "德国和西班牙4月通胀率低于预期，显示中东能源价格上涨尚未全面影响欧洲物价。",
-      "ai_tags": [
-        "通胀率",
-        "德国",
-        "西班牙",
-        "欧元区"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "ft_chinese",
       "title": "俄罗斯：阿联酋退出欧佩克将压低油价",
       "link": "https://www.ftchinese.com/story/001109599",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "俄罗斯将留在更广泛的欧佩克+联盟内，但警告称，阿联酋不受欧佩克产量配额的限制将在中东冲突结束后压低油价。",
-      "ai_summary": "俄罗斯称阿联酋退出欧佩克将压低油价，俄将留在欧佩克+但警告产量配额失效风险。",
+      "ai_summary": "俄罗斯警告阿联酋退出欧佩克将压低油价，但俄罗斯将留在欧佩克+联盟内。",
       "ai_tags": [
         "俄罗斯",
         "阿联酋",
@@ -49,11 +20,25 @@
     },
     {
       "category": "ft_chinese",
+      "title": "英国威雅公学关闭一所中国分校",
+      "link": "https://www.ftchinese.com/story/001109608",
+      "published_time": "2026-04-29 16:00:00",
+      "raw_content": "南京威雅学校的关停标志着，寻求在中国扩张的国际学校集团遭遇挫折。中国家长和学生越来越倾向于选择本国教育机构。",
+      "ai_summary": "南京威雅学校关停，显示国际学校集团在华扩张受挫，中国家长倾向本国教育。",
+      "ai_tags": [
+        "国际学校",
+        "中国教育",
+        "英国"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "ft_chinese",
       "title": "法拉帝CEO批评最大股东潍柴集团“缺乏产业远见”",
       "link": "https://www.ftchinese.com/story/001109605",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "法拉帝两大股东潍柴和捷克亿万富翁科马雷克在5月14日的年度股东大会前正展开一场代理权争夺战。",
-      "ai_summary": "法拉帝CEO批评大股东潍柴集团缺乏产业远见，两大股东在股东大会前展开代理权争夺战。",
+      "ai_summary": "法拉帝CEO批评潍柴集团缺乏远见，两大股东在年度股东大会前展开代理权争夺。",
       "ai_tags": [
         "法拉帝",
         "潍柴",
@@ -63,11 +48,26 @@
     },
     {
       "category": "ft_chinese",
+      "title": "德国、西班牙4月通胀率低于预期",
+      "link": "https://www.ftchinese.com/story/001109600",
+      "published_time": "2026-04-29 16:00:00",
+      "raw_content": "欧元区最大和第四大经济体4月通胀率分别为2.9%和3.2%，突显中东战火导致的能源价格上涨尚未全面影响欧洲商品和服务价格。",
+      "ai_summary": "德国和西班牙4月通胀率分别为2.9%和3.2%，低于预期，中东战火导致的能源价格尚未全面影响欧洲。",
+      "ai_tags": [
+        "通胀",
+        "德国",
+        "西班牙",
+        "欧元区"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "ft_chinese",
       "title": "中投公司考虑出售伦敦希思罗机场股份",
       "link": "https://www.ftchinese.com/story/001109598",
       "published_time": "2026-04-29 16:00:00",
       "raw_content": "知情人士称，由于担心希思罗机场第三条跑道的建设成本，中投公司已将其在该机场所持10%股份列入“密切关注”名单，考虑脱手。",
-      "ai_summary": "中投公司考虑出售伦敦希思罗机场10%股份，因担心第三条跑道建设成本。",
+      "ai_summary": "中投公司因担心希思罗机场第三条跑道建设成本，考虑出售所持10%股份。",
       "ai_tags": [
         "中投公司",
         "希思罗机场",
@@ -81,7 +81,7 @@
       "link": "https://www.ftchinese.com/story/001109590",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "2025年新生儿数量仅略高于65.4万，而死亡人数接近101万，突显欧洲最大经济体面临日益严峻的人口结构危机。",
-      "ai_summary": "德国去年新生儿数量降至1946年以来最低，突显人口结构危机。",
+      "ai_summary": "2025年德国新生儿仅65.4万，死亡近101万，凸显人口结构危机。",
       "ai_tags": [
         "德国",
         "新生儿",
@@ -95,11 +95,11 @@
       "link": "https://www.ftchinese.com/story/001109587",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "经合组织研究发现，越来越多的国家正在实施出口管制，发达经济体解决关键原材料供应被卡问题的努力进展甚微。",
-      "ai_summary": "经合组织报告显示2009年以来关键原材料出口限制增加五倍，发达国家应对供应链风险进展甚微。",
+      "ai_summary": "经合组织研究显示，关键原材料出口限制自2009年以来增加五倍，发达国家解决供应链问题进展甚微。",
       "ai_tags": [
         "经合组织",
-        "出口限制",
-        "关键原材料"
+        "原材料",
+        "出口限制"
       ],
       "ai_importance": 4
     },
@@ -109,14 +109,14 @@
       "link": "https://www.ftchinese.com/story/001109597",
       "published_time": "2026-04-28 16:00:00",
       "raw_content": "知情人士称，这是高盛在与Anthropic磋商后，对与这家硅谷初创公司的合同做出严格解读的结果。",
-      "ai_summary": "高盛禁止香港员工使用Anthropic Claude模型，因对合同条款严格解读。",
+      "ai_summary": "高盛严格解读合同，禁止香港员工使用Anthropic的Claude模型。",
       "ai_tags": [
         "高盛",
         "Anthropic",
-        "AI模型",
-        "香港"
+        "Claude",
+        "AI"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "ft_chinese",
@@ -124,14 +124,14 @@
       "link": "https://www.ftchinese.com/story/001109575",
       "published_time": "2026-04-27 16:00:00",
       "raw_content": "收购ARC将使壳牌的石油和天然气日产量增加约37万桶，在投资者质疑这家石油巨头的前景之际帮助提振其产量增长率。",
-      "ai_summary": "壳牌以164亿美元收购加拿大页岩油气生产商ARC，提升日产量约37万桶。",
+      "ai_summary": "壳牌以164亿美元收购ARC，使日产量增加约37万桶，提振产量增长。",
       "ai_tags": [
         "壳牌",
         "收购",
         "页岩油气",
         "加拿大"
       ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "ft_chinese",
@@ -139,12 +139,13 @@
       "link": "https://www.ftchinese.com/story/001109573",
       "published_time": "2026-04-26 16:00:00",
       "raw_content": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
-      "ai_summary": "中国叫停Meta对AI公司Manus的收购，因违反投资规定，涉中美技术博弈。",
+      "ai_summary": "中国监管机构叫停Meta以20亿美元收购AI公司Manus的交易，称已要求撤销收购。",
       "ai_tags": [
+        "中国",
         "Meta",
         "Manus",
-        "收购受阻",
-        "中美博弈"
+        "收购",
+        "人工智能"
       ],
       "ai_importance": 5
     }

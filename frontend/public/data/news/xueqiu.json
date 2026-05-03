@@ -9,11 +9,11 @@
       "link": "http://xueqiu.com/3333339788/387031536",
       "published_time": "2026-05-02 13:08:31",
       "raw_content": "",
-      "ai_summary": "探讨存储周期论的终结以及AI时代存储产业格局的重塑。",
+      "ai_summary": "再谈存储周期论，分析旧周期终结与AI时代产业格局重塑。",
       "ai_tags": [
         "存储",
-        "AI",
-        "产业周期"
+        "周期",
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -23,11 +23,11 @@
       "link": "http://xueqiu.com/1843761023/387024597",
       "published_time": "2026-05-02 13:09:06",
       "raw_content": "",
-      "ai_summary": "跨国资金出现重要拐点，对A股市场影响重大，投资者需关注。",
+      "ai_summary": "跨国资金出现重要拐点，对A股影响很大。",
       "ai_tags": [
-        "跨国资金",
         "A股",
-        "投资"
+        "资金",
+        "趋势"
       ],
       "ai_importance": 4
     },
@@ -37,11 +37,11 @@
       "link": "http://xueqiu.com/7881199090/387026631",
       "published_time": "2026-05-02 13:08:48",
       "raw_content": "",
-      "ai_summary": "介绍简单估算上市公司估值的方法，帮助投资者快速判断。",
+      "ai_summary": "介绍用简单方法大致估算上市公司估值的方法。",
       "ai_tags": [
         "估值",
-        "上市公司",
-        "投资方法"
+        "投资",
+        "方法"
       ],
       "ai_importance": 3
     },
@@ -51,25 +51,24 @@
       "link": "http://xueqiu.com/7297620365/387036907",
       "published_time": "2026-05-02 13:08:39",
       "raw_content": "",
-      "ai_summary": "分析银行发展趋势与资产配置策略，提供投资参考。",
+      "ai_summary": "讨论银行的发展趋势与资产配置策略。",
       "ai_tags": [
         "银行",
-        "资产配置",
-        "投资"
+        "趋势",
+        "资产配置"
       ],
       "ai_importance": 3
     },
     {
       "category": "xueqiu",
-      "title": "从 InP 紧缺看 1.6T 光模块：硅光路线的供给优势正在凸显",
-      "link": "http://xueqiu.com/4790816824/386955483",
-      "published_time": "2026-05-01 07:14:57",
+      "title": "在阳光电源上犯的三个错误，以及我的一个决定",
+      "link": "http://xueqiu.com/1064302270/386950163",
+      "published_time": "2026-05-01 07:14:29",
       "raw_content": "",
-      "ai_summary": "分析InP紧缺背景下1.6T光模块中硅光路线的供给优势。",
+      "ai_summary": "反思在阳光电源投资上犯的三个错误及后续决定。",
       "ai_tags": [
-        "光模块",
-        "硅光",
-        "InP"
+        "阳光电源",
+        "投资反思"
       ],
       "ai_importance": 4
     },
@@ -79,7 +78,7 @@
       "link": "http://xueqiu.com/9742512811/386951187",
       "published_time": "2026-05-01 13:13:05",
       "raw_content": "",
-      "ai_summary": "讨论AI时代数字生活基础设施的发展现状与未来前景。",
+      "ai_summary": "探讨AI时代数字生活基础设施的作用与前景。",
       "ai_tags": [
         "AI",
         "数字生活",
@@ -89,14 +88,28 @@
     },
     {
       "category": "xueqiu",
+      "title": "浅谈世纪华通成长性与估值",
+      "link": "http://xueqiu.com/8942591903/386960025",
+      "published_time": "2026-05-01 07:14:35",
+      "raw_content": "",
+      "ai_summary": "探讨世纪华通的成长性与估值。",
+      "ai_tags": [
+        "世纪华通",
+        "成长性",
+        "估值"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "xueqiu",
       "title": "认真看了五粮液的财报",
       "link": "http://xueqiu.com/8682679944/386914903",
       "published_time": "2026-05-01 07:14:41",
       "raw_content": "",
-      "ai_summary": "对五粮液财报的详细分析。",
+      "ai_summary": "对五粮液财报进行详细分析。",
       "ai_tags": [
         "五粮液",
-        "财报分析"
+        "财报"
       ],
       "ai_importance": 3
     },
@@ -106,10 +119,11 @@
       "link": "http://xueqiu.com/6146592061/386949593",
       "published_time": "2026-05-01 13:12:37",
       "raw_content": "",
-      "ai_summary": "对2025年及2026年第一季度归母净利润进行初步分析。",
+      "ai_summary": "2025年及2026年一季度归母净利润初步分析。",
       "ai_tags": [
-        "财报分析",
-        "净利润"
+        "财报",
+        "净利润",
+        "分析"
       ],
       "ai_importance": 3
     },
@@ -119,24 +133,11 @@
       "link": "http://xueqiu.com/5241127869/386778024",
       "published_time": "2026-05-01 13:13:34",
       "raw_content": "",
-      "ai_summary": "分析分众传媒2025年年报及2026年一季报的财务状况和业绩表现。",
+      "ai_summary": "分众传媒2025年年报和2026年一季报分析。",
       "ai_tags": [
-        "分众传媒",
         "财报",
+        "分众传媒",
         "分析"
-      ],
-      "ai_importance": 3
-    },
-    {
-      "category": "xueqiu",
-      "title": "最好的状态碰上最低的估值？总有一个错的",
-      "link": "http://xueqiu.com/1936609590/386927404",
-      "published_time": "2026-05-01 13:12:01",
-      "raw_content": "",
-      "ai_summary": "讨论当前市场状态与估值之间的矛盾。",
-      "ai_tags": [
-        "估值",
-        "市场状态"
       ],
       "ai_importance": 3
     }

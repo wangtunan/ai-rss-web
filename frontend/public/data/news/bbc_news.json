@@ -5,142 +5,141 @@
   "items": [
     {
       "category": "bbc_news",
-      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 09:08:43",
-      "raw_content": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
-      "ai_summary": "前F1车手及残奥冠军亚历克斯·扎纳迪去世，享年59岁。",
+      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 01:48:01",
+      "raw_content": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
+      "ai_summary": "一名男子被控谋杀和性侵一名5岁澳大利亚女孩，女孩之死引发澳洲中部小镇暴力事件。",
       "ai_tags": [
-        "亚历克斯·扎纳迪",
-        "F1",
-        "残奥",
-        "去世"
+        "谋杀",
+        "性侵",
+        "澳大利亚"
       ],
       "ai_importance": 5
     },
     {
       "category": "bbc_news",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 11:03:40",
-      "raw_content": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "ai_summary": "以色列对黎巴嫩南部的袭击造成13人死亡，包括4名妇女和1名儿童，冲突持续。",
+      "title": "King's speech was a 'high stakes' moment of US visit, Palace says",
+      "link": "https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 00:03:32",
+      "raw_content": "The state visit to the US draws a positive response after what was a difficult diplomatic challenge.",
+      "ai_summary": "白金汉宫表示，国王对美国的国事访问演讲是一次高风险的时刻，在外交挑战中获得了积极回应。",
       "ai_tags": [
-        "以色列",
-        "黎巴嫩",
-        "冲突"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 00:41:43",
-      "raw_content": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "ai_summary": "特朗普称停火协议意味着对伊朗动武无需国会授权，引发争议。",
-      "ai_tags": [
-        "US",
-        "Iran",
-        "war powers"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:02:14",
-      "raw_content": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "ai_summary": "加沙流离失所者营地鼠患和鼬灾肆虐，疾病传播风险加剧。",
-      "ai_tags": [
-        "Gaza",
-        "health",
-        "refugees"
-      ],
-      "ai_importance": 5
-    },
-    {
-      "category": "bbc_news",
-      "title": "The remarkable life of Zanardi, a 21st century hero who inspired millions",
-      "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 12:02:43",
-      "raw_content": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
-      "ai_summary": "亚历克斯·扎纳迪以不屈精神面对逆境，激励数百万人，被称为21世纪英雄。",
-      "ai_tags": [
-        "亚历克斯·扎纳迪",
-        "F1",
-        "英雄"
+        "国王",
+        "美国访问",
+        "高风险"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Football awash with Guardiola exit talk as Man City plan for life without him",
-      "link": "https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 13:10:03",
-      "raw_content": "We will know in a matter of weeks whether Pep Guardiola's reign at Manchester City has run its course, writes Sami Mokbel.",
-      "ai_summary": "曼城考虑瓜迪奥拉离任后的生活，未来几周将知悉其任期是否结束。",
+      "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
+      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 04:09:34",
+      "raw_content": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+      "ai_summary": "美国两位资深共和党人对特朗普撤军5000人的决定表示担忧，德国称此举可预见。",
       "ai_tags": [
-        "足球",
-        "曼城",
-        "瓜迪奥拉"
+        "美国撤军",
+        "共和党",
+        "德国"
       ],
       "ai_importance": 4
     },
     {
       "category": "bbc_news",
-      "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
-      "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 09:04:48",
-      "raw_content": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
-      "ai_summary": "英国首相斯塔默在采访中回应近期事件，包括战争和反犹太主义抬头。",
+      "title": "Struggling High Streets fuel sense of neglect for voters ahead of local elections",
+      "link": "https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 01:48:14",
+      "raw_content": "Failing High Streets fuel a wider sense of political discontent which could prove crucial in the upcoming elections for English councils in May.",
+      "ai_summary": "商业街衰落加剧政治不满情绪，可能影响5月英格兰议会选举。",
       "ai_tags": [
-        "UK",
-        "politics",
-        "antisemitism"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
-      "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 10:25:06",
-      "raw_content": "The PM tells the BBC he is concerned about the \"cumulative\" effect of marches on the Jewish community.",
-      "ai_summary": "首相暗示某些抗议活动需停止，因对犹太社区的累积影响担忧。",
-      "ai_tags": [
-        "抗议",
-        "巴勒斯坦",
-        "首相"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
-      "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 05:00:19",
-      "raw_content": "British Jews tell the BBC they are agonising over whether to stick to their usual routine this Sabbath.",
-      "ai_summary": "伦敦戈尔德斯格林袭击后，犹太人在首个安息日面临是否隐藏宗教标识的纠结。",
-      "ai_tags": [
-        "antisemitism",
-        "UK",
-        "religion"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "bbc_news",
-      "title": "Winners, losers and a PM on the brink - what to expect in next week's elections",
-      "link": "https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&at_campaign=rss",
-      "published_time": "2026-05-02 11:03:41",
-      "raw_content": "Believe it or not, Thursday’s local elections aren’t just about the PM’s fate - there’s plenty more at stake.",
-      "ai_summary": "下周地方选举不仅关乎首相命运，还有更多利害攸关。",
-      "ai_tags": [
+        "商业街",
         "选举",
-        "政治",
-        "英国"
+        "政治不满"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "The Papers: '£7m tax bill for William' and 'Traitors take their places'",
+      "link": "https://www.bbc.com/news/articles/cewp2wl7lg5o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 00:56:45",
+      "raw_content": "The Prince of Wales's income tax bill revealed and Celebrity Traitors returns leads Sunday's papers.",
+      "ai_summary": "威尔士亲王所得税账单曝光，《名人叛徒》回归成为周日报纸头条。",
+      "ai_tags": [
+        "威廉王子",
+        "税单",
+        "报纸头条"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war",
+      "link": "https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 01:48:55",
+      "raw_content": "Several people told the BBC they experienced delusions after intense conversations with AI.",
+      "ai_summary": "数人称与AI深度对话后出现幻觉，有人因AI警告而准备自卫。",
+      "ai_tags": [
+        "AI",
+        "幻觉",
+        "马斯克"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "bbc_news",
+      "title": "Miami race brought forward because of storm threat",
+      "link": "https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 01:33:20",
+      "raw_content": "Sunday's Miami Grand Prix is moved forward by three hours to 18:00 BST because of the threat of thunderstorms.",
+      "ai_summary": "因雷暴威胁，周日迈阿密大奖赛提前三小时至英国夏令时18:00举行。",
+      "ai_tags": [
+        "迈阿密大奖赛",
+        "雷暴",
+        "提前"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "bbc_news",
+      "title": "Miami race brought forward by three hours because of storm threat",
+      "link": "https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-03 01:33:20",
+      "raw_content": "Sunday's Miami Grand Prix is moved forward by three hours to 18:00 BST because of the threat of thunderstorms.",
+      "ai_summary": "因雷暴威胁，周日迈阿密大奖赛提前三小时至英国夏令时18:00举行。",
+      "ai_tags": [
+        "迈阿密大奖赛",
+        "雷暴",
+        "提前"
+      ],
+      "ai_importance": 2
+    },
+    {
+      "category": "bbc_news",
+      "title": "Four injured in Brixton drive-by shooting",
+      "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 20:50:59",
+      "raw_content": "One man is in a life-threatening condition after the attack in the early hours of Saturday.",
+      "ai_summary": "伦敦布里克斯顿发生驾车枪击事件，四人受伤，其中一人生命垂危。",
+      "ai_tags": [
+        "枪击",
+        "布里克斯顿",
+        "受伤"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "bbc_news",
+      "title": "'I completely blew it' - Wu into final as Allen misses simple black to win",
+      "link": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&at_campaign=rss",
+      "published_time": "2026-05-02 23:58:25",
+      "raw_content": "Mark Allen suffers a devastating final-frame World Championship semi-final defeat by Wu Yize - after missing a simple match-winning black to win.",
+      "ai_summary": "马克·艾伦在世锦赛半决赛最后一局失误，错失简单黑球，吴易泽获胜晋级决赛。",
+      "ai_tags": [
+        "斯诺克",
+        "世锦赛",
+        "艾伦失误"
       ],
       "ai_importance": 4
     }

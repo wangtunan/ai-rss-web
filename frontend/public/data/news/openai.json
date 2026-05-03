@@ -9,29 +9,13 @@
       "link": "https://openai.com/index/advanced-account-security",
       "published_time": "2026-04-30 00:00:00",
       "raw_content": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-      "ai_summary": "OpenAI推出高级账户安全功能，包括抗钓鱼登录、更强的恢复和增强保护，以保护敏感数据并防止账户接管。",
+      "ai_summary": "OpenAI推出高级账户安全功能，包括抗钓鱼登录、更强恢复和增强保护。",
       "ai_tags": [
         "OpenAI",
         "账户安全",
-        "抗钓鱼",
-        "数据保护"
+        "技术"
       ],
-      "ai_importance": 4
-    },
-    {
-      "category": "openai",
-      "title": "Cybersecurity in the Intelligence Age",
-      "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "published_time": "2026-04-29 04:00:00",
-      "raw_content": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "ai_summary": "OpenAI提出五部分行动计划，以加强智能时代的网络安全，重点在于民主化AI驱动的网络防御和保护关键系统。",
-      "ai_tags": [
-        "OpenAI",
-        "网络安全",
-        "智能时代",
-        "行动方案"
-      ],
-      "ai_importance": 4
+      "ai_importance": 3
     },
     {
       "category": "openai",
@@ -39,13 +23,11 @@
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "published_time": "2026-04-29 15:00:00",
       "raw_content": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "ai_summary": "OpenAI扩大Stargate项目，建设支持AGI的计算基础设施，增加数据中心容量以满足日益增长的AI需求。",
+      "ai_summary": "OpenAI扩展Stargate项目，构建支撑AGI的计算基础设施。",
       "ai_tags": [
         "OpenAI",
-        "Stargate",
         "计算基础设施",
-        "AGI",
-        "数据中心"
+        "AGI"
       ],
       "ai_importance": 4
     },
@@ -55,12 +37,39 @@
       "link": "https://openai.com/index/where-the-goblins-came-from",
       "published_time": "2026-04-29 20:00:00",
       "raw_content": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "ai_summary": "解释了GPT-5行为中“哥布林输出”的起源、时间线、根本原因及修复措施，这些是模型个性驱动的怪癖。",
+      "ai_summary": "OpenAI解释AI模型中“地精”输出现象的根源、时间线及修复措施。",
       "ai_tags": [
         "OpenAI",
-        "GPT-5",
-        "模型行为",
-        "哥布林输出"
+        "AI模型",
+        "行为异常"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "openai",
+      "title": "Cybersecurity in the Intelligence Age",
+      "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "published_time": "2026-04-29 04:00:00",
+      "raw_content": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "ai_summary": "OpenAI提出加强智能时代网络安全的五部分行动计划。",
+      "ai_tags": [
+        "OpenAI",
+        "网络安全",
+        "行动计划"
+      ],
+      "ai_importance": 3
+    },
+    {
+      "category": "openai",
+      "title": "Our commitment to community safety",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "published_time": "2026-04-28 00:00:00",
+      "raw_content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "ai_summary": "OpenAI通过模型防护、滥用检测等方式保护ChatGPT社区安全。",
+      "ai_tags": [
+        "OpenAI",
+        "社区安全",
+        "ChatGPT"
       ],
       "ai_importance": 3
     },
@@ -70,45 +79,13 @@
       "link": "https://openai.com/index/openai-on-aws",
       "published_time": "2026-04-28 00:00:00",
       "raw_content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "ai_summary": "OpenAI的GPT模型、Codex和Managed Agents现已在AWS上可用，使企业能够在AWS环境中构建安全的AI应用。",
+      "ai_summary": "OpenAI的GPT模型、Codex和托管代理现已可在AWS上使用。",
       "ai_tags": [
         "OpenAI",
         "AWS",
-        "GPT",
-        "Codex",
-        "Managed Agents"
-      ],
-      "ai_importance": 4
-    },
-    {
-      "category": "openai",
-      "title": "Our commitment to community safety",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "published_time": "2026-04-28 00:00:00",
-      "raw_content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "ai_summary": "OpenAI介绍了如何通过模型防护、滥用检测、政策执行和安全专家合作，保护ChatGPT的社区安全。",
-      "ai_tags": [
-        "OpenAI",
-        "ChatGPT",
-        "社区安全",
-        "模型防护"
+        "企业"
       ],
       "ai_importance": 3
-    },
-    {
-      "category": "openai",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "published_time": "2026-04-27 14:00:00",
-      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "ai_summary": "OpenAI获得FedRAMP Moderate授权，适用于ChatGPT Enterprise和OpenAI API，使美国联邦机构能够安全采用AI。",
-      "ai_tags": [
-        "OpenAI",
-        "FedRAMP",
-        "政府",
-        "安全合规"
-      ],
-      "ai_importance": 4
     },
     {
       "category": "openai",
@@ -116,12 +93,25 @@
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published_time": "2026-04-27 06:00:00",
       "raw_content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "ai_summary": "OpenAI和微软宣布修订协议，简化合作并增加长期清晰度，支持持续的大规模AI创新。",
+      "ai_summary": "OpenAI和微软宣布修订合作协议，简化合作并明确长期方向，支持AI规模化创新。",
       "ai_tags": [
         "OpenAI",
         "微软",
-        "合作",
-        "协议"
+        "合作"
+      ],
+      "ai_importance": 5
+    },
+    {
+      "category": "openai",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published_time": "2026-04-27 14:00:00",
+      "raw_content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "ai_summary": "OpenAI获得FedRAMP Moderate授权，供美国联邦机构使用。",
+      "ai_tags": [
+        "OpenAI",
+        "FedRAMP",
+        "美国政府"
       ],
       "ai_importance": 4
     },
@@ -131,12 +121,10 @@
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "ai_summary": "Symphony是Codex编排的开源规范，能将问题追踪器转化为始终在线的代理系统，提高工程产出并减少上下文切换。",
+      "ai_summary": "Symphony是一种用于Codex编排的开源规范，可将问题追踪器转化为始终在线的代理系统，提升工程产出并减少上下文切换。",
       "ai_tags": [
-        "OpenAI",
-        "Symphony",
-        "Codex",
         "开源",
+        "Codex",
         "编排"
       ],
       "ai_importance": 3
@@ -147,11 +135,10 @@
       "link": "https://openai.com/index/choco",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "ai_summary": "Choco使用OpenAI API简化食品分销流程，提升生产力并实现增长，展示了AI在现实世界中的影响。",
+      "ai_summary": "Choco利用OpenAI API优化食品分销流程，提高生产力并促进增长，展示了AI的实际应用。",
       "ai_tags": [
-        "OpenAI",
         "Choco",
-        "食品分销",
+        "OpenAI API",
         "AI应用"
       ],
       "ai_importance": 3

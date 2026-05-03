@@ -9,7 +9,7 @@
       "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
       "published_time": "2026-04-29 16:45:09",
       "raw_content": "",
-      "ai_summary": "AI评估正成为新的计算瓶颈，限制了模型发展。",
+      "ai_summary": "AI评估正成为新的计算瓶颈，文章探讨了评估成本增加对模型开发的影响。",
       "ai_tags": [
         "AI评估",
         "计算瓶颈"
@@ -22,10 +22,10 @@
       "link": "https://huggingface.co/blog/inference-providers-deepinfra",
       "published_time": "2026-04-29 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepInfra作为推理提供商加入Hugging Face平台，增强推理服务。",
+      "ai_summary": "DeepInfra集成到Hugging Face推理提供商，提供高效模型推理服务。",
       "ai_tags": [
         "DeepInfra",
-        "推理提供商",
+        "推理",
         "Hugging Face"
       ],
       "ai_importance": 3
@@ -36,11 +36,11 @@
       "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "published_time": "2026-04-29 15:01:48",
       "raw_content": "",
-      "ai_summary": "介绍Granite 4.1大型语言模型的构建方法与技术细节。",
+      "ai_summary": "介绍IBM Granite 4.1大型语言模型的构建方法和关键特性。",
       "ai_tags": [
-        "Granite 4.1",
-        "LLM",
-        "模型构建"
+        "IBM",
+        "Granite",
+        "LLM"
       ],
       "ai_importance": 3
     },
@@ -50,10 +50,9 @@
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "published_time": "2026-04-28 15:58:57",
       "raw_content": "",
-      "ai_summary": "NVIDIA发布Nemotron 3 Nano Omni，支持长上下文多模态处理的智能模型。",
+      "ai_summary": "NVIDIA发布Nemotron 3 Nano Omni模型，支持长上下文多模态处理文档、音频和视频。",
       "ai_tags": [
         "NVIDIA",
-        "Nemotron 3",
         "多模态",
         "长上下文"
       ],
@@ -65,10 +64,10 @@
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published_time": "2026-04-27 00:00:00",
       "raw_content": "",
-      "ai_summary": "讲解如何利用OpenAI隐私过滤器构建可扩展的Web应用程序。",
+      "ai_summary": "使用OpenAI隐私过滤器构建可扩展的Web应用，保护用户数据。",
       "ai_tags": [
         "OpenAI",
-        "隐私过滤器",
+        "隐私过滤",
         "Web应用"
       ],
       "ai_importance": 3
@@ -79,13 +78,13 @@
       "link": "https://huggingface.co/blog/deepseekv4",
       "published_time": "2026-04-24 00:00:00",
       "raw_content": "",
-      "ai_summary": "DeepSeek-V4模型支持百万token上下文，智能体可高效利用长上下文。",
+      "ai_summary": "DeepSeek-V4模型支持百万级token上下文，可被智能体实际使用。",
       "ai_tags": [
-        "DeepSeek-V4",
+        "DeepSeek",
         "长上下文",
         "智能体"
       ],
-      "ai_importance": 4
+      "ai_importance": 5
     },
     {
       "category": "hugging_face",
@@ -93,13 +92,13 @@
       "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published_time": "2026-04-23 00:00:00",
       "raw_content": "",
-      "ai_summary": "指导如何在Chrome浏览器扩展中使用Transformers.js进行模型推理。",
+      "ai_summary": "教程：如何在Chrome扩展中使用Transformers.js进行本地推理。",
       "ai_tags": [
         "Transformers.js",
         "Chrome扩展",
-        "推理"
+        "教程"
       ],
-      "ai_importance": 3
+      "ai_importance": 2
     },
     {
       "category": "hugging_face",
@@ -107,11 +106,11 @@
       "link": "https://huggingface.co/blog/cybersecurity-openness",
       "published_time": "2026-04-21 00:00:00",
       "raw_content": "",
-      "ai_summary": "探讨人工智能与网络安全的未来，强调开放性的重要性。",
+      "ai_summary": "探讨AI在网络安全中的未来，强调开源的重要性。",
       "ai_tags": [
-        "AI",
         "网络安全",
-        "开放性"
+        "开源",
+        "AI"
       ],
       "ai_importance": 4
     },
@@ -121,11 +120,11 @@
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published_time": "2026-04-21 10:09:58",
       "raw_content": "",
-      "ai_summary": "QIMMA排行榜推出，专注于阿拉伯语大模型的质量评估。",
+      "ai_summary": "QIMMA阿拉伯语LLM排行榜发布，强调质量优先的评估标准。",
       "ai_tags": [
-        "QIMMA",
         "阿拉伯语",
-        "LLM排行榜"
+        "LLM",
+        "排行榜"
       ],
       "ai_importance": 3
     },
@@ -135,11 +134,12 @@
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "published_time": "2026-04-16 00:00:00",
       "raw_content": "",
-      "ai_summary": "讲解使用Sentence Transformers训练和微调多模态嵌入与重排序模型的方法。",
+      "ai_summary": "使用Sentence Transformers训练和微调多模态嵌入及重排序模型。",
       "ai_tags": [
-        "hugging_face",
-        "sentence-transformers",
-        "multimodal"
+        "多模态",
+        "嵌入",
+        "重排序",
+        "Sentence Transformers"
       ],
       "ai_importance": 4
     }
