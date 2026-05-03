@@ -80,7 +80,7 @@ def _summary_one_batch(client: OpenAI, batch: list[dict], retries: int = 3) -> l
     return []
 
 
-def summary_entries(entries: list[dict], batch_size: int = 10, workers: int = 3) -> list[dict]:
+def summary_entries(entries: list[dict], batch_size: int = 20, workers: int = 6) -> list[dict]:
     if not entries:
         return []
 

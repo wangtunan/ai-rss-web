@@ -53,6 +53,20 @@ def save_news_items(session: Session, items: Iterable[dict]) -> tuple[int, int]:
     return inserted, skipped
 
 
+def get_existing_links(session: Session, links: list[str]) -> set[str]:
+    """
+    批量查询数据库中已存在的 link 集合。
+    """
+    if not links:
+        return set()
+    return {
+        link
+        for (link,) in session.query(NewsItem.link)
+        .filter(NewsItem.link.in_(links))
+        .all()
+    }
+
+
 def delete_old_news_items(session: Session, days: int = 7) -> int:
     """
     删除超过 N 天的新闻记录（基于 ingest_date）。
