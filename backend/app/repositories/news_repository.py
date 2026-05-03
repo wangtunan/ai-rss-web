@@ -1,5 +1,5 @@
 from typing import Iterable
-from datetime import date
+from datetime import date, timedelta
 from sqlalchemy import desc, func
 from sqlalchemy.orm import Session
 
@@ -51,6 +51,17 @@ def save_news_items(session: Session, items: Iterable[dict]) -> tuple[int, int]:
     inserted = len(rows)
     skipped = len(candidate_rows) - inserted
     return inserted, skipped
+
+
+def delete_old_news_items(session: Session, days: int = 7) -> int:
+    """
+    删除超过 N 天的新闻记录（基于 ingest_date）。
+    返回删除的行数。
+    """
+    cutoff = date.today() - timedelta(days=days)
+    deleted = session.query(NewsItem).filter(NewsItem.ingest_date < cutoff).delete()
+    session.commit()
+    return deleted
 
 
 def list_news_items(

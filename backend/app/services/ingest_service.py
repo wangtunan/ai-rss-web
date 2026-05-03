@@ -7,7 +7,7 @@ from time import perf_counter
 from typing import Sequence
 
 from app.db.session import SessionLocal
-from app.repositories.news_repository import save_news_items
+from app.repositories.news_repository import delete_old_news_items, save_news_items
 from app.services.feed_service import parse_feeds
 from app.services.source_loader import load_sources
 from app.services.summarize_service import summary_entries
@@ -192,6 +192,13 @@ def fetch_news_to_db(max_entries: int = 20, source_files: Sequence[str] | None =
     session: Session = SessionLocal()
     try:
         inserted, skipped = save_news_items(session, summarized_entries)
+
+        print("🗑️ 正在清理超过 7 天的旧数据...")
+        deleted = delete_old_news_items(session, days=7)
+        if deleted:
+            print(f"🗑️ 已清理 {deleted} 条旧数据")
+        else:
+            print("✅ 无需清理旧数据")
     except Exception:
         session.rollback()
         print("❌ 入库失败，已回滚事务")
