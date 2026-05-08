@@ -1,0 +1,19 @@
+{
+  "name": "ai-rss-web",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "cli",
+    "frontend",
+    "packages/*"
+  ],
+  "scripts": {
+    "build:schema": "npm run build -w @ai-rss/schema",
+    "build:client": "npm run build -w @ai-rss/client",
+    "build:cli": "npm run build -w @ai-rss/cli",
+    "cli": "npm run start -w @ai-rss/cli",
+    "type-check:schema": "npm run type-check -w @ai-rss/schema",
+    "type-check:client": "npm run type-check -w @ai-rss/client",
+    "type-check:cli": "npm run type-check -w @ai-rss/cli"
+  }
+}

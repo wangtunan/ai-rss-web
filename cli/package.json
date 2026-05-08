@@ -1,0 +1,35 @@
+{
+  "name": "@ai-rss/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "ai-rss": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --clean && tsc -p tsconfig.json --emitDeclarationOnly",
+    "start": "node dist/index.js",
+    "type-check": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@ai-rss/client": "workspace:*",
+    "@ai-rss/schema": "workspace:*",
+    "commander": "^14.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.0",
+    "tsup": "^8.5.0",
+    "typescript": "~6.0.0"
+  }
+}

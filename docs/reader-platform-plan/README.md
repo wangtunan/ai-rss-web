@@ -12,7 +12,7 @@
 - `browser-extension`：Chrome 浏览器插件，在浏览器弹窗、新标签页或侧边栏中阅读新闻。
 - `packages`：共享展示数据协议、类型定义和只读数据 client。
 
-Mobile App、CLI、IDE 插件、Chrome 插件的定位与 Web 前端一致，都是“展示端”。它们不负责抓取、入库、AI 摘要、RSS 源导入等后台生产任务。
+Mobile App、CLI、IDE 插件、Chrome 插件的定位与 Web 前端一致，都是“展示端”。它们不负责任何数据生产或生产任务控制。
 
 ## 推荐目录结构
 
@@ -50,7 +50,6 @@ ai-rss-web/
 - 调用 AI 生成摘要、评分、分类等展示字段。
 - 写入 Supabase/Postgres。
 - 导出 static JSON。
-- 维护 RSS 源数据。
 
 `backend` 不需要为了 App 或 CLI 增加额外展示逻辑。它只需要保证输出的数据格式稳定。
 
@@ -367,11 +366,11 @@ RSS 源
 
 暂不做：
 
-- App 端 RSS 源管理。
 - CLI 端抓取或入库。
 - App 端后台定时抓取。
 - IDE 插件端抓取或入库。
 - Chrome 插件端抓取或入库。
+- 任何展示端的数据生产、生产任务控制、RSS 源增删改。
 - 多用户账号系统。
 - 复杂推荐算法。
 

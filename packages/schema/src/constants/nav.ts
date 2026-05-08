@@ -1,0 +1,33 @@
+import type { NavItem } from '../types'
+import { NavType } from '../types'
+
+export const NAV_LIST: NavItem[] = [
+  {
+    key: NavType.Selected,
+    label: '精选',
+  },
+  {
+    key: NavType.AI,
+    label: 'AI',
+  },
+  {
+    key: NavType.Community,
+    label: '社区',
+  },
+  {
+    key: NavType.InnerNews,
+    label: '国内新闻',
+  },
+  {
+    key: NavType.OuterNews,
+    label: '海外新闻',
+  },
+  {
+    key: NavType.Finance,
+    label: '财经',
+  },
+  {
+    key: NavType.Blog,
+    label: '博客',
+  },
+]

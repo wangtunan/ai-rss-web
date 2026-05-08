@@ -9,9 +9,9 @@
 - RSS 抓取。
 - AI 摘要。
 - 数据入库。
-- RSS 源导入。
 - 数据迁移。
-- 后台定时任务。
+- 数据生产配置。
+- 后台任务控制。
 
 它负责：
 
@@ -19,7 +19,7 @@
 - 搜索标题、摘要、来源。
 - 输出适合人看的文本。
 - 输出适合脚本消费的 JSON。
-- 管理 CLI 自己的展示配置。
+- 配置 CLI 自己的展示数据源。
 
 ## 技术路线
 
@@ -159,7 +159,7 @@ ai-rss open <id>
 
 ### config
 
-管理 CLI 自己的数据源配置。
+配置 CLI 自己的数据源。
 
 ```sh
 ai-rss config get
@@ -170,7 +170,7 @@ ai-rss config set supabase-url https://example.supabase.co
 ai-rss config set supabase-key <publishable-key>
 ```
 
-注意：这里管理的是 CLI 读取配置，不是 backend `.env`。
+注意：这里配置的是 CLI 读取数据源，不是 backend `.env`。
 
 ## 配置设计
 
