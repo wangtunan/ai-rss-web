@@ -3,6 +3,10 @@ sources:
     url: https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen
     category: reuters
   
+  - name: 彭博社
+    url: https://news.google.com/rss/search?q=site%3Abloomberg.com&hl=en-US&gl=US&ceid=US%3Aen
+    category: bloomberg
+  
   - name: BBC News
     url: https://feeds.bbci.co.uk/news/rss.xml
     category: bbc_news

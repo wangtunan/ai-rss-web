@@ -117,6 +117,12 @@ export const OUTER_NEWS_CATEGORY_META: Record<string, CategoryMeta> = {
     icon: '/logo/reuters.png',
     belong_to: [NavType.OuterNews],
   },
+  bloomberg: {
+    label: '彭博社',
+    subtitle: '彭博社',
+    icon: '/logo/bloomberg.jpg',
+    belong_to: [NavType.OuterNews],
+  },
   bbc_news: {
     label: 'BBC News',
     subtitle: 'BBC News',
