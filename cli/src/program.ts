@@ -2,6 +2,7 @@ import { Command } from 'commander'
 
 import { registerCategoryCommand } from './commands/category'
 import { registerConfigCommand } from './commands/config'
+import { registerDoctorCommand } from './commands/doctor'
 import { registerListCommand } from './commands/list'
 import { registerSearchCommand } from './commands/search'
 import { registerSourcesCommand } from './commands/sources'
@@ -22,6 +23,7 @@ export const createCliProgram = (): Command => {
   registerSearchCommand(program)
   registerSourcesCommand(program)
   registerConfigCommand(program)
+  registerDoctorCommand(program)
 
   return program
 }
