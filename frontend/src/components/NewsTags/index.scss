@@ -1,0 +1,36 @@
+.news-tags {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.34rem;
+
+  &__item {
+    max-width: 7.4rem;
+    overflow: hidden;
+    padding: 0.2rem 0.42rem;
+    border: 1px solid color-mix(in oklab, var(--tag-color), transparent 58%);
+    border-radius: 999px;
+    background: color-mix(in oklab, var(--tag-color), transparent 88%);
+    color: color-mix(in oklab, var(--tag-color), var(--text) 28%);
+    font-size: 0.68rem;
+    line-height: 1;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    &:nth-child(4n + 1) {
+      --tag-color: #42dfc8;
+    }
+
+    &:nth-child(4n + 2) {
+      --tag-color: #7aa7ff;
+    }
+
+    &:nth-child(4n + 3) {
+      --tag-color: #f6c343;
+    }
+
+    &:nth-child(4n) {
+      --tag-color: #f07aa7;
+    }
+  }
+}

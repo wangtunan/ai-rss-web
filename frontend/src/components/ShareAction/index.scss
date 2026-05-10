@@ -1,0 +1,54 @@
+.share-action {
+  display: flex;
+  gap: 0.5rem;
+
+  &__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 0.38rem;
+    background: transparent;
+    color: var(--text-soft);
+    cursor: pointer;
+    transition: all 0.18s ease;
+
+    &:hover:not(:disabled) {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: color-mix(in oklab, var(--accent), transparent 92%);
+    }
+
+    &:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+  }
+
+  &__icon {
+    width: 0.9rem;
+    height: 0.9rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .share-action {
+    &__btn {
+      width: 1.8rem;
+      height: 1.8rem;
+    }
+
+    &__icon {
+      width: 0.8rem;
+      height: 0.8rem;
+    }
+  }
+}

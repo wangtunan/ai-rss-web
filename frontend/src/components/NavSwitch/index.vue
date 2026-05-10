@@ -1,7 +1,7 @@
 <template>
   <nav class="nav-switch" aria-label="资讯分类导航">
     <RouterLink
-      v-for="item in navItems"
+      v-for="item in props.navItems"
       :key="item.key"
       v-slot="{ href }"
       custom
@@ -11,8 +11,8 @@
       <a
         :href="href"
         class="nav-switch__link"
-        :class="{ 'nav-switch__link--active': activeNav === item.key }"
-        :aria-current="activeNav === item.key ? 'page' : undefined"
+        :class="{ 'nav-switch__link--active': props.activeNav === item.key }"
+        :aria-current="props.activeNav === item.key ? 'page' : undefined"
         @click="handleNavClick($event, item.key)"
       >
         {{ item.label }}
@@ -25,15 +25,18 @@
   import { useRoute } from 'vue-router'
 
   import type { NavItem, NavType } from '@/types/nav'
-
-  defineProps<{
+  interface IProps {
+    /** 当前激活导航 */
     activeNav: NavType
+    /** 导航列表 */
     navItems: NavItem[]
-  }>()
+  }
+  interface IEmits {
+    (e: 'changeNav', nav: NavType): void
+  }
 
-  const emit = defineEmits<{
-    changeNav: [nav: NavType]
-  }>()
+  const props = defineProps<IProps>()
+  const emits = defineEmits<IEmits>()
 
   const route = useRoute()
 
@@ -51,7 +54,7 @@
     }
 
     event.preventDefault()
-    emit('changeNav', nav)
+    emits('changeNav', nav)
   }
 </script>
 

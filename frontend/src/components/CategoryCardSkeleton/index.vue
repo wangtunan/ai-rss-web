@@ -9,7 +9,7 @@
     </header>
 
     <ol class="category-card-skeleton__list">
-      <li v-for="index in rowCount" :key="index" class="category-card-skeleton__row">
+      <li v-for="index in props.rowCount" :key="index" class="category-card-skeleton__row">
         <div class="category-card-skeleton__line category-card-skeleton__line--rank"></div>
         <div class="category-card-skeleton__content">
           <div class="category-card-skeleton__line category-card-skeleton__line--item-title"></div>
@@ -27,14 +27,13 @@
 </template>
 
 <script setup lang="ts">
-  withDefaults(
-    defineProps<{
-      rowCount?: number
-    }>(),
-    {
-      rowCount: 10,
-    },
-  )
+
+  interface IProps {
+    rowCount?: number
+  }
+  const props = withDefaults(defineProps<IProps>(), {
+    rowCount: 10,
+  })
 </script>
 
 <style scoped src="./index.scss" lang="scss"></style>

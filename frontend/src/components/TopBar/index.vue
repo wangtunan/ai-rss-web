@@ -13,9 +13,9 @@
 
     <div class="top-bar__nav-scroll">
       <NavSwitch
-        :active-nav="activeNav"
-        :nav-items="navItems"
-        @change-nav="emit('changeNav', $event)"
+        :active-nav="props.activeNav"
+        :nav-items="props.navItems"
+        @change-nav="emits('changeNav', $event)"
       />
     </div>
 
@@ -28,7 +28,7 @@
           <circle cx="12" cy="12" r="8.5"></circle>
           <path d="M12 7.6v4.9l3.2 1.9"></path>
         </svg>
-        <span class="top-bar__updated-tooltip" role="tooltip">更新时间：{{ lastUpdated }}</span>
+        <span class="top-bar__updated-tooltip" role="tooltip">更新时间：{{ props.lastUpdated }}</span>
       </span>
       
       <a
@@ -44,7 +44,7 @@
         </svg>
       </a>
 
-      <ThemeSwitch :theme="theme" @toggle-theme="emit('toggleTheme')" />
+      <ThemeSwitch :theme="props.theme" @toggle-theme="emits('toggleTheme')" />
     </div>
   </header>
 </template>
@@ -56,17 +56,21 @@
   import type { NavItem, NavType } from '@/types/nav'
   import type { ThemeMode } from '@/types/theme'
 
-  defineProps<{
+  interface IProps {
     activeNav: NavType
     lastUpdated: string
     navItems: NavItem[]
     theme: ThemeMode
-  }>()
+  }
 
-  const emit = defineEmits<{
-    changeNav: [nav: NavType]
-    toggleTheme: []
-  }>()
+  interface IEmits {
+    (e: 'changeNav', nav: NavType): void
+    (e: 'toggleTheme'): void
+  }
+
+
+  const props = defineProps<IProps>()
+  const emits = defineEmits<IEmits>()
 </script>
 
 <style scoped src="./index.scss" lang="scss"></style>

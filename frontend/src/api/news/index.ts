@@ -1,4 +1,6 @@
-import type { CuratedNewsRequest, CuratedNewsResponse, NewsListRequest, NewsListResponse } from '@/types/news'
+import type { NewsListRequest, NewsListResponse } from '@/types/news'
+import type { CuratedNewsRequest, CuratedNewsResponse } from '@/types/curated'
+
 import { fetchStaticCuratedNews, fetchStaticNewsList } from './static_news'
 import { fetchSupabaseCuratedNews, fetchSupabaseNewsList } from './supabase_news'
 

@@ -1,17 +1,6 @@
 <template>
   <div class="dashboard">
-    <TopBar
-      :active-nav="activeNav"
-      :last-updated="lastUpdatedLabel"
-      :nav-items="NAV_LIST"
-      :theme="theme"
-      @change-nav="changeNav"
-      @toggle-theme="toggleTheme"
-    />
-
-    <CuratedBoard v-if="activeNav === NavType.Selected" @loaded="markUpdatedNow" />
-
-    <TransitionGroup v-else appear tag="main" name="category-card" class="dashboard__grid">
+    <TransitionGroup appear tag="main" name="category-card" class="dashboard__grid">
       <CategoryCard
         v-for="category in filteredCategories"
         :key="category.key"
@@ -23,53 +12,28 @@
 </template>
 
 <script setup lang="ts">
-  import { computed, onMounted, ref, watch } from 'vue'
-  import { useRoute, useRouter } from 'vue-router'
+  // ======= 第三方库 =======
+  import { computed } from 'vue'
 
-  import CategoryCard from '@/components/CategoryCard/index.vue'
-  import CuratedBoard from '@/components/CuratedBoard/index.vue'
-  import TopBar from '@/components/TopBar/index.vue'
-  import { NAV_LIST } from '@/constants/nav'
+  // ======= hooks & stores =======
   import { useNewsBoard } from '@/hooks/useNewsBoard'
-  import { useTheme } from '@/hooks/useTheme'
+  import useNavStore from '@/stores/nav'
+
+  // ======= hooks & stores =======
+  import CategoryCard from '@/components/CategoryCard/index.vue'
+
+  // ======= 其它 =======
   import { NavType } from '@/types/nav'
 
-  const route = useRoute()
-  const router = useRouter()
-  const { theme, toggleTheme, initializeTheme } = useTheme()
-  const { categories, lastUpdatedLabel, markUpdatedNow } = useNewsBoard()
-  const navTypes = new Set<string>(Object.values(NavType))
-  
-  const routeNav = computed(() => {
-    const nav = route.query.nav as string
-    return navTypes.has(nav) ? (nav as NavType) : NavType.Selected
-  })
-  const activeNav = ref<NavType>(routeNav.value)
+  const { categories, markUpdatedNow } = useNewsBoard()
+  const navStore = useNavStore()
 
   const filteredCategories = computed(() => {
-    if (activeNav.value === NavType.Default) {
+    if (navStore.activeNav === NavType.Default) {
       return categories.value
     }
 
-    return categories.value.filter((category) => category.belongTo.includes(activeNav.value))
-  })
-
-  const changeNav = (nav: NavType) => {
-    activeNav.value = nav
-    router.replace({
-      query: {
-        ...route.query,
-        nav,
-      },
-    })
-  }
-
-  watch(routeNav, (nav) => {
-    activeNav.value = nav
-  })
-
-  onMounted(() => {
-    initializeTheme()
+    return categories.value.filter((category) => category.belongTo.includes(navStore.activeNav))
   })
 </script>
 

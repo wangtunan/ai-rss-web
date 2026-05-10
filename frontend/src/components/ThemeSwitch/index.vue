@@ -2,15 +2,14 @@
   <button
     type="button"
     class="theme-switch"
-    :class="{ 'theme-switch--dark': theme === 'dark' }"
-    :title="theme === 'dark' ? '切换亮色' : '切换暗色'"
-    :aria-label="theme === 'dark' ? '切换亮色' : '切换暗色'"
-    @click="emit('toggleTheme')"
+    :class="{ 'theme-switch--dark': props.theme === 'dark' }"
+    :title="props.theme === 'dark' ? '切换亮色' : '切换暗色'"
+    @click="emits('toggleTheme')"
   >
     <span class="theme-switch__track">
       <span class="theme-switch__thumb">
         <svg
-          v-if="theme === 'dark'"
+          v-if="props.theme === 'dark'"
           class="theme-switch__icon"
           viewBox="0 0 24 24"
           aria-hidden="true"
@@ -19,7 +18,9 @@
         </svg>
         <svg v-else class="theme-switch__icon" viewBox="0 0 24 24" aria-hidden="true">
           <circle cx="12" cy="12" r="4"></circle>
-          <path d="M12 2v2.4M12 19.6V22M4.93 4.93l1.7 1.7M17.37 17.37l1.7 1.7M2 12h2.4M19.6 12H22M4.93 19.07l1.7-1.7M17.37 6.63l1.7-1.7"></path>
+          <path
+            d="M12 2v2.4M12 19.6V22M4.93 4.93l1.7 1.7M17.37 17.37l1.7 1.7M2 12h2.4M19.6 12H22M4.93 19.07l1.7-1.7M17.37 6.63l1.7-1.7"
+          ></path>
         </svg>
       </span>
     </span>
@@ -27,15 +28,17 @@
 </template>
 
 <script setup lang="ts">
-  import type { ThemeMode } from '@/types/theme'
+import type { ThemeMode } from '@/types/theme'
 
-  defineProps<{
-    theme: ThemeMode
-  }>()
+interface IProps {
+  theme: ThemeMode
+}
 
-  const emit = defineEmits<{
-    toggleTheme: []
-  }>()
+interface IEmits {
+  (e: 'toggleTheme'): void
+}
+const props = defineProps<IProps>()
+const emits = defineEmits<IEmits>()
 </script>
 
 <style scoped src="./index.scss" lang="scss"></style>

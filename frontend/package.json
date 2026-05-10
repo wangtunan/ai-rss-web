@@ -12,10 +12,11 @@
     "lint": "run-s lint:*",
     "lint:oxlint": "oxlint . --fix",
     "lint:eslint": "eslint . --fix --cache",
-    "format": "prettier --write --experimental-cli src/"
+    "format": "prettier --write --tab-width 2 --embedded-language-context src/"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.105.1",
+    "html-to-image": "^1.11.13",
     "pinia": "^3.0.4",
     "vue": "^3.5.31",
     "vue-router": "^5.0.4"
