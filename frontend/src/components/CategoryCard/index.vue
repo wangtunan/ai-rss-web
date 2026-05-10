@@ -26,7 +26,11 @@
     </div>
 
     <ol v-else class="category-card__list">
-      <li v-for="(item, index) in items" :key="`${category.key}-${item.link}`" class="category-card__row">
+      <li
+        v-for="(item, index) in items"
+        :key="`${category.key}-${item.link}`"
+        class="category-card__row"
+      >
         <p class="category-card__rank">{{ index + 1 }}</p>
         <div class="category-card__main" :title="item.title">
           <a
@@ -47,11 +51,11 @@
           <div class="category-card__footer">
             <span class="category-card__published-time">{{ item.published_time }}</span>
 
-            <div v-if="item.ai_tags?.length" class="category-card__tags">
-              <span v-for="tag in item.ai_tags.slice(0, 3)" :key="`${item.link}-${tag}`" class="category-card__tag">
-                {{ tag }}
-              </span>
-            </div>
+            <NewsTags
+              :tags="item.ai_tags"
+              :max-count="3"
+            />
+
           </div>
         </div>
         <div class="category-card__meta">
@@ -67,6 +71,7 @@
 
   import { fetchNewsListPayload } from '@/api/news'
   import CategoryCardSkeleton from '@/components/CategoryCardSkeleton/index.vue'
+  import NewsTags from '@/components/NewsTags/index.vue'
   import { MAX_ITEMS_PER_CATEGORY } from '@/constants/news'
   import type { NewsItem } from '@/types/news'
 

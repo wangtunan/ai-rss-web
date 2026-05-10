@@ -1,30 +1,5 @@
 import type { NavType } from './nav'
 
-
-/** 单条资讯数据 */
-export interface NewsItem {
-  /** 数据来源分类标识，例如 hacker_news / v2ex / openai */
-  category: string
-  /** 数据来源显示名 */
-  source?: string
-  /** 资讯标题 */
-  title: string
-  /** 原文链接地址 */
-  link: string
-  /** 发布时间 */
-  published_time: string
-  /** 原始内容（可能包含 HTML） */
-  raw_content: string
-  /** AI 生成的摘要文本 */
-  ai_summary: string
-  /** AI 生成的标签列表 */
-  ai_tags: string[]
-  /** AI 评估的重要度分值 */
-  ai_importance: number
-  /** 入库或导出日期 */
-  ingest_date?: string
-}
-
 /** 资讯接口返回结构 */
 export interface NewsResponse {
   /** 本批次数据更新时间 */
@@ -59,21 +34,28 @@ export interface NewsListResponse {
   items: NewsItem[]
 }
 
-/** 分类显示元信息 */
-export type CuratedPeriod = 'today' | 'week'
-
-export interface CuratedNewsRequest {
-  /** 时间范围 */
-  period: CuratedPeriod
-  /** 每页条数 */
-  limit?: number
-  /** 偏移量 */
-  offset?: number
-}
-
-export interface CuratedNewsResponse extends NewsListResponse {
-  /** 时间范围 */
-  period: CuratedPeriod
+/** 单条资讯数据 */
+export interface NewsItem {
+  /** 数据来源分类标识，例如 hacker_news / v2ex / openai */
+  category: string
+  /** 数据来源显示名 */
+  source?: string
+  /** 资讯标题 */
+  title: string
+  /** 原文链接地址 */
+  link: string
+  /** 发布时间 */
+  published_time: string
+  /** 原始内容（可能包含 HTML） */
+  raw_content: string
+  /** AI 生成的摘要文本 */
+  ai_summary: string
+  /** AI 生成的标签列表 */
+  ai_tags: string[]
+  /** AI 评估的重要度分值 */
+  ai_importance: number
+  /** 入库或导出日期 */
+  ingest_date?: string
 }
 
 export interface CategoryMeta {

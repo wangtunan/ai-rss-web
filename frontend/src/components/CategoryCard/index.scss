@@ -201,40 +201,6 @@
     font-size: 0.79rem;
   }
 
-  &__tags {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    gap: 0.36rem;
-    margin-top: 0.08rem;
-  }
-
-  &__tag {
-    padding: 0.26rem 0.48rem;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    font-size: 0.68rem;
-    line-height: 1;
-  }
-
-  &__tag:nth-child(3n + 1) {
-    border-color: color-mix(in oklab, #2dd4bf, transparent 58%);
-    background: color-mix(in oklab, #2dd4bf, transparent 86%);
-    color: #2dd4bf;
-  }
-
-  &__tag:nth-child(3n + 2) {
-    border-color: color-mix(in oklab, #a78bfa, transparent 58%);
-    background: color-mix(in oklab, #a78bfa, transparent 86%);
-    color: #a78bfa;
-  }
-
-  &__tag:nth-child(3n) {
-    border-color: color-mix(in oklab, #f59e0b, transparent 58%);
-    background: color-mix(in oklab, #f59e0b, transparent 87%);
-    color: #f59e0b;
-  }
-
   &__meta {
     display: grid;
     justify-items: end;

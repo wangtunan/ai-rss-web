@@ -1,4 +1,5 @@
-import type { CuratedNewsRequest, CuratedNewsResponse, NewsItem, NewsListRequest, NewsListResponse } from '@/types/news'
+import type { NewsListRequest, NewsListResponse } from '@/types/news'
+import type { CuratedNewsRequest, CuratedNewsResponse } from '@/types/curated'
 import { supabase } from '@/utils/supabase'
 
 const NEWS_TABLE = 'public_news_items'

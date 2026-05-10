@@ -1,4 +1,6 @@
-import type { CuratedNewsRequest, CuratedNewsResponse, NewsListRequest, NewsListResponse } from '@/types/news'
+import type { NewsListRequest, NewsListResponse } from '@/types/news'
+import type { CuratedNewsRequest, CuratedNewsResponse } from '@/types/curated'
+
 import { fetchJson } from '@/api/common/json'
 
 const STATIC_NEWS_LIST_BASE_URL = import.meta.env.VITE_STATIC_NEWS_LIST_BASE_URL ?? '/data/news'

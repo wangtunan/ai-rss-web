@@ -1,0 +1,38 @@
+.curated-card-error {
+  display: grid;
+  gap: 0.48rem;
+  padding: 1rem 1.1rem;
+  color: var(--text-soft);
+  font-size: 0.86rem;
+
+  &__title,
+  &__message {
+    margin: 0;
+  }
+
+  &__title {
+    color: var(--danger);
+    font-weight: 720;
+  }
+
+  &__message {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  &__retry {
+    justify-self: start;
+    padding: 0.34rem 0.72rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 0.42rem;
+    background: var(--surface);
+    color: var(--text);
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+  }
+}

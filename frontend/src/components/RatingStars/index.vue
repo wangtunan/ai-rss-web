@@ -1,7 +1,7 @@
 <template>
-  <span class="rating-stars" role="img" :aria-label="`评分 ${normalizedScore}/${max}`">
+  <span class="rating-stars" role="img" :aria-label="`评分 ${normalizedScore}/${props.max}`">
     <svg
-      v-for="star in max"
+      v-for="star in props.max"
       :key="star"
       class="rating-stars__icon"
       :class="{ 'rating-stars__icon--filled': star <= normalizedScore }"
@@ -18,16 +18,16 @@
 <script setup lang="ts">
   import { computed } from 'vue'
 
-  const props = withDefaults(
-    defineProps<{
-      score?: number
-      max?: number
-    }>(),
-    {
-      score: 0,
-      max: 5,
-    },
-  )
+  interface IProps {
+    /** 评分 */
+    score?: number
+    /** 最大评分 */
+    max?: number
+  }
+  const props = withDefaults(defineProps<IProps>(), {
+    score: 0,
+    max: 5,
+  })
 
   const normalizedScore = computed(() => {
     return Math.max(0, Math.min(props.max, Number(props.score) || 0))
