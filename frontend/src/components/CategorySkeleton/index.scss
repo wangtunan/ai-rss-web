@@ -1,4 +1,4 @@
-.category-card-skeleton {
+.category-skeleton {
   border: 1px solid var(--line);
   border-radius: 1rem;
   background:
@@ -72,7 +72,7 @@
       color-mix(in oklab, var(--text), transparent 85%) 48%,
       transparent 100%
     );
-    animation: category-card-skeleton-shimmer 1.6s ease-in-out infinite;
+    animation: category-skeleton-shimmer 1.6s ease-in-out infinite;
   }
 
   &__line--title {
@@ -130,7 +130,7 @@
   }
 }
 
-@keyframes category-card-skeleton-shimmer {
+@keyframes category-skeleton-shimmer {
   100% {
     transform: translateX(100%);
   }

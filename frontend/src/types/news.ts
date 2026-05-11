@@ -58,7 +58,10 @@ export interface NewsItem {
   ingest_date?: string
 }
 
+/** 分类元信息 */
 export interface CategoryMeta {
+  /** 分类唯一键 */
+  key?: string
   /** 分类中文标题 */
   label: string
   /** 分类副标题（通常是来源名） */
@@ -67,18 +70,4 @@ export interface CategoryMeta {
   icon: string,
   /** 该分类属于哪些导航栏 */
   belong_to?: NavType[]
-}
-
-/** 页面展示用的分类数据结构 */
-export interface CategoryView {
-  /** 分类唯一键 */
-  key: string
-  /** 分类标题 */
-  label: string
-  /** 分类副标题 */
-  subtitle: string
-  /** 分类图标地址（通常使用对应官网 favicon） */
-  icon: string
-  /** 该分类下用于渲染的资讯列表 */
-  items: NewsItem[]
 }

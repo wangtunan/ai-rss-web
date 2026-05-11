@@ -9,7 +9,7 @@
       @toggle-theme="toggleTheme"
     />
     <RouterView />
-    <Toast />
+    <AppToast />
   </div>
 </template>
 
@@ -25,6 +25,7 @@
 
   // ======= components =======
   import TopBar from '@/components/TopBar/index.vue'
+  import AppToast from '@/components/Toast/index.vue'
 
   // ======= 其它 =======
   import { NAV_LIST } from '@/constants/nav'
