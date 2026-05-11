@@ -4,7 +4,10 @@
       "Bash(npm install *)",
       "Bash(npm run *)",
       "Bash(npx oxlint *)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(npm --prefix frontend run type-check)",
+      "Bash(npm --prefix frontend run build)",
+      "Bash(python *)"
     ]
   }
 }

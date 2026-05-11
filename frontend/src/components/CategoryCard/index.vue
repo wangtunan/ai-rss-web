@@ -1,120 +1,48 @@
 <template>
-  <CategoryCardSkeleton v-if="loading" />
-
-  <section v-else-if="error || items.length > 0" class="category-card">
-    <header class="category-card__header">
-      <div class="category-card__header-main">
-        <h2 class="category-card__title">
-          <span
-            class="category-card__icon"
-            aria-hidden="true"
-            :class="{ 'category-card__icon--github': category.key === 'github' }"
-          >
-            <img :src="category.icon" :alt="`${category.subtitle} favicon`" />
-          </span>
-          <span>{{ category.label }}</span>
-        </h2>
-        <p class="category-card__subtitle">{{ category.subtitle }} · Top {{ items.length }}</p>
-      </div>
-      <span class="category-card__count-pill">{{ items.length }}</span>
-    </header>
-
-    <div v-if="error" class="category-card__error-panel">
-      <p class="category-card__error-title">加载失败</p>
-      <p class="category-card__error-message">{{ error }}</p>
-      <button class="category-card__retry-button" @click="loadCategory">重试</button>
-    </div>
-
-    <ol v-else class="category-card__list">
-      <li
-        v-for="(item, index) in items"
-        :key="`${category.key}-${item.link}`"
-        class="category-card__row"
+  <li class="category-card">
+    <p class="category-card__rank">{{ props.index + 1 }}</p>
+    <div class="category-card__main" :title="props.item.title">
+      <a
+        :href="props.item.link"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="category-card__title-link"
+        :title="props.item.title"
       >
-        <p class="category-card__rank">{{ index + 1 }}</p>
-        <div class="category-card__main" :title="item.title">
-          <a
-            :href="item.link"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="category-card__title-link"
-            :title="item.title"
-          >
-            {{ item.title }}
-          </a>
+        {{ props.item.title }}
+      </a>
 
-          <p class="category-card__summary" :title="item.ai_summary">
-            <span class="category-card__summary-label">AI摘要</span>
-            <span>{{ item.ai_summary }}</span>
-          </p>
+      <p class="category-card__summary" :title="props.item.ai_summary">
+        <span class="category-card__summary-label">AI摘要</span>
+        <span>{{ props.item.ai_summary }}</span>
+      </p>
 
-          <div class="category-card__footer">
-            <span class="category-card__published-time">{{ item.published_time }}</span>
+      <div class="category-card__footer">
+        <span class="category-card__published-time">{{ props.item.published_time }}</span>
 
-            <NewsTags
-              :tags="item.ai_tags"
-              :max-count="3"
-            />
+        <NewsTags
+          :tags="props.item.ai_tags"
+          :max-count="3"
+        />
 
-          </div>
-        </div>
-        <div class="category-card__meta">
-          <span class="category-card__importance">★{{ item.ai_importance }}</span>
-        </div>
-      </li>
-    </ol>
-  </section>
+      </div>
+    </div>
+    <div class="category-card__meta">
+      <span class="category-card__importance">★{{ props.item.ai_importance }}</span>
+    </div>
+  </li>
 </template>
-
 <script setup lang="ts">
-  import { onMounted, ref } from 'vue'
-
-  import { fetchNewsListPayload } from '@/api/news'
-  import CategoryCardSkeleton from '@/components/CategoryCardSkeleton/index.vue'
   import NewsTags from '@/components/NewsTags/index.vue'
-  import { MAX_ITEMS_PER_CATEGORY } from '@/constants/news'
   import type { NewsItem } from '@/types/news'
 
-  type CategoryCardConfig = {
-    key: string
-    label: string
-    subtitle: string
-    icon: string
+  interface IProps {
+    /** 排名 */
+    index: number
+    /** 资讯数据 */
+    item: NewsItem
   }
-
-  const props = defineProps<{
-    category: CategoryCardConfig
-  }>()
-
-  const emit = defineEmits<{
-    loaded: []
-  }>()
-
-  const loading = ref(true)
-  const error = ref('')
-  const items = ref<NewsItem[]>([])
-
-  const loadCategory = async () => {
-    loading.value = true
-    error.value = ''
-
-    try {
-      const result = await fetchNewsListPayload({
-        category: props.category.key,
-        limit: MAX_ITEMS_PER_CATEGORY,
-        offset: 0,
-      })
-      items.value = result.items
-      emit('loaded')
-    } catch (e) {
-      error.value = e instanceof Error ? e.message : '未知错误'
-      items.value = []
-    } finally {
-      loading.value = false
-    }
-  }
-
-  onMounted(loadCategory)
+  const props = defineProps<IProps>()
 </script>
 
 <style scoped src="./index.scss" lang="scss"></style>

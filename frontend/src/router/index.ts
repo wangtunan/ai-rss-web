@@ -11,7 +11,7 @@ const router = createRouter({
       path: '/',
       name: 'layout',
       component: Layout,
-      redirect: '/dashboard',
+      redirect: '/curated',
       children: [
         {
           path: 'dashboard',

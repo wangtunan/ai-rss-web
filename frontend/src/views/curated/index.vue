@@ -10,10 +10,7 @@
     <!-- content -->
     <section class="curated-page__content">
       <!-- header -->
-      <CuratedHeader
-        :active-section="activeSection"
-        :target-ref="curatedListRef?.listRef ?? null"
-      >
+      <CuratedHeader :active-section="activeSection">
         <template #actions>
           <ShareAction
             :disabled="activeSection.loading"

@@ -1,0 +1,22 @@
+.category-card-wrapper {
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.018), transparent 35%),
+    var(--surface);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.category-card__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+:root[data-theme='light'] .category-card-wrapper {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(248, 252, 255, 0.96)),
+    var(--surface);
+  box-shadow: none;
+}
