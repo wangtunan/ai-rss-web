@@ -7,6 +7,10 @@ export const NAV_LIST: NavItem[] = [
     label: '精选',
   },
   {
+    key: NavType.Subscription,
+    label: '订阅',
+  },
+  {
     key: NavType.AI,
     label: 'AI',
   },

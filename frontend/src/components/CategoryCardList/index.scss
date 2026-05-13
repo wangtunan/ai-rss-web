@@ -5,7 +5,7 @@
     linear-gradient(180deg, rgba(255, 255, 255, 0.018), transparent 35%),
     var(--surface);
   box-shadow: var(--shadow);
-  overflow: hidden;
+  height: 100%;
 }
 
 .category-card__list {

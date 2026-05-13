@@ -7,6 +7,7 @@ export enum NavType {
   Finance = 'finance',
   Default = 'default',
   Selected = 'selected',
+  Subscription = 'subscription',
 }
 
 export interface NavItem {

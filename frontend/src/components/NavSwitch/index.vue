@@ -24,7 +24,8 @@
 <script setup lang="ts">
   import { useRoute } from 'vue-router'
 
-  import type { NavItem, NavType } from '@/types/nav'
+  import { NavType } from '@/types/nav'
+  import type { NavItem } from '@/types/nav'
   interface IProps {
     /** 当前激活导航 */
     activeNav: NavType
@@ -40,13 +41,23 @@
 
   const route = useRoute()
 
-  const getNavTo = (nav: NavType) => ({
-    name: 'dashboard',
-    query: {
-      ...route.query,
-      nav,
-    },
-  })
+  const getNavTo = (nav: NavType) => {
+    if (nav === NavType.Selected) {
+      return { name: 'curated' }
+    }
+
+    if (nav === NavType.Subscription) {
+      return { name: 'subscription' }
+    }
+
+    return {
+      name: 'dashboard',
+      query: {
+        ...route.query,
+        nav,
+      },
+    }
+  }
 
   const handleNavClick = (event: MouseEvent, nav: NavType) => {
     if (event.button !== 0 || event.metaKey || event.altKey || event.ctrlKey || event.shiftKey) {
