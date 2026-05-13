@@ -43,6 +43,10 @@
       router.push({ name: 'curated' })
       return
     }
+    if (nav === NavType.Subscription) {
+      router.push({ name: 'subscription' })
+      return
+    }
     router.replace({
       path: '/dashboard',
       query: {

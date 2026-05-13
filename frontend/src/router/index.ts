@@ -3,6 +3,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Layout from '@/components/Layout/index.vue'
 const DashboardView = () => import('@/views/dashboard/index.vue')
 const CuratedView = () => import('@/views/curated/index.vue')
+const SubscriptionView = () => import('@/views/subscription/index.vue')
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
@@ -22,6 +23,11 @@ const router = createRouter({
           path: 'curated',
           name: 'curated',
           component: CuratedView,
+        },
+        {
+          path: 'subscription',
+          name: 'subscription',
+          component: SubscriptionView,
         },
       ],
     },
