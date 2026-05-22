@@ -69,8 +69,10 @@
   import { NAV_LIST } from '@/constants/nav'
   import { CATEGORY_META } from '@/constants/news'
   import { NavType } from '@/types/nav'
+  import type { SubscriptionCategory } from '@/types/subscription'
 
   interface IProps {
+    /** 已选择分类 ID */
     selectedIds: string[]
   }
 
@@ -79,18 +81,31 @@
     (e: 'save', ids: string[]): void
   }
 
+  interface SubscriptionGroup {
+    /** 导航分组唯一标识 */
+    key: NavType
+    /** 导航分组显示名称 */
+    label: string
+    /** 分组内可订阅分类 */
+    categories: SubscriptionCategory[]
+  }
+
+  defineOptions({
+    name: 'SubscriptionModal',
+  })
+
   const props = defineProps<IProps>()
   const emits = defineEmits<IEmits>()
 
   const draftSelectedIds = ref(new Set(props.selectedIds))
 
-  const groups = computed(() =>
+  const groups = computed<SubscriptionGroup[]>(() =>
     NAV_LIST.filter((nav) => ![NavType.Selected, NavType.Subscription].includes(nav.key))
       .map((nav) => ({
         ...nav,
         categories: Object.entries(CATEGORY_META)
           .filter(([, meta]) => meta.belong_to?.includes(nav.key))
-          .map(([key, meta]) => ({ key, ...meta })),
+          .map(([key, meta]) => ({ ...meta, key })),
       }))
       .filter((group) => group.categories.length > 0)
   )
@@ -119,4 +134,4 @@
   )
 </script>
 
-<style scoped src="./SubscriptionModal.scss" lang="scss"></style>
+<style scoped src="./index.scss" lang="scss"></style>
