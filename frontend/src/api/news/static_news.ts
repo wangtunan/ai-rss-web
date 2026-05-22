@@ -1,5 +1,4 @@
-import type { NewsListRequest, NewsListResponse } from '@/types/news'
-import type { CuratedNewsRequest, CuratedNewsResponse } from '@/types/curated'
+import type { CuratedNewsRequest, CuratedNewsResponse, NewsListRequest, NewsListResponse } from '@ai-rss/schema'
 
 import { fetchJson } from '@/api/common/json'
 

@@ -10,6 +10,9 @@ importers:
 
   frontend:
     dependencies:
+      '@ai-rss/schema':
+        specifier: workspace:*
+        version: link:../packages/schema
       '@supabase/supabase-js':
         specifier: ^2.105.1
         version: 2.105.4
@@ -83,6 +86,12 @@ importers:
       vue-tsc:
         specifier: ^3.2.6
         version: 3.2.8(typescript@6.0.3)
+
+  packages/schema:
+    devDependencies:
+      typescript:
+        specifier: ~6.0.0
+        version: 6.0.3
 
 packages:
 

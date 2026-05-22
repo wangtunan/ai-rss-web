@@ -9,7 +9,8 @@
       "Bash(npm --prefix frontend run build)",
       "Bash(python *)",
       "Bash(git *)",
-      "Bash(pnpm *)"
+      "Bash(pnpm *)",
+      "Bash(claude doctor *)"
     ]
   }
 }
