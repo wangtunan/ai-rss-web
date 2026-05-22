@@ -1,0 +1,31 @@
+.subscription-empty {
+  display: grid;
+  place-items: center;
+  gap: 0.7rem;
+  min-height: 24rem;
+  padding: 2rem;
+  color: var(--text-soft);
+  text-align: center;
+
+  &__title,
+  &__description {
+    margin: 0;
+  }
+
+  &__title {
+    color: var(--text);
+    font-size: 1.06rem;
+    font-weight: 780;
+  }
+
+  &__button {
+    margin-top: 0.3rem;
+    padding: 0.52rem 0.94rem;
+    border: 1px solid color-mix(in oklab, var(--accent), transparent 40%);
+    border-radius: 0.46rem;
+    background: color-mix(in oklab, var(--accent), transparent 84%);
+    color: var(--accent);
+    cursor: pointer;
+    font-weight: 760;
+  }
+}
