@@ -1,33 +1,12 @@
-import type { NewsItem } from '@/types/news'
+import type { CuratedPeriod, NewsItem } from '@ai-rss/schema'
 
-/** 分类显示元信息 */
-export type CuratedPeriod = 'today' | 'week'
+export type {
+  CuratedNewsRequest,
+  CuratedNewsResponse,
+  CuratedPeriod,
+} from '@ai-rss/schema'
 
-/** 精选资讯请求结构 */
-export interface CuratedNewsRequest {
-  /** 时间范围 */
-  period: CuratedPeriod
-  /** 每页条数 */
-  limit?: number
-  /** 偏移量 */
-  offset?: number
-}
-
-/** 精选资讯返回结构 */
-export interface CuratedNewsResponse {
-  /** 时间范围 */
-  period: CuratedPeriod
-  /** 总条数 */
-  total: number
-  /** 每页条数 */
-  limit: number
-  /** 偏移量 */
-  offset: number
-  /** 资讯列表 */
-  items: NewsItem[]
-}
-
-// 精选模块导航项
+/** 精选模块导航项 */
 export interface CuratedNavItem {
   period: CuratedPeriod
   title: string
@@ -37,7 +16,7 @@ export interface CuratedNavItem {
   items: unknown[]
 }
 
-// 精选模块区域状态
+/** 精选模块区域状态 */
 export interface CuratedSection {
   period: CuratedPeriod
   title: string

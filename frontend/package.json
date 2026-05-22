@@ -15,6 +15,7 @@
     "format": "prettier --write --tab-width 2 --embedded-language-context src/"
   },
   "dependencies": {
+    "@ai-rss/schema": "workspace:*",
     "@supabase/supabase-js": "^2.105.1",
     "@vercel/analytics": "^2.0.1",
     "html-to-image": "^1.11.13",
