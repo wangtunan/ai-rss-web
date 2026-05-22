@@ -16,7 +16,7 @@
 
 ### 前端
 
-除非特别说明，以下命令都在 `frontend/` 下运行。
+前端通过根目录 pnpm workspace 管理，除非特别说明，以下命令都在仓库根目录运行。
 
 ```bash
 pnpm install
@@ -29,6 +29,7 @@ pnpm lint:oxlint
 pnpm lint:eslint
 pnpm format
 pnpm preview
+pnpm check
 ```
 
 说明：
@@ -48,6 +49,14 @@ python -m alembic upgrade head
 python -m app.jobs.fetch_news_to_db --max-entries 20
 python -m app.jobs.fetch_news_to_db --max-entries 20 --source-file ai
 python -m app.jobs.fetch_news_to_json --max-entries 20
+```
+
+也可以在仓库根目录运行：
+
+```bash
+pnpm backend:migrate
+pnpm backend:fetch-db
+pnpm backend:fetch-json
 ```
 
 数据库写入所需环境变量：

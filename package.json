@@ -1,0 +1,21 @@
+{
+  "name": "ai-rss-web",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.23.0",
+  "scripts": {
+    "dev": "pnpm --filter frontend dev",
+    "build": "pnpm --filter frontend build",
+    "build-only": "pnpm --filter frontend build-only",
+    "type-check": "pnpm --filter frontend type-check",
+    "lint": "pnpm --filter frontend lint",
+    "lint:oxlint": "pnpm --filter frontend lint:oxlint",
+    "lint:eslint": "pnpm --filter frontend lint:eslint",
+    "format": "pnpm --filter frontend format",
+    "preview": "pnpm --filter frontend preview",
+    "check": "pnpm type-check && pnpm lint",
+    "backend:migrate": "cd backend && python -m alembic upgrade head",
+    "backend:fetch-db": "cd backend && python -m app.jobs.fetch_news_to_db --max-entries 20",
+    "backend:fetch-json": "cd backend && python -m app.jobs.fetch_news_to_json --max-entries 20"
+  }
+}
