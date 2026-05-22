@@ -1,59 +1,59 @@
 ---
 name: vue-single-file-component-standard
-description: Defines standards for a single Vue component in this project. Use when creating or refactoring `.vue` components, including block order, script style, component naming, BEM class naming, and external Dart Sass files.
+description: 定义本项目单个 Vue 组件的规范。创建或重构 `.vue` 组件时使用，包括块顺序、script 写法、组件命名、BEM class 命名和外部 Dart Sass 文件。
 ---
 
-# Vue Single File Component Standard
+# Vue 单文件组件标准
 
-## Purpose
+## 目的
 
-Keep every Vue component consistent in structure, naming, and styling.
+保持每个 Vue 组件在结构、命名和样式组织上的一致性。
 
-## When To Use
+## 何时使用
 
-Use this skill when the task includes:
-- Creating a new Vue component
-- Refactoring an existing `.vue` file
-- Fixing style organization (`scss` split-out)
-- Fixing ESLint `vue/multi-word-component-names`
+当任务包含以下内容时使用本技能：
+- 创建新的 Vue 组件
+- 重构现有 `.vue` 文件
+- 修正样式组织方式（拆分 `scss`）
+- 修正 ESLint `vue/multi-word-component-names`
 
-## Required Structure
+## 必需结构
 
-Each component file must follow this order:
+每个组件文件必须遵循以下顺序：
 
 1. `<template>`
 2. `<script setup lang="ts">`
 3. `<style ...>`
 
-No other block order is allowed.
+不允许其他块顺序。
 
-## Script Rules
+## Script 规则
 
-1. Use TypeScript: `<script setup lang="ts">`.
-2. Keep consistent indentation (2 spaces).
-3. Use clear imports order:
-   - Vue imports
-   - internal absolute imports (`@/...`)
-   - type-only imports where applicable
+1. 使用 TypeScript：`<script setup lang="ts">`。
+2. 保持缩进一致（2 空格）。
+3. 使用清晰的导入顺序：
+   - Vue 导入
+   - 内部绝对路径导入（`@/...`）
+   - 适用时使用 type-only 导入
 
-## Style Rules
+## Style 规则
 
-1. Use Dart Sass via `lang="scss"`.
-2. Use external style file by default:
+1. 通过 `lang="scss"` 使用 Dart Sass。
+2. 默认使用外部样式文件：
 
 ```vue
 <style scoped src="./index.scss" lang="scss"></style>
 ```
 
-3. Use strict BEM class naming:
-   - Block: `.category-card`
-   - Element: `.category-card__title`
-   - Modifier: `.category-card__title--active`
-4. Avoid non-BEM utility-like local class names in component styles.
+3. 严格使用 BEM class 命名：
+   - Block：`.category-card`
+   - Element：`.category-card__title`
+   - Modifier：`.category-card__title--active`
+4. 避免在组件样式中使用非 BEM 的工具类式本地 class 名。
 
-## Component Directory Pattern
+## 组件目录模式
 
-For reusable components, use folder-per-component:
+对于可复用组件，使用单组件文件夹：
 
 ```text
 components/CategoryCard/
@@ -61,11 +61,11 @@ components/CategoryCard/
   index.scss
 ```
 
-## Pre-Submit Checklist
+## 提交前检查清单
 
-- [ ] Block order is template -> script -> style
-- [ ] `script setup lang="ts"` is used
-- [ ] Indentation is consistent (2 spaces)
-- [ ] Style uses external `index.scss` with `lang="scss"`
-- [ ] Class names follow strict BEM
-- [ ] Lint and type-check pass
+- [ ] 块顺序为 template -> script -> style
+- [ ] 使用了 `script setup lang="ts"`
+- [ ] 缩进一致（2 空格）
+- [ ] 样式使用外部 `index.scss` 并设置 `lang="scss"`
+- [ ] Class 名遵循严格 BEM
+- [ ] Lint 和 type-check 通过
