@@ -7,7 +7,9 @@
       "WebSearch",
       "Bash(npm --prefix frontend run type-check)",
       "Bash(npm --prefix frontend run build)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(git *)",
+      "Bash(pnpm *)"
     ]
   }
 }

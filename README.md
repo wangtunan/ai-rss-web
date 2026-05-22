@@ -9,11 +9,10 @@ RSS 资讯聚合与 AI 摘要展示项目。
 
 ### 前端
 
-需要 Node.js `^20.19.0 || >=22.12.0`。
+需要 Node.js `^20.19.0 || >=22.12.0`，前端通过根目录 pnpm workspace 管理。
 
 ```sh
-cd frontend
-npm install
+pnpm install
 ```
 
 ### 后端
@@ -46,9 +45,10 @@ VITE_DATA_MODE=static
 VITE_STATIC_NEWS_LIST_BASE_URL=/data/news
 ```
 
+在仓库根目录运行：
+
 ```sh
-cd frontend
-npm run dev
+pnpm dev
 ```
 
 ### 后端
@@ -99,20 +99,19 @@ VITE_SUPABASE_PUBLISHABLE_KEY=<publishable-key>
 抓取并写入 Supabase/Postgres：
 
 ```sh
-cd backend
-sh fetch_news_to_db.sh
+pnpm backend:fetch-db
 ```
 
 抓取并导出静态 JSON：
 
 ```sh
-cd backend
-sh fetch_news_to_json.sh
+pnpm backend:fetch-json
 ```
 
-常用参数：
+常用参数可以继续在 `backend/` 下使用脚本：
 
 ```sh
+cd backend
 sh fetch_news_to_db.sh 5
 sh fetch_news_to_db.sh community.yml
 sh fetch_news_to_db.sh 5 community.yml
@@ -125,6 +124,7 @@ sh fetch_news_to_json.sh 5 community.yml
 也可以直接运行 Python 入口：
 
 ```sh
+cd backend
 python -m app.jobs.fetch_news_to_db --max-entries 5 community.yml
 python -m app.jobs.fetch_news_to_json --max-entries 5 community.yml
 ```
@@ -138,9 +138,10 @@ python -m app.jobs.fetch_news_to_json --max-entries 5 community.yml
 - 静态 JSON：`VITE_DATA_MODE=static`
 - Supabase：`VITE_DATA_MODE=supabase`，并配置 `VITE_SUPABASE_URL`、`VITE_SUPABASE_PUBLISHABLE_KEY`
 
+在仓库根目录运行：
+
 ```sh
-cd frontend
-npm run build
+pnpm build
 ```
 
 构建产物在 `frontend/dist`。
