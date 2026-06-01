@@ -32,7 +32,9 @@ ai-rss-web/
       README.md
       roadmap.md
       homepage-plan.md
-      mobile-app-plan.md
+      mobile-app/
+        plan.md
+        design.md
       cli-reader-plan.md
       ide-extension-plan.md
       browser-extension-plan.md
@@ -82,7 +84,7 @@ ai-rss-web/
 - 支持本地缓存最近新闻。
 - 可选支持收藏、已读状态、系统分享。
 
-详细计划见 [mobile-app-plan.md](./mobile-app-plan.md)。
+详细计划见 [mobile-app/plan.md](./mobile-app/plan.md)，移动端设计稿见 [mobile-app/design.md](./mobile-app/design.md)。
 
 ### cli
 

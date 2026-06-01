@@ -14,6 +14,8 @@
     "format": "pnpm --filter frontend format",
     "preview": "pnpm --filter frontend preview",
     "check": "pnpm type-check && pnpm lint",
+    "mobile:start": "pnpm --filter mobile start",
+    "mobile:type-check": "pnpm --filter mobile type-check",
     "backend:migrate": "cd backend && python -m alembic upgrade head",
     "backend:fetch-db": "cd backend && python -m app.jobs.fetch_news_to_db --max-entries 20",
     "backend:fetch-json": "cd backend && python -m app.jobs.fetch_news_to_json --max-entries 20"
