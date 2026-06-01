@@ -12,7 +12,7 @@ class NewsItem(Base):
     id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
     source: Mapped[str] = mapped_column(String(100), default="")
     category: Mapped[str] = mapped_column(String(100), index=True)
-    title: Mapped[str] = mapped_column(String(500))
+    title: Mapped[str] = mapped_column(Text)
     link: Mapped[str] = mapped_column(String(1000))
     published_time: Mapped[str] = mapped_column(String(32), default="")
     raw_content: Mapped[str] = mapped_column(Text, default="")
